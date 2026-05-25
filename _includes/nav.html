@@ -1,0 +1,10 @@
+<ul>
+{% for item in include.nav %}
+   <li>
+      <a href="{{ item.enlace | relative_url }}">{{ item.encabezado }}</a>
+   {% if item.sublista %}
+      {%- include nav.html nav = item.sublista -%}
+   {% endif %}
+   </li>
+{% endfor %}
+</ul>

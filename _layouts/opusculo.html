@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post opusculo">
+
+   <header class="post-header">
+      <h1 class="post-title center-aligned">
+         {{ page.title }}
+         {% if page.autor %}
+            <small>- {{ page.autor }}</small>
+         {% endif %}
+      </h1>
+   </header>
+
+   {%- include components/font-options.html -%}
+
+   <div id="btn-container">
+      {% include components/btn-font-options.html %}
+      {% include components/btn-toc.html %}
+   </div>
+
+   <div class="post-content">
+      {{ content }}
+   </div>
+
+</article>

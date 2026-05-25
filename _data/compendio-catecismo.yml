@@ -1,0 +1,274 @@
+titulo: Compendio del Catecismo de la Iglesia Católica
+contenido:
+  - encabezado: Motu Proprio
+    enlace: motu-proprio-compendio-catecismo
+  - encabezado: Introducción
+    enlace: compendio-catecismo/introduccion
+  - encabezado: "Primera parte: La profesión de la fe"
+    enlace: compendio-catecismo/p1-s1#
+    sublista:
+      - encabezado: "Primera sección: «Creo» - «Creemos»"
+        enlace: compendio-catecismo/p1-s1#s1
+        sublista:
+          - encabezado: "Capítulo primero: El hombre es «capaz» de Dios"
+            enlace: compendio-catecismo/p1-s1#c1
+          - encabezado: "Capítulo segundo: Dios viene al encuentro del hombre"
+            enlace: compendio-catecismo/p1-s1#c2
+            sublista:
+              - encabezado: La Revelación de Dios
+                enlace: compendio-catecismo/p1-s1#c2-t1
+              - encabezado: La transmisión de la divina Revelación
+                enlace: compendio-catecismo/p1-s1#c2-t2
+              - encabezado: La Sagrada Escritura
+                enlace: compendio-catecismo/p1-s1#c2-t3
+          - encabezado: "Capítulo tercero: La respuesta del hombre a Dios"
+            enlace: compendio-catecismo/p1-s1#c3
+            sublista:
+              - encabezado: Creo
+                enlace: compendio-catecismo/p1-s1#c3-t1
+              - encabezado: Creemos
+                enlace: compendio-catecismo/p1-s1#c3-t2
+      - encabezado: "Segunda sección: La profesión de la fe cristiana"
+        enlace: compendio-catecismo/p1-s2#s2
+        sublista:
+          - encabezado: El Credo
+            enlace: compendio-catecismo/p1-s2#s2-t1
+          - encabezado: "Capítulo primero: Creo en Dios Padre"
+            enlace: compendio-catecismo/p1-s2#c1
+            sublista:
+              - encabezado: Los símbolos de la fe
+                enlace: compendio-catecismo/p1-s2#c1-t1
+              - encabezado: «Creo en Dios, Padre Todopoderoso, Creador del ciclo y de la tierra»
+                enlace: compendio-catecismo/p1-s2#c1-t2
+                sublista:
+                  - encabezado: El cielo y la tierra
+                    enlace: compendio-catecismo/p1-s2#c1-t2-p1
+                  - encabezado: El hombre
+                    enlace: compendio-catecismo/p1-s2#c1-t2-p2
+                  - encabezado: La caída
+                    enlace: compendio-catecismo/p1-s2#c1-t2-p3
+          - encabezado: "Capítulo segundo: Creo en Jesucristo, Hijo único de Dios"
+            enlace: compendio-catecismo/p1-s2#c2
+            sublista:
+              - encabezado: «Creo en Jesucristo, su único Hijo, nuestro Señor»
+                enlace: compendio-catecismo/p1-s2#c2-t1
+              - encabezado: «Jesucristo fue concebido por obra del Espíritu Santo y nació de santa María Virgen»
+                enlace: compendio-catecismo/p1-s2#c2-t2
+              - encabezado: «Jesucristo padeció bajo el poder de Poncio Pilato. fue crucificado, muerto y sepultado»
+                enlace: compendio-catecismo/p1-s2#c2-t3
+              - encabezado: «Jesucristo descendió a los infiernos, al tercer día resucitó de entre los muertos»
+                enlace: compendio-catecismo/p1-s2#c2-t4
+              - encabezado: «Jesucristo subió a los cielos, y está sentado a la derecha de Dios, Padre todopoderoso»
+                enlace: compendio-catecismo/p1-s2#c2-t5
+              - encabezado: «Desde allí ha de venir a juzgar a vivos y muertos»
+                enlace: compendio-catecismo/p1-s2#c2-t6
+          - encabezado: "Capítulo tercero: «Creo en el Espíritu Santo»"
+            enlace: compendio-catecismo/p1-s2#c3
+            sublista:
+              - encabezado: «Creo en la Santa Iglesia Católica»
+                enlace: compendio-catecismo/p1-s2#c3-t1
+                sublista:
+                  - encabezado: La Iglesia en el designio de Dios
+                    enlace: compendio-catecismo/p1-s2#c3-t1-p1
+                  - encabezado: "La Iglesia: Pueblo de Dios, cuerpo de Cristo, templo del Espíritu Santo"
+                    enlace: compendio-catecismo/p1-s2#c3-t1-p2
+                  - encabezado: La Iglesia es una, santa, católica y apostólica
+                    enlace: compendio-catecismo/p1-s2#c3-t1-p3
+                  - encabezado: "Los fieles: jerarquía, laicos, vida consagrada"
+                    enlace: compendio-catecismo/p1-s2#c3-t1-p4
+              - encabezado: «Creo en la comunión de los santos»
+                enlace: compendio-catecismo/p1-s2#c3-t2
+                sublista:
+                - encabezado: María, Madre de Cristo, Madre de la Iglesia
+                  enlace: compendio-catecismo/p1-s2#c3-t2-p1
+              - encabezado: «Creo en el perdón de los pecados»
+                enlace: compendio-catecismo/p1-s2#c3-t3
+              - encabezado: «Creo en la resurrección de la carne»
+                enlace: compendio-catecismo/p1-s2#c3-t4
+              - encabezado: «Creo en la vida eterna»
+                enlace: compendio-catecismo/p1-s2#c3-t5
+              - encabezado: «Amén»
+                enlace: compendio-catecismo/p1-s2#c3-t6
+  - encabezado: "Segunda parte: La celebración del Misterio Cristiano"
+    enlace: compendio-catecismo/p2-s1#
+    sublista:
+      - encabezado: "Primera sección: La economía sacramental"
+        enlace: compendio-catecismo/p2-s1#s1
+        sublista:
+          - encabezado: "Capítulo primero: El Misterio pascua en el tiempo de la Iglesia"
+            enlace: compendio-catecismo/p2-s1#c1
+            sublista:
+              - encabezado: La Liturgia, obra de la Santísima Trinidad
+                enlace: compendio-catecismo/p2-s1#c1-t1
+              - encabezado: El Misterio pascual en los sacramentos de la Iglesia
+                enlace: compendio-catecismo/p2-s1#c1-t2
+          - encabezado: "Capítulo segundo: La celebración sacramental del Misterio pascual"
+            enlace: compendio-catecismo/p2-s1#c2
+            sublista:
+              - encabezado: Celebrar la Liturgia de la Iglesia
+                enlace: compendio-catecismo/p2-s1#c2-t1
+                sublista:
+                  - encabezado: ¿Quién celebra?
+                    enlace: compendio-catecismo/p2-s1#c2-t1-p1
+                  - encabezado: ¿Cómo celebrar?
+                    enlace: compendio-catecismo/p2-s1#c2-t1-p2
+                  - encabezado: ¿Cuándo celebrar?
+                    enlace: compendio-catecismo/p2-s1#c2-t1-p3
+                  - encabezado: ¿Dónde celebrar?
+                    enlace: compendio-catecismo/p2-s1#c2-t1-p4
+              - encabezado: Diversidad litúrgica y unidad del misterio
+                enlace: compendio-catecismo/p2-s1#c2-t2
+      - encabezado: "Segunda sección: Los Siete Sacramentos de la Iglesia"
+        enlace: compendio-catecismo/p2-s2#
+        sublista:
+          - encabezado: "Capítulo primero: Los sacramentos de la iniciación cristiana"
+            enlace: compendio-catecismo/p2-s2#c1
+            sublista:
+              - encabezado: El sacramento del Bautismo
+                enlace: compendio-catecismo/p2-s2#c1-t1
+              - encabezado: El sacramento de la Confirmación
+                enlace: compendio-catecismo/p2-s2#c1-t2
+              - encabezado: El sacramento de la Eucaristía
+                enlace: compendio-catecismo/p2-s2#c1-t3
+          - encabezado: "Capítulo segundo: Los sacramentos de curación"
+            enlace: compendio-catecismo/p2-s2#c2
+            sublista:
+              - encabezado: El sacramento de la Penitencia y la Reconciliación
+                enlace: compendio-catecismo/p2-s2#c2-t1
+              - encabezado: El sacramento de la Unción de los Enfermos
+                enlace: compendio-catecismo/p2-s2#c2-t2
+          - encabezado: "Capítulo tercero: Los sacramentos al servicio de la comunión y de la misión"
+            enlace: compendio-catecismo/p2-s2#c3
+            sublista:
+              - encabezado: El sacramento del Orden
+                enlace: compendio-catecismo/p2-s2#c3-t1
+              - encabezado: El sacramento del Matrimonio
+                enlace: compendio-catecismo/p2-s2#c3-t2
+          - encabezado: "Capítulo cuarto: Otras celebraciones litúrgicas"
+            enlace: compendio-catecismo/p2-s2#c4
+            sublista:
+              - encabezado: Los sacramentales
+                enlace: compendio-catecismo/p2-s2#c4-t1
+              - encabezado: Las exequias cristianas
+                enlace: compendio-catecismo/p2-s2#c4-t2
+  - encabezado: "Tercera parte: La vida en Cristo"
+    enlace: compendio-catecismo/p3-s1#
+    sublista:
+      - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu"
+        enlace: compendio-catecismo/p3-s1#s1
+        sublista:
+          - encabezado: "Capítulo primero: La dignidad de la persona humana"
+            enlace: compendio-catecismo/p3-s1#c1
+            sublista:
+              - encabezado: El hombre, imagen de Dios
+                enlace: compendio-catecismo/p3-s1#c1-t1
+              - encabezado: Nuestra vocación a la bienaventuranza
+                enlace: compendio-catecismo/p3-s1#c1-t2
+              - encabezado: La libertad del hombre
+                enlace: compendio-catecismo/p3-s1#c1-t3
+              - encabezado: La moralidad de las pasiones
+                enlace: compendio-catecismo/p3-s1#c1-t4
+              - encabezado: La conciencia moral
+                enlace: compendio-catecismo/p3-s1#c1-t5
+              - encabezado: Las virtudes
+                enlace: compendio-catecismo/p3-s1#c1-t6
+              - encabezado: El pecado
+                enlace: compendio-catecismo/p3-s1#c1-t7
+          - encabezado: "Capítulo segundo: La comunidad humana"
+            enlace: compendio-catecismo/p3-s1#c2
+            sublista:
+              - encabezado: La persona y la sociedad
+                enlace: compendio-catecismo/p3-s1#c2-t1
+              - encabezado: La participación en la vida social
+                enlace: compendio-catecismo/p3-s1#c2-t2
+              - encabezado: La justicia social
+                enlace: compendio-catecismo/p3-s1#c2-t3
+          - encabezado: "Capítulo tercero: La salvación de Dios: la ley y la gracia"
+            enlace: compendio-catecismo/p3-s1#c3
+            sublista:
+              - encabezado: La ley moral
+                enlace: compendio-catecismo/p3-s1#c3-t1
+              - encabezado: Gracia y justificación
+                enlace: compendio-catecismo/p3-s1#c3-t2
+              - encabezado: La Iglesia, Madre y Maestra
+                enlace: compendio-catecismo/p3-s1#c3-t3
+      - encabezado: "Segunda sección: Los diez Mandamientos"
+        enlace: compendio-catecismo/p3-s2#s2
+        sublista:
+          - encabezado: Los Diez Mandamientos
+            enlace: compendio-catecismo/p3-s2#s2-t1
+          - encabezado: "Capítulo primero: «Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas»"
+            enlace: compendio-catecismo/p3-s2#c1
+            sublista:
+              - encabezado: "Primer Mandamiento: Yo soy el Señor tu Dios. Amarás a Dios sobre todas las cosas"
+                enlace: compendio-catecismo/p3-s2#c1-t1
+              - encabezado: "Segundo Mandamiento: No tomarás el Nombre de Dios en vano"
+                enlace: compendio-catecismo/p3-s2#c1-t2
+              - encabezado: "Tercer Mandamiento: Santificarás las fiestas"
+                enlace: compendio-catecismo/p3-s2#c1-t3
+          - encabezado: "Capítulo segundo: «Amarás a tu prójimo como a ti mismo»"
+            enlace: compendio-catecismo/p3-s2#c2
+            sublista:
+              - encabezado: "Cuarto Mandamiento: Honrarás a tu padre y a tu madre"
+                enlace: compendio-catecismo/p3-s2#c2-t1
+              - encabezado: "Quinto Mandamiento: No matarás"
+                enlace: compendio-catecismo/p3-s2#c2-t2
+              - encabezado: "Sexto Mandamiento: No cometerás actos impuros"
+                enlace: compendio-catecismo/p3-s2#c2-t3
+              - encabezado: "Séptimo Mandamiento: No robarás"
+                enlace: compendio-catecismo/p3-s2#c2-t4
+              - encabezado: "Octavo Mandamiento: No darás falso testimonio ni mentirás"
+                enlace: compendio-catecismo/p3-s2#c2-t5
+              - encabezado: "Noveno Mandamiento: No consentirás pensamientos ni deseos impuros"
+                enlace: compendio-catecismo/p3-s2#c2-t6
+              - encabezado: "Décimo Mandamiento: No codiciarás los bienes ajenos"
+                enlace: compendio-catecismo/p3-s2#c2-t7
+  - encabezado: "Cuarta parte: La oración Cristiana"
+    enlace: compendio-catecismo/p4-s1#
+    sublista:
+      - encabezado: "Primera sección: La oración en la vida cristiana"
+        enlace: compendio-catecismo/p4-s1#s1
+        sublista:
+          - encabezado: "Capítulo primero: La revelación de la oración"
+            enlace: compendio-catecismo/p4-s1#c1
+            sublista:
+              - encabezado: La revelación de la oración en el Antiguo Testamento
+                enlace: compendio-catecismo/p4-s1#c1-t1
+              - encabezado: La oración es plenamente revelada y realizada en Jesús
+                enlace: compendio-catecismo/p4-s1#c1-t2
+              - encabezado: La oración en el tiempo de la Iglesia
+                enlace: compendio-catecismo/p4-s1#c1-t3
+          - encabezado: "Capítulo segundo: La tradición de la oración"
+            enlace: compendio-catecismo/p4-s1#c2
+            sublista:
+              - encabezado: Fuentes de la oración
+                enlace: compendio-catecismo/p4-s1#c2-t1
+              - encabezado: El camino de la oración
+                enlace: compendio-catecismo/p4-s1#c2-t2
+              - encabezado: Maestros de oración
+                enlace: compendio-catecismo/p4-s1#c2-t3
+          - encabezado: "Capítulo tercero: La vida de oración"
+            enlace: compendio-catecismo/p4-s1#c3
+            sublista:
+              - encabezado: Las expresiones de la oración
+                enlace: compendio-catecismo/p4-s1#c3-t1
+              - encabezado: El combate de la oración
+                enlace: compendio-catecismo/p4-s1#c3-t2
+      - encabezado: "Segunda sección: La oración del Señor: «Padre nuestro»"
+        enlace: compendio-catecismo/p4-s2#s2
+        sublista:
+          - encabezado: El Padre nuestro
+            enlace: compendio-catecismo/p4-s2#s2-t1
+          - encabezado: «La síntesis de todo el Evangelio»
+            enlace: compendio-catecismo/p4-s2#s2-t2
+          - encabezado: «Padre nuestro que estás en el cielo»
+            enlace: compendio-catecismo/p4-s2#s2-t3
+          - encabezado: Las siete Peticiones
+            enlace: compendio-catecismo/p4-s2#s2-t4
+  - encabezado: Apéndice
+    enlace: compendio-catecismo/apendice#
+    sublista:
+      - encabezado: Oraciones comunes
+        enlace: compendio-catecismo/apendice#s1
+      - encabezado: Fórmulas de Doctrina católica
+        enlace: compendio-catecismo/apendice#s2

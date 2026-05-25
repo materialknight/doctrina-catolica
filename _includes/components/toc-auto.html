@@ -1,0 +1,27 @@
+<div id="toc" markdown="1" popover>
+
+   <ul class="no-list-type center-aligned no-left-margin">
+      <li>
+         <a href="{{ '/' | relative_url }}">Catálogo</a>
+      </li>
+      <li>
+         <a href="#">
+            {{ page.tipo }}
+            {% if page.collection == "documentos-eclesiasticos" %}
+               {% if page.title == "" %}
+                  {{ page.materia }}
+               {% else %}
+                  <i lang="la">{{ page.title }}</i>
+               {% endif %}
+            {% else %}
+               {{ page.title }}
+            {% endif %}
+         </a>
+      </li>
+   </ul>
+
+   - Tabla de contenido
+   {:toc}
+</div>
+
+<script type="module" src="{{ '/assets/js/toc.js' | relative_url }}"></script>
