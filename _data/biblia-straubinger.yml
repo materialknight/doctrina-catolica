@@ -152,7 +152,6 @@ contenido:
           - encabezado: Hebreos
             enlace: biblia-straubinger/hebreos#
       - encabezado: Epístolas Católicas
-        enlace: biblia-straubinger/nuevo-testamento#s3
         sublista:
           - encabezado: Santiago
             enlace: biblia-straubinger/santiago#
