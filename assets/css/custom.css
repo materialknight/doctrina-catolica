@@ -18,6 +18,29 @@ textarea {
    min-height: 110px;
 }
 
+.two-cols ul:not(:has(ul)) {
+   columns: 2;
+}
+
+/* Navigation styles */
+
+:target {
+   /* scroll-margin-top: 4rem; */
+   animation: target-highlight 3s ease-out;
+}
+
+@keyframes target-highlight {
+   from {
+      outline: 3px solid orange;
+      background-color: antiquewhite;
+   }
+
+   to {
+      outline: 3px solid transparent;
+      background-color: transparent;
+   }
+}
+
 /* Heading styles override */
 
 .post-title {
@@ -141,56 +164,34 @@ textarea {
    gap: 10px;
 }
 
-[popovertarget=toc] {
-   /* position: fixed; */
-   /* inset: auto 37px 37px auto; */
+[popovertarget] {
    width: 42px;
    height: 42px;
    cursor: pointer;
    border: 2px solid black;
-   background-color: aliceblue;
    display: flex;
    justify-content: center;
    align-items: center;
+   background-color: aliceblue;
+}
+
+[popovertarget=toc] {
+   fill: darkcyan;
 }
 
 [popovertarget=marked-verses] {
-   /* position: fixed; */
-   /* inset: auto 87px 37px auto; */
-   width: 42px;
-   height: 42px;
-   cursor: pointer;
-   border: 2px solid black;
-   background-color: aliceblue;
    fill: forestgreen;
-   display: flex;
-   justify-content: center;
-   align-items: center;
 }
 
 [popovertarget=font-options] {
-   /* position: fixed; */
-   /* inset: auto 137px 37px auto; */
-   width: 42px;
-   height: 42px;
-   cursor: pointer;
-   border: 2px solid black;
-   background-color: aliceblue;
    fill: teal;
-   display: flex;
-   justify-content: center;
-   align-items: center;
 }
 
-[popovertarget=toc]:active,
-[popovertarget=marked-verses]:active,
-[popovertarget=font-options]:active {
+[popovertarget]:active {
    background-color: burlywood;
 }
 
-[popovertarget=toc]:hover,
-[popovertarget=marked-verses]:hover,
-[popovertarget=font-options]:hover {
+[popovertarget]:hover {
    background-color: cornsilk;
 }
 
@@ -433,7 +434,7 @@ li:has(ul) {
    background-color: khaki;
 }
 
-.visible_toc_entry {
+.visible-toc-entry {
    background-color: khaki;
 }
 

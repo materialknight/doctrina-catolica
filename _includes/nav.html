@@ -1,7 +1,15 @@
 <ul>
 {% for item in include.nav %}
+
+   {% assign item_url = item.enlace | relative_url %}
+   {% assign page_url = page.url |  remove: ".html" | relative_url %}
+
    <li>
+   {% if item.enlace %}
       <a href="{{ item.enlace | relative_url }}">{{ item.encabezado }}</a>
+   {% else %}
+      <span>{{ item.encabezado }}</span>
+   {% endif %}
    {% if item.sublista %}
       {%- include nav.html nav = item.sublista -%}
    {% endif %}

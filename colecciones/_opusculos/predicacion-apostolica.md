@@ -14,7 +14,7 @@ El texto griego original se perdió, pero la obra se conservó completa en una t
 ## [1](#c1). Ireneo envía a Marciano un compendio de la fe cristiana
 {:#c1}
 
-Conozco, querido Marciano, tu empeño en seguir la senda de la piedad el único camino que lleva al hombre a la vida eterna; me alegro por ello y pido por ti para que, conservando pura la fe, resultes grato a Dios, tu Creador. ¡Ojalá pudiésemos estar siempre juntos para ayudarnos mutuamente y aligerar las preocupaciones de la vida terrena mediante el intercambio continuo de cuestiones provechosas!
+Conozco, querido Marciano, tu empeño en seguir la senda de la piedad, el único camino que lleva al hombre a la vida eterna; me alegro por ello y pido por ti para que, conservando pura la fe, resultes grato a Dios, tu Creador. ¡Ojalá pudiésemos estar siempre juntos para ayudarnos mutuamente y aligerar las preocupaciones de la vida terrena mediante el intercambio continuo de cuestiones provechosas!
 
 Dado que en la actualidad estamos físicamente separados uno del otro, he decidido, dentro de mis posibilidades, conversar contigo por escrito y exponerte brevemente la predicación de la verdad para fortalecer tu fe.
 
@@ -161,7 +161,7 @@ Así murió Abel, asesinado por su hermano, como un signo del futuro, cuando alg
 ## [18](#c18). Los gigantes: la dilatación de la maldad
 {:#c18}
 
-La maldad, extendiéndose continuamente, alanzó e inundó la raza humana; sólo un poco de semilla de justicia quedaba en ella. Porque, además, sobre la tierra tenían lugar uniones ilegítimas, y los ángeles caídos (malignos) fornicaban con las hijas de los hombres, quienes dieron a luz unos hijos que por su enorme estatura fueron llamados gigantes.
+La maldad, extendiéndose continuamente, alcanzó e inundó la raza humana; sólo un poco de semilla de justicia quedaba en ella. Porque, además, sobre la tierra tenían lugar uniones ilegítimas, y los ángeles caídos (malignos) fornicaban con las hijas de los hombres, quienes dieron a luz unos hijos que por su enorme estatura fueron llamados gigantes.
 
 Los ángeles malignos, entonces, dieron a sus esposas malignas enseñanzas. Les enseñaron la manera de obtener extractos de flores y plantas, tintes y pinturas, joyas y cosméticos, los celos y los amores apasionados, la seducción y la coquetería, los sortilegios de la magia, toda clase de adivinación e idolatría odiados por Dios. Y una vez desencadenadas tales cosas, el mal se expandió hasta desbordar, y la justicia disminuyó hasta casi desaparecer.
 

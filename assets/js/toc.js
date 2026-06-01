@@ -10,14 +10,14 @@ let toc_heading = null
 
 // First, you need to know if the TOC was automatically made by kramdown, in order to do that, you check if any of its links start with "#", otherwise you know it's hand-made, because since hand-made TOCs link to several pages, their links must include the page path at the beginning, not only the id of the linked heading.
 
-const TOC_auto = toc.querySelector("[href^='#']")
+const TOC_is_auto = toc.querySelector("[href^='#']")
 
 // If the TOC was automatically made by kramdown, you don't need the current page's path in order to map text elements to their respective TOC <li>, because the TOC links only have the id of the linked headings, so you keep href = "".
 
 // If the TOC is hand-made, you remove any trailing "/" from the pathname, and assign the last part of it (the page's path) to href.
 
 // const href = TOC_auto ? "" : window.location.pathname.replace(/\/$/, "").split("/").at(-1)
-const href = TOC_auto ? "" : window.location.pathname.replace(/\/$/, "")
+const href = TOC_is_auto ? "" : window.location.pathname.replace(/\/$/, "")
 
 for (const txt_section of text_sections)
 {
@@ -53,7 +53,7 @@ mark_toc()
 function mark_toc() {
    // De-highlight from the table of contents all previously highlighted <li>.
    cleanup.forEach(li => {
-      li.classList.remove("visible_toc_entry")
+      li.classList.remove("visible-toc-entry")
    })
    // Collect headings within viewport.
    const visible_headings = headings.filter(heading => {
@@ -64,7 +64,7 @@ function mark_toc() {
    // Highlight in the table of contents all visible headings.
    cleanup = visible_headings.map(heading => {
       const toc_li = toc_map.get(heading)
-      toc_li.classList.add("visible_toc_entry")
+      toc_li.classList.add("visible-toc-entry")
       return toc_li
    })
    // If any heading was highlighted, there's nothing else to do.
@@ -84,7 +84,7 @@ function mark_toc() {
    if (current_heading)
    {
       const toc_li = toc_map.get(current_heading)
-      toc_li.classList.add("visible_toc_entry")
+      toc_li.classList.add("visible-toc-entry")
       cleanup.push(toc_li)
    }
    else
@@ -96,6 +96,6 @@ function mark_toc() {
 function scroll_toc(toggle_ev) {
    if (toggle_ev.newState === "open")
    {
-      toc.querySelector(".visible_toc_entry").scrollIntoView({ block: "center" })
+      toc.querySelector(".visible-toc-entry").scrollIntoView({ block: "center" })
    }
 }

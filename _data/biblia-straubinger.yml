@@ -1,0 +1,180 @@
+titulo: Biblia Straubinger
+contenido:
+  - encabezado: Prólogo
+    enlace: biblia-straubinger/prologo#
+  - encabezado: Antiguo Testamento (46 libros)
+    sublista:
+      - encabezado: El Pentateuco
+        enlace: biblia-straubinger/pentateuco#
+        sublista:
+          - encabezado: Génesis
+            enlace: biblia-straubinger/genesis#
+          - encabezado: Éxodo
+            enlace: biblia-straubinger/exodo#
+          - encabezado: Levítico
+            enlace: biblia-straubinger/levitico#
+          - encabezado: Números
+            enlace: biblia-straubinger/numeros#
+          - encabezado: Deuteronomio
+            enlace: biblia-straubinger/deuteronomio#
+      - encabezado: Libros Históricos
+        sublista:
+          - encabezado: Josué
+            enlace: biblia-straubinger/josue#
+          - encabezado: Jueces
+            enlace: biblia-straubinger/jueces#
+          - encabezado: Rut
+            enlace: biblia-straubinger/rut#
+          - encabezado: 1 Samuel (I Reyes)
+            enlace: biblia-straubinger/1-samuel#
+          - encabezado: 2 Samuel (II Reyes)
+            enlace: biblia-straubinger/2-samuel#
+          - encabezado: 1 Reyes (III Reyes)
+            enlace: biblia-straubinger/1-reyes#
+          - encabezado: 2 Reyes (IV Reyes)
+            enlace: biblia-straubinger/2-reyes#
+          - encabezado: 1 Crónicas (I Paralipómenos)
+            enlace: biblia-straubinger/1-cronicas#
+          - encabezado: 2 Crónicas (II Paralipómenos)
+            enlace: biblia-straubinger/2-cronicas#
+          - encabezado: Esdras
+            enlace: biblia-straubinger/esdras#
+          - encabezado: Nehemías
+            enlace: biblia-straubinger/nehemias#
+          - encabezado: Tobías
+            enlace: biblia-straubinger/tobias#
+          - encabezado: Judit
+            enlace: biblia-straubinger/judit#
+          - encabezado: Ester
+            enlace: biblia-straubinger/ester#
+          - encabezado: 1 Macabeos
+            enlace: biblia-straubinger/1-macabeos#
+          - encabezado: 2 Macabeos
+            enlace: biblia-straubinger/2-macabeos#
+      - encabezado: Libros Sapienciales
+        enlace: biblia-straubinger/libros-sapienciales#
+        sublista:
+          - encabezado: Job
+            enlace: biblia-straubinger/job#
+          - encabezado: Salmos
+            enlace: biblia-straubinger/salmos#
+          - encabezado: Proverbios
+            enlace: biblia-straubinger/proverbios#
+          - encabezado: Eclesiastés
+            enlace: biblia-straubinger/eclesiastes#
+          - encabezado: Cantar de los Cantares
+            enlace: biblia-straubinger/cantar-de-los-cantares#
+          - encabezado: Sabiduría
+            enlace: biblia-straubinger/sabiduria#
+          - encabezado: Eclesiástico
+            enlace: biblia-straubinger/eclesiastico#
+      - encabezado: Libros Proféticos
+        enlace: biblia-straubinger/libros-profeticos#
+        sublista:
+          - encabezado: Isaías
+            enlace: biblia-straubinger/isaias#
+          - encabezado: Jeremías
+            enlace: biblia-straubinger/jeremias#
+          - encabezado: Lamentaciones
+            enlace: biblia-straubinger/lamentaciones#
+          - encabezado: Baruc
+            enlace: biblia-straubinger/baruc#
+          - encabezado: Ezequiel
+            enlace: biblia-straubinger/ezequiel#
+          - encabezado: Daniel
+            enlace: biblia-straubinger/daniel#
+          - encabezado: Oseas
+            enlace: biblia-straubinger/oseas#
+          - encabezado: Joel
+            enlace: biblia-straubinger/joel#
+          - encabezado: Amós
+            enlace: biblia-straubinger/amos#
+          - encabezado: Abdías
+            enlace: biblia-straubinger/abdias#
+          - encabezado: Jonás
+            enlace: biblia-straubinger/jonas#
+          - encabezado: Miqueas
+            enlace: biblia-straubinger/miqueas#
+          - encabezado: Nahúm
+            enlace: biblia-straubinger/nahum#
+          - encabezado: Habacuc
+            enlace: biblia-straubinger/habacuc#
+          - encabezado: Sofonías
+            enlace: biblia-straubinger/sofonias#
+          - encabezado: Ageo
+            enlace: biblia-straubinger/ageo#
+          - encabezado: Zacarías
+            enlace: biblia-straubinger/zacarias#
+          - encabezado: Malaquías
+            enlace: biblia-straubinger/malaquias#
+  - encabezado: Nuevo Testamento (27 libros)
+    enlace: biblia-straubinger/nuevo-testamento#
+    sublista:
+      - encabezado: Mateo
+        enlace: biblia-straubinger/mateo#
+      - encabezado: Marcos
+        enlace: biblia-straubinger/marcos#
+      - encabezado: Lucas
+        enlace: biblia-straubinger/lucas#
+      - encabezado: Juan
+        enlace: biblia-straubinger/juan#
+      - encabezado: Hechos
+        enlace: biblia-straubinger/hechos#
+      - encabezado: Epístolas Paulinas
+        enlace: biblia-straubinger/nuevo-testamento#s2
+        sublista:
+          - encabezado: Romanos
+            enlace: biblia-straubinger/romanos#
+          - encabezado: 1 Corintios
+            enlace: biblia-straubinger/1-corintios#
+          - encabezado: 2 Corintios
+            enlace: biblia-straubinger/2-corintios#
+          - encabezado: Gálatas
+            enlace: biblia-straubinger/galatas#
+          - encabezado: Efesios
+            enlace: biblia-straubinger/efesios#
+          - encabezado: Filipenses
+            enlace: biblia-straubinger/filipenses#
+          - encabezado: Colosenses
+            enlace: biblia-straubinger/colosenses#
+          - encabezado: 1 Tesalonicenses
+            enlace: biblia-straubinger/1-tesalonicenses#
+          - encabezado: 2 Tesalonicenses
+            enlace: biblia-straubinger/2-tesalonicenses#
+          - encabezado: 1 Timoteo
+            enlace: biblia-straubinger/1-timoteo#
+          - encabezado: 2 Timoteo
+            enlace: biblia-straubinger/2-timoteo#
+          - encabezado: Tito
+            enlace: biblia-straubinger/tito#
+          - encabezado: Filemón
+            enlace: biblia-straubinger/filemon#
+          - encabezado: Hebreos
+            enlace: biblia-straubinger/hebreos#
+      - encabezado: Epístolas Católicas
+        enlace: biblia-straubinger/nuevo-testamento#s3
+        sublista:
+          - encabezado: Santiago
+            enlace: biblia-straubinger/santiago#
+          - encabezado: Cartas de san Pedro
+            enlace: biblia-straubinger/cartas-de-san-pedro
+            sublista:
+              - encabezado: 1 Pedro
+                enlace: biblia-straubinger/1-pedro#
+              - encabezado: 2 Pedro
+                enlace: biblia-straubinger/2-pedro#
+          - encabezado: Cartas de san Juan
+            enlace: biblia-straubinger/cartas-de-san-juan
+            sublista:
+              - encabezado: 1 Juan
+                enlace: biblia-straubinger/1-juan#
+              - encabezado: 2 Juan
+                enlace: biblia-straubinger/2-juan#
+              - encabezado: 3 Juan
+                enlace: biblia-straubinger/3-juan#
+          - encabezado: Judas
+            enlace: biblia-straubinger/judas#
+      - encabezado: Apocalipsis
+        enlace: biblia-straubinger/apocalipsis#
+
+

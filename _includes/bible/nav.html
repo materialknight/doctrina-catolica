@@ -1,0 +1,17 @@
+<ul class="two-cols">
+   {% for item in include.nav %}
+      {% assign item_url = item.enlace | relative_url %}
+      {% assign page_url = page.url |  remove: ".html" | relative_url %}
+
+      <li class="{% if item_url == page_url %}visible-toc-entry{% endif %}">
+      {% if item.enlace %}
+         <a href="{{ item.enlace | relative_url }}#">{{ item.encabezado }}</a>
+      {% else %}
+         <span>{{ item.encabezado }}</span>
+      {% endif %}
+      {% if item.sublista %}
+         {% include bible/nav.html nav = item.sublista %}
+      {% endif %}
+      </li>
+   {% endfor %}
+   </ul>

@@ -27,6 +27,9 @@ header_pages:
 collections_dir: colecciones
 
 collections:
+  biblia-straubinger:
+    output: true
+    permalink: /:collection/:name
   catecismo:
     output: true
     permalink: /:collection/:name
@@ -40,6 +43,11 @@ collections:
     permalink: ":path"
 
 defaults:
+  -
+    scope:
+      path: "_biblia-straubinger"
+    values:
+      layout: "biblia"
   -
     scope:
       path: "_catecismo"

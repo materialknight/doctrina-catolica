@@ -1,4 +1,4 @@
-<div id="toc" popover>
+<div id="bible-toc" popover>
 
    <ul class="no-list-type center-aligned no-left-margin">
       <li>
@@ -12,8 +12,8 @@
    </ul>
 
    {%  assign contents = site.data[page.collection].contenido %}
-   {% include nav.html nav=contents %}
+   {% include bible/nav.html nav = contents %}
 
 </div>
 
-<script type="module" src="{{ '/assets/js/toc.js' | relative_url }}"></script>
+<script type="module" src="{{ '/assets/js/bible-toc.js' | relative_url }}"></script>
