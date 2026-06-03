@@ -179,6 +179,7 @@ textarea {
    justify-content: center;
    align-items: center;
    background-color: aliceblue;
+   box-shadow: 5px 5px gray;
 }
 
 [popovertarget=toc] {
@@ -195,6 +196,7 @@ textarea {
 
 [popovertarget]:active {
    background-color: burlywood;
+   box-shadow: 1px 1px gray;
 }
 
 [popovertarget]:hover {

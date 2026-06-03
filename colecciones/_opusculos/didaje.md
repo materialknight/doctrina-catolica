@@ -472,7 +472,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [16, 5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios 3, 11-17; y sobre el «Depósito de la Fé», véase 1 Timoteo 6, 20 y 2 Timoteo 1, 12-14.
 {:#n16-5}
 
-[16, 7](#c16-7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses 3, 13 y Judas 14-15.
+[16, 7](#c16-7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses 3, 13 y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
 {:#n16-7}
 
 [16, 8](#c16-8) Esta cita es de Daniel 7, 13, y se repite en Mateo 26, 64 y Marcos 14, 62.

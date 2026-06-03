@@ -22,6 +22,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+feed:
+  collections:
+    - opusculos
+    - documentos-eclesiasticos
+
 header_pages:
   - about.markdown
 collections_dir: colecciones

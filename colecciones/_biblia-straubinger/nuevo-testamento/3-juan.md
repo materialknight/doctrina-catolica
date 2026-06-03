@@ -4,9 +4,6 @@ title: Tercera carta del apóstol san Juan
 
 <!--* En Strauginger y Nacar-Colunga, el v. 14 es el último, pero en Bover-Cantera y todas las demás Biblias, está dividido en 2, terminando el libro en el v. 15 -->
 
-<!-- ^(\[\d+\]\(#v\d+\))(\{:#v\d+\})(.+) -->
-<!-- $1$3\n$2 -->
-
 {% include bible/toc-auto.html %}
 
 ## El apóstol alaba la caridad de Gayo

@@ -5,9 +5,6 @@ published: false
 
 {% include components/toc-auto.html %}
 
-<!--^(\d+)\.(.+)-->
-<!--[21, $1](#c21-$1)$2\n{:#c21-$1}-->
-
 ## Capítulo 1
 
 ### Saludo

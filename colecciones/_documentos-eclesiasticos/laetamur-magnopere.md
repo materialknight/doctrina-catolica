@@ -43,8 +43,8 @@ A María, Madre de Cristo, a quien hoy celebrarnos elevada al cielo en cuerpo y 
 **IOANNES PAULUS PP II**
 {:.center-aligned}
 
-[[1]](#rf1) Cf Juan Pablo II, [Cost. ap. Fidei depositum, 2]({{ "fidei-depositum#c2" | relative_url }}).
+[[1]](#rf1) Cf Juan Pablo II, [Cost. ap. Fidei depositum, 2]({{ "fidei-depositum#n2" | relative_url }}).
 {:#nt1}
 
-[[2]](#rf2) Cf Juan Pablo II, [Cost. ap. Fidei depositum, 4]({{ "fidei-depositum#c4" | relative_url }}).
+[[2]](#rf2) Cf Juan Pablo II, [Cost. ap. Fidei depositum, 4]({{ "fidei-depositum#n4" | relative_url }}).
 {:#nt2}

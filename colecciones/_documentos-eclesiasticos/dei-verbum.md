@@ -13,7 +13,6 @@ fecha: 18 de noviembre de 1965
 
 El Santo Concilio, escuchando religiosamente la palabra de Dios y proclamándola confiadamente, hace suya la frase de San Juan, cuando dice: "Os anunciamos la vida eterna, que estaba en el Padre y se nos manifestó: lo que hemos visto y oído os lo anunciamos a vosotros, a fin de que viváis también en comunión con nosotros, y esta comunión nuestra sea con el Padre y con su Hijo Jesucristo" (1 Jn., 1,2-3). Por tanto siguiendo las huellas de los Concilios Tridentino y Vaticano I, se propone exponer la doctrina genuina sobre la divina revelación y sobre su transmisión para que todo el mundo, oyendo, crea el anuncio de la salvación; creyendo, espere, y esperando, ame.
 
-
 ## Capítulo 1: La Revelación en sí misma
 {:#c1}
 

@@ -16,8 +16,8 @@ A los Venerables Hermanos Cardenales, Arzobispos, Obispos, Presbíteros, Diácon
 <span class="hemistich center-aligned">SIERVO DE LOS SIERVOS DE DIOS</span>
 <span class="hemistich center-aligned">PARA PERPETUA MEMORIA</span>
 
-## [1](#c1). Introducción
-{:#c1}
+## [1](#n1). Introducción
+{:#n1}
 
 *Conservar el depósito de la fe* es la misión que el Señor confió a su Iglesia y que ella realiza en todo tiempo. El Concilio Ecuménico Vaticano II, inaugurado hace treinta años por mi predecesor Juan XXIII, de feliz memoria, tenía como propósito y deseo hacer patente la misión apostólica y pastoral de la Iglesia, y conducir a todos los hombres, mediante el resplandor de la verdad del Evangelio, a la búsqueda y acogida del amor de Cristo que está sobre toda cosa (cf. Ef 3, 19).
 
@@ -35,8 +35,8 @@ De todo corazón hay que dar gracias al Señor, en este día en que podemos ofre
 
 Tras la renovación de la Liturgia y el nuevo Código de Derecho Canónico de la Iglesia latina y de los Cánones de las Iglesias Orientales Católicas, este Catecismo es una contribución importantísima a la obra de renovación de la vida eclesial, promovida y llevada a la práctica por el Concilio Vaticano II.
 
-## [2](#c2). Itinerario y espíritu de la preparación del texto
-{:#c2}
+## [2](#n2). Itinerario y espíritu de la preparación del texto
+{:#n2}
 
 El Catecismo de la Iglesia católica es fruto de una amplísima colaboración. Es el resultado de seis años de trabajo intenso, llevado a cabo en un espíritu de atenta apertura y con perseverante ánimo.
 
@@ -46,8 +46,8 @@ La Comisión, encargada de dar directrices y de velar por el desarrollo de los t
 
 El proyecto fue objeto de una amplia consulta a todos los obispos católicos, a sus Conferencias Episcopales o Sínodos, a institutos de teología y de catequesis. En su conjunto, el proyecto recibió una acogida considerablemente favorable por parte de los obispos. Puede decirse ciertamente que este Catecismo es fruto de la colaboración de todo el Episcopado de la Iglesia católica, que ha acogido cumplidamente mi invitación a corresponsabilizarse en una iniciativa que atañe de cerca a toda la vida eclesial. Esa respuesta suscita en mí un  profundo sentimiento de gozo, porque el concurso de tantas voces expresa verdaderamente lo que se puede llamar *sinfonía de la fe*. Aún más, la realización de este Catecismo refleja la naturaleza colegial del Episcopado: atestigua la catolicidad de la Iglesia.
 
-## [3](#c3). Distribución de la materia
-{:#c3}
+## [3](#n3). Distribución de la materia
+{:#n3}
 
 Un Catecismo debe presentar  fiel y orgánicamente la enseñanza de la Sagrada Escritura, de la Tradición viva de la Iglesia y del Magisterio auténtico, así como la herencia espiritual de los Padres, de los santos y santas de la Iglesia, para que se conozcan mejor los misterios cristianos y se reavive la fe del Pueblo de Dios. Debe recoger aquellas explicitaciones de la doctrina que el Espíritu Santo ha sugerido a la Iglesia a lo largo de los siglos. Es preciso también que ayude a iluminar con la luz de la fe las situaciones nuevas y los problemas que en el pasado aún no se habían planteado.
 
@@ -61,8 +61,8 @@ La liturgia es, por sí misma, oración; la confesión de fe tiene su justo luga
 
 En la lectura del Catecismo de la Iglesia católica se puede percibir la admirable unidad del misterio de Dios, de su designio de salvación, así como el lugar central de Jesucristo, Hijo único de Dios, enviado por el Padre, hecho hombre en el seno de la Virgen María por el Espíritu Santo, para ser nuestro Salvador. Muerto y resucitado, está siempre presente en su Iglesia, particularmente en los Sacramentos; es la fuente de la fe, el modelo del obrar cristiano y el Maestro de nuestra oración.
 
-## [4](#c4). Valor doctrinal del texto
-{:#c4}
+## [4](#n4). Valor doctrinal del texto
+{:#n4}
 
 El Catecismo de la Iglesia católica que aprobé el 25 de junio pasado, y cuya  publicación ordeno hoy en virtud de la autoridad apostólica, es la exposición de la fe de la Iglesia y de la doctrina católica, atestiguadas e iluminadas por la sagrada Escritura, la Tradición apostólica y el Magisterio de la Iglesia. Lo declaro como regla segura para la enseñanza de la fe y como instrumento válido y legítimo al servicio de la comunión eclesial. Dios quiera que sirva para la renovación a la que el Espíritu Santo llama sin cesar a la Iglesia, Cuerpo de Cristo, en peregrinación a la luz sin sombra del Reino.
 
@@ -72,8 +72,8 @@ Pido, por tanto, a los pastores de la Iglesia, y a los fieles, que reciban este 
 
 Este Catecismo no está destinado a sustituir los catecismos locales debidamente aprobados por las autoridades eclesiásticas, los Obispos diocesanos o las Conferencias episcopales, sobre todo cuando estos catecismos han sido aprobados por la Sede Apostólica. El Catecismo de la Iglesia católica se destina a alentar y facilitar la redacción de nuevos catecismos locales que tengan en cuenta las diversas situaciones y culturas, siempre que guarden cuidadosamente  la unidad de la fe y la fidelidad a la doctrina católica.
 
-## [5](#c5). Conclusión
-{:#c5}
+## [5](#n5). Conclusión
+{:#n5}
 
 Al concluir este documento, que presenta el Catecismo de la Iglesia católica, pido a la Santísima Virgen María, Madre del Verbo Encarnado y Madre de la Iglesia, que sostenga con su poderosa intercesión el trabajo catequético de la Iglesia entera en todos sus niveles, en este tiempo en que es llamada a un nuevo esfuerzo de evangelización. Que la luz de la fe verdadera libre a los hombres de la ignorancia y de la esclavitud del pecado, para conducirlos a la única libertad digna de este nombre (cf. Jn 8, 32): la de la vida en Jesucristo bajo la guía del Espíritu Santo, aquí y en el Reino de los cielos, en la plenitud de la bienaventuranza de la visión de Dios cara a cara (cf. 1 Co 13, 12; 2 Co 5, 6-8).
 

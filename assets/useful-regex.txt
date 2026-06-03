@@ -1,0 +1,33 @@
+Para numerar versículos:
+
+^(\d+)\.(.+)
+[21, $1](#c21-$1)$2\n{:#c21-$1}
+
+Para enlazar documentos eclesiásticos:
+
+DV (\d+)
+DV [$1]({{ "dei-verbum#n$1" | relative_url }})
+
+Para pasar el id del link <a> al versículo <p> en libros bíblicos sin capítulos:
+
+^(\[\d+\]\(#v\d+\))(\{:#v\d+\})(.+)
+$1$3\n$2
+
+Para reemplazar comillas:
+"(.+?)"
+«$1»
+
+Para reformatear las referencias al final de versículo en libros bíblicos sin capítulos:
+
+^\[(\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
+[$1]$2[[\*\*]](#n$1)$3
+
+Para reformatear las notas en los libros bíblicos sin capítulos:
+
+\[\[\d+\]\]\(#rn-\d+\)\{:#n-\d+\} \[(\d+)(.+)
+[$1$2\n{:#n$1}
+
+Para enlazar libros bíblicos sin capítulos:
+
+Judas (\d+)
+Judas [$1]({{ "biblia-straubinger/judas#v$1" | relative_url }})

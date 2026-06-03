@@ -3,7 +3,7 @@ layout: page
 title: Doctrina Católica
 ---
 
-## Obras Principales
+## Obras principales
 
 <ol>
 {% for coleccion in site.collections %}
@@ -40,7 +40,7 @@ title: Doctrina Católica
 {% endfor %}
 </ol>
 
-## Documentos Eclesiásticos
+## Documentos eclesiásticos
 
 {% assign documentos_eclesiasticos = site["documentos-eclesiasticos"] | sort: "tipo" %}
 <ol>
@@ -57,3 +57,9 @@ title: Doctrina Católica
    </li>
 {% endfor %}
 </ol>
+
+{% include components/font-options.html %}
+
+<div id="btn-container">
+   {% include components/btn-font-options.html %}
+</div>
