@@ -11,7 +11,7 @@ fecha: 18 de noviembre de 1965
 ## 1. Proemio
 {:#n1}
 
-El Santo Concilio, escuchando religiosamente la palabra de Dios y proclamándola confiadamente, hace suya la frase de San Juan, cuando dice: "Os anunciamos la vida eterna, que estaba en el Padre y se nos manifestó: lo que hemos visto y oído os lo anunciamos a vosotros, a fin de que viváis también en comunión con nosotros, y esta comunión nuestra sea con el Padre y con su Hijo Jesucristo" (1 Jn., 1,2-3). Por tanto siguiendo las huellas de los Concilios Tridentino y Vaticano I, se propone exponer la doctrina genuina sobre la divina revelación y sobre su transmisión para que todo el mundo, oyendo, crea el anuncio de la salvación; creyendo, espere, y esperando, ame.
+El Santo Concilio, escuchando religiosamente la palabra de Dios y proclamándola confiadamente, hace suya la frase de San Juan, cuando dice: "Os anunciamos la vida eterna, que estaba en el Padre y se nos manifestó: lo que hemos visto y oído os lo anunciamos a vosotros, a fin de que viváis también en comunión con nosotros, y esta comunión nuestra sea con el Padre y con su Hijo Jesucristo" (1 Jn. [1, 2]({{ "biblia-straubinger/1-juan#c1-v2" | relative_url }})-3). Por tanto siguiendo las huellas de los Concilios Tridentino y Vaticano I, se propone exponer la doctrina genuina sobre la divina revelación y sobre su transmisión para que todo el mundo, oyendo, crea el anuncio de la salvación; creyendo, espere, y esperando, ame.
 
 ## Capítulo 1: La Revelación en sí misma
 {:#c1}
@@ -53,7 +53,7 @@ Confiesa el Santo Concilio «que Dios, principio y fin de todas las cosas, puede
 
 Dispuso Dios benignamente que todo lo que había revelado para la salvación de los hombres permaneciera íntegro para siempre y se fuera transmitiendo a todas las generaciones. Por ello Cristo Señor, en quien se consuma la revelación total del Dios sumo, mandó a los Apóstoles que predicaran a todos los hombres el Evangelio, comunicándoles los dones divinos. Este Evangelio, prometido antes por los Profetas, lo completó El y lo promulgó con su propia boca, como fuente de toda la verdad salvadora y de la ordenación de las costumbres. Lo cual fue realizado fielmente, tanto por los Apóstoles, que en la predicación oral comunicaron con ejemplos e instituciones lo que habían recibido por la palabra, por la convivencia y por las obras de Cristo, o habían aprendido por la inspiración del Espíritu Santo, como por aquellos Apóstoles y varones apostólicos que, bajo la inspiración del mismo Espíritu, escribieron el mensaje de la salvación.
 
-Mas para que el Evangelio se conservara constantemente íntegro y vivo en la Iglesia, los Apóstoles dejaron como sucesores suyos a los Obispos, "entregándoles su propio cargo del magisterio". Por consiguiente, esta sagrada tradición y la Sagrada Escritura de ambos Testamentos son como un espejo en que la Iglesia peregrina en la tierra contempla a Dios, de quien todo lo recibe, hasta que le sea concedido el verbo cara a cara, tal como es (cf. 1 Jn., 3,2).
+Mas para que el Evangelio se conservara constantemente íntegro y vivo en la Iglesia, los Apóstoles dejaron como sucesores suyos a los Obispos, "entregándoles su propio cargo del magisterio". Por consiguiente, esta sagrada tradición y la Sagrada Escritura de ambos Testamentos son como un espejo en que la Iglesia peregrina en la tierra contempla a Dios, de quien todo lo recibe, hasta que le sea concedido el verlo cara a cara, tal como es (cf. 1 Jn. [3, 2]({{ "biblia-straubinger/1-juan#c3-v2" | relative_url }})).
 
 ### 8. La Sagrada Tradición
 {:#n8}
@@ -202,3 +202,5 @@ Todas y cada una de las cosas contenidas en esta Constitución Dogmática han ob
 
 Yo, PABLO, Obispo de la Iglesia católica
 {:.right-aligned}
+
+<!-- FALTAN LAS REFERENCIAS -->

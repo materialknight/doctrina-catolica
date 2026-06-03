@@ -456,7 +456,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [11, 8](#c11-8) Recordemos 2 cosas:
 {:#n11-8}
 
-1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan 4, 1), y por eso existe el carisma de discernimiento de espíritus (1 Corintios 12, 10).
+1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan [4, 1]({{ "biblia-straubinger/1-juan#c4-v1" | relative_url }})), y por eso existe el carisma de discernimiento de espíritus (1 Corintios 12, 10).
 2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios 14, 3), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses 5, 19-21).
 {:#n11-8b}
 

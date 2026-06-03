@@ -39,3 +39,9 @@ También puedes ayudar visitando nuestro sitio hermano: [rincondeluce](https://r
    <img alt="QR de BTC" src="{{ '/assets/images/QR_BTC.jpeg' | relative_url }}">
    <div class="qr-code-str">3DgeHYTfif7Neg5eLVTNgxEPd2gSbq2Pzq</div>
 </div>
+
+{% include components/font-options.html %}
+
+<div id="btn-container">
+   {% include components/btn-font-options.html %}
+</div>
