@@ -33,7 +33,12 @@ collections:
   catecismo:
     output: true
     permalink: /:collection/:name
+  catecismo-romano:
+    output: true
+    permalink: /:collection/:name
   compendio-catecismo:
+    output: true
+  contra-los-herejes:
     output: true
   documentos-eclesiasticos:
     output: true
@@ -55,7 +60,17 @@ defaults:
       layout: "magnum-opus"
   -
     scope:
+      path: "_catecismo-romano"
+    values:
+      layout: "magnum-opus"
+  -
+    scope:
       path: "_compendio-catecismo"
+    values:
+      layout: "magnum-opus"
+  -
+    scope:
+      path: "_contra-los-herejes"
     values:
       layout: "magnum-opus"
   -

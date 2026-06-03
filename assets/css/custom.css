@@ -48,31 +48,38 @@ textarea {
    /* font-weight: bold; */
    display: grid;
    gap: 18px;
+   color: darkgoldenrod;
 }
 
 .post-content {
+
    h2 {
       font-size: 34px;
+      color: crimson;
       /* font-weight: bold; */
    }
 
    h3 {
       font-size: 29px;
+      color: forestgreen;
       /* font-weight: bold; */
    }
 
    h4 {
       font-size: 25px;
+      color: darkgoldenrod;
       /* font-weight: bold; */
    }
 
    h5 {
       font-size: 22px;
+      color: crimson;
       /* font-weight: bold; */
    }
 
    h6 {
       font-size: 19px;
+      color: forestgreen;
       /* font-weight: bold; */
    }
 }

@@ -42,7 +42,7 @@ title: Doctrina Católica
 
 ## Documentos Eclesiásticos
 
-{% assign documentos_eclesiasticos = site["documentos-eclesiasticos"] | sort: "title" %}
+{% assign documentos_eclesiasticos = site["documentos-eclesiasticos"] | sort: "tipo" %}
 <ol>
 {% for documento_eclesiastico in documentos_eclesiasticos %}
    <li>
