@@ -4,8 +4,6 @@ title: Primera carta del apóstol san Pedro
 
 {% include bible/toc-auto.html %}
 
-## [Introducción a las cartas de san Pedro](cartas-de-san-pedro)
-
 ## 1 Pedro [1](#c1) {#c1}
 
 ### Prólogo
