@@ -37,7 +37,7 @@ Para libros bíblicos CON capítulos:
    Para enlazar libros bíblicos:
    {
       (1 ?Jn\.?) ?(\d+)\.
-      (1 ?Jn\.?) ?(\d+)\;
+      (1 ?Jn\.?) ?(\d+);
 
       (1 ?Jn\.?) ?(\d+), ?(\d+)
       $1 [$2, $3]({{ "biblia-straubinger/1-juan#c$2-v$3" | relative_url }})

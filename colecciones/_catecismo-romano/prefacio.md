@@ -1,3 +1,23 @@
 ---
-title: Prefacio
+title: Introducción al Catecismo Romano
+materia: en la que se trata de la necesidad de los Párrocos en la Iglesia, de su autoridad, de su oficio y de los capitulos principales de la Doctrina Cristiana.
 ---
+
+
+
+Sección 1a: *El hombre, abandonado á sus fuerzas, no puede alcanzar la verdadera sabiduría ni los medios ciertos para conseguir su felicidad* [a]
+
+Es tal la condición del espiritu y de la inteligencia del hombre, que habiendo ésta descubierto y conocido por si misma, á fuerza de grande trabajo y actividad, otras muchas verdades que pertenecen al conocimiento de las cosas divinas, nunca, sin embargo, pudo, ilustrada con la luz de su razón, conocer ó percibir la mayor parte de aquellas por las cuales se consigue la salvación eterna, para la cual principalmente ha sido el hombre creado y formado á imagen y semejanza de Dios. *En efecto, las perfecciones invisibles de Dios* (según enseña el Apóstol), *como también su eterno poder y divinidad, se han hecho visibles después de la creación del mundo por las cosas que han sido creadas* (Romanos 1, 20). Pero aquel misterio que estuvo escondido desde [b] los siglos y las generaciones *primitivas*, de tal manera supera á la inteligencia humana, que si no se hubiera revelado á los Santos (Colosenses 1, 26-27), à quienes quiso Dios hacer patentes por el don de la fe las riquezas de la gloria de este misterio entre las naciones, el cual es Cristo, de ningún modo hubiera podido el hombre aspirar á este conocimiento.
+
+2. Cómo se adquiere el don tan excelente de la fe
+
+Mas como la fe se reciba por la audición (Romanos 10, 17; J. Damasc. *de Fide Orth*., lib. IV, c. 2.), es evidente cuán necesario ha sido siempre el trabajo constante y el ministerio del maestro legítimo para conseguir la eterna salvación; porque escrito está: *¿Cómo oirán, si no hay quien les predique?* Y *¿cómo predicarán, si no son enviados predicadores?* (Romanos 10, 14-15) Y por eso, desde el principio del mundo, nunca el clementísimo y benignisimo Dios ha faltado á los suyos, sino que, en varias ocasiones y por muchos modos, habló a nuestros padres por medio de los profetas (Hebreos 1, 1), y según la condición de los tiempos les mostró el camino seguro y recto para la celeste felicidad.
+
+3. Cristo vino á este mundo á enseñar la fe, que después propagaron los Apóstoles ysus sucesores
+
+Pero, habiendo Dios prometido enviar al Maestro de la justicia (Joel 2, 23 [*Vulgata*]) ó santidad para luz de las naciones (Isaías 49, 6), à fin de que fuese su salud ó *Salvador* hasta los últimos términos de la Tierra, últimamente nos habló por medio de su Hijo (Hebreos 1, 2), á quien, por medio de una voz bajada del Cielo con brillante gloria (2 Pedro 1, 17), mandó ciertamente que todos le escuchasen escuchasen y y obed obedeciesen sus mandamientos. Después, el Hijo á unos constituyó apóstoles, á otros profetas, à otros pastores y maestros (Efesios 4, 11), para anunciar la palabra de vida, á fin de que no nos dejemos llevar aquí y allá, como niños vacilantes, de todo viento de doctrina ú *opinión humana* (Efesios 4, 14), sino que, adhiriéndonos al fundamento firme de la fe, fuésemos juntamente edificados para morada de Dios por medio del Espiritu Santo (Efesios 2, 22).
+
+4. Cómo deben recibirse las palabras de los Pastores de la Iglesia
+
+Para que nadie, al oir [b] de los ministros de la Iglesia la palabra de Dios, la reciba como palabra humana, sino, según es verdaderamente, como palabra de Cristo (1 Tesalonicenses 2, 13), el mismo Salvador nuestro determinó que se diese tanta autoridad a su magisterio [c], que dijo: *El que os escucha á vosotros, me escucha à Mi; y el que os desprecia á vosotros, á Mi me desprecia* (Lucas 10, 16); lo cual, á la verdad, quiso se entendiese, no sólo de aquellos con quienes estaba hablando, sino también de todos los que por sucesión legítima ejerciesen el cargo de enseñar, å todos los cuales prometió que estaria con ellos continuamente hasta el fin del mundo.
+

@@ -695,7 +695,7 @@ Los cristianos antiguos solían citar de memoria, a veces parafraseando (es deci
 
 En estas notas, las referencias a los salmos siguen la numeración de la Septuaginta (la Traducción de los LXX), utilizada habitualmente por los cristianos antiguos, la cual no coincide con la numeración del texto masorético, usada en la mayoría de biblias modernas. De manera que, por ejemplo: Si al consultar en tu Biblia el Salmo 50, 19, el texto no tiene nada que ver con la cita, véase el salmo siguiente (51, 19), y en ambos casos, véase el versículo anterior y el siguiente.
 
-[1, 4](#c1-4) «Por la esperanza de su vida»: Véase Tito 1, 2; 3, 7 y 1 Pedro 3, 15.
+[1, 4](#c1-4) «Por la esperanza de su vida»: Véase Tito 1, 2; 3, 7 y 1 Pedro [3, 15]({{ "biblia-straubinger/1-pedro#c3-v15" | relative_url }}).
 {:#n1-4}
 
 [2, 5](#c2-5) Isaías 1, 11-13.
@@ -766,7 +766,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [6, 1](#c6-1) Este y el siguiente versículo son una paráfrasis de Isaías 50, 8 y 9.
 {:#n6-1}
 
-[6, 2](#c6-2) «Mira que voy a echar en los cimientos de Sión una piedra de mucho valor, escogida, angular, preciosa»: La cita es de Isaías 28, 16, y se repite en Romanos 9, 33 y en 1 Pedro 2, 6.
+[6, 2](#c6-2) «Mira que voy a echar en los cimientos de Sión una piedra de mucho valor, escogida, angular, preciosa»: La cita es de Isaías 28, 16, y se repite en Romanos 9, 33 y en 1 Pedro [2, 6]({{ "biblia-straubinger/1-pedro#c2-v6" | relative_url }}).
 {:#n6-2}
 
 [6, 3](#c6-3) «Y el que esperare en ella, vivirá para siempre»: Paráfrasis de la última parte de Isaías 28, 16.
@@ -774,7 +774,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Y púsome como una roca dura»: Isaías 50, 7.
 
-[6, 4](#c6-4) «La piedra que desecharon los constructores vino a ser cabeza de ángulo»: La cita es del Salmo 117, 22, y se repite en Mateo 21, 42, Hechos 4, 11 y 1 Pedro 2, 7.
+[6, 4](#c6-4) «La piedra que desecharon los constructores vino a ser cabeza de ángulo»: La cita es del Salmo 117, 22, y se repite en Mateo 21, 42, Hechos 4, 11 y 1 Pedro [2, 7]({{ "biblia-straubinger/1-pedro#c2-v7" | relative_url }}).
 {:#n6-4}
 
 «Este es el día grande y maravilloso que hizo el Señor»: Salmo 117, 24.
