@@ -643,7 +643,7 @@ published: false
 [19, 11](#c19-11) No vacilarás en dar, ni cuando des murmurarás, sino que conocerás quien es el buen pagador de tu galardón. Guardarás lo que recibiste, sin añadir ni quitar cosa. Aborrecerás hasta el cabo al malvado. Juzgarás con justicia.
 {:#c19-11}
 
-[19, 12](#c19-12) No formarás bandos, sino que guardarás la paz, tratando (le reconciliar a los que luchan. Confesarás tus pecados. No te acercarás a la oración con conciencia mala. Este es el camino de la luz.
+[19, 12](#c19-12) No formarás bandos, sino que guardarás la paz, tratando de reconciliar a los que luchan. Confesarás tus pecados. No te acercarás a la oración con conciencia mala. Este es el camino de la luz.
 {:#c19-12}
 
 ## Capítulo 20

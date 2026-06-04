@@ -750,7 +750,7 @@ Que debía manifestarse en medio de nosotros (porque el Hijo de Dios se haría h
 
 Que este pueblo estaba llamado a ser un pueblo santo, lo vaticinó Oseas, uno de los doce profetas: «Al no-pueblo mío lo llamaré pueblo mío, y la no-amada será amada. Donde se diga no-mi-pueblo, allí se llamarán hijos del Dios viviente» (Os 2,25; Rm 9,25,26). También Juan Bautista vuelve a decir lo mismo: «Dios puede hacer surgir de estas piedras hijos de Abraham» (Mt 3,9).
 
-En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm 3,28; 4,3; Ga 3,6; St 2,23). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez 11,19-20; 36,26-27).
+En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm 3,28; 4,3; Ga 3,6; St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez 11,19-20; 36,26-27).
 
 ## [94](#c94). La Iglesia y la Sinagoga
 {:#c94}
