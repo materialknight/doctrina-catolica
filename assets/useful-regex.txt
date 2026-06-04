@@ -10,49 +10,63 @@ Para enlazar documentos eclesiásticos:
 DV (\d+)
 DV [$1]({{ "dei-verbum#n$1" | relative_url }})
 
-Para pasar el id del link <a> al versículo <p> en libros bíblicos SIN capítulos:
-
-^(\[\d+\]\(#v\d+\))(\{:#v\d+\})(.+)
-$1$3\n$2
-
-Para pasar el id del link <a> al versículo <p> en libros bíblicos CON capítulos:
-
-^\[\d+\]\(#c(\d+)-v(\d+)\)\{:#c\d+-v\d+\}(.+)
-[$1, $2](#c$1-v$2)$3\n{:#c$1-v$2}
-
 Para reemplazar comillas:
 "(.+?)"
 «$1»
 
-Para reformatear las referencias al final de versículo en libros bíblicos SIN capítulos:
+Para libros bíblicos CON capítulos:
+{
+   Para pasar el id del link <a> al versículo <p>:
+   {
+   ^\[\d+\]\(#c(\d+)-v(\d+)\)\{:#c\d+-v\d+\}(.+)
+   [$1, $2](#c$1-v$2)$3\n{:#c$1-v$2}
+   }
 
-^\[(\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
-[$1]$2[[\*\*]](#n$1)$3
+   Para reformatear las referencias al principio o al final de versículo:
+   {
+      ^\[(\d+), (\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
+      [$1, $2]$3[[\*\*]](#n$1-$2)$4
+   }
 
-Para reformatear las referencias al final de versículo en libros bíblicos CON capítulos:
+   Para reformatear las notas:
+   {
+      \[\[\d+\]\]\(#rn-\d+\)\{:#n-\d+\} \[(\d+), (\d+)(.+)
+      [$1, $2$3\n{:#n$1-$2}
+   }
 
-^\[(\d+), (\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
-[$1, $2]$3[[\*\*]](#n$1-$2)$4
+   Para enlazar libros bíblicos:
+   {
+      (1 ?Jn\.?) ?(\d+)\.
+      (1 ?Jn\.?) ?(\d+)\;
 
-Para reformatear las notas en los libros bíblicos SIN capítulos:
+      (1 ?Jn\.?) ?(\d+), ?(\d+)
+      $1 [$2, $3]({{ "biblia-straubinger/1-juan#c$2-v$3" | relative_url }})
+   }
+}
 
-\[\[\d+\]\]\(#rn-\d+\)\{:#n-\d+\} \[(\d+)(.+)
-[$1$2\n{:#n$1}
+Para libros bíblicos SIN capítulos:
+{
+   Para pasar el id del link <a> al versículo <p>:
+   {
+      ^(\[\d+\]\(#v\d+\))(\{:#v\d+\})(.+)
+      $1$3\n$2
+   }
 
-Para reformatear las notas en los libros bíblicos CON capítulos:
+   Para reformatear las referencias al final de versículo:
+   {
+      ^\[(\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
+      [$1]$2[[\*\*]](#n$1)$3
+   }
 
-\[\[\d+\]\]\(#rn-\d+\)\{:#n-\d+\} \[(\d+), (\d+)(.+)
-[$1, $2$3\n{:#n$1-$2}
+   Para reformatear las notas:
+   {
+      \[\[\d+\]\]\(#rn-\d+\)\{:#n-\d+\} \[(\d+)(.+)
+      [$1$2\n{:#n$1}
+   }
 
-Para enlazar libros bíblicos SIN capítulos:
-
-Judas (\d+)
-Judas [$1]({{ "biblia-straubinger/judas#v$1" | relative_url }})
-
-Para enlazar libros bíblicos CON capítulos:
-
-(1 ?Jn\.?) ?(\d+)\.
-(1 ?Jn\.?) ?(\d+)\;
-
-(1 ?Jn\.?) ?(\d+), ?(\d+)
-$1 [$2, $3]({{ "biblia-straubinger/1-juan#c$2-v$3" | relative_url }})
+   Para enlazar libros bíblicos:
+   {
+      Judas (\d+)
+      Judas [$1]({{ "biblia-straubinger/judas#v$1" | relative_url }})
+   }
+}
