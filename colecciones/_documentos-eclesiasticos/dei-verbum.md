@@ -112,7 +112,7 @@ En la Sagrada Escritura, pues, se manifiesta, salva siempre la verdad y la santi
 
 Dios amantísimo, buscando y preparando solícitamente la salvación de todo el género humano, con singular favor se eligió un pueblo, a quien confió sus promesas. Hecho, pues, el pacto con Abraham y con el pueblo de Israel por medio de Moisés, de tal forma se reveló con palabras y con obras a su pueblo elegido como el único Dios verdadero y vivo, que Israel experimentó cuáles eran los caminos de Dios con los hombres, y, hablando el mismo Dios por los Profetas, los entendió más hondamente y con más claridad de día en día, y los difundió ampliamente entre las gentes.
 
-La economía, pues, de la salvación preanunciada, narrada y explicada por los autores sagrados, se conserva como verdadera palabra de Dios en los libros del Antiguo Testamento; por lo cual estos libros inspirados por Dios conservan un valor perenne: "Pues todo cuanto está escrito, para nuestra enseñanza, fue escrito, a fin de que por la paciencia y por la consolación de las Escrituras estemos firmes en la esperanza" (Rom. 15,4).
+La economía, pues, de la salvación preanunciada, narrada y explicada por los autores sagrados, se conserva como verdadera palabra de Dios en los libros del Antiguo Testamento; por lo cual estos libros inspirados por Dios conservan un valor perenne: "Pues todo cuanto está escrito, para nuestra enseñanza, fue escrito, a fin de que por la paciencia y por la consolación de las Escrituras estemos firmes en la esperanza" (Rom. [15, 4]({{ "biblia-straubinger/romanos#c15-v4" | relative_url }})).
 
 ### 15. Importancia del Antiguo Testamento para los cristianos
 {:#n15}

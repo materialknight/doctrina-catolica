@@ -730,10 +730,10 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Meditemos el temor de Dios»: Deuteronomio 6, 2; 10, 12, Job 28, 28, Proverbios 1, 7, Salmo 110, 10, etc.
 
-[4, 12](#c4-12) «Juzgará al mundo sin acepción de personas»: Deuteronomio 10, 17, Hechos 10, 34 y Romanos 2, 11.
+[4, 12](#c4-12) «Juzgará al mundo sin acepción de personas»: Deuteronomio 10, 17, Hechos 10, 34 y Romanos [2, 11]({{ "biblia-straubinger/romanos#c2-v11" | relative_url }}).
 {:#n4-12}
 
-«Cada uno recibirá conforme obró»: Salmo 61, 13, Mateo 16, 27, Romanos 2, 6 y Apocalipsis 20, 12-13.
+«Cada uno recibirá conforme obró»: Salmo 61, 13, Mateo 16, 27, Romanos [2, 6]({{ "biblia-straubinger/romanos#c2-v6" | relative_url }}) y Apocalipsis 20, 12-13.
 
 «Su justicia marchará delante de él»: Isaías 58, 8.
 
@@ -766,7 +766,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [6, 1](#c6-1) Este y el siguiente versículo son una paráfrasis de Isaías 50, 8 y 9.
 {:#n6-1}
 
-[6, 2](#c6-2) «Mira que voy a echar en los cimientos de Sión una piedra de mucho valor, escogida, angular, preciosa»: La cita es de Isaías 28, 16, y se repite en Romanos 9, 33 y en 1 Pedro [2, 6]({{ "biblia-straubinger/1-pedro#c2-v6" | relative_url }}).
+[6, 2](#c6-2) «Mira que voy a echar en los cimientos de Sión una piedra de mucho valor, escogida, angular, preciosa»: La cita es de Isaías 28, 16, y se repite en Romanos [9, 33]({{ "biblia-straubinger/romanos#c9-v33" | relative_url }}) y en 1 Pedro [2, 6]({{ "biblia-straubinger/1-pedro#c2-v6" | relative_url }}).
 {:#n6-2}
 
 [6, 3](#c6-3) «Y el que esperare en ella, vivirá para siempre»: Paráfrasis de la última parte de Isaías 28, 16.

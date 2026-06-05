@@ -193,7 +193,7 @@ title: Primera carta del apóstol san Juan
 [3, 16](#c3-v16) En esto hemos conocido el amor, en que Él puso su vida por nosotros; así nosotros debemos poner nuestras vidas por los hermanos [[\*\*]](#n3-16).
 {:#c3-v16}
 
-[3, 17](#c3-v17) Quien tiene bienes de este mundo, y ve a su hermano padecer necesidad y le cierra sus entrañas ¿de qué manera permanece el amor de Dios en él? [[40]](#n-40){:#rn-40}
+[3, 17](#c3-v17) Quien tiene bienes de este mundo, y ve a su hermano padecer necesidad y le cierra sus entrañas ¿de qué manera permanece el amor de Dios en él? [[\*\*]](#n3-17)
 {:#c3-v17}
 
 [3, 18](#c3-v18) Hijitos, no amemos de palabra, y con la lengua, sino de obra y en verdad [[\*\*]](#n3-18).

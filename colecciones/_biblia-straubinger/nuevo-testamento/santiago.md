@@ -131,13 +131,13 @@ El estilo es conciso, sentencioso y extraordinariamente rico en imágenes, siend
 [2, 4](#c2-v4) ¿no hacéis entonces distinción entre vosotros y venís a ser jueces de inicuos pensamientos?
 {:#c2-v4}
 
-[2, 5](#c2-v5) Escuchad, queridos hermanos: ¿No ha escogido Dios a los que son pobres para el mundo, (a fin de hacerlos) ricos en fe y herederos del reino que tiene prometido a los que le aman? [[23]](#n-23){:#rn-23}
+[2, 5](#c2-v5) Escuchad, queridos hermanos: ¿No ha escogido Dios a los que son pobres para el mundo, (a fin de hacerlos) ricos en fe y herederos del reino que tiene prometido a los que le aman? [[\*\*]](#n2-5)
 {:#c2-v5}
 
 [2, 6](#c2-v6) ¡Y vosotros despreciáis al pobre! ¿No son los ricos los que os oprimen y os arrastran ante los tribunales?
 {:#c2-v6}
 
-[2, 7](#c2-v7) ¿No son ellos los que blasfeman el hermoso nombre que ha sido invocado sobre vosotros? [[24]](#n-24){:#rn-24}
+[2, 7](#c2-v7) ¿No son ellos los que blasfeman el hermoso nombre que ha sido invocado sobre vosotros? [[\*\*]](#n2-7)
 {:#c2-v7}
 
 [2, 8](#c2-v8) Si en verdad cumplís la Ley regia [[\*\*]](#n2-8), conforme a la Escritura: «Amarás a tu prójimo como a ti mismo», bien obráis;
@@ -180,10 +180,10 @@ El estilo es conciso, sentencioso y extraordinariamente rico en imágenes, siend
 
 ### El ejemplo de Abrahán y de Rahab
 
-[2, 20](#c2-v20) ¿Quieres ahora conocer, oh hombre insensato, que la fe sin las obras es inútil? [[30]](#n-30){:#rn-30}
+[2, 20](#c2-v20) ¿Quieres ahora conocer, oh hombre insensato, que la fe sin las obras es inútil? [[\*\*]](#n2-20)
 {:#c2-v20}
 
-[2, 21](#c2-v21) Abrahán, nuestro padre, ¿no fue justificado acaso mediante obras, al ofrecer sobre el altar a su hijo Isaac? [[31]](#n-31){:#rn-31}
+[2, 21](#c2-v21) Abrahán, nuestro padre, ¿no fue justificado acaso mediante obras, al ofrecer sobre el altar a su hijo Isaac? [[\*\*]](#n2-21)
 {:#c2-v21}
 
 [2, 22](#c2-v22) Ya ves que la fe cooperaba a sus obras y que por las obras se consumó la fe [[\*\*]](#n2-22);
@@ -195,7 +195,7 @@ El estilo es conciso, sentencioso y extraordinariamente rico en imágenes, siend
 [2, 24](#c2-v24) Veis pues que con las obras se justifica el hombre, y no con (aquella) fe sola.
 {:#c2-v24}
 
-[2, 25](#c2-v25) Así también Rahab la ramera ¿no fue justificada mediante obras cuando alojó a los mensajeros y los hizo partir por otro camino? [[33]](#n-33){:#rn-33}
+[2, 25](#c2-v25) Así también Rahab la ramera ¿no fue justificada mediante obras cuando alojó a los mensajeros y los hizo partir por otro camino? [[\*\*]](#n2-25)
 {:#c2-v25}
 
 [2, 26](#c2-v26) Porque así como el cuerpo aparte del espíritu es muerto, así también la fe sin obras es muerta.
@@ -265,7 +265,7 @@ El estilo es conciso, sentencioso y extraordinariamente rico en imágenes, siend
 
 ### ¿De dónde las guerras?
 
-[4, 1](#c4-v1) ¿De dónde las guerras, de dónde los pleitos entre vosotros? ¿No es de eso, de vuestras pasiones que luchan en vuestros miembros? [[41]](#n-41){:#rn-41}
+[4, 1](#c4-v1) ¿De dónde las guerras, de dónde los pleitos entre vosotros? ¿No es de eso, de vuestras pasiones que luchan en vuestros miembros? [[\*\*]](#n4-1)
 {:#c4-v1}
 
 [4, 2](#c4-v2) Deseáis y no tenéis; matáis y codiciáis, y sin embargo no podéis alcanzar; peleáis y hacéis guerra. Es que no tenéis porque no pedís.
@@ -302,7 +302,7 @@ El estilo es conciso, sentencioso y extraordinariamente rico en imágenes, siend
 [4, 11](#c4-v11) No habléis mal, hermanos, unos de otros. El que murmura de su hermano o juzga a su hermano, de la Ley murmura y juzga a la Ley. Y si tú juzgas a la Ley, no eres cumplidor de la Ley, sino que te eriges en juez.
 {:#c4-v11}
 
-[4, 12](#c4-v12) Uno solo es el Legislador y Juez: el que puede salvar y destruir. Tú, en cambio, ¿quién eres que juzgas al prójimo? [[47]](#n-47){:#rn-47}
+[4, 12](#c4-v12) Uno solo es el Legislador y Juez: el que puede salvar y destruir. Tú, en cambio, ¿quién eres que juzgas al prójimo? [[\*\*]](#n4-12)
 {:#c4-v12}
 
 ### «Si Dios quiere»
@@ -338,7 +338,7 @@ El estilo es conciso, sentencioso y extraordinariamente rico en imágenes, siend
 [5, 4](#c5-v4) He aquí que ya clama el jornal sustraído por vosotros a los trabajadores que segaron vuestros campos, y el clamor de los segadores ha penetrado en los oídos del Señor de los ejércitos [[\*\*]](#n5-4).
 {:#c5-v4}
 
-[5, 5](#c5-v5) Sobre la tierra os regalasteis y os entregasteis a los placeres: ¡habéis cebado vuestros corazones en día de matanza! [[53]](#n-53){:#rn-53}
+[5, 5](#c5-v5) Sobre la tierra os regalasteis y os entregasteis a los placeres: ¡habéis cebado vuestros corazones en día de matanza! [[\*\*]](#n5-5)
 {:#c5-v5}
 
 [5, 6](#c5-v6) Habéis condenado, habéis matado al justo, sin que este se os opusiera.

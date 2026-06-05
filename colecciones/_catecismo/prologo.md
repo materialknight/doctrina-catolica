@@ -62,7 +62,7 @@ title: Prólogo
 
 ### Primera parte: la profesión de la fe
 
-[**14**](#n14) Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (cf. Mt 10,32; Rom 10,9). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (*primera sección*). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los "tres capítulos" de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (*segunda sección*).
+[**14**](#n14) Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (cf. Mt 10,32; Rom [10, 9]({{ "biblia-straubinger/romanos#c10-v9" | relative_url }})). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (*primera sección*). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los "tres capítulos" de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (*segunda sección*).
 {:#n14}
 
 ### Segunda parte: Los sacramentos de la fe

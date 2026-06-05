@@ -68,7 +68,7 @@ title: Segunda carta del apóstol san Pedro
 
 ### El testimonio de los profetas
 
-[1, 19](#c1-v19) Y tenemos también, más segura aún, la palabra profética, a la cual bien hacéis en ateneros —como a una lámpara que alumbra en un lugar oscuro hasta que amanezca el día y el astro de la mañana se levante en vuestros corazones— [[10]](#n-10){:#rn-10}
+[1, 19](#c1-v19) Y tenemos también, más segura aún, la palabra profética, a la cual bien hacéis en ateneros —como a una lámpara que alumbra en un lugar oscuro hasta que amanezca el día y el astro de la mañana se levante en vuestros corazones— [[\*\*]](#n1-19)
 {:#c1-v19}
 
 [1, 20](#c1-v20) entendiendo esto ante todo: que ninguna profecía de la Escritura es obra de propia iniciativa [[\*\*]](#n1-20);
@@ -124,7 +124,7 @@ title: Segunda carta del apóstol san Pedro
 [2, 13](#c2-v13) recibiendo su paga en el salario de la iniquidad. Buscan la felicidad en la voluptuosidad del momento; sucios e inmundos, se deleitan en sus engaños, mientras banquetean con vosotros [[\*\*]](#n2-13).
 {:#c2-v13}
 
-[2, 14](#c2-v14) Tienen los ojos llenos de la mujer adúltera y no cesan de pecar; con halagos atraen las almas superficiales; y su corazón está versado en la codicia; son hijos de maldición [[19]](#n-19){:#rn-19}
+[2, 14](#c2-v14) Tienen los ojos llenos de la mujer adúltera y no cesan de pecar; con halagos atraen las almas superficiales; y su corazón está versado en la codicia; son hijos de maldición [[\*\*]](#n2-14)
 {:#c2-v14}
 
 [2, 15](#c2-v15) que, dejando el camino derecho, se han extraviado para seguir el camino de Balaam, hijo de Beor, que amó el salario de la iniquidad [[\*\*]](#n2-15),
@@ -189,7 +189,7 @@ title: Segunda carta del apóstol san Pedro
 
 ### Debemos aguardar el día del Señor
 
-[3, 11](#c3-v11) Si, pues, todo ha de disolverse así ¿cuál no debe ser la santidad de vuestra conducta y piedad [[34]](#n-34){:#rn-34}
+[3, 11](#c3-v11) Si, pues, todo ha de disolverse así ¿cuál no debe ser la santidad de vuestra conducta y piedad [[\*\*]](#n3-11)
 {:#c3-v11}
 
 [3, 12](#c3-v12) para esperar y apresurar la Parusía del día de Dios, por el cual los cielos encendidos se disolverán y los elementos se fundirán para ser quemados?

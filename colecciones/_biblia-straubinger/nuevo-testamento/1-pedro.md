@@ -115,7 +115,7 @@ title: Primera carta del apóstol san Pedro
 [2, 6](#c2-v6) Por lo cual se halla esto en la Escritura: «He aquí que pongo en Sión una piedra angular escogida y preciosa; y el que en ella cree nunca será confundido» [[\*\*]](#n2-6).
 {:#c2-v6}
 
-[2, 7](#c2-v7) Preciosa para vosotros los que creéis; mas para los que no creen, «la piedra que rechazaron los constructores esa misma ha venido a ser cabeza de ángulo» [[23]](#n-23){:#rn-23}
+[2, 7](#c2-v7) Preciosa para vosotros los que creéis; mas para los que no creen, «la piedra que rechazaron los constructores esa misma ha venido a ser cabeza de ángulo» [[\*\*]](#n2-7)
 {:#c2-v7}
 
 [2, 8](#c2-v8) y «roca de tropiezo y piedra de escándalo»; para aquellos que tropiezan por no creer a la Palabra, a lo cual en realidad están destinados.
@@ -256,13 +256,13 @@ title: Primera carta del apóstol san Pedro
 
 ### El ejemplo de los cristianos
 
-[4, 1](#c4-v1) Por tanto, habiendo Cristo padecido en la carne, armaos también vosotros de la misma disposición, a saber, que el que padeció en la carne ha roto con el pecado [[\*\*]](#n4-1),
+[4, 1](#c4-v1) Por tanto, habiendo Cristo padecido en la carne, armaos también vosotros de la misma disposición, a saber, que el que padeció en la carne ha roto con el pecado,
 {:#c4-v1}
 
 [4, 2](#c4-v2) para pasar lo que resta que vivir en carne, no ya según las concupiscencias humanas, sino según la voluntad de Dios;
 {:#c4-v2}
 
-[4, 3](#c4-v3) pues basta ya el tiempo pasado en que habéis cumplido la voluntad de los gentiles, viviendo en lascivia, concupiscencia, embriaguez, comilonas, orgías y nefaria idolatría.
+[4, 3](#c4-v3) pues basta ya el tiempo pasado en que habéis cumplido la voluntad de los gentiles, viviendo en lascivia, concupiscencia, embriaguez, comilonas, orgías y nefaria idolatría [[\*\*]](#n4-3).
 {:#c4-v3}
 
 [4, 4](#c4-v4) Ahora se extrañan de que vosotros no corráis con ellos a la misma desenfrenada disolución y se ponen a injuriar;
@@ -308,10 +308,10 @@ title: Primera carta del apóstol san Pedro
 [4, 16](#c4-v16) pero si es por cristiano, no se avergüence; antes bien, glorifique a Dios en este nombre [[\*\*]](#n4-16).
 {:#c4-v16}
 
-[4, 17](#c4-v17) Porque es ya el tiempo en que comienza el juicio por la casa de Dios. Y si comienza por nosotros, ¿cuál será el fin de los que no obedecen al Evangelio de Dios? [[53]](#n-53){:#rn-53}
+[4, 17](#c4-v17) Porque es ya el tiempo en que comienza el juicio por la casa de Dios. Y si comienza por nosotros, ¿cuál será el fin de los que no obedecen al Evangelio de Dios? [[\*\*]](#n4-17)
 {:#c4-v17}
 
-[4, 18](#c4-v18) Y si «el justo apenas se salva, ¿qué será del impío y pecador?» [[54]](#n-54){:#rn-54}
+[4, 18](#c4-v18) Y si «el justo apenas se salva, ¿qué será del impío y pecador?» [[\*\*]](#n4-18)
 {:#c4-v18}
 
 [4, 19](#c4-v19) Así, pues, los que sufren conforme a la voluntad de Dios, confíen sus almas al fiel Creador, practicando el bien [[\*\*]](#n4-19).
@@ -515,8 +515,8 @@ Según el mismo autor, S. Cirilo de Alejandría expresó en un sermón «que tod
 
 **Está a la diestra de Dios**: cf. Salmo [109, 1](salmos#c109-v1).
 
-[4, 1](#c4-v1) De este v. se colige una vez más que la Carta, en parte por lo menos, va dirigida también a los cristianos que antes eran paganos. Véase [2, 10](#c2-v10) y nota. Cf. Efesios [2, 3](efesios#c2-v3); Tito [3, 3](tito#c3-v3).
-{:#n4-1}
+[4, 3](#c4-v3) De este v. se colige una vez más que la Carta, en parte por lo menos, va dirigida también a los cristianos que antes eran paganos. Véase [2, 10](#c2-v10) y nota. Cf. Efesios [2, 3](efesios#c2-v3); Tito [3, 3](tito#c3-v3).
+{:#n4-3}
 
 [4, 6](#c4-v6) **A los muertos**: S. Pedro fija aquí el sentido del v. anterior en que usa la expresión vivos y muertos, conservada en el Credo y frecuente en el Nuevo Testamento (cf. 2 Timoteo [4, 1](2-timoteo#c4-v1); Romanos [14, 9](romanos#c14-v9); Hechos [10, 42](hechos#c10-v42)).
 {:#n4-6}

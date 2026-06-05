@@ -24,7 +24,7 @@ Para libros bíblicos CON capítulos:
 
    Para reformatear las referencias al principio o al final de versículo:
    {
-      ^\[(\d+), (\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
+      ^\[(\d+), (\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.*)
       [$1, $2]$3[[\*\*]](#n$1-$2)$4
    }
 
@@ -37,7 +37,10 @@ Para libros bíblicos CON capítulos:
    Para enlazar libros bíblicos:
    {
       (1 ?Jn\.?) ?(\d+)\.
+      $1 [$2]({{ "biblia-straubinger/romanos#c$2" | relative_url }}).
+
       (1 ?Jn\.?) ?(\d+);
+      $1 [$2]({{ "biblia-straubinger/romanos#c$2" | relative_url }});
 
       (1 ?Jn\.?) ?(\d+), ?(\d+)
       $1 [$2, $3]({{ "biblia-straubinger/1-juan#c$2-v$3" | relative_url }})

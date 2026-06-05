@@ -83,7 +83,7 @@ Si el padre es denominado, por el Espíritu Santo, Altísimo, Omnipotente y Señ
 
 Dios es el Dios de todos, de los judíos, de los gentiles y de los creyentes. Pero de los creyentes es Dios Padre, pues al fin de los tiempos abrió él el testamento de la adopción filial; sin embargo para los judíos es Señor y legislador porque cuando aquellos hombres, en los tiempos medios, olvidaron a Dios alejándose y rebelándose contra él, los recondujo a la obediencia mediante la ley para que cayeran en la cuenta que tenían un Señor que es autor, creador y que da el soplo de vida, al cual debemos prestar culto día y noche; y para los gentiles es creador, demiurgo y omnipotente.
 
-Para todos, sin excepción, es dador de alimento y manjar, rey y juez, porque nadie escapará a su juicio, ni judío, ni gentil ni ningún creyente que haya pecado y ni siquiera un ángel. Aquellos que en el presente se nieguen a creer en su bondad, experimentarán en el juicio su poder, como dice el santo apóstol: «No reconociendo que la bondad de Dios te está empujando a la enmienda, antes por el contrario, con la dureza y la impenitencia de tu corazón te estás almacenando la ira para el día de la ira cuando se revelará el justo juicio de Dios que pagará a cada uno según sus obras» (Rm 2,4-6).
+Para todos, sin excepción, es dador de alimento y manjar, rey y juez, porque nadie escapará a su juicio, ni judío, ni gentil ni ningún creyente que haya pecado y ni siquiera un ángel. Aquellos que en el presente se nieguen a creer en su bondad, experimentarán en el juicio su poder, como dice el santo apóstol: «No reconociendo que la bondad de Dios te está empujando a la enmienda, antes por el contrario, con la dureza y la impenitencia de tu corazón te estás almacenando la ira para el día de la ira cuando se revelará el justo juicio de Dios que pagará a cada uno según sus obras» (Rm [2, 4]({{ "biblia-straubinger/romanos#c2-v4" | relative_url }})-6).
 
 Éste es Aquel que en la ley es llamado «el Dios de Abraham, el Dios de Isaac y el Dios de Jacob, Dios de vivos» (Ex 3,6). De este Dios es indescriptible su trascendencia y magnitud.
 
@@ -217,7 +217,7 @@ Abraham se fio de la voz celeste y, a pesar de tener setenta años y una mujer a
 
 Para que Abraham conociese la grandeza y esplendor de su descendencia, Dios le hizo salir de noche y le dirigió estas palabras: «Mira a lo alto, al cielo, y, si puedes, cuenta las estrellas del cielo. Así será tu descendencia» (Gn 15,15). Y Dios viendo la fe y la firme decisión de su espíritu, se lo testimonió diciendo en la Escritura por medio del Espíritu Santo: «Abraham se fio de Dios y le fue reputado por justicia» (Gn 15,6).
 
-Era Abraham incircunciso cuando recibió este testimonio, y para que la grandeza de su fe fuera reconocida con un signo, le dio la circunsición «como sello de la justicia de la fe de la incircuncisión» (Rm 4,11). Después de esto, según la promesa de Dios, de la estéril Sara le nació un hijo, Isaac, que circuncidó según el pacto que Dios había estipulado con él. De Isaac nació Jacob.
+Era Abraham incircunciso cuando recibió este testimonio, y para que la grandeza de su fe fuera reconocida con un signo, le dio la circunsición «como sello de la justicia de la fe de la incircuncisión» (Rm [4, 11]({{ "biblia-straubinger/romanos#c4-v11" | relative_url }})). Después de esto, según la promesa de Dios, de la estéril Sara le nació un hijo, Isaac, que circuncidó según el pacto que Dios había estipulado con él. De Isaac nació Jacob.
 
 De esta manera, la inicial bendición de Sem llegó hasta Abraham, y de Abraham pasó a Isaac, y de Isaac a Jacob, gracias a la asignación de la herencia hecha por el Espíritu. Por esto a Dios se le denomina «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex 3,6; Mt 22,32). Jacob, a su vez, engendró doce hijos, de los cuales tomaron el nombre las doce tribus de Israel.
 
@@ -701,12 +701,12 @@ Ahora bien, si los profetas han vaticinado que el Hijo de Dios debía manifestar
 
 Los apóstoles, enviados por el Señor, han predicado por el mundo entero que el Hijo de Dios había venido para sufrir la pasión, la había soportado para destruir la muerte y dar vida al cuerpo, y que dando fin a la hostilidad hacia Dios (es decir, a la iniquidad), hemos de obtener su paz cumpliendo lo que es de su agrado.
 
-Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos son los pies de los mensajeros que anuncian la buena nueva de la paz, que pregonan la alegre noticia del bien!» (Is 52,7; Rm 10,15). Isaías dice que estos mensajeros vendrían de Judea y de Jerusalén para anunciarnos la palabra de Dios, que para nosotros es también ley: «Pues de Sión saldrá la ley, y de Jerusalén la palabra del Señor» (Is 2,3). David afirma que habían de predicar por toda la tierra: «A toda la tierra alcanza su pregón y hasta los límites del orbe su palabra» (Sal 18,5).
+Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos son los pies de los mensajeros que anuncian la buena nueva de la paz, que pregonan la alegre noticia del bien!» (Is 52,7; Rm [10, 15]({{ "biblia-straubinger/romanos#c10-v15" | relative_url }})). Isaías dice que estos mensajeros vendrían de Judea y de Jerusalén para anunciarnos la palabra de Dios, que para nosotros es también ley: «Pues de Sión saldrá la ley, y de Jerusalén la palabra del Señor» (Is 2,3). David afirma que habían de predicar por toda la tierra: «A toda la tierra alcanza su pregón y hasta los límites del orbe su palabra» (Sal 18,5).
 
 ## [87](#c87). El primado del amor
 {:#c87}
 
-No es con la locuacidad de la ley, por tanto, como se salva el género humano, sino con la brevedad y precisión de la fe y de la caridad. Isaías dice: «Una palabra concisa y breve en la justicia, porque Dios enviará una palabra concisa, con eficacia, sobre toda la tierra» (Is 10,23; Rm 9,28). De ahí que Pablo afirme: «El amor es la plenitud de la ley» (Rm 13,10). Pues el que ama a Dios cumple la ley.
+No es con la locuacidad de la ley, por tanto, como se salva el género humano, sino con la brevedad y precisión de la fe y de la caridad. Isaías dice: «Una palabra concisa y breve en la justicia, porque Dios enviará una palabra concisa, con eficacia, sobre toda la tierra» (Is 10,23; Rm [9, 28]({{ "biblia-straubinger/romanos#c9-v28" | relative_url }})). De ahí que Pablo afirme: «El amor es la plenitud de la ley» (Rm [13, 10]({{ "biblia-straubinger/romanos#c13-v10" | relative_url }})). Pues el que ama a Dios cumple la ley.
 
 Cuando le preguntaron al Señor: «¿Qué mandamiento es el primero de todos?», el Señor respondió: «Amarás al Señor tu Dios con todo tu corazón, con toda tu fuerza; y el segundo es similar a éste: Amarás al prójimo como a ti mismo. De estos dos mandamientos penden la ley y los profetas» (Mc 12,30; Mt 22,37).
 
@@ -743,14 +743,14 @@ Manifiestamente, estas palabras están dirigidas a aquellos que abandonan a los 
 ## [92](#c92). Manifestado a los que no le buscaban
 {:#c92}
 
-Que debía manifestarse en medio de nosotros (porque el Hijo de Dios se haría hijo del hombre), y que nosotros habíamos de encontrar al que desconocíamos, lo afirma el mismo Verbo en Isaías: «Me he manifestado a los que no me buscaban; he sido hallado por los que no preguntaban por mi. Dije: Aquí estoy ante un pueblo que no había invocado mi nombre» (Is 65,1; Rm 10,20).
+Que debía manifestarse en medio de nosotros (porque el Hijo de Dios se haría hijo del hombre), y que nosotros habíamos de encontrar al que desconocíamos, lo afirma el mismo Verbo en Isaías: «Me he manifestado a los que no me buscaban; he sido hallado por los que no preguntaban por mi. Dije: Aquí estoy ante un pueblo que no había invocado mi nombre» (Is 65,1; Rm [10, 20]({{ "biblia-straubinger/romanos#c10-v20" | relative_url }})).
 
 ## [93](#c93). Profecías sobre el pueblo de Dios
 {:#c93}
 
-Que este pueblo estaba llamado a ser un pueblo santo, lo vaticinó Oseas, uno de los doce profetas: «Al no-pueblo mío lo llamaré pueblo mío, y la no-amada será amada. Donde se diga no-mi-pueblo, allí se llamarán hijos del Dios viviente» (Os 2,25; Rm 9,25,26). También Juan Bautista vuelve a decir lo mismo: «Dios puede hacer surgir de estas piedras hijos de Abraham» (Mt 3,9).
+Que este pueblo estaba llamado a ser un pueblo santo, lo vaticinó Oseas, uno de los doce profetas: «Al no-pueblo mío lo llamaré pueblo mío, y la no-amada será amada. Donde se diga no-mi-pueblo, allí se llamarán hijos del Dios viviente» (Os 2,25; Rm [9, 25]({{ "biblia-straubinger/romanos#c9-v25" | relative_url }})-26). También Juan Bautista vuelve a decir lo mismo: «Dios puede hacer surgir de estas piedras hijos de Abraham» (Mt 3,9).
 
-En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm 3,28; 4,3; Ga 3,6; St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez 11,19-20; 36,26-27).
+En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm [3, 28]({{ "biblia-straubinger/romanos#c3-v28" | relative_url }}); 4,3; Ga 3,6; St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez 11,19-20; 36,26-27).
 
 ## [94](#c94). La Iglesia y la Sinagoga
 {:#c94}
@@ -777,7 +777,7 @@ La ley, en efecto, no afirmará más «no cometer adulterio» a aquel que ni siq
 
 Ya no mandará, pues, guardar un día de descanso al que todos los días observa el sábado, es decir, al que rinde culto a Dios en el templo de Dios que es el cuerpo del hombre y practica siempre la justicia. «Prefiero misericordia», dice, al tiempo que continúa: «Prefiero el conocimiento de Dios a los holocaustos».
 
-Pero el impío que inmola un ternero es como si matase a un perro, y cuando ofrece flor de harina es como si ofreciese sangre de cerdo» (Is 66,3). Y «todo el que invocare el nombre del Señor se salvará» (Hch 2,21; Rm 10,13; Jl 2,32), y «ningún otro nombre se nos ha dado bajo el cielo por el cual los hombres se salven» (Hch 4,12) si no es el nombre de Dios, Jesucristo, Hijo de Dios, al que obedecen todos los demonios, los espíritus malvados y todas las potencias rebeldes.
+Pero el impío que inmola un ternero es como si matase a un perro, y cuando ofrece flor de harina es como si ofreciese sangre de cerdo» (Is 66,3). Y «todo el que invocare el nombre del Señor se salvará» (Hch 2,21; Rm [10, 13]({{ "biblia-straubinger/romanos#c10-v13" | relative_url }}); Jl 2,32), y «ningún otro nombre se nos ha dado bajo el cielo por el cual los hombres se salven» (Hch 4,12) si no es el nombre de Dios, Jesucristo, Hijo de Dios, al que obedecen todos los demonios, los espíritus malvados y todas las potencias rebeldes.
 
 ## [97](#c97). La salvación en Jesucristo
 {:#c97}
