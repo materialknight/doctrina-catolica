@@ -1,5 +1,5 @@
 ---
-title: Carta a los Romanos
+title: Carta del apóstol san Pablo a los Romanos
 ---
 
 {% include bible/toc-auto.html %}

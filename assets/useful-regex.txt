@@ -73,3 +73,6 @@ Para libros bíblicos SIN capítulos:
       Judas [$1]({{ "biblia-straubinger/judas#v$1" | relative_url }})
    }
 }
+
+<!-- \[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\} -->
+<!-- [[\*\*]](#n?) -->

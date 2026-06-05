@@ -4,7 +4,7 @@ contenido:
     enlace: biblia-straubinger/prologo#
   - encabezado: Antiguo Testamento (46 libros)
     sublista:
-      - encabezado: El Pentateuco
+      - encabezado: Introducción al Pentateuco
         enlace: biblia-straubinger/pentateuco#
         sublista:
           - encabezado: Génesis
@@ -51,7 +51,7 @@ contenido:
             enlace: biblia-straubinger/1-macabeos#
           - encabezado: 2 Macabeos
             enlace: biblia-straubinger/2-macabeos#
-      - encabezado: Libros Sapienciales
+      - encabezado: Introducción a los Libros Sapienciales
         enlace: biblia-straubinger/libros-sapienciales#
         sublista:
           - encabezado: Job
@@ -68,7 +68,7 @@ contenido:
             enlace: biblia-straubinger/sabiduria#
           - encabezado: Eclesiástico
             enlace: biblia-straubinger/eclesiastico#
-      - encabezado: Libros Proféticos
+      - encabezado: Introducción a los Libros Proféticos
         enlace: biblia-straubinger/libros-profeticos#
         sublista:
           - encabezado: Isaías
@@ -107,7 +107,7 @@ contenido:
             enlace: biblia-straubinger/zacarias#
           - encabezado: Malaquías
             enlace: biblia-straubinger/malaquias#
-  - encabezado: Nuevo Testamento (27 libros)
+  - encabezado: Introducción al Nuevo Testamento (27 libros)
     enlace: biblia-straubinger/nuevo-testamento#
     sublista:
       - encabezado: Mateo
@@ -120,8 +120,8 @@ contenido:
         enlace: biblia-straubinger/juan#
       - encabezado: Hechos
         enlace: biblia-straubinger/hechos#
-      - encabezado: Epístolas Paulinas
-        enlace: biblia-straubinger/nuevo-testamento#s2
+      - encabezado: Introducción a las Epístolas Paulinas
+        enlace: biblia-straubinger/cartas-de-san-pablo#
         sublista:
           - encabezado: Romanos
             enlace: biblia-straubinger/romanos#
@@ -155,14 +155,14 @@ contenido:
         sublista:
           - encabezado: Santiago
             enlace: biblia-straubinger/santiago#
-          - encabezado: Cartas de san Pedro
+          - encabezado: Introducción a las cartas de san Pedro
             enlace: biblia-straubinger/cartas-de-san-pedro
             sublista:
               - encabezado: 1 Pedro
                 enlace: biblia-straubinger/1-pedro#
               - encabezado: 2 Pedro
                 enlace: biblia-straubinger/2-pedro#
-          - encabezado: Cartas de san Juan
+          - encabezado: Introducción a las cartas de san Juan
             enlace: biblia-straubinger/cartas-de-san-juan
             sublista:
               - encabezado: 1 Juan

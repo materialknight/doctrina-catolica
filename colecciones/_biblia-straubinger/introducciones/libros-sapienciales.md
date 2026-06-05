@@ -4,8 +4,6 @@ title: Introducción a los Libros Sapienciales
 
 {% include bible/toc-auto.html %}
 
-<!-- ## Introducción -->
-
 A los libros históricos sigue, en el Canon del Antiguo Testamento, el grupo de los libros llamados *didácticos* (por su enseñanza) o *poéticos* (por su forma) o *sapienciales* (por su contenido espiritual), que abarca los siguientes libros: **Job**, **Salmos**, **Proverbios**, **Eclesiastés**, **Cantar de los Cantares**, **Sabiduría**, **Eclesiástico**.
 
 Todos estos son principalmente denominados «libros sapienciales», porque las enseñanzas e instrucciones que Dios nos ofrece en ellos, forman lo que en el Antiguo Testamento se llama *Sabiduría*, que es el fundamento de la *piedad*. Temer ofender a Dios nuestro Padre, y guardar sus mandamientos con amor filial, esto es el fruto de la verdadera sabiduría. Es decir, que si la moral es la ciencia de lo que debemos hacer, la sabiduría es el arte de hacerlo con agrado y con fruto. Porque ella fructifica como el rosal junto a las aguas (Eclesiástico [39, 11](eclesiastico#c39-v11)).

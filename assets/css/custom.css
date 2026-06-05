@@ -160,6 +160,11 @@ textarea {
    border: 3px solid blueviolet;
 }
 
+[popover]>ul {
+   margin-left: 0;
+   /* With this, the class "no-left-margin" on popover <ul>s is reduntant.  */
+}
+
 /* BUTTONS */
 
 #btn-container {

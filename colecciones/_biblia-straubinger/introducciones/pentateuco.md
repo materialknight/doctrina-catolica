@@ -4,8 +4,6 @@ title: Introducción al Pentateuco
 
 {% include bible/toc-auto.html %}
 
-<!-- ## Introducción -->
-
 *El Pentateuco*, o, según lo llaman los judíos, el *Libro de la Ley* (Torah), encabeza los 73 libros de la Biblia, y constituye la magnífica puerta de la Revelación divina. Los nombres de los cinco libros del Pentateuco son: el **Génesis**, el **Éxodo**, el **Levítico**, los **Números**, el **Deuteronomio**, y su fin general es: exponer cómo Dios escogió para sí al pueblo de Israel y lo formó para la venida de Jesucristo; de modo que en realidad es Jesucristo quien aparece a través de los misteriosos destinos del pueblo escogido.
 
 **Génesis** significa «generación» u «origen». El nombre nos indica que este primer libro de la Revelación contiene los misterios de la prehistoria y los comienzos del Reino de Dios sobre la tierra. Describe, en particular, la creación del universo y del hombre, la caída de los primeros padres, la corrupción general, la historia de Noé y el diluvio. Luego el autor sagrado narra la confusión de las lenguas en la torre de Babel, la separación de Abrahán de su pueblo y la historia de este patriarca y de sus descendientes: Isaac, Jacob, José, para terminar con la bendición de Jacob, su muerte y la de su hijo José. En esta sucesión de acontecimientos históricos van intercaladas las grandes promesas mesiánicas con que Dios despertaba la esperanza de los patriarcas, depositarios de la Revelación primitiva.

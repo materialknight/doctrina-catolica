@@ -2,9 +2,6 @@
 title: Segunda carta del apóstol san Juan
 ---
 
-<!-- \[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\} -->
-<!-- [[\*\*]](#n?) -->
-
 {% include bible/toc-auto.html %}
 
 ## Exhortación a perseverar en la fe y en la caridad

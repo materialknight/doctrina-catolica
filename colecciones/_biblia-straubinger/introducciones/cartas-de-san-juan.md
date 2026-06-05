@@ -4,8 +4,6 @@ title: Introducción a las cartas de san Juan
 
 {% include bible/toc-auto.html %}
 
-<!-- ## Introducción -->
-
 Las tres Cartas que llevan el nombre de San Juan —una más general, importantísima, y las otras muy breves— han sido escritas por el mismo autor del cuarto Evangelio (véase su nota introductoria). Este es, dice el Oficio de San Juan, aquel discípulo que Jesús amaba (Juan [21, 7](juan#c21-v7)) y al que fueron revelados los secretos del cielo; aquel que se reclinó en la Cena sobre el pecho del Señor (Juan [21, 20](juan#c21-v20)) y que allí bebió, en la fuente del sagrado Pecho, raudales de sabiduría que encerró en su Evangelio.
 
 **La primera Epístola** carece de encabezamiento, lo que dio lugar a que algunos dudasen de su autenticidad. Mas, a pesar de faltar el nombre del autor, existe una unánime y constante tradición en el sentido de que esta Carta incomparablemente sublime ha de atribuirse, como las dos que le siguen y el Apocalipsis, al apóstol san Juan, hijo de Zebedeo y hermano de Santiago el Mayor, y así lo confirmó el Concilio Tridentino al señalar el canon de las Sagradas Escrituras.

@@ -6,7 +6,7 @@ title: Carta del apóstol Santiago
 
 ## Introducción
 
-La carta de Santiago es la primera entre las siete Epístolas no paulinas que, por no señalar varias de ellas un destinatario especial, han sido llamadas genéricamente católicas o universales, aunque en rigor la mayoría de ellas se dirige a la cristiandad de origen judío, y las dos últimas de S. Juan tienen un encabezamiento aún más limitado. S. Jerónimo las caracteriza diciendo que «son tan ricas en misterios como sucintas, tan breves en palabras como largas en sentencias».
+La carta de Santiago es la primera entre las siete Epístolas no paulinas que, por no señalar varias de ellas un destinatario especial, han sido llamadas genéricamente «católicas» o «universales», aunque en rigor la mayoría de ellas se dirige a la cristiandad de origen judío, y las dos últimas de S. Juan tienen un encabezamiento aún más limitado. S. Jerónimo las caracteriza diciendo que «son tan ricas en misterios como sucintas, tan breves en palabras como largas en sentencias».
 
 El autor, que se da a sí mismo el nombre de «Santiago, siervo de Dios y de nuestro Señor Jesucristo», es el apóstol que solemos llamar Santiago el Menor, hijo de Alfeo o Cleofás (Mateo [10, 3](mateo#c10-v3)) y de María (Mateo [27, 56](mateo#c27-v56)), «hermana» (o pariente) de la Virgen. Es, pues, de la familia de Jesús y llamado «hermano del Señor» (Gálatas [1, 19](galatas#c1-v19); cf. Mateo [13, 55](mateo#c13-v55) y Marcos [6, 3](marcos#c6-v3)).
 
