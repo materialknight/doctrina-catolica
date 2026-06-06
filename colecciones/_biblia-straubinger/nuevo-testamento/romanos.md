@@ -67,7 +67,7 @@ title: Carta del apóstol san Pablo a los Romanos
 
 ## I. Parte dogmática
 
-## A. La doctrina de la justificación
+### A. La doctrina de la justificación
 
 #### Necedad del paganismo
 
@@ -118,9 +118,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [1, 32](#c1-v32) Y si bien conocen que según lo establecido por Dios los que practican tales cosas son dignos de muerte, no solo las hacen, sino que también se complacen en los que las practican.
 {:#c1-v32}
 
-### Romanos [2](#c2) {#c2}
+#### Romanos [2](#c2) {#c2}
 
-#### Dios juzga a judíos y a gentiles
+##### Dios juzga a judíos y a gentiles
 
 [2, 1](#c2-v1) Por lo tanto no tienes excusa, oh hombre, quienquiera que seas, al juzgar; porque en lo que juzgas a otro, a ti mismo te condenas; puesto que tú que juzgas incurres en lo mismo [[\*\*]](#n2-1).
 {:#c2-v1}
@@ -155,7 +155,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [2, 11](#c2-v11) Pues en Dios no hay acepción de personas [[\*\*]](#n2-11).
 {:#c2-v11}
 
-#### Los judíos transgresores de la ley
+##### Los judíos, transgresores de la ley
 
 [2, 12](#c2-v12) Porque cuantos han pecado sin la Ley, sin la Ley también perecerán; y cuantos han pecado bajo la Ley, según la Ley serán juzgados.
 {:#c2-v12}
@@ -196,7 +196,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [2, 24](#c2-v24) «Porque el nombre de Dios es blasfemado por causa de vosotros entre los gentiles», según está escrito [[\*\*]](#n2-24).
 {:#c2-v24}
 
-#### La verdadera circuncisión
+##### La verdadera circuncisión
 
 [2, 25](#c2-v25) La circuncisión en verdad aprovecha si cumples la Ley, mas si eres transgresor de la Ley, tu circuncisión se ha hecho incircuncisión [[\*\*]](#n2-25).
 {:#c2-v25}
@@ -213,9 +213,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [2, 29](#c2-v29) antes bien es judío el que lo es en lo interior, y es circuncisión la del corazón según el espíritu y no según la letra, cuya alabanza no es de los hombres sino de Dios [[\*\*]](#n2-29).
 {:#c2-v29}
 
-### Romanos [3](#c3) {#c3}
+#### Romanos [3](#c3) {#c3}
 
-#### Los privilegios de los judíos y su incredulidad
+##### Los privilegios de los judíos y su incredulidad
 
 [3, 1](#c3-v1) ¿Qué ventaja tiene, pues, el judío? o ¿qué aprovecha la circuncisión?
 {:#c3-v1}
@@ -241,7 +241,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [3, 8](#c3-v8) Y ¿por qué no (decir), según nos calumnian, y como algunos afirman que nosotros decimos: «Hagamos el mal para que venga el bien»? Justa es la condenación de los tales [[\*\*]](#n3-8).
 {:#c3-v8}
 
-#### Todos estamos sujetos al pecado
+##### Todos estamos sujetos al pecado
 
 [3, 9](#c3-v9) ¿Qué decir entonces? ¿Tenemos acaso alguna ventaja nosotros? No, de ningún modo, porque hemos probado ya que tanto los judíos como los griegos, todos, están bajo el pecado [[\*\*]](#n3-9);
 {:#c3-v9}
@@ -279,7 +279,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [3, 20](#c3-v20) dado que por obras de la Ley no será justificada delante de Él carne alguna; pues por medio de la Ley (nos viene) el conocimiento del pecado [[\*\*]](#n3-20).
 {:#c3-v20}
 
-#### La justificación por la fe
+##### La justificación por la fe
 
 [3, 21](#c3-v21) Mas ahora, aparte de la Ley, se ha manifestado (cuál sea la) justicia de Dios, atestiguada por la Ley y los Profetas:
 {:#c3-v21}
@@ -314,9 +314,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [3, 31](#c3-v31) ¿Anulamos entonces la Ley por la fe? De ninguna manera; antes bien, confirmamos la Ley.
 {:#c3-v31}
 
-### Romanos [4](#c4) {#c4}
+#### Romanos [4](#c4) {#c4}
 
-#### Abrahán justificado por la fe sin las obras de la ley
+##### Abrahán justificado por la fe sin las obras de la ley
 
 [4, 1](#c4-v1) ¿Qué diremos luego que obtuvo Abrahán, nuestro Padre según la carne? [[\*\*]](#n4-1)
 {:#c4-v1}
@@ -369,7 +369,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [4, 17](#c4-v17) —según está escrito: «Padre de muchas naciones te he constituido»— ante Aquel a quien creyó: Dios, el cual da vida a los muertos, y llama las cosas que (aún) no son como si (ya) fuesen.
 {:#c4-v17}
 
-#### Fe de Abrahán que espera contra toda esperanza
+##### Fe de Abrahán que espera contra toda esperanza
 
 [4, 18](#c4-v18) Abrahán, esperando contra toda esperanza, creyó que vendría a ser padre de muchas naciones, según lo que había sido dicho: «Así será tu posteridad» [[\*\*]](#n4-18).
 {:#c4-v18}
@@ -395,9 +395,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [4, 25](#c4-v25) el cual fue entregado a causa de nuestros pecados y resucitado para nuestra justificación [[\*\*]](#n4-25).
 {:#c4-v25}
 
-### Romanos [5](#c5) {#c5}
+#### Romanos [5](#c5) {#c5}
 
-#### Frutos de la justificación
+##### Frutos de la justificación
 
 [5, 1](#c5-v1) Justificados, pues, por la fe, tenemos paz con Dios, por medio de nuestro Señor Jesucristo [[\*\*]](#n5-1),
 {:#c5-v1}
@@ -432,7 +432,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [5, 11](#c5-v11) Y no solo esto, sino que aun nos gloriamos en Dios, por nuestro Señor Jesucristo, por quien ahora hemos logrado la reconciliación.
 {:#c5-v11}
 
-#### Cristo, el segundo Adán
+##### Cristo, el segundo Adán
 
 [5, 12](#c5-v12) Por tanto, como por un solo hombre entró el pecado en el mundo, y por el pecado la muerte, también así la muerte pasó a todos los hombres, por cuanto todos pecaron [[\*\*]](#n5-12);
 {:#c5-v12}
@@ -464,9 +464,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [5, 21](#c5-v21) para que, como reinó el pecado por la muerte, así también reinase la gracia, por la justicia, para eterna vida, por medio de Jesucristo nuestro Señor.
 {:#c5-v21}
 
-### Romanos [6](#c6) {#c6}
+#### Romanos [6](#c6) {#c6}
 
-#### Significado del bautismo como nueva vida
+##### Significado del bautismo como nueva vida
 
 [6, 1](#c6-v1) ¿Qué diremos, pues? ¿Permaneceremos en el pecado, para que abunde la gracia?
 {:#c6-v1}
@@ -501,7 +501,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [6, 11](#c6-v11) Así también vosotros teneos por muertos para el pecado, pero vivos para Dios en Cristo Jesús.
 {:#c6-v11}
 
-#### Triunfo sobre el pecado y vida para Dios
+##### Triunfo sobre el pecado y vida para Dios
 
 [6, 12](#c6-v12) No reine, pues, el pecado en vuestro cuerpo mortal, de modo que obedezcáis a sus concupiscencias,
 {:#c6-v12}
@@ -539,9 +539,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [6, 23](#c6-v23) Porque el salario del pecado es la muerte, mas la gracia de Dios es vida eterna en Cristo Jesús Señor nuestro [[\*\*]](#n6-23).
 {:#c6-v23}
 
-### Romanos [7](#c7) {#c7}
+#### Romanos [7](#c7) {#c7}
 
-#### El cristiano y la Ley
+##### El cristiano y la Ley
 
 [7, 1](#c7-v1) ¿Acaso ignoráis, hermanos —pues hablo a quienes conocen la Ley—, que la Ley tiene dominio sobre el hombre mientras dure la vida? [[\*\*]](#n7-1)
 {:#c7-v1}
@@ -561,7 +561,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [7, 6](#c7-v6) Mas ahora, muertos a aquello en que éramos detenidos, estamos desligados de la Ley, de modo que servimos ya en novedad de espíritu y no en vejez de letra.
 {:#c7-v6}
 
-#### La Ley, ocasión de pecado
+##### La Ley, ocasión de pecado
 
 [7, 7](#c7-v7) ¿Qué diremos, pues? ¿Qué la Ley es pecado? De ningún modo. Sin embargo, yo no conocí el pecado sino por la Ley. Pues yo no habría conocido la codicia si la Ley no dijera: «No codiciarás» [[\*\*]](#n7-7).
 {:#c7-v7}
@@ -584,7 +584,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [7, 13](#c7-v13) Luego ¿lo bueno vino a ser muerte para mí? Nada de eso; sino que el pecado, para mostrarse pecado, obró muerte en mí por medio de lo que es bueno, a fin de que, mediante el precepto, el pecado viniese a ser sobremanera pecaminoso [[\*\*]](#n7-13).
 {:#c7-v13}
 
-#### Oposición entre la carne y el espíritu
+##### Oposición entre la carne y el espíritu
 
 [7, 14](#c7-v14) Porque sabemos que la Ley es espiritual, mas yo soy carnal, vendido por esclavo al pecado [[\*\*]](#n7-14).
 {:#c7-v14}
@@ -622,9 +622,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [7, 25](#c7-v25) ¡Gracias a Dios por Jesucristo nuestro Señor! Así que, yo mismo con la mente sirvo a la Ley de Dios, mas con la carne a la ley del pecado.
 {:#c7-v25}
 
-### Romanos [8](#c8) {#c8}
+#### Romanos [8](#c8) {#c8}
 
-#### Felicidad del cristiano
+##### Felicidad del cristiano
 
 [8, 1](#c8-v1) Por tanto, ahora no hay condenación alguna para los que están en Cristo Jesús [[\*\*]](#n8-1).
 {:#c8-v1}
@@ -656,7 +656,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [8, 10](#c8-v10) Si, en cambio, Cristo habita en vosotros, el cuerpo en verdad está muerto por causa del pecado, mas el espíritu es vida a causa de la justicia.
 {:#c8-v10}
 
-#### La vida eterna del cuerpo y del alma
+##### La vida eterna del cuerpo y del alma
 
 [8, 11](#c8-v11) Y si el Espíritu del que resucitó a Jesús de entre los muertos habita en vosotros, Aquel que resucitó a Cristo de entre los muertos vivificará también vuestros cuerpos mortales por medio de ese Espíritu suyo que habita en vosotros.
 {:#c8-v11}
@@ -679,7 +679,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [8, 17](#c8-v17) Y si hijos, también herederos; herederos de Dios y coherederos de Cristo, si es que sufrimos juntamente (con Él), para ser también glorificados (con Él).
 {:#c8-v17}
 
-#### La gran esperanza del cristiano y de toda la creación
+##### La gran esperanza del cristiano y de toda la creación
 
 [8, 18](#c8-v18) Estimo, pues que esos padecimientos del tiempo presente no son dignos de ser comparados con la gloria venidera que ha de manifestarse en nosotros [[\*\*]](#n8-18).
 {:#c8-v18}
@@ -705,7 +705,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [8, 25](#c8-v25) Si, pues, esperamos lo que no vemos, esperamos en paciencia.
 {:#c8-v25}
 
-#### Nuevos favores del Espíritu Santo
+##### Nuevos favores del Espíritu Santo
 
 [8, 26](#c8-v26) De la misma manera también el Espíritu ayuda a nuestra flaqueza; porque no sabemos qué orar según conviene, pero el Espíritu está intercediendo Él mismo por nosotros con gemidos que son inexpresables [[\*\*]](#n8-26).
 {:#c8-v26}
@@ -722,7 +722,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [8, 30](#c8-v30) Y a esos que predestinó, también los llamó; y a esos que llamó, también los justificó; y a esos que justificó, también los glorificó.
 {:#c8-v30}
 
-#### Seguridad de la redención
+##### Seguridad de la redención
 
 [8, 31](#c8-v31) Y a esto ¿qué diremos ahora? Si Dios está por nosotros, ¿quién contra nosotros? [[\*\*]](#n8-31)
 {:#c8-v31}
@@ -751,11 +751,11 @@ title: Carta del apóstol san Pablo a los Romanos
 [8, 39](#c8-v39) ni altura, ni profundidad, ni otra creatura alguna podrá separarnos del amor de Dios, que está en Cristo Jesús nuestro Señor.
 {:#c8-v39}
 
-## B. La situación del pueblo judío
+### B. La situación del pueblo judío
 
-### Romanos [9](#c9) {#c9}
+#### Romanos [9](#c9) {#c9}
 
-#### Dios no elige según la carne
+##### Dios no elige según la carne
 
 [9, 1](#c9-v1) Digo verdad en Cristo, dándome testimonio mi conciencia en el Espíritu Santo, de que no miento [[\*\*]](#n9-1):
 {:#c9-v1}
@@ -796,7 +796,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [9, 13](#c9-v13) según está escrito: «A Jacob amé, mas aborrecí a Esaú».
 {:#c9-v13}
 
-#### Dios ejerce su soberana libertad
+##### Dios ejerce su soberana libertad
 
 [9, 14](#c9-v14) ¿Qué diremos, pues? ¿Qué hay injusticia por parte de Dios? De ninguna manera [[\*\*]](#n9-14).
 {:#c9-v14}
@@ -831,7 +831,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [9, 24](#c9-v24) a saber, nosotros, a los cuales Él llamó, no solo de entre los judíos, sino también de entre los gentiles?
 {:#c9-v24}
 
-#### Reprobación de los judíos
+##### Reprobación de los judíos
 
 [9, 25](#c9-v25) Como también dice en Oseas: «Llamaré pueblo mío al que no es mi pueblo, y amada a la no amada [[\*\*]](#n9-25).
 {:#c9-v25}
@@ -848,7 +848,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [9, 29](#c9-v29) El mismo Isaías ya antes había dicho: «Si el Señor de los ejércitos no nos hubiera dejado una semilla, habríamos venido a ser como Sodoma y asemejados a Gomorra».
 {:#c9-v29}
 
-#### ¿Cuál fue el extravío de Israel?
+##### ¿Cuál fue el extravío de Israel?
 
 [9, 30](#c9-v30) ¿Qué diremos en conclusión? Que los gentiles, los cuales no andaban tras la justicia, llegaron a la justicia, a la justicia que nace de la fe;
 {:#c9-v30}
@@ -862,9 +862,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [9, 33](#c9-v33) como está escrito: «He aquí que pongo en Sión una piedra de escándalo, y peñasco de tropiezo; y el que creyere en Él no será confundido» [[\*\*]](#n9-33).
 {:#c9-v33}
 
-### Romanos [10](#c10) {#c10}
+#### Romanos [10](#c10) {#c10}
 
-#### La justicia de la ley y la justicia de la fe
+##### La justicia de la ley y la justicia de la fe
 
 [10, 1](#c10-v1) Hermanos, el deseo de mi corazón y la súplica que elevo a Dios, es en favor de ellos para que sean salvos [[\*\*]](#n10-1).
 {:#c10-v1}
@@ -905,7 +905,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [10, 13](#c10-v13) Así que «todo el que invocare el nombre del Señor será salvo» [[\*\*]](#n10-13).
 {:#c10-v13}
 
-#### La incredulidad no tiene disculpa
+##### La incredulidad no tiene disculpa
 
 [10, 14](#c10-v14) Ahora bien, ¿cómo invocarán a Aquel en quien no han creído? Y ¿cómo creerán en Aquel de quien nada han oído? Y ¿cómo oirán, sin que haya quien predique?
 {:#c10-v14}
@@ -931,9 +931,9 @@ title: Carta del apóstol san Pablo a los Romanos
 [10, 21](#c10-v21) Mas acerca de Israel dice: «Todo el día he extendido mis manos hacia un pueblo desobediente y rebelde».
 {:#c10-v21}
 
-### Romanos [11](#c11) {#c11}
+#### Romanos [11](#c11) {#c11}
 
-#### Las reliquias de Israel
+##### Las reliquias de Israel
 
 [11, 1](#c11-v1) Pregunto entonces: ¿Ha desechado Dios a su pueblo? No, ciertamente, puesto que yo también soy israelita, del linaje de Abrahán, de la tribu de Benjamín [[\*\*]](#n11-1).
 {:#c11-v1}
@@ -965,7 +965,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [11, 10](#c11-v10) oscurézcanseles sus ojos para que no vean, y doblégales, tú, siempre la espalda».
 {:#c11-v10}
 
-#### La vocación de los gentiles es un estímulo para los judíos
+##### La vocación de los gentiles es un estímulo para los judíos
 
 [11, 11](#c11-v11) Ahora digo: ¿Acaso tropezaron para que cayesen? Eso no; sino que por la caída de ellos vino la salud a los gentiles para excitarlos (a los judíos) a emulación [[\*\*]](#n11-11).
 {:#c11-v11}
@@ -991,7 +991,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [11, 18](#c11-v18) no te engrías contra las ramas; que si te engríes (sábete que), no eres tú quien sostienes la raíz, sino la raíz a ti.
 {:#c11-v18}
 
-#### Grave advertencia a los gentiles llamados a la fe
+##### Grave advertencia a los gentiles llamados a la fe
 
 [11, 19](#c11-v19) Pero dirás: Tales ramas fueron desgajadas para que yo fuese injertado.
 {:#c11-v19}
@@ -1011,7 +1011,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [11, 24](#c11-v24) Porque si tú fuiste cortado de lo que por naturaleza era acebuche, y contra naturaleza injertado en el olivo bueno, ¿cuánto más ellos, que son las ramas naturales, serán injertados en el propio olivo?
 {:#c11-v24}
 
-#### San Pablo profetiza la conversión de Israel
+##### San Pablo profetiza la conversión de Israel
 
 [11, 25](#c11-v25) No quiero que ignoréis, hermanos, este misterio —para que no seáis sabios a vuestros ojos—: el endurecimiento ha venido sobre una parte de Israel hasta que la plenitud de los gentiles haya entrado [[\*\*]](#n11-25);
 {:#c11-v25}
@@ -1037,7 +1037,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [11, 32](#c11-v32) Porque a todos los ha encerrado Dios dentro de la desobediencia, para poder usar con todos de misericordia [[\*\*]](#n11-32).
 {:#c11-v32}
 
-#### Himno a la eterna sabiduría
+##### Himno a la eterna sabiduría
 
 [11, 33](#c11-v33) ¡Oh, profundidad de la riqueza, de la sabiduría y de la ciencia de Dios! ¡Cuán inescrutables son sus juicios, y cuán insondables sus caminos!
 {:#c11-v33}

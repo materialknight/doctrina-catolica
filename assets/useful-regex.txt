@@ -12,6 +12,8 @@ DV [$1]({{ "dei-verbum#n$1" | relative_url }})
 
 Para reemplazar comillas:
 "(.+?)"
+(?<!=)"([^=/|#-]+?)"
+
 «$1»
 
 Para libros bíblicos CON capítulos:
@@ -57,7 +59,7 @@ Para libros bíblicos SIN capítulos:
 
    Para reformatear las referencias al final de versículo:
    {
-      ^\[(\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.+)
+      ^\[(\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.*)
       [$1]$2[[\*\*]](#n$1)$3
    }
 
