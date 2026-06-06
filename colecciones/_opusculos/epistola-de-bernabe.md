@@ -811,7 +811,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [6, 18](#c6-18) Génesis 1, 26 y 28.
 {:#n6-18}
 
-[7, 2](#c7-2) «Que ha de juzgar a los vivos y a los muertos»: 2 Timoteo 4, 1.
+[7, 2](#c7-2) «Que ha de juzgar a los vivos y a los muertos»: 2 Timoteo [4, 1]({{ "biblia-straubinger/2-timoteo#c4-v1" | relative_url }}).
 {:#n7-2}
 
 [7, 3](#c7-3) «Fué abrevado con vinagre y hiel»: Mateo 27, 34.

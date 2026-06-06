@@ -10,7 +10,7 @@ Esta obra es un manual eclesiástico, escrito originalmente en griego *koiné* (
 
 El Catecismo la cita en latín como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή» (*didajé* = doctrina, instrucción o enseñanza), cuyo significado recuerda al término hebreo «תורה» (*torá* = doctrina, instrucción, enseñanza o ley, especialmente la dada por Dios en el Pentateuco), pues efectivamente esta obra sintetiza la **doctrina** cristiana, que es la **ley** del amor (Romanos [13, 8]({{ "biblia-straubinger/romanos#c13-v8" | relative_url }})-10) dada por Dios hecho hombre (Isaías 54, 13) en el Nuevo Pacto (Jeremías 31, 31-33).
 
-También la *Didajé* es el testimonio más antiguo de la fidelidad con que la Iglesia Católica ha conservado el Depósito de la Fe (2 Timoteo 1, 12-14) hasta nuestros días.
+También la *Didajé* es el testimonio más antiguo de la fidelidad con que la Iglesia Católica ha conservado el Depósito de la Fe (2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14) hasta nuestros días.
 
 El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) fue descubierto en 1873 por el arzobispo Filoteo Bryennios en la biblioteca del Patriarcado Ortodoxo Griego de Constantinopla (hoy Estambul, Turquía).
 
@@ -447,7 +447,7 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 *Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios 14, 3).
 {:#n11-3b}
 
-[11, 7](#c11-7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo 12, 22-37 y Marcos 3, 20-30. Cp. 2 Timoteo 4, 14-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
+[11, 7](#c11-7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo 12, 22-37 y Marcos 3, 20-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
 {:#n11-7}
 
 Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues podríamos llegar a estorbar al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar públicamente al profeta mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
@@ -469,7 +469,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [14, 3](#c14-3) Esta cita es una paráfrasis de Malaquías 1, 11.
 {:#n14-3}
 
-[16, 5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios 3, 11-17; y sobre el «Depósito de la Fé», véase 1 Timoteo 6, 20 y 2 Timoteo 1, 12-14.
+[16, 5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios 3, 11-17; y sobre el «Depósito de la Fé», véase 1 Timoteo 6, 20 y 2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14.
 {:#n16-5}
 
 [16, 7](#c16-7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses 3, 13 y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
