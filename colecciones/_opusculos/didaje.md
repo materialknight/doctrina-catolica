@@ -10,7 +10,7 @@ Esta obra es un manual eclesiástico, escrito originalmente en griego *koiné* (
 
 El Catecismo la cita en latín como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή» (*didajé* = doctrina, instrucción o enseñanza), cuyo significado recuerda al término hebreo «תורה» (*torá* = doctrina, instrucción, enseñanza o ley, especialmente la dada por Dios en el Pentateuco), pues efectivamente esta obra sintetiza la **doctrina** cristiana, que es la **ley** del amor (Romanos [13, 8]({{ "biblia-straubinger/romanos#c13-v8" | relative_url }})-10) dada por Dios hecho hombre (Isaías 54, 13) en el Nuevo Pacto (Jeremías 31, 31-33).
 
-La *Didajé* es de los testigos más antiguos de la liturgia católica, e igual que la mayoría de documentos cristianos del siglo I, confirma que la Iglesia Católica ha conservado íntegro el depósito de la fe de los primeros cristianos (2 Timoteo 1, 12-14).
+También la *Didajé* es el testimonio más antiguo de la fidelidad con que la Iglesia Católica ha conservado el Depósito de la Fe (2 Timoteo 1, 12-14) hasta nuestros días.
 
 El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) fue descubierto en 1873 por el arzobispo Filoteo Bryennios en la biblioteca del Patriarcado Ortodoxo Griego de Constantinopla (hoy Estambul, Turquía).
 
