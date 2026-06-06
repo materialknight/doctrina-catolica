@@ -20,8 +20,8 @@ Para libros bíblicos CON capítulos:
 {
    Para pasar el id del link <a> al versículo <p>:
    {
-   ^\[\d+\]\(#c(\d+)-v(\d+)\)\{:#c\d+-v\d+\}(.+)
-   [$1, $2](#c$1-v$2)$3\n{:#c$1-v$2}
+      ^\[\d+\]\(#c(\d+)-v(\d+)\)\{:#c\d+-v\d+\}(.+)
+      [$1, $2](#c$1-v$2)$3\n{:#c$1-v$2}
    }
 
    Para reformatear las referencias al principio o al final de versículo:

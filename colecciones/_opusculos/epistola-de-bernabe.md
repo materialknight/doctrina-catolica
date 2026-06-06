@@ -695,7 +695,7 @@ Los cristianos antiguos solían citar de memoria, a veces parafraseando (es deci
 
 En estas notas, las referencias a los salmos siguen la numeración de la Septuaginta (la Traducción de los LXX), utilizada habitualmente por los cristianos antiguos, la cual no coincide con la numeración del texto masorético, usada en la mayoría de biblias modernas. De manera que, por ejemplo: Si al consultar en tu Biblia el Salmo 50, 19, el texto no tiene nada que ver con la cita, véase el salmo siguiente (51, 19), y en ambos casos, véase el versículo anterior y el siguiente.
 
-[1, 4](#c1-4) «Por la esperanza de su vida»: Véase Tito 1, 2; 3, 7 y 1 Pedro [3, 15]({{ "biblia-straubinger/1-pedro#c3-v15" | relative_url }}).
+[1, 4](#c1-4) «Por la esperanza de su vida»: Véase Tito [1, 2]({{ "biblia-straubinger/tito#c1-v2" | relative_url }}); [3, 7]({{ "biblia-straubinger/tito#c3-v7" | relative_url }}) y 1 Pedro [3, 15]({{ "biblia-straubinger/1-pedro#c3-v15" | relative_url }}).
 {:#n1-4}
 
 [2, 5](#c2-5) Isaías 1, 11-13.
