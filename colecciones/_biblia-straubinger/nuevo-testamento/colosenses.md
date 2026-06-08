@@ -1,5 +1,5 @@
 ---
-title: Carta a los Colosenses
+title: Carta del apóstol san Pablo a los Colosenses
 ---
 
 {% include bible/toc-auto.html %}

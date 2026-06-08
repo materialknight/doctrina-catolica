@@ -648,9 +648,9 @@ published: false
 
 ## Capítulo 20
 
-### El camino del "Negro"
+### El camino del «Negro»
 
-[20, 1](#c20-1) Mas el camino del "Negro" es torcido y lleno de maldición, pues es camino de muerte eterna con castigo, en que están las cosas que pierden el alma de quienes lo siguen: idolatría, temeridad, altivez de poder, hipocresía, doblez de corazón, adulterio, asesinato, robo, soberbia, transgresión, engaño, maldad, arrogancia, hechicería, magia, avaricia, falta de temor de Dios.
+[20, 1](#c20-1) Mas el camino del «Negro» es torcido y lleno de maldición, pues es camino de muerte eterna con castigo, en que están las cosas que pierden el alma de quienes lo siguen: idolatría, temeridad, altivez de poder, hipocresía, doblez de corazón, adulterio, asesinato, robo, soberbia, transgresión, engaño, maldad, arrogancia, hechicería, magia, avaricia, falta de temor de Dios.
 {:#c20-1}
 
 [20, 2](#c20-2) Perseguidores de los buenos, aborrecedores de la verdad, amadores de la mentira, desconocedores de la recompensa de la justicia, que no se adhieren al bien ni al juicio justo, que no atienden a la viuda y al huérfano, que valen no para el temor de Dios, si no para el mal, de quienes está lejos y remota la mansedumbre y la paciencia, que aman la vanidad, que persiguen la recompensa, que no se compadecen del menesteroso, que no sufren con el atribulado, prontos a la maledicencia, desconocedores de Aquel que los creó, matadores de sus hijos por el aborto, destructores de la obra de Dios, que echan de sí al necesitado, que sobreatribulan al atribulado, abogados de los ricos, jueces inicuos de los pobres, pecadores en todo.

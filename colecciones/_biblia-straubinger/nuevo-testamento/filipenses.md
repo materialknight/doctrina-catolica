@@ -1,5 +1,5 @@
 ---
-title: Carta a los Filipenses
+title: Carta del apóstol san Pablo a los Filipenses
 ---
 
 {% include bible/toc-auto.html %}
