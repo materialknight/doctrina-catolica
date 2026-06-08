@@ -7,7 +7,7 @@ contenido:
   - encabezado: "Primera parte: La profesión de la fe"
     enlace: compendio-catecismo/p1-s1#
     sublista:
-      - encabezado: "Primera sección: «Creo» - «Creemos»"
+      - encabezado: "Primera sección: «Creo» - «Creemos» (1-32)"
         enlace: compendio-catecismo/p1-s1#s1
         sublista:
           - encabezado: "Capítulo primero: El hombre es «capaz» de Dios"
@@ -28,7 +28,7 @@ contenido:
                 enlace: compendio-catecismo/p1-s1#c3-t1
               - encabezado: Creemos
                 enlace: compendio-catecismo/p1-s1#c3-t2
-      - encabezado: "Segunda sección: La profesión de la fe cristiana"
+      - encabezado: "Segunda sección: La profesión de la fe cristiana (33-217)"
         enlace: compendio-catecismo/p1-s2#s2
         sublista:
           - encabezado: El Credo
@@ -92,7 +92,7 @@ contenido:
   - encabezado: "Segunda parte: La celebración del Misterio Cristiano"
     enlace: compendio-catecismo/p2-s1#
     sublista:
-      - encabezado: "Primera sección: La economía sacramental"
+      - encabezado: "Primera sección: La economía sacramental (218-249)"
         enlace: compendio-catecismo/p2-s1#s1
         sublista:
           - encabezado: "Capítulo primero: El Misterio pascua en el tiempo de la Iglesia"
@@ -118,7 +118,7 @@ contenido:
                     enlace: compendio-catecismo/p2-s1#c2-t1-p4
               - encabezado: Diversidad litúrgica y unidad del misterio
                 enlace: compendio-catecismo/p2-s1#c2-t2
-      - encabezado: "Segunda sección: Los Siete Sacramentos de la Iglesia"
+      - encabezado: "Segunda sección: Los Siete Sacramentos de la Iglesia (250-356)"
         enlace: compendio-catecismo/p2-s2#
         sublista:
           - encabezado: "Capítulo primero: Los sacramentos de la iniciación cristiana"
@@ -154,7 +154,7 @@ contenido:
   - encabezado: "Tercera parte: La vida en Cristo"
     enlace: compendio-catecismo/p3-s1#
     sublista:
-      - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu"
+      - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu (357-433)"
         enlace: compendio-catecismo/p3-s1#s1
         sublista:
           - encabezado: "Capítulo primero: La dignidad de la persona humana"
@@ -192,7 +192,7 @@ contenido:
                 enlace: compendio-catecismo/p3-s1#c3-t2
               - encabezado: La Iglesia, Madre y Maestra
                 enlace: compendio-catecismo/p3-s1#c3-t3
-      - encabezado: "Segunda sección: Los diez Mandamientos"
+      - encabezado: "Segunda sección: Los diez Mandamientos (434-533)"
         enlace: compendio-catecismo/p3-s2#s2
         sublista:
           - encabezado: Los Diez Mandamientos
@@ -226,7 +226,7 @@ contenido:
   - encabezado: "Cuarta parte: La oración Cristiana"
     enlace: compendio-catecismo/p4-s1#
     sublista:
-      - encabezado: "Primera sección: La oración en la vida cristiana"
+      - encabezado: "Primera sección: La oración en la vida cristiana (534-577)"
         enlace: compendio-catecismo/p4-s1#s1
         sublista:
           - encabezado: "Capítulo primero: La revelación de la oración"
@@ -254,7 +254,7 @@ contenido:
                 enlace: compendio-catecismo/p4-s1#c3-t1
               - encabezado: El combate de la oración
                 enlace: compendio-catecismo/p4-s1#c3-t2
-      - encabezado: "Segunda sección: La oración del Señor: «Padre nuestro»"
+      - encabezado: "Segunda sección: La oración del Señor: «Padre nuestro» (578-598)"
         enlace: compendio-catecismo/p4-s2#s2
         sublista:
           - encabezado: El Padre nuestro
