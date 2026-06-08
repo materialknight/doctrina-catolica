@@ -7,7 +7,7 @@ title: Prólogo
 <!-- Regex: ^(\d+)(.+) -->
 <!-- Reemplazo: [**$1**](#p$1)$2\n{:#p$1} -->
 
-> «PADRE, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo» (Jn 17,3). «Dios, nuestro Salvador... quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad» (1Tm 2,3-4). «No hay bajo el cielo otro nombre dado a los hombres por el que nosotros debamos salvarnos» (Hch 4,12), sino el nombre de Jesús.
+> «PADRE, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo» (Jn 17,3). «Dios, nuestro Salvador... quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad» (1 Tm [2, 3]({{ "biblia-straubinger/1-timoteo#c2-v3" | relative_url }})-4). «No hay bajo el cielo otro nombre dado a los hombres por el que nosotros debamos salvarnos» (Hch 4,12), sino el nombre de Jesús.
 
 ## I. La vida del hombre: conocer y amar a Dios
 {:#p-r1}
