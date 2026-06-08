@@ -6,21 +6,16 @@ title: Doctrina Católica
 ## Obras principales
 
 <ol>
-{% for coleccion in site.collections %}
-   {% if coleccion.label == "posts" or coleccion.label == "documentos-eclesiasticos" or coleccion.label == "opusculos" %}
-      {% continue %}
-   {% endif %}
-   {% assign index_doc = coleccion.docs | where: "slug", "index" | first %}
-   {% if index_doc %}
-      <li>
-         <a href="{{ index_doc.url | relative_url }}">
-            {{ index_doc.title }}
-            {% if index_doc.autor %}
-               - {{ index_doc.autor }}
-            {% endif %}
-         </a>
-      </li>
-   {% endif %}
+{% assign index_docs = site.documents | where: "slug", "index" %}
+{% for doc in index_docs %}
+   <li>
+      <a href="{{ doc.url | relative_url }}">
+         {{ doc.title }}
+         {% if doc.autor %}
+            - {{ doc.autor }}
+         {% endif %}
+      </a>
+   </li>
 {% endfor %}
 </ol>
 
@@ -42,21 +37,32 @@ title: Doctrina Católica
 
 ## Documentos eclesiásticos
 
-{% assign documentos_eclesiasticos = site["documentos-eclesiasticos"] | sort: "tipo" %}
-<ol>
-{% for documento_eclesiastico in documentos_eclesiasticos %}
-   <li>
-      <a href="{{ documento_eclesiastico.url | relative_url }}">
-         {{ documento_eclesiastico.tipo }}
-         {% if documento_eclesiastico.title != "" %}
-            <i lang="la">{{ documento_eclesiastico.title }}</i>
-         {% else %}
-            {{ documento_eclesiastico.materia }}
-         {% endif %}
-      </a>
-   </li>
+{% assign grupos = site["documentos-eclesiasticos"] | group_by: "concilio" %}
+
+{% for grupo in grupos %}
+   {%- if grupo.name != "" -%}
+      <h3>Concilio {{ grupo.name }}</h3>
+   {%- else -%}
+      <h3>Otros documentos</h3>
+   {%- endif -%}
+
+   {% assign lista = grupo.items | sort: "tipo" %}
+
+   <ol>
+   {% for doc in lista %}
+      <li>
+         <a href="{{ doc.url | relative_url }}">
+            {{ doc.tipo }}
+            {% if doc.title != "" %}
+               <i lang="la">{{ doc.title }}</i>
+            {% else %}
+               {{ doc.materia }}
+            {% endif %}
+         </a>
+      </li>
+   {% endfor %}
+   </ol>
 {% endfor %}
-</ol>
 
 {% include components/font-options.html %}
 

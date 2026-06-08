@@ -4,6 +4,7 @@ tipo: Constitución Dogmática
 materia: sobre la divina Revelación
 papa: Pablo VI
 fecha: 18 de noviembre de 1965
+concilio: Vaticano II
 ---
 
 {% include components/toc-auto.html %}
