@@ -13,6 +13,7 @@ DV [$1]({{ "dei-verbum#n$1" | relative_url }})
 Para reemplazar comillas:
 "(.+?)"
 (?<!=)"([^=/|#-]+?)"
+(?<!=)“([^=/|#-]+?)”
 
 «$1»
 
