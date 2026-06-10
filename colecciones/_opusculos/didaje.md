@@ -457,7 +457,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 {:#n11-8}
 
 1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan [4, 1]({{ "biblia-straubinger/1-juan#c4-v1" | relative_url }})), y por eso existe el carisma de discernimiento de espíritus (1 Corintios 12, 10).
-2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios 14, 3), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses 5, 19-21).
+2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios 14, 3), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses [5, 19]({{ "biblia-straubinger/1-tesalonicenses#c5-v19" | relative_url }})-21).
 {:#n11-8b}
 
 [13, 3](#c13-3) Cp. Números 18, 12-13, Deuteronomio 18, 3-4, y Ezequiel 44, 30.
@@ -472,7 +472,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [16, 5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios 3, 11-17; y sobre el «Depósito de la Fé», véase 1 Timoteo [6, 20]({{ "biblia-straubinger/1-timoteo#c6-v20" | relative_url }}) y 2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14.
 {:#n16-5}
 
-[16, 7](#c16-7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses 3, 13 y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
+[16, 7](#c16-7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses [3, 13]({{ "biblia-straubinger/1-tesalonicenses#c3-v13" | relative_url }}) y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
 {:#n16-7}
 
 [16, 8](#c16-8) Esta cita es de Daniel 7, 13, y se repite en Mateo 26, 64 y Marcos 14, 62.

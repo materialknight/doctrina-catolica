@@ -47,10 +47,10 @@ title: Carta del apóstol san Judas
 [13](#v13) olas furiosas del mar, que arrojan la espuma de sus propias ignominias; astros errantes, a los cuales está reservada la oscuridad de las tinieblas para siempre.
 {:#v13}
 
-[14](#v14) De ellos profetizó ya Enoc, el séptimo desde Adán, diciendo: "He aquí que ha venido el Señor con las miríadas de sus santos [[\*\*]](#n14),
+[14](#v14) De ellos profetizó ya Enoc, el séptimo desde Adán, diciendo: «He aquí que ha venido el Señor con las miríadas de sus santos [[\*\*]](#n14),
 {:#v14}
 
-[15](#v15) a hacer juicio contra todos y redargüir a todos los impíos de todas las obras inicuas que consintió su impiedad y de todo lo duro que ellos, impíos pecadores, profirieron contra Él".
+[15](#v15) a hacer juicio contra todos y redargüir a todos los impíos de todas las obras inicuas que consintió su impiedad y de todo lo duro que ellos, impíos pecadores, profirieron contra Él».
 {:#v15}
 
 [16](#v16) Estos son murmuradores querellosos que se conducen según sus concupiscencias mientras su boca habla con altanería y, por interés, admiran a las personas.
