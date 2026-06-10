@@ -241,7 +241,7 @@ title: Carta del apóstol san Pablo a Tito
 [3, 4](#c3-v4) ss. Es este uno de los pasajes en que S. Pablo sintetiza magistralmente la obra de las *Tres Divinas Personas* respecto a nosotros. El Padre, movido por su infinito amor, nos salva (Efesios [2, 4](efesios#c2-v4) y nota), siendo Jesucristo el Mediador entre Dios y los hombres, y el Espíritu Santo el Agente inmediato de nuestra santificación. Véase 2 Corintios [13, 13](2-corintios#c13-v13) y nota.
 {:#n3-4}
 
-[3, 9](#c3-v9) Cf. 1 Timoteo [1, 4](1-timoteo#c1-v4) y nota. Sobre las genealogías de las cuales solían abusar los judíos ([1, 14](book#c1-v14)) escribe un autor moderno:
+[3, 9](#c3-v9) Cf. 1 Timoteo [1, 4](1-timoteo#c1-v4) y nota. Sobre las genealogías de las cuales solían abusar los judíos ([1, 14](#c1-v14)) escribe un autor moderno:
 {:#n3-9}
 
 > «El nieto de un criminal no pensaría en gloriarse de su familia, aunque su padre haya sido honrado. Y bien, todos somos nietos de Eva y de Adán, los grandes rebeldes que, teniendo por mentiroso al Dios que los hizo, se sublevaron contra Él de acuerdo con la serpiente. Y así pactaron libremente con Satanás, entregándose al dominio de este junto con todos nosotros sus nietos, y nosotros seguimos siendo suyos cada vez que el corazón nos aparta un instante de Jesús, pues en cuanto el sarmiento se separa del tronco deja de recibir la savia, y no estando con Él, estamos contra Él con Satanás. Tales fueron, pues, los verdaderos fundadores de la familia humana. ¡Tal fue el tronco de su árbol genealógico!
