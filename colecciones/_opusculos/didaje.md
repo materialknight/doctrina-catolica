@@ -237,10 +237,10 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [10, 4](#c10-4) Ante todo, te damos gracias por tu poder. A Ti sea la gloria por los siglos de los siglos.
 {:#c10-4}
 
-[10, 5](#c10-5) Acuérdate, Señor, de tu Iglesia para librarla de todo mal y perfeccionarla en Tu amor; reúnela desde los cuatro vientos, santificada, en Tu Reino, el cual has preparado para ella; porque Tuyo es el poder y la gloria por los siglos de los siglos».
+[10, 5](#c10-5) Acuérdate, Señor, de tu Iglesia para librarla de todo mal y perfeccionarla en Tu amor; reúnela desde los cuatro vientos, santificada, en Tu Reino, el cual has preparado para ella; porque Tuyo es el poder y la gloria por los siglos de los siglos.
 {:#c10-5}
 
-[10, 6](#c10-6) [[\*\*]](#n10-6) Venga tu gracia, y pase este mundo. *¡Hosanna* al Dios de David! Si uno es santo, que se acerque; si no lo es, que haga penitencia. ¡*Maranathá*, amén!
+[10, 6](#c10-6) [[\*\*]](#n10-6) Venga tu gracia, y pase este mundo. *¡Hosanna* al Dios de David! Si uno es santo, que se acerque; si no lo es, que haga penitencia. ¡*Maranathá*, amén!»
 {:#c10-6}
 
 [10, 7](#c10-7) Permitid que los profetas hagan Acción de Gracias tantas veces como lo deseen.
@@ -444,7 +444,7 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 [11, 3](#c11-3) «Apóstol» viene del griego «ἀπόστολος», y significa «enviado», y en este caso, no se refiere solo a uno de Los Doce, sino a cualquier misionero.
 {:#n11-3}
 
-*Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios 14, 3).
+*Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})).
 {:#n11-3b}
 
 [11, 7](#c11-7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo 12, 22-37 y Marcos 3, 20-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
@@ -456,8 +456,8 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [11, 8](#c11-8) Recordemos 2 cosas:
 {:#n11-8}
 
-1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan [4, 1]({{ "biblia-straubinger/1-juan#c4-v1" | relative_url }})), y por eso existe el carisma de discernimiento de espíritus (1 Corintios 12, 10).
-2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios 14, 3), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses [5, 19]({{ "biblia-straubinger/1-tesalonicenses#c5-v19" | relative_url }})-21).
+1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan [4, 1]({{ "biblia-straubinger/1-juan#c4-v1" | relative_url }})), y por eso existe el carisma de discernimiento de espíritus (1 Corintios [12, 10]({{ "biblia-straubinger/1-corintios#c12-v10" | relative_url }})).
+2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses [5, 19]({{ "biblia-straubinger/1-tesalonicenses#c5-v19" | relative_url }})-21).
 {:#n11-8b}
 
 [13, 3](#c13-3) Cp. Números 18, 12-13, Deuteronomio 18, 3-4, y Ezequiel 44, 30.
@@ -469,7 +469,7 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [14, 3](#c14-3) Esta cita es una paráfrasis de Malaquías 1, 11.
 {:#n14-3}
 
-[16, 5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios 3, 11-17; y sobre el «Depósito de la Fé», véase 1 Timoteo [6, 20]({{ "biblia-straubinger/1-timoteo#c6-v20" | relative_url }}) y 2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14.
+[16, 5](#c16-5) Sobre la «prueba de fuego», cp. 1 Corintios [3, 11]({{ "biblia-straubinger/1-corintios#c3-v11" | relative_url }})-17; y sobre el «Depósito de la Fé», véase 1 Timoteo [6, 20]({{ "biblia-straubinger/1-timoteo#c6-v20" | relative_url }}) y 2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14.
 {:#n16-5}
 
 [16, 7](#c16-7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses [3, 13]({{ "biblia-straubinger/1-tesalonicenses#c3-v13" | relative_url }}) y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.

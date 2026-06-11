@@ -256,10 +256,10 @@ title: Primera carta del apóstol san Pedro
 
 ### El ejemplo de los cristianos
 
-[4, 1](#c4-v1) Por tanto, habiendo Cristo padecido en la carne, armaos también vosotros de la misma disposición, a saber, que el que padeció en la carne ha roto con el pecado,
+[4, 1](#c4-v1) Por tanto, habiendo Cristo padecido en la carne, armaos también vosotros de la misma disposición, pues el que padeció en la carne ha roto con el pecado,
 {:#c4-v1}
 
-[4, 2](#c4-v2) para pasar lo que resta que vivir en carne, no ya según las concupiscencias humanas, sino según la voluntad de Dios;
+[4, 2](#c4-v2) para pasar lo que resta de vivir en carne, no ya según las concupiscencias humanas, sino según la voluntad de Dios;
 {:#c4-v2}
 
 [4, 3](#c4-v3) pues basta ya el tiempo pasado en que habéis cumplido la voluntad de los gentiles, viviendo en lascivia, concupiscencia, embriaguez, comilonas, orgías y nefaria idolatría [[\*\*]](#n4-3).

@@ -349,5 +349,5 @@ El manuscrito de la Epístola a Diogneto fue descubierto en 1436 en una pila de 
 
 ## Notas
 
-[12, 5](#c12-5) Cp. 1 Corintios 8, 1.
+[12, 5](#c12-5) Cp. 1 Corintios [8, 1]({{ "biblia-straubinger/1-corintios#c8-v1" | relative_url }}).
 {:#n12-5}
