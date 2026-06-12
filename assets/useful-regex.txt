@@ -28,13 +28,13 @@ Para libros bíblicos CON capítulos:
    Para reformatear las referencias al principio o al final de versículo:
    {
       ^\[(\d+), (\d+)\](.+)\[\[\d+\]\]\(#n-\d+\)\{:#rn-\d+\}(.*)
-      [$1, $2]$3[[\*\*]](#n$1-$2)$4
+      [$1, $2]$3[[\*\*]](#nt-c$1-v$2)$4
    }
 
    Para reformatear las notas:
    {
       \[\[\d+\]\]\(#rn-\d+\)\{:#n-\d+\} \[(\d+), (\d+)(.+)
-      [$1, $2$3\n{:#n$1-$2}
+      [$1, $2$3\n{:#nt-c$1-v$2}
    }
 
    Para enlazar libros bíblicos:
