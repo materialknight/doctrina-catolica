@@ -18,16 +18,16 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 
 ### Elimelec y su familia
 
-[1, 1](#c1-v1) [[\*\*]](#n1-1) Al tiempo en que gobernaban los Jueces, hubo una carestía en el país; y partió un hombre de Betlehem de Judá para habitar en los campos de Moab, él, su mujer y sus dos hijos.
+[1, 1](#c1-v1) [[\*\*]](#nt-c1-v1) Al tiempo en que gobernaban los Jueces, hubo una carestía en el país; y partió un hombre de Betlehem de Judá para habitar en los campos de Moab, él, su mujer y sus dos hijos.
 {:#c1-v1}
 
-[1, 2](#c1-v2) [[\*\*]](#n1-2) El hombre se llamaba Elimelec, su mujer, Noemí, y los dos hijos, Mahalón y Quelión. Eran efrateos de Betlehem de Judá. Llegados a los campos de Moab vivieron allí.
+[1, 2](#c1-v2) [[\*\*]](#nt-c1-v2) El hombre se llamaba Elimelec, su mujer, Noemí, y los dos hijos, Mahalón y Quelión. Eran efrateos de Betlehem de Judá. Llegados a los campos de Moab vivieron allí.
 {:#c1-v2}
 
 [1, 3](#c1-v3) Murió Elimelec, marido de Noemí, y se quedó ella sola con sus dos hijos,
 {:#c1-v3}
 
-[1, 4](#c1-v4) [[\*\*]](#n1-4) los cuales tomaron mujeres moabitas, siendo el nombre de la una Orfá, y el nombre de la otra, Rut. Habitaron allí unos diez años;
+[1, 4](#c1-v4) [[\*\*]](#nt-c1-v4) los cuales tomaron mujeres moabitas, siendo el nombre de la una Orfá, y el nombre de la otra, Rut. Habitaron allí unos diez años;
 {:#c1-v4}
 
 [1, 5](#c1-v5) y murieron también esos dos, Mahalón y Quelión, con lo que la mujer quedó privada de sus dos hijos y de su marido.
@@ -50,7 +50,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [1, 10](#c1-v10) Y le decían: «No, nosotras iremos contigo a tu pueblo.»
 {:#c1-v10}
 
-[1, 11](#c1-v11) [[\*\*]](#n1-11) A lo cual replicó Noemí: «Volveos, hijas mías. ¿Para qué queréis ir conmigo? ¿Tengo por ventura más hijos en mi seno que puedan ser vuestros maridos?
+[1, 11](#c1-v11) [[\*\*]](#nt-c1-v11) A lo cual replicó Noemí: «Volveos, hijas mías. ¿Para qué queréis ir conmigo? ¿Tengo por ventura más hijos en mi seno que puedan ser vuestros maridos?
 {:#c1-v11}
 
 [1, 12](#c1-v12) ¡Volveos, hijas mías, andad! Soy ya demasiado vieja para casarme. Aun cuando yo dijera: "Tengo esperanza" y esta misma noche tuviera un marido y diera a luz hijos,
@@ -59,13 +59,13 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [1, 13](#c1-v13) ¿acaso esperaríais por eso hasta que ellos fuesen grandes? ¿Os abstendríais por ellos de tener marido? No, hijas mías; porque demasiada amarga es para vosotras mi suerte, pues la mano de Yahvé se ha alzado contra mí.»
 {:#c1-v13}
 
-[1, 14](#c1-v14) [[\*\*]](#n1-14) Entonces ellas levantando la voz siguieron llorando. Después Orfá besó a su suegra, en tanto que Rut se acogió a ella.
+[1, 14](#c1-v14) [[\*\*]](#nt-c1-v14) Entonces ellas levantando la voz siguieron llorando. Después Orfá besó a su suegra, en tanto que Rut se acogió a ella.
 {:#c1-v14}
 
 [1, 15](#c1-v15) Noemí le dijo: «He aquí que tu cuñada ya se ha vuelto a su pueblo y a sus dioses; vuélvete tú también en pos de tu cuñada.»
 {:#c1-v15}
 
-[1, 16](#c1-v16) [[\*\*]](#n1-16) Rut respondió: «No insistas en que te deje, retirándome de ti: porque adonde tú vayas iré yo, y donde tú mores moraré yo. Tu pueblo será mi pueblo, y tu Dios será mi Dios.
+[1, 16](#c1-v16) [[\*\*]](#nt-c1-v16) Rut respondió: «No insistas en que te deje, retirándome de ti: porque adonde tú vayas iré yo, y donde tú mores moraré yo. Tu pueblo será mi pueblo, y tu Dios será mi Dios.
 {:#c1-v16}
 
 [1, 17](#c1-v17) Donde tú murieres, moriré yo, y allí seré sepultada. Que Yahvé me castigue de todas maneras si otra cosa que la muerte me separe de ti.»
@@ -79,13 +79,13 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [1, 19](#c1-v19) y caminaron las dos hasta que llegaron a Betlehem. A su entrada en Betlehem, toda la ciudad se conmovió a causa de ellas, y decían las mujeres: «¿Esta es Noemí?»
 {:#c1-v19}
 
-[1, 20](#c1-v20) [[\*\*]](#n1-20) Pero ella les contestó: "No me llaméis más Noemí; llamadme Mará, porque el Todopoderoso me ha llenado de amargura.
+[1, 20](#c1-v20) [[\*\*]](#nt-c1-v20) Pero ella les contestó: "No me llaméis más Noemí; llamadme Mará, porque el Todopoderoso me ha llenado de amargura.
 {:#c1-v20}
 
-[1, 21](#c1-v21) [[\*\*]](#n1-21) Colmada salí, y con manos vacías me ha hecho volver Yahvé. ¿Por qué pues me llamáis Noemí, ya que Yahvé ha dado testimonio contra mí, y me ha afligido el Todopoderoso?"
+[1, 21](#c1-v21) [[\*\*]](#nt-c1-v21) Colmada salí, y con manos vacías me ha hecho volver Yahvé. ¿Por qué pues me llamáis Noemí, ya que Yahvé ha dado testimonio contra mí, y me ha afligido el Todopoderoso?"
 {:#c1-v21}
 
-[1, 22](#c1-v22) [[\*\*]](#n1-22) Volvió por lo tanto Noemí, y con ella Rut, la moabita, su nuera, que había dejado el país de Moab. Llegaron a Betlehem a principios de la siega de las cebadas.
+[1, 22](#c1-v22) [[\*\*]](#nt-c1-v22) Volvió por lo tanto Noemí, y con ella Rut, la moabita, su nuera, que había dejado el país de Moab. Llegaron a Betlehem a principios de la siega de las cebadas.
 {:#c1-v22}
 
 ## Rut [2](#c2) {#c2}
@@ -95,13 +95,13 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 1](#c2-v1) Tenía Noemí un pariente por parte de su marido, de la familia de Elimelec, un hombre poderoso y rico, que se llamaba Booz.
 {:#c2-v1}
 
-[2, 2](#c2-v2) [[\*\*]](#n2-2) Y dijo Rut, la moabita, a Noemí: «Si me permites, iré al campo, y recogeré espigas en pos de aquel en cuyos ojos hallare gracia.» Dijo ella: «Anda, hija mía.»
+[2, 2](#c2-v2) [[\*\*]](#nt-c2-v2) Y dijo Rut, la moabita, a Noemí: «Si me permites, iré al campo, y recogeré espigas en pos de aquel en cuyos ojos hallare gracia.» Dijo ella: «Anda, hija mía.»
 {:#c2-v2}
 
-[2, 3](#c2-v3) [[\*\*]](#n2-3) Fue, pues, y se puso a espigar en el campo detrás de los segadores. Por fortuna dio con la parcela del campo que pertenecía a Booz, de la familia de Elimelec.
+[2, 3](#c2-v3) [[\*\*]](#nt-c2-v3) Fue, pues, y se puso a espigar en el campo detrás de los segadores. Por fortuna dio con la parcela del campo que pertenecía a Booz, de la familia de Elimelec.
 {:#c2-v3}
 
-[2, 4](#c2-v4) [[\*\*]](#n2-4) Y he aquí que Booz vino de Betlehem, y dijo a los segadores: «Yahvé sea con vosotros.» Ellos le contestaron: «Yahvé te bendiga.»
+[2, 4](#c2-v4) [[\*\*]](#nt-c2-v4) Y he aquí que Booz vino de Betlehem, y dijo a los segadores: «Yahvé sea con vosotros.» Ellos le contestaron: «Yahvé te bendiga.»
 {:#c2-v4}
 
 [2, 5](#c2-v5) Preguntó Booz al criado suyo que era sobrestante de los segadores: «¿De quién es esa joven?»
@@ -110,7 +110,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 6](#c2-v6) El criado, sobrestante de los segadores, contestó diciendo: «Es una joven moabita que ha vuelto con Noemí de los campos de Moab.»
 {:#c2-v6}
 
-[2, 7](#c2-v7) [[\*\*]](#n2-7) Ella me dijo: «Déjame espigar e ir detrás de los segadores para recoger entre las gavillas.» Así vino y se ha quedado desde la mañana, hasta ahora; este descanso que (ahora) se toma en la cabaña es muy corto."
+[2, 7](#c2-v7) [[\*\*]](#nt-c2-v7) Ella me dijo: «Déjame espigar e ir detrás de los segadores para recoger entre las gavillas.» Así vino y se ha quedado desde la mañana, hasta ahora; este descanso que (ahora) se toma en la cabaña es muy corto."
 {:#c2-v7}
 
 ### Generosidad de Booz
@@ -121,7 +121,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 9](#c2-v9) Fija tus ojos en el campo donde se siega y anda detrás de ellas: Pues he dado orden a los criados que no te toquen. Y si tienes sed, irás donde están las vasijas y beberás del agua que han sacado los criados."
 {:#c2-v9}
 
-[2, 10](#c2-v10) [[\*\*]](#n2-10) Entonces ella cayó sobre su rostro, y postrada en tierra le dijo: «¿De dónde me viene el haber hallado gracia a tus ojos para que me mires, siendo como soy extranjera?»
+[2, 10](#c2-v10) [[\*\*]](#nt-c2-v10) Entonces ella cayó sobre su rostro, y postrada en tierra le dijo: «¿De dónde me viene el haber hallado gracia a tus ojos para que me mires, siendo como soy extranjera?»
 {:#c2-v10}
 
 [2, 11](#c2-v11) Respondió Booz y le dijo: «Me han contado todo lo que has hecho para con tu suegra, después de la muerte de tu marido; y cómo has dejado a tu padre y a tu madre y al país de tu nacimiento, y has venido a un pueblo que no conocías antes.
@@ -133,18 +133,18 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 13](#c2-v13) Respondió ella: «¡Halle yo gracia a tus ojos, señor mío! Pues tú me has consolado y has hablado al corazón de tu sierva, aunque no soy ni como una de tus criadas.»
 {:#c2-v13}
 
-[2, 14](#c2-v14) [[\*\*]](#n2-14) Llegada la hora de comer le dijo Booz: «Ven aquí y come del pan, y moja tu bocado en el vinagre.» Ella se sentó al lado de los segadores; y él le dio del grano tostado, del cual ella comió hasta saciarse, y guardó el resto.
+[2, 14](#c2-v14) [[\*\*]](#nt-c2-v14) Llegada la hora de comer le dijo Booz: «Ven aquí y come del pan, y moja tu bocado en el vinagre.» Ella se sentó al lado de los segadores; y él le dio del grano tostado, del cual ella comió hasta saciarse, y guardó el resto.
 {:#c2-v14}
 
 [2, 15](#c2-v15) Y cuando se levantó para seguir espigando, mandó Booz a sus criados, diciendo: "Hasta entre las gavillas podrá ella recoger espigas, no la increpéis;
 {:#c2-v15}
 
-[2, 16](#c2-v16) [[\*\*]](#n2-16) antes bien, dejad caer para ella algo de las gavillas, abandonándolo atrás para que ella lo recoja; y no la reprendáis."
+[2, 16](#c2-v16) [[\*\*]](#nt-c2-v16) antes bien, dejad caer para ella algo de las gavillas, abandonándolo atrás para que ella lo recoja; y no la reprendáis."
 {:#c2-v16}
 
 ### Cosecha de Rut
 
-[2, 17](#c2-v17) [[\*\*]](#n2-17) Estuvo Rut espigando en el campo hasta la tarde, y cuando batió lo que había recogido, había como una efa de cebada.
+[2, 17](#c2-v17) [[\*\*]](#nt-c2-v17) Estuvo Rut espigando en el campo hasta la tarde, y cuando batió lo que había recogido, había como una efa de cebada.
 {:#c2-v17}
 
 [2, 18](#c2-v18) Cargó con ello y se volvió a la ciudad; y vio su suegra lo que había espigado. Tras esto Rut sacó lo que había guardado después de haberse saciado, y se lo dio.
@@ -153,7 +153,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 19](#c2-v19) Le preguntó su suegra: «¿Dónde has espigado hoy, y en qué parte has trabajado? Bendito quien te ha mirado.» Dijo entonces a su suegra con quién había trabajado, y agregó: «El hombre con quien hoy he trabajado se llama Booz.»
 {:#c2-v19}
 
-[2, 20](#c2-v20) [[\*\*]](#n2-20) Entonces dijo Noemí a su nuera: «¡Bendito sea él de Yahvé! porque no ha dejado de mostrar su bondad, tanto con los vivos como con los muertos.» Y añadió Noemí: «Pariente cercano nuestro es ese hombre; es uno de nuestros parientes, uno de los que tienen la obligación del levirato.»
+[2, 20](#c2-v20) [[\*\*]](#nt-c2-v20) Entonces dijo Noemí a su nuera: «¡Bendito sea él de Yahvé! porque no ha dejado de mostrar su bondad, tanto con los vivos como con los muertos.» Y añadió Noemí: «Pariente cercano nuestro es ese hombre; es uno de nuestros parientes, uno de los que tienen la obligación del levirato.»
 {:#c2-v20}
 
 [2, 21](#c2-v21) Y dijo Rut, la moabita: «Él me mandó también: Sigue de cerca a mis criados hasta que hayan acabado de segar toda mi cosecha.»
@@ -172,13 +172,13 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [3, 1](#c3-v1) Le dijo Noemí, su suegra: "Hija mía, ¿no he de buscar para ti un lugar de reposo donde te vaya bien?
 {:#c3-v1}
 
-[3, 2](#c3-v2) [[\*\*]](#n3-2) Ahora ese Booz, con cuyas criadas tú has estado, es pariente nuestro. Mira, esta noche avienta él la cebada en la era.
+[3, 2](#c3-v2) [[\*\*]](#nt-c3-v2) Ahora ese Booz, con cuyas criadas tú has estado, es pariente nuestro. Mira, esta noche avienta él la cebada en la era.
 {:#c3-v2}
 
 [3, 3](#c3-v3) Lávate, por tanto y úngete, y ponte tus vestidos y baja a la era; mas no te des a conocer al hombre hasta que haya acabado de comer y beber.
 {:#c3-v3}
 
-[3, 4](#c3-v4) [[\*\*]](#n3-4) Y al acostarse él, nota bien el lugar donde se acuesta; luego irás, y le destaparás la parte de los pies, y te acostarás. Él te dirá entonces lo que has de hacer."
+[3, 4](#c3-v4) [[\*\*]](#nt-c3-v4) Y al acostarse él, nota bien el lugar donde se acuesta; luego irás, y le destaparás la parte de los pies, y te acostarás. Él te dirá entonces lo que has de hacer."
 {:#c3-v4}
 
 [3, 5](#c3-v5) Ella le respondió: «Haré todo lo que dices.»
@@ -193,7 +193,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [3, 8](#c3-v8) A media noche el hombre tuvo un gran susto, porque al darse vuelta, vio que una mujer estaba acostada a sus pies.
 {:#c3-v8}
 
-[3, 9](#c3-v9) [[\*\*]](#n3-9) Preguntó: «¿Quién eres?» Y ella contestó: «Soy Rut, tu sierva; extiende tu manto sobre tu sierva, porque tú tienes respecto de mí la obligación del levirato.»
+[3, 9](#c3-v9) [[\*\*]](#nt-c3-v9) Preguntó: «¿Quién eres?» Y ella contestó: «Soy Rut, tu sierva; extiende tu manto sobre tu sierva, porque tú tienes respecto de mí la obligación del levirato.»
 {:#c3-v9}
 
 [3, 10](#c3-v10) A lo que dijo él: "¡Bendita seas de Yahvé hija mía! Tu último acto de piedad es mejor que el primero, porque no andas tras los jóvenes, ni pobres, ni ricos.
@@ -202,16 +202,16 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [3, 11](#c3-v11) Ahora, hija mía, no temas. Yo haré por ti cuanto me digas; pues todos mis conciudadanos saben que eres una mujer virtuosa.
 {:#c3-v11}
 
-[3, 12](#c3-v12) [[\*\*]](#n3-12) Mas ahora, aunque es cierto que tengo la obligación del levirato, sin embargo hay un pariente más cercano que yo.
+[3, 12](#c3-v12) [[\*\*]](#nt-c3-v12) Mas ahora, aunque es cierto que tengo la obligación del levirato, sin embargo hay un pariente más cercano que yo.
 {:#c3-v12}
 
 [3, 13](#c3-v13) Pasa la noche, y si él mañana quiere cumplir con su deber de levirato, que lo haga; pero si él no lo hace, lo haré yo. ¡Vive Yahvé! Acuéstate hasta la mañana."
 {:#c3-v13}
 
-[3, 14](#c3-v14) [[\*\*]](#n3-14) Quedó ella acostada a sus pies hasta la mañana; y se levantó antes de poder distinguir un hombre a otro; porque él dijo: «Nadie sepa que esta mujer vino a la era.»
+[3, 14](#c3-v14) [[\*\*]](#nt-c3-v14) Quedó ella acostada a sus pies hasta la mañana; y se levantó antes de poder distinguir un hombre a otro; porque él dijo: «Nadie sepa que esta mujer vino a la era.»
 {:#c3-v14}
 
-[3, 15](#c3-v15) [[\*\*]](#n3-15) Y agregó: «Extiende el manto que traes sobre ti, y tenlo bien.» Ella lo tuvo bien, y él le midió seis (medidas) de cebada, que le cargó a cuestas, y ella se fue a la ciudad.
+[3, 15](#c3-v15) [[\*\*]](#nt-c3-v15) Y agregó: «Extiende el manto que traes sobre ti, y tenlo bien.» Ella lo tuvo bien, y él le midió seis (medidas) de cebada, que le cargó a cuestas, y ella se fue a la ciudad.
 {:#c3-v15}
 
 [3, 16](#c3-v16) Cuando llegó a su suegra, esta preguntó: «¿Qué es lo que has alcanzado, hija mía?» Y Rut le contó todo lo que el hombre le había hecho.
@@ -227,10 +227,10 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 
 ### Gestiones con el pariente más cercano
 
-[4, 1](#c4-v1) [[\*\*]](#n4-1) Subió Booz a la puerta (de la ciudad) y se sentó allí; y he aquí que pasaba aquel pariente obligado al levirato, de quien Booz había hablado. Le dijo: «Ven aquí y siéntate, fulano.» Y se acercó el hombre y se sentó allí.
+[4, 1](#c4-v1) [[\*\*]](#nt-c4-v1) Subió Booz a la puerta (de la ciudad) y se sentó allí; y he aquí que pasaba aquel pariente obligado al levirato, de quien Booz había hablado. Le dijo: «Ven aquí y siéntate, fulano.» Y se acercó el hombre y se sentó allí.
 {:#c4-v1}
 
-[4, 2](#c4-v2) [[\*\*]](#n4-2) Tomó también diez hombres de los ancianos de la ciudad, y dijo: «Tomad asiento»; y ellos se sentaron.
+[4, 2](#c4-v2) [[\*\*]](#nt-c4-v2) Tomó también diez hombres de los ancianos de la ciudad, y dijo: «Tomad asiento»; y ellos se sentaron.
 {:#c4-v2}
 
 [4, 3](#c4-v3) Entonces dijo al pariente obligado al levirato: «Noemí, que ha vuelto de los campos de Moab, vende la porción de campo que era de nuestro hermano Elimelec.
@@ -239,7 +239,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [4, 4](#c4-v4) He querido informarte de ello y te propongo: Adquiérela delante de los que están aquí sentados y delante de los ancianos de mi pueblo. Si quieres cumplir con el deber del levirato, hazlo; si no, dímelo, para que yo lo sepa; pues tú eres el pariente más cercano; después de ti vengo yo.» Él respondió: «Yo cumpliré con ese deber.»
 {:#c4-v4}
 
-[4, 5](#c4-v5) [[\*\*]](#n4-5) Le dijo entonces Booz: «Cuando adquieras el campo de manos de Noemí, lo adquirirás también de Rut la moabita, mujer del difunto, para resucitar el nombre del difunto sobre su herencia.»
+[4, 5](#c4-v5) [[\*\*]](#nt-c4-v5) Le dijo entonces Booz: «Cuando adquieras el campo de manos de Noemí, lo adquirirás también de Rut la moabita, mujer del difunto, para resucitar el nombre del difunto sobre su herencia.»
 {:#c4-v5}
 
 [4, 6](#c4-v6) Replicó el obligado al levirato: «No puedo hacerlo, para no perjudicar mi herencia. Ejerce tú ese derecho que tengo yo, pues yo no puedo hacerlo.»
@@ -259,13 +259,13 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [4, 10](#c4-v10) y que he adquirido también a Rut la moabita, mujer de Mahalón, para que sea mi mujer, a fin de resucitar el nombre del difunto sobre su herencia, y para que el nombre del difunto no se borre de entre sus hermanos, ni de la puerta de su lugar. De eso sois vosotros hoy testigos."
 {:#c4-v10}
 
-[4, 11](#c4-v11) [[\*\*]](#n4-11) Y todo el pueblo que estaba en la puerta, respondió juntamente con los ancianos: "Somos testigos. ¡Haga Yahvé que la mujer que va a entrar en tu casa, sea como Raquel y como Lía, que ambas edificaron la casa de Israel, para que seas poderoso en Efrata y tengas renombre en Betlehem!
+[4, 11](#c4-v11) [[\*\*]](#nt-c4-v11) Y todo el pueblo que estaba en la puerta, respondió juntamente con los ancianos: "Somos testigos. ¡Haga Yahvé que la mujer que va a entrar en tu casa, sea como Raquel y como Lía, que ambas edificaron la casa de Israel, para que seas poderoso en Efrata y tengas renombre en Betlehem!
 {:#c4-v11}
 
 [4, 12](#c4-v12) ¡Venga a ser tu casa como la casa de Fares, que Tamar le dio a Judá, por la descendencia que Yahvé te diere de esta joven!"
 {:#c4-v12}
 
-[4, 13](#c4-v13) [[\*\*]](#n4-13) Tomó Booz a Rut, y ella fue su mujer. Entró a ella, y Yahvé le concedió que concibiera y diera a luz un hijo.
+[4, 13](#c4-v13) [[\*\*]](#nt-c4-v13) Tomó Booz a Rut, y ella fue su mujer. Entró a ella, y Yahvé le concedió que concibiera y diera a luz un hijo.
 {:#c4-v13}
 
 [4, 14](#c4-v14) Entonces decían las mujeres a Noemí: "¡Bendito sea Yahvé, que no te ha negado un redentor el día de hoy! ¡Su nombre sea celebrado en Israel!
@@ -274,7 +274,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [4, 15](#c4-v15) ¡Que el consuele tu alma y sea el sostén de tu vejez! Pues tu nuera, que te ama y que para ti vale más que siete hijos, ha dado a luz."
 {:#c4-v15}
 
-[4, 16](#c4-v16) [[\*\*]](#n4-16) Y Noemí tomó al niño, lo puso en su regazo, y le sirvió de aya.
+[4, 16](#c4-v16) [[\*\*]](#nt-c4-v16) Y Noemí tomó al niño, lo puso en su regazo, y le sirvió de aya.
 {:#c4-v16}
 
 [4, 17](#c4-v17) Y las vecinas la aclamaron diciendo: «A Noemí le ha nacido un hijo», y le llamaron Obed. Él fue padre de Isaí, padre de David.
@@ -300,102 +300,102 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 ## Comentarios de Mons. Straubinger
 
 [1, 1](#c1-v1) **Los jueces**: La Vulgata dice: «un juez», o sea, uno de los jueces. Por aquí se ve que esta encantadora historia ha de ubicarse en tiempos de los Jueces, alrededor del año 1150 a. C., poco antes del período de los Reyes. Fue escrita bajo el reinado de David, pues el árbol genealógico que presenta el autor en [4, 18](#c4-v18)-22, termina con el rey David.
-{:#n1-1}
+{:#nt-c1-v1}
 
 [1, 2](#c1-v2) **Efrateos**: de Efrata, nombre antiguo de Betlehem (Belén). Cf. Génesis [35, 16](genesis#c35-v16)-19; [48, 7](genesis#c48-v7); Miqueas [5, 2](miqueas#c5-v2).
-{:#n1-2}
+{:#nt-c1-v2}
 
 **Moab**: país situado al este del Mar Muerto; su límite septentrional era en tiempo de Moisés el Antón; más tarde se extendió más hacia el norte.
 
 [1, 4](#c1-v4) **Tomaron mujeres moabitas**, lo cual estaba prohibido. Los moabitas no podían entrar en la comunidad del pueblo de Dios (Deuteronomio [23, 3](deuteronomio#c23-v3)). Este pasaje es un argumento en favor de la autoridad histórica de la narración. Ningún autor se habría atrevido a introducir a una mujer pagana y moabita como ejemplo de virtud y madre de David. Cf. Mateo [1, 5](mateo#c1-v5).
-{:#n1-4}
+{:#nt-c1-v4}
 
 [1, 11](#c1-v11) Siendo de distinta nación y religión, ellas no podrían casarse en la tierra de Noemí. Esta suegra ejemplar quiere examinar las verdaderas disposiciones de sus nueras y las trata con afecto maternal para que obren libremente.
-{:#n1-11}
+{:#nt-c1-v11}
 
 [1, 14](#c1-v14) Orfá se vuelve y recae sin duda en el paganismo. La fidelidad de Rut, que se queda no obstante los obstáculos, le depara toda suerte de bienes: perseverancia en la verdadera felicidad en el hogar, y el honor insuperable de ser abuela de Jesucristo, a pesar de no ser del pueblo escogido.
-{:#n1-14}
+{:#nt-c1-v14}
 
 [1, 16](#c1-v16) Rut, la moabita, no solo profesa la verdadera fe en el verdadero Dios, sino que jura por el nombre de Él (v. [17](#c1-v17)).
-{:#n1-16}
+{:#nt-c1-v16}
 
 **Adonde tú vayas, iré yo**: Como Rut, no cesaremos de decir a nuestro Salvador y divino Esposo: Donde Tú morares, moraré yo. Si Tú estás conmigo, esto me basta, pues Tú nos dices, como a San Pablo: «Mi gracia te basta» (2 Corintios [12, 9](2-corintios#c12-v9)).
 
 [1, 20](#c1-v20) **Noemí**: La Vulgata agrega el significado del nombre, para hacer resaltar el contraste con *Mará*. *Noemí* significa: «Hermosa»; *Mará*, «Amarga».
-{:#n1-20}
+{:#nt-c1-v20}
 
 [1, 21](#c1-v21) En la Liturgia se aplican estas palabras a la Santísima Virgen cuando perdió su Hijo en el Calvario.
-{:#n1-21}
+{:#nt-c1-v21}
 
 [1, 22](#c1-v22) Por piedad filial y amor a su suegra, Rut dejó el país de Moab y todo lo que poseía.
-{:#n1-22}
+{:#nt-c1-v22}
 
 > «Y mirad, ¡qué mérito fue el haber prestado ayuda y consuelo a la desamparada! Del linaje de Rut nació Jesucristo.» (San Jerónimo, A Santa Paula)
 
 [2, 2](#c2-v2) El derecho de recoger las espigas sobrantes era, en la admirable Ley de Moisés, un privilegio de los extranjeros, huérfanos y viudas. Rut era las tres cosas a la vez (Levítico [19, 9](levitico#c19-v9); [23, 22](levitico#c23-v22); Deuteronomio [24, 19](deuteronomio#c24-v19)).
-{:#n2-2}
+{:#nt-c2-v2}
 
 [2, 3](#c2-v3) **Detrás de los segadores**: Esta humildad de Rut, que se confirma en el v. [13](#c2-v13), fue sumamente agradable a Dios. El fue quien dispuso esta aparente casualidad, a saber: que el campo fuese de Booz, por donde vinieron a Rut las más grandes bendiciones temporales y eternas. Es lo que promete Jesús: que los últimos serán los primeros (Mateo [19, 30](mateo#c19-v30)).
-{:#n2-3}
+{:#nt-c2-v3}
 
 [2, 4](#c2-v4) Esta fórmula de saludo, acostumbrada entre los israelitas, perdura aún hoy en Palestina. Nótese que es la misma que el Ángel usó para saludar a María (Lucas [1, 28](lucas#c1-v28)). Es la que usa el celebrante del santo Sacrificio al decir «*Dominus vobiscum*». Cf. la nota a Jueces [19, 20](jueces#c19-v20) s.
-{:#n2-4}
+{:#nt-c2-v4}
 
 [2, 7](#c2-v7) **Este descanso**, etc.: San Jerónimo vierte: «ni por un momento se ha vuelto a su casa»; Bover-Cantera: «sin permitirse ni un pequeño descanso».
-{:#n2-7}
+{:#nt-c2-v7}
 
 [2, 10](#c2-v10) **¿De dónde me viene?**, etc.: Expresión usada por Santa Isabel en la Visitación de María (Lucas [1, 43](lucas#c1-v43)).
-{:#n2-10}
+{:#nt-c2-v10}
 
 [2, 14](#c2-v14) La gente humilde solía comer el pan mojado en vinagre, costumbre que se observa aún hoy en diversos países del Oriente.
-{:#n2-14}
+{:#nt-c2-v14}
 
 [2, 16](#c2-v16) Delicadeza que caracteriza la caridad verdadera. Véase Eclesiástico [18, 17](eclesiastico#c18-v17) s.; [29, 15](eclesiastico#c29-v15); Mateo [6, 2](mateo#c6-v2)-4.
-{:#n2-16}
+{:#nt-c2-v16}
 
 [2, 17](#c2-v17) El **efa** contenía 36, 4 litros.
-{:#n2-17}
+{:#nt-c2-v17}
 
 [2, 20](#c2-v20) **Uno de los que tienen la obligación del levirato**, literalmente: «uno de nuestros *redentores*». «**Redentor**», en hebreo *goël*, se llamaba el pariente más cercano, el que estaba obligado a casarse con la viuda de su hermano si este no dejaba hijos (Deuteronomio [25, 5](deuteronomio#c25-v5)-10). La realización se ve en el cap. [4](#c4).
-{:#n2-20}
+{:#nt-c2-v20}
 
 [3, 2](#c3-v2) **Avienta la cebada en la era**: El suceso era este: En la era yacía amontonado el grano mezclado con el tamo. Con el bieldo arrojaba Booz esta mezcla a lo alto contra el viento, él cual se llevaba el tamo, por ser más liviano, mientras el grano, por ser más pesado, caía en la era. Booz elige el tiempo de la noche, para aprovechar la brisa que todas las noches viene del mar. Cf. Mateo [3, 12](mateo#c3-v12).
-{:#n3-2}
+{:#nt-c3-v2}
 
 [3, 4](#c3-v4) Noemí sabía que Booz era uno de los parientes obligados a casarse con la viuda de su hijo (cf. [2, 20](#c2-v20) y nota), pero sospechando que él, como hombre rico y de edad avanzada, no tomaría por esposa a una viuda pobre y extranjera, recurrió a esta ingenua y al mismo tiempo ingeniosa manera de recordarle su deber.
-{:#n3-4}
+{:#nt-c3-v4}
 
 Toda la escena que viene a continuación es un poema de incomparable pureza, que recuerda el caso de Abisag (1 Reyes [1](1-reyes#c1)) y de Susana y del Cantar de los Cantares; casos que Dios nos ha puesto delante para que su Palabra infinitamente casta (Salmo [11, 7](salmos#c11-v7)) limpie nuestras perversas intenciones y nos enseñe la rectitud interior. Todo es puro para los puros, dice San Pablo (Tito [1, 15](tito#c1-v15)).
 
 [3, 9](#c3-v9) Rut le pide con las palabras de mayor modestia que la reciba bajo su capa, es decir, su protección y que la tome por esposa para conservar el nombre de su pariente en Israel.
-{:#n3-9}
+{:#nt-c3-v9}
 
 [3, 12](#c3-v12) Booz, pensando que había otro pariente más cercano, decide averiguar el asunto, para después cumplir con su deber. Toda su conducta es un ejemplo de rectitud. Noemí pudo ignorar que hubiese otro pariente más cercano.
-{:#n3-12}
+{:#nt-c3-v12}
 
 [3, 14](#c3-v14) Rut tiene buen cuidado de retirarse antes de la luz del día, para evitar todo escándalo, que podría haber sido entonces gravísimo pecado, aunque ella no hubiera cometido ninguna mala acción. Es este un punto muy serio que un cristiano no debe ignorar según enseñan Jesús (Mateo [18, 6](mateo#c18-v6)-7) y San Pablo (1 Corintios [8, 13](1-corintios#c8-v13)).
-{:#n3-14}
+{:#nt-c3-v14}
 
 [3, 15](#c3-v15) El **manto** es el velo grande con que las mujeres orientales se cubrían desde la cabeza hasta los pies.
-{:#n3-15}
+{:#nt-c3-v15}
 
 [4, 1](#c4-v1) **Fulano**: Todos los que intervienen en esta historia son introducidos con su nombre, menos este villano, que rehusaba cumplir con el deber del levirato.
-{:#n4-1}
+{:#nt-c4-v1}
 
 [4, 2](#c4-v2) **Diez hombres**, como testigos del contrato que se iba a realizar.
-{:#n4-2}
+{:#nt-c4-v2}
 
 [4, 5](#c4-v5) **Para resucitar el nombre del difunto**, significa casarse con la viuda para dar un heredero al pariente muerto. El primogénito procedente del nuevo matrimonio recibía el nombre y la herencia del difunto (Deuteronomio [25, 6](deuteronomio#c25-v6)). Respecto de la preferencia de los parientes en la venta de los campos, véase Números [36, 3](numeros#c36-v3) ss.
-{:#n4-5}
+{:#nt-c4-v5}
 
 [4, 11](#c4-v11) Hermosa fórmula de felicitación para un futuro esposo.
-{:#n4-11}
+{:#nt-c4-v11}
 
 [4, 13](#c4-v13) San Ambrosio ve en Rut una figura de las naciones gentiles y en la incorporación de ella al pueblo de Dios una profecía de la vocación de los gentiles al redil de Cristo.
-{:#n4-13}
+{:#nt-c4-v13}
 
 [4, 16](#c4-v16) Noemí es modelo de abuela como antes lo fue de suegra. En la genealogía de Jesucristo se recuerdan los nombres aquí mencionados. Cf. Mateo [1, 3](mateo#c1-v3)-6; Lucas [3, 32](lucas#c3-v32). Véase 1 Crónicas [2, 5](1-cronicas#c2-v5) y [4, 1](1-cronicas#c4-v1).
-{:#n4-16}
+{:#nt-c4-v16}
 
 <!-- Total de referencias: 30 -->
 <!-- Rango original de referencias: 1743 - 1772 -->

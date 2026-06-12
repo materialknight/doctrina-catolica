@@ -310,7 +310,7 @@ Al hacerse visible, en efecto, debió de hacer manifiesta la participación de e
 
 Se realizó así la promesa hecha por Dios a Abraham, según la cual su descendencia sería como las estrellas del cielo. Cristo cumplió la promesa naciendo de la Virgen, de la estirpe de Abraham, y convirtiendo en luminarias del mundo a los creyentes en él y justificando a los gentiles con Abraham por medio de la misma fe. «Abraham creyó al Señor y le fue reputado por justicia» (Gn 15,6).
 
-Del mismo modo, también nosotros somos justificados en virtud de la fe en Dios, porque «el justo vivirá por la fe». La promesa de Abraham no fue hecha por el cumplimiento de la ley sino por medio de la fe. De hecho, Abraham fue justificado por la fe: «la ley no fue establecida para el justo» (1Tm 1,9). De igual forma, también nosotros no somos justificados por la ley sino por la fe, que ha recibido el testimonio de la ley y los profetas y que nos presenta el Verbo de Dios.
+Del mismo modo, también nosotros somos justificados en virtud de la fe en Dios, porque «el justo vivirá por la fe». La promesa de Abraham no fue hecha por el cumplimiento de la ley sino por medio de la fe. De hecho, Abraham fue justificado por la fe: «la ley no fue establecida para el justo» (1 Tm [1, 9]({{ "biblia-straubinger/1-timoteo#c1-v9" | relative_url }}))). De igual forma, también nosotros no somos justificados por la ley sino por la fe, que ha recibido el testimonio de la ley y los profetas y que nos presenta el Verbo de Dios.
 
 ## [36](#c36). Cristo, nacido de la Virgen, de la descendencia de David
 {:#c36}
