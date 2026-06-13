@@ -217,9 +217,7 @@ title: Segunda carta del apóstol san Pablo a Timoteo
 
 ### Predicar la palabra aunque no la escuchen
 
-[[25]](#n-25){:#rn-25}.
-
-[4, 1](#c4-v1) Te conjuro delante de Dios y de Cristo Jesús, el cual juzgará a vivos y a muertos, tanto en su aparición como en su reino:
+[4, 1](#c4-v1) [[\*\*]](#nt-c4-v1) Te conjuro delante de Dios y de Cristo Jesús, el cual juzgará a vivos y a muertos, tanto en su aparición como en su reino:
 {:#c4-v1}
 
 [4, 2](#c4-v2) predica la Palabra, insta a tiempo y a destiempo, reprende, censura, exhorta con toda longanimidad y doctrina [[\*\*]](#nt-c4-v2).

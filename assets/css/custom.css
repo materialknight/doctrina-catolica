@@ -45,6 +45,7 @@ textarea {
 
 .post-title {
    font-size: 40px;
+   hyphens: auto;
    /* font-weight: bold; */
    display: grid;
    gap: 18px;
@@ -56,18 +57,21 @@ textarea {
    h2 {
       font-size: 34px;
       color: crimson;
+      hyphens: auto;
       /* font-weight: bold; */
    }
 
    h3 {
       font-size: 29px;
       color: forestgreen;
+      hyphens: auto;
       /* font-weight: bold; */
    }
 
    h4 {
       font-size: 25px;
       color: darkgoldenrod;
+      hyphens: auto;
       /* font-weight: bold; */
    }
 
@@ -239,7 +243,7 @@ textarea {
 /* TABLES OF CONTENT */
 
 ul {
-   margin-left: 26px;
+   margin-left: 22px;
    padding-left: 3px;
 }
 
