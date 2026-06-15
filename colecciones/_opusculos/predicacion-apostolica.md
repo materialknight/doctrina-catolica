@@ -186,7 +186,7 @@ De hecho, los cananeos, los jeteos, los fereceos, los jeveos, los amorreos, los 
 
 Igual que la maldición siguió su camino, la bendición continuó en la posteridad del que había sido bendecido, cada uno según su orden. En primer lugar fue bendecido Sem con estas palabras: «Bendito el Señor Dios de Sem. Sea Cam su siervo» (Gn 9,26).
 
-De esta bendición resultó que Dios, Señor del universo, llegó a ser para Sem objeto privilegiado de su piedad; la bendición se desarrolló hasta alcanzar a Abraham, que, en la posteridad de Sem, llega a la décima generación según el orden genealógico descendente. Y es ésta la razón por la que el Padre, Dios del universo, se complace en ser llamado «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex 3,6; Mt 22,32; Mc 12,26; Lc 20,37), porque la bendición de Sem llegó hasta Abrahán.
+De esta bendición resultó que Dios, Señor del universo, llegó a ser para Sem objeto privilegiado de su piedad; la bendición se desarrolló hasta alcanzar a Abraham, que, en la posteridad de Sem, llega a la décima generación según el orden genealógico descendente. Y es ésta la razón por la que el Padre, Dios del universo, se complace en ser llamado «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex 3,6; Mt 22,32; Mc [12, 26]({{ "biblia-straubinger/marcos#c12-v26" | relative_url }}); Lc 20,37), porque la bendición de Sem llegó hasta Abrahán.
 
 La bendición de Jafet fue formulada del siguiente modo: «Que Dios dilate a Jafet y habite en la casa de Sem, y Cam sea su siervo» (Gn 9,27). Esta bendición floreció al final de este período, cuando el Señor se manifestó a las naciones por su llamamiento (pues Dios dilató su llamamiento hasta ellas) y «a toda la tierra alcanzó su pregón y sus palabras han llegado hasta los límites del orbe» (Sal 18,5).
 
@@ -708,7 +708,7 @@ Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos
 
 No es con la locuacidad de la ley, por tanto, como se salva el género humano, sino con la brevedad y precisión de la fe y de la caridad. Isaías dice: «Una palabra concisa y breve en la justicia, porque Dios enviará una palabra concisa, con eficacia, sobre toda la tierra» (Is 10,23; Rm [9, 28]({{ "biblia-straubinger/romanos#c9-v28" | relative_url }})). De ahí que Pablo afirme: «El amor es la plenitud de la ley» (Rm [13, 10]({{ "biblia-straubinger/romanos#c13-v10" | relative_url }})). Pues el que ama a Dios cumple la ley.
 
-Cuando le preguntaron al Señor: «¿Qué mandamiento es el primero de todos?», el Señor respondió: «Amarás al Señor tu Dios con todo tu corazón, con toda tu fuerza; y el segundo es similar a éste: Amarás al prójimo como a ti mismo. De estos dos mandamientos penden la ley y los profetas» (Mc 12,30; Mt 22,37).
+Cuando le preguntaron al Señor: «¿Qué mandamiento es el primero de todos?», el Señor respondió: «Amarás al Señor tu Dios con todo tu corazón, con toda tu fuerza; y el segundo es similar a éste: Amarás al prójimo como a ti mismo. De estos dos mandamientos penden la ley y los profetas» (Mc [12, 30]({{ "biblia-straubinger/marcos#c12-v30" | relative_url }}); Mt 22,37).
 
 Así pues, con la fe en él ha crecido nuestro amor por Dios y por el prójimo, haciéndonos piadosos, justos y buenos. Es por esto por lo que ha enviado con eficacia «una palabra concisa sobre la tierra», en el mundo.
 

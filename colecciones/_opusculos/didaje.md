@@ -385,7 +385,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [1, 2](#c1-v2) Antes de ser conocidos como «cristianos» (Hechos 11, 26), la fe de los seguidores de Jesús se llamaba simplemente «El Camino» (Hechos 9, 2, cp. Hechos 19, 9; 19, 23; 22, 4; 24, 14 y 24, 22), y los judíos conocían a «los del Camino» como «la secta de los nazarenos» (Hechos 24, 5).
 {:#nt-c1-v2}
 
-«Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo 22, 34-40 y Marcos 12, 28-31).
+«Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo 22, 34-40 y Marcos [12, 28]({{ "biblia-straubinger/marcos#c12-v28" | relative_url }})-31).
 {:#nt-c1-v2b}
 
 Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas a otro lo que no quieras que te hagan a ti» (cp. Tobías 4, 15). Pero en los Evangelios, Jesús nos dará «La Regla de Oro»: «Haz a otros lo que quieras que te hagan a ti» (cp. Mateo 7, 12 y Lucas 6, 31).
@@ -415,7 +415,7 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 [8, 3](#c8-v3) Aquí, como en Lucas 11, 2, queda claro que el Padrenuestro no era solo un modelo.
 {:#nt-c8-v3}
 
-[9, 1](#c9-v1) «Eucaristía» es una transliteración del griego «εὐχαριστία», que significa «acción de gracias», y se llama así porque Jesús la instituyó dando gracias al Padre (Mateo 26, 26-28, Marcos 14, 22-24, Lucas 22, 17-19).
+[9, 1](#c9-v1) «Eucaristía» es una transliteración del griego «εὐχαριστία», que significa «acción de gracias», y se llama así porque Jesús la instituyó dando gracias al Padre (Mateo 26, 26-28, Marcos [14, 22]({{ "biblia-straubinger/marcos#c14-v22" | relative_url }})-24, Lucas 22, 17-19).
 {:#nt-c9-v1}
 
 [9, 5](#c9-v5) Cp. Mateo 7, 6.
@@ -447,7 +447,7 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 *Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})).
 {:#nt-c11-v3b}
 
-[11, 7](#c11-v7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo 12, 22-37 y Marcos 3, 20-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
+[11, 7](#c11-v7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo 12, 22-37 y Marcos [3, 20]({{ "biblia-straubinger/marcos#c3-v20" | relative_url }})-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
 {:#nt-c11-v7}
 
 Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues podríamos llegar a estorbar al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar públicamente al profeta mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
@@ -475,5 +475,5 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 [16, 7](#c16-v7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses [3, 13]({{ "biblia-straubinger/1-tesalonicenses#c3-v13" | relative_url }}) y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
 {:#nt-c16-v7}
 
-[16, 8](#c16-v8) Esta cita es de Daniel 7, 13, y se repite en Mateo 26, 64 y Marcos 14, 62.
+[16, 8](#c16-v8) Esta cita es de Daniel 7, 13, y se repite en Mateo 26, 64 y Marcos [14, 62]({{ "biblia-straubinger/marcos#c14-v62" | relative_url }}).
 {:#nt-c16-v8}
