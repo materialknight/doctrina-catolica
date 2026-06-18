@@ -730,7 +730,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Meditemos el temor de Dios»: Deuteronomio 6, 2; 10, 12, Job 28, 28, Proverbios 1, 7, Salmo 110, 10, etc.
 
-[4, 12](#c4-v12) «Juzgará al mundo sin acepción de personas»: Deuteronomio 10, 17, Hechos 10, 34 y Romanos [2, 11]({{ "biblia-straubinger/romanos#c2-v11" | relative_url }}).
+[4, 12](#c4-v12) «Juzgará al mundo sin acepción de personas»: Deuteronomio 10, 17, Hechos [10, 34]({{ "biblia-straubinger/hechos#c10-v34" | relative_url }}) y Romanos [2, 11]({{ "biblia-straubinger/romanos#c2-v11" | relative_url }}).
 {:#nt-c4-v12}
 
 «Cada uno recibirá conforme obró»: Salmo 61, 13, Mateo 16, 27, Romanos [2, 6]({{ "biblia-straubinger/romanos#c2-v6" | relative_url }}) y Apocalipsis 20, 12-13.
@@ -774,7 +774,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Y púsome como una roca dura»: Isaías 50, 7.
 
-[6, 4](#c6-v4) «La piedra que desecharon los constructores vino a ser cabeza de ángulo»: La cita es del Salmo 117, 22, y se repite en Mateo 21, 42, Hechos 4, 11 y 1 Pedro [2, 7]({{ "biblia-straubinger/1-pedro#c2-v7" | relative_url }}).
+[6, 4](#c6-v4) «La piedra que desecharon los constructores vino a ser cabeza de ángulo»: La cita es del Salmo 117, 22, y se repite en Mateo 21, 42, Hechos [4, 11]({{ "biblia-straubinger/hechos#c4-v11" | relative_url }}) y 1 Pedro [2, 7]({{ "biblia-straubinger/1-pedro#c2-v7" | relative_url }}).
 {:#nt-c6-v4}
 
 «Este es el día grande y maravilloso que hizo el Señor»: Salmo 117, 24.

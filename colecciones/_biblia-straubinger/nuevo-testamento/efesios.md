@@ -74,7 +74,7 @@ title: Carta del apóstol san Pablo a los Efesios
 [1, 20](#c1-v20) que obró en Cristo resucitándolo de entre los muertos, y sentándolo a su diestra en los cielos
 {:#c1-v20}
 
-[1, 21](#c1-v21) por encima de todo, principado y potestad y poder y dominación, y sobre todo nombre que se nombre, no solo en este siglo, sino también en el venidero.
+[1, 21](#c1-v21) por encima de todo principado y potestad y poder y dominación, y sobre todo nombre que se nombre, no solo en este siglo, sino también en el venidero.
 {:#c1-v21}
 
 [1, 22](#c1-v22) Y todo lo sometió bajo sus pies, y lo dio por cabeza suprema de todo a la Iglesia [[\*\*]](#nt-c1-v22),

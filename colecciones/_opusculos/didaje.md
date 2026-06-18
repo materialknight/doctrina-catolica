@@ -382,7 +382,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 
 ## Notas
 
-[1, 2](#c1-v2) Antes de ser conocidos como «cristianos» (Hechos 11, 26), la fe de los seguidores de Jesús se llamaba simplemente «El Camino» (Hechos 9, 2, cp. Hechos 19, 9; 19, 23; 22, 4; 24, 14 y 24, 22), y los judíos conocían a «los del Camino» como «la secta de los nazarenos» (Hechos 24, 5).
+[1, 2](#c1-v2) Antes de ser conocidos como «cristianos» (Hechos [11, 26]({{ "biblia-straubinger/hechos#c11-v26" | relative_url }})), la fe de los seguidores de Jesús se llamaba simplemente «El Camino» (Hechos [9, 2]({{ "biblia-straubinger/hechos#c9-v2" | relative_url }}), cp. Hechos [19, 9]({{ "biblia-straubinger/hechos#c19-v9" | relative_url }}) y [23]({{ "biblia-straubinger/hechos#c19-v23" | relative_url }}); [22, 4]({{ "biblia-straubinger/hechos#c22-v4" | relative_url }}); [24, 14]({{ "biblia-straubinger/hechos#c24-v14" | relative_url }}) y [22]({{ "biblia-straubinger/hechos#c24-v22" | relative_url }})), y los judíos conocían a «los del Camino» como «la secta de los nazarenos» (Hechos [24, 5]({{ "biblia-straubinger/hechos#c24-v5" | relative_url }})).
 {:#nt-c1-v2}
 
 «Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo 22, 34-40 y Marcos [12, 28]({{ "biblia-straubinger/marcos#c12-v28" | relative_url }})-31).

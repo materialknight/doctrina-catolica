@@ -7,7 +7,7 @@ title: Prólogo
 <!-- Regex: ^(\d+)(.+) -->
 <!-- Reemplazo: [**$1**](#p$1)$2\n{:#p$1} -->
 
-> «PADRE, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo» (Jn 17,3). «Dios, nuestro Salvador... quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad» (1 Tm [2, 3]({{ "biblia-straubinger/1-timoteo#c2-v3" | relative_url }})-4). «No hay bajo el cielo otro nombre dado a los hombres por el que nosotros debamos salvarnos» (Hch 4,12), sino el nombre de Jesús.
+> «PADRE, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo» (Jn 17,3). «Dios, nuestro Salvador... quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad» (1 Tm [2, 3]({{ "biblia-straubinger/1-timoteo#c2-v3" | relative_url }})-4). «No hay bajo el cielo otro nombre dado a los hombres por el que nosotros debamos salvarnos» (Hch [4, 12]({{ "biblia-straubinger/hechos#c4-v12" | relative_url }})), sino el nombre de Jesús.
 
 ## I. La vida del hombre: conocer y amar a Dios
 {:#p-r1}
@@ -18,7 +18,7 @@ title: Prólogo
 [**2**](#n2)  Para que esta llamada resonara en toda la tierra, Cristo envió a los apóstoles que había escogido, dándoles el mandato de anunciar el Evangelio: «Id, pues, y haced discípulos a todas las gentes bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo, y enseñándoles a guardar todo lo que yo os he mandado. Y sabed que yo estoy con vosotros todos los días hasta el fin del mundo» (Mt 28,19-20). Fortalecidos con esta misión, los apóstoles «salieron a predicar por todas partes, colaborando el Señor con ellos y confirmando la Palabra con las señales que la acompañaban» (Mc [16, 20]({{ "biblia-straubinger/marcos#c16-v20" | relative_url }})).
 {:#n2}
 
-[**3**](#n3)  Quienes con la ayuda de Dios, han acogido el llamamiento de Cristo y han respondido libremente a ella, se sienten por su parte urgidos por el amor de Cristo a anunciar por todas partes en el mundo la Buena Nueva. Este tesoro recibido de los Apóstoles ha sido guardado fielmente por sus sucesores. Todos los fieles de Cristo son llamados a transmitirlo de generación en generación, anunciando la fe, viviéndola en la comunión fraterna y celebrándola en la liturgia y en la oración (cf. Hch 2,42).
+[**3**](#n3)  Quienes con la ayuda de Dios, han acogido el llamamiento de Cristo y han respondido libremente a ella, se sienten por su parte urgidos por el amor de Cristo a anunciar por todas partes en el mundo la Buena Nueva. Este tesoro recibido de los Apóstoles ha sido guardado fielmente por sus sucesores. Todos los fieles de Cristo son llamados a transmitirlo de generación en generación, anunciando la fe, viviéndola en la comunión fraterna y celebrándola en la liturgia y en la oración (cf. Hch [2, 42]({{ "biblia-straubinger/hechos#c2-v42" | relative_url }})).
 {:#n3}
 
 ## II. Transmitir la fe: la catequesis
