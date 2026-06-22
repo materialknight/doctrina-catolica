@@ -1467,11 +1467,11 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 
 ## III. La Iglesia en el mundo greco-romano
 
-## A. Primer viaje de san Pablo
+### A. Primer viaje de san Pablo
 
-### Hechos [13](#c13) {#c13}
+#### Hechos [13](#c13) {#c13}
 
-#### Pablo y Bernabé son escogidos para la misión entre los gentiles
+##### Pablo y Bernabé son escogidos para la misión entre los gentiles
 
 [13, 1](#c13-v1) Había en la Iglesia de Antioquía profetas y doctores: Bernabé, Simón por sobrenombre el Negro, Lucio de Cirene, Manahén, hermano de leche del tetrarca Herodes, y Saulo [[\*\*]](#nt-c13-v1).
 {:#c13-v1}
@@ -1482,7 +1482,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 3](#c13-v3) Entonces, después de ayunar y orar, les impusieron las manos y los despidieron [[\*\*]](#nt-c13-v3).
 {:#c13-v3}
 
-#### Pablo y Elimas
+##### Pablo y Elimas
 
 [13, 4](#c13-v4) Enviados, pues, por el Espíritu Santo, bajaron a Seleucia, desde donde navegaron a Chipre.
 {:#c13-v4}
@@ -1511,7 +1511,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 12](#c13-v12) Al ver lo sucedido el procónsul abrazó la fe, maravillado de la doctrina del Señor.
 {:#c13-v12}
 
-#### Pablo y Bernabé en Antioquía de Pisidia
+##### Pablo y Bernabé en Antioquía de Pisidia
 
 [13, 13](#c13-v13) Pablo y sus compañeros dejaron entonces Pafo y fueron a Perge de Panfilia. Entretanto Juan se apartó de ellos y se volvió a Jerusalén [[\*\*]](#nt-c13-v13).
 {:#c13-v13}
@@ -1522,7 +1522,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 15](#c13-v15) Después de la lectura de la Ley y de los Profetas, los jefes de la sinagoga enviaron a decirles: «Varones, hermanos, si tenéis una palabra de consuelo para el pueblo, hablad» [[\*\*]](#nt-c13-v15).
 {:#c13-v15}
 
-#### Discurso de San Pablo en Antioquía de Pisidia
+##### Discurso de San Pablo en Antioquía de Pisidia
 
 [13, 16](#c13-v16) Levantose entonces Pablo y haciendo señal (de silencio) con la mano, dijo: "Varones israelitas y los que teméis a Dios, escuchad [[\*\*]](#nt-c13-v16).
 {:#c13-v16}
@@ -1602,7 +1602,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 41](#c13-v41) «Mirad, burladores, maravillaos y escondeos, porque Yo hago una obra en vuestros días, obra que no creeréis, aun cuando alguno os lo explicare» [[\*\*]](#nt-c13-v41).
 {:#c13-v41}
 
-#### Efectos del discurso
+##### Efectos del discurso
 
 [13, 42](#c13-v42) Cuando ellos salieron, los suplicaron que el sábado siguiente les hablasen de estas cosas.
 {:#c13-v42}
@@ -1637,9 +1637,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 52](#c13-v52) Mas los discípulos quedaron llenos de gozo y del Espíritu Santo [[\*\*]](#nt-c13-v52).
 {:#c13-v52}
 
-### Hechos [14](#c14) {#c14}
+#### Hechos [14](#c14) {#c14}
 
-#### En Iconio
+##### En Iconio
 
 [14, 1](#c14-v1) De la misma manera entraron en Iconio en la sinagoga de los judíos y hablaron de tal modo que una gran multitud de judíos y griegos abrazó la fe [[\*\*]](#nt-c14-v1).
 {:#c14-v1}
@@ -1662,7 +1662,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [14, 7](#c14-v7) donde predicaron el Evangelio.
 {:#c14-v7}
 
-#### En Listra y Derbe
+##### En Listra y Derbe
 
 [14, 8](#c14-v8) En Listra se hallaba sentado (en la calle) un hombre, incapaz de mover los pies, cojo desde el seno materno, y que nunca había andado.
 {:#c14-v8}
@@ -1703,7 +1703,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [14, 20](#c14-v20) Mas él, rodeado de los discípulos, se levantó y entró en la ciudad. Al día siguiente se fue con Bernabé a Derbe.
 {:#c14-v20}
 
-#### Fin del primer viaje apostólico
+##### Fin del primer viaje apostólico
 
 [14, 21](#c14-v21) Después de predicar el Evangelio en aquella ciudad y habiendo ganado muchos discípulos, volvieron a Listra, Iconio y Antioquía,
 {:#c14-v21}
@@ -1729,11 +1729,11 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [14, 28](#c14-v28) Y detuviéronse con los discípulos no poco tiempo.
 {:#c14-v28}
 
-## B. El Concilio de Jerusalén
+### B. El Concilio de Jerusalén
 
-### Hechos [15](#c15) {#c15}
+#### Hechos [15](#c15) {#c15}
 
-#### Inquietud en las comunidades cristianas
+##### Inquietud en las comunidades cristianas
 
 [15, 1](#c15-v1) Habían bajado algunos de Judea que enseñaban a los hermanos: «Si no os circuncidáis según el rito de Moisés, no podéis salvaros» [[\*\*]](#nt-c15-v1).
 {:#c15-v1}
@@ -1750,7 +1750,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [15, 5](#c15-v5) Pero se levantaron algunos de la secta de los fariseos que habían abrazado la fe, los cuales decían: «Es necesario circuncidarlos y mandarlos observar la Ley de Moisés».
 {:#c15-v5}
 
-#### Discurso de San Pedro
+##### Discurso de San Pedro
 
 [15, 6](#c15-v6) Congregáronse entonces los apóstoles y presbíteros para deliberar sobre este asunto.
 {:#c15-v6}
@@ -1773,7 +1773,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [15, 12](#c15-v12) Guardó entonces silencio toda la asamblea y escucharon a Bernabé y a Pablo, los que refirieron cuántos milagros y prodigios había hecho Dios entre los gentiles por medio de ellos [[\*\*]](#nt-c15-v12).
 {:#c15-v12}
 
-#### Discurso de Santiago
+##### Discurso de Santiago
 
 [15, 13](#c15-v13) Después que ellos callaron, tomó Santiago la palabra y dijo: «Varones, hermanos, escuchadme [[\*\*]](#nt-c15-v13).
 {:#c15-v13}
@@ -1802,7 +1802,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [15, 21](#c15-v21) Porque Moisés tiene desde generaciones antiguas en cada ciudad hombres que lo predican, puesto que en las sinagogas él es leído todos los sábados».
 {:#c15-v21}
 
-#### Los decretos del Concilio
+##### Los decretos del Concilio
 
 [15, 22](#c15-v22) Pareció entonces bien a los apóstoles y a los presbíteros, con toda la Iglesia, elegir algunos de entre ellos y enviarlos con Pablo y Bernabé a Antioquía: a Judas, llamado Barsabás, y a Silas, hombres destacados entre los hermanos [[\*\*]](#nt-c15-v22);
 {:#c15-v22}
@@ -1846,9 +1846,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [15, 35](#c15-v35) Mas Pablo y Bernabé se quedaron en Antioquía, enseñando y predicando con otros muchos la palabra del Señor.
 {:#c15-v35}
 
-## C. Segundo viaje de san Pablo
+### C. Segundo viaje de san Pablo
 
-#### Bernabé se separa de Pablo
+##### Bernabé se separa de Pablo
 
 [15, 36](#c15-v36) Pasados algunos días, dijo Pablo a Bernabé: «Volvamos y visitemos a los hermanos por todas las ciudades donde hemos predicado la palabra del Señor, (para ver) cómo se hallan» [[\*\*]](#nt-c15-v36).
 {:#c15-v36}
@@ -1868,9 +1868,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [15, 41](#c15-v41) y recorrió la Siria y la Cilicia confirmando las Iglesias [[\*\*]](#nt-c15-v41).
 {:#c15-v41}
 
-### Hechos [16](#c16) {#c16}
+#### Hechos [16](#c16) {#c16}
 
-#### Misión en Asia Menor
+##### Misión en Asia Menor
 
 [16, 1](#c16-v1) Llegó a Derbe y a Listra donde se hallaba cierto discípulo llamado Timoteo, hijo de una mujer judía creyente y de padre gentil;
 {:#c16-v1}
@@ -1887,7 +1887,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [16, 5](#c16-v5) Así pues las iglesias se fortalecían en la fe y se aumentaba cada día su número [[\*\*]](#nt-c16-v5).
 {:#c16-v5}
 
-#### San Pablo se encamina a Europa
+##### San Pablo se encamina a Europa
 
 [16, 6](#c16-v6) Atravesada la Frigia y la región de Galacia, les prohibió el Espíritu Santo predicar la Palabra en Asia [[\*\*]](#nt-c16-v6).
 {:#c16-v6}
@@ -1904,7 +1904,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [16, 10](#c16-v10) Inmediatamente de tener esta visión procuramos partir para Macedonia infiriendo que Dios nos llamaba a predicarles el Evangelio [[\*\*]](#nt-c16-v10).
 {:#c16-v10}
 
-#### En Filipos
+##### En Filipos
 
 [16, 11](#c16-v11) Embarcándonos, pues, en Tróade, navegamos derecho a Samotracia, y al día siguiente a Neápolis [[\*\*]](#nt-c16-v11).
 {:#c16-v11}
@@ -1930,7 +1930,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [16, 18](#c16-v18) Esto hizo por muchos días. Pablo se sintió dolorido, y volviéndose dijo al espíritu: «Yo te mando en el nombre de Jesucristo que salgas de ella». Y al punto partió.
 {:#c16-v18}
 
-#### Tumulto contra Pablo en Filipos
+##### Tumulto contra Pablo en Filipos
 
 [16, 19](#c16-v19) Viendo sus amos que había partido la esperanza de hacer más ganancias, prendieron a Pablo y a Silas y los arrastraron al foro ante los magistrados [[\*\*]](#nt-c16-v19);
 {:#c16-v19}
@@ -1962,7 +1962,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [16, 28](#c16-v28) Mas Pablo clamó a gran voz diciendo: «No te hagas ningún daño, porque todos estamos aquí».
 {:#c16-v28}
 
-#### Conversión del carcelero y salida de Pablo de Filipos
+##### Conversión del carcelero y salida de Pablo de Filipos
 
 [16, 29](#c16-v29) Entonces el carcelero pidió luz, se precipitó dentro, y temblando de temor cayó a los pies de Pablo y Silas.
 {:#c16-v29}
@@ -2000,9 +2000,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [16, 40](#c16-v40) Ellos entonces salieron de la cárcel y entraron en casa de Lidia, y después de haber visto y consolado a los hermanos, partieron.
 {:#c16-v40}
 
-### Hechos [17](#c17) {#c17}
+#### Hechos [17](#c17) {#c17}
 
-#### San Pablo en Tesalónica
+##### San Pablo en Tesalónica
 
 [17, 1](#c17-v1) Pasando por Anfípolis y Apolonia, llegaron a Tesalónica, donde se hallaba una sinagoga de los judíos [[\*\*]](#nt-c17-v1).
 {:#c17-v1}
@@ -2031,7 +2031,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [17, 9](#c17-v9) Tomaron, pues, fianza de Jasón y de los demás, y los soltaron.
 {:#c17-v9}
 
-#### En Berea
+##### En Berea
 
 [17, 10](#c17-v10) Inmediatamente, los hermanos hicieron partir a Pablo y a Silas de noche para Berea, los cuales, llegados allí, fueron a la sinagoga de los judíos [[\*\*]](#nt-c17-v10).
 {:#c17-v10}
@@ -2051,7 +2051,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [17, 15](#c17-v15) Los que conducían a Pablo lo llevaron hasta Atenas, y habiendo recibido encargo para que Silas y Timoteo viniesen a él lo más pronto posible, se marcharon.
 {:#c17-v15}
 
-#### En Atenas
+##### En Atenas
 
 [17, 16](#c17-v16) Mientras Pablo los aguardaba en Atenas, se consumía interiormente su espíritu al ver que la ciudad estaba cubierta de ídolos [[\*\*]](#nt-c17-v16).
 {:#c17-v16}
@@ -2071,7 +2071,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [17, 21](#c17-v21) Pues todos los atenienses y los extranjeros residentes allí no gustaban más que de decir u oír novedades.
 {:#c17-v21}
 
-#### Discurso del Areópago
+##### Discurso del Areópago
 
 [17, 22](#c17-v22) De pie en medio del Areópago, Pablo dijo: «Varones atenienses, en todas las cosas veo que sois extremadamente religiosos [[\*\*]](#nt-c17-v22);
 {:#c17-v22}
@@ -2112,9 +2112,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [17, 34](#c17-v34) Mas algunos hombres se unieron a él y abrazaron la fe, entre ellos Dionisio el areopagita, y una mujer llamada Dámaris, y otros con ellos [[\*\*]](#nt-c17-v34).
 {:#c17-v34}
 
-### Hechos [18](#c18) {#c18}
+#### Hechos [18](#c18) {#c18}
 
-#### Pablo en Corinto
+##### Pablo en Corinto
 
 [18, 1](#c18-v1) Después de esto, Pablo partió de Atenas y se fue a Corinto.
 {:#c18-v1}
@@ -2149,7 +2149,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [18, 11](#c18-v11) Y permaneció un año y seis meses, enseñando entre ellos la palabra de Dios [[\*\*]](#nt-c18-v11).
 {:#c18-v11}
 
-#### Pablo ante Galión
+##### Pablo ante Galión
 
 [18, 12](#c18-v12) Siendo Galión procónsul de Acaya, los judíos se levantaron a una contra Pablo y le llevaron ante el tribunal,
 {:#c18-v12}
@@ -2169,7 +2169,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [18, 17](#c18-v17) Entonces todos los griegos asieron a Sóstenes, jefe de la sinagoga, y le golpearon delante del tribunal, sin que Galión hiciera caso de esto [[\*\*]](#nt-c18-v17).
 {:#c18-v17}
 
-#### Fin del segundo viaje
+##### Fin del segundo viaje
 
 [18, 18](#c18-v18) Pablo, habiéndose detenido aún no pocos días, se despidió de los hermanos y se hizo a la vela hacia Siria, en compañía de Priscila y Aquila, luego de haberse rapado la cabeza en Cencrea, porque tenía un voto [[\*\*]](#nt-c18-v18).
 {:#c18-v18}
@@ -2186,12 +2186,12 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [18, 22](#c18-v22) Desembarcó en Cesarea, subió (a Jerusalén) a saludar a la Iglesia, y bajó a Antioquía [[\*\*]](#nt-c18-v22).
 {:#c18-v22}
 
-## D. Tercer viaje de san Pablo
+### D. Tercer viaje de san Pablo
 
 [18, 23](#c18-v23) Pasado algún tiempo, salió y recorrió sucesivamente la región de Galacia y Frigia, fortaleciendo a todos los discípulos [[\*\*]](#nt-c18-v23).
 {:#c18-v23}
 
-#### Apolo en Éfeso y Corinto
+##### Apolo en Éfeso y Corinto
 
 [18, 24](#c18-v24) Vino a Éfeso cierto judío de nombre Apolo, natural de Alejandría, varón elocuente y muy versado en las Escrituras.
 {:#c18-v24}
@@ -2208,9 +2208,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [18, 28](#c18-v28) porque vigorosamente redargüía a los judíos, en público, demostrando por medio de las Escrituras que Jesús era el Cristo [[\*\*]](#nt-c18-v28).
 {:#c18-v28}
 
-### Hechos [19](#c19) {#c19}
+#### Hechos [19](#c19) {#c19}
 
-#### Misión en Éfeso
+##### Misión en Éfeso
 
 [19, 1](#c19-v1) Mientras Apolo estaba en Corinto, sucedió que Pablo, después de recorrer las regiones superiores, llegó a Éfeso [[\*\*]](#nt-c19-v1). Allí encontró algunos discípulos,
 {:#c19-v1}
@@ -2233,7 +2233,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [19, 7](#c19-v7) Eran entre todos unos doce hombres.
 {:#c19-v7}
 
-#### Pablo se separa de los judíos y hace muchos milagros
+##### Pablo se separa de los judíos y hace muchos milagros
 
 [19, 8](#c19-v8) Entró Pablo en la sinagoga y habló con libertad por espacio de tres meses, discutiendo y persuadiendo acerca del reino de Dios [[\*\*]](#nt-c19-v8).
 {:#c19-v8}
@@ -2280,7 +2280,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [19, 22](#c19-v22) Envió entonces a Macedonia dos de sus ayudantes, Timoteo y Erasto, mientras él mismo se detenía todavía algún tiempo en Asia [[\*\*]](#nt-c19-v22).
 {:#c19-v22}
 
-#### Tumulto en Éfeso
+##### Tumulto en Éfeso
 
 [19, 23](#c19-v23) Hubo por aquel tiempo un alboroto no pequeño a propósito del Camino [[\*\*]](#nt-c19-v23).
 {:#c19-v23}
@@ -2336,9 +2336,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [19, 40](#c19-v40) porque estamos en peligro de ser acusados de sedición por lo de hoy, pues no hay causa alguna que nos permita dar razón de este tropel». Dicho esto, despidió a la asamblea.
 {:#c19-v40}
 
-### Hechos [20](#c20) {#c20}
+#### Hechos [20](#c20) {#c20}
 
-#### Viaje a Macedonia y Grecia
+##### Viaje a Macedonia y Grecia
 
 [20, 1](#c20-v1) Luego que el tumulto cesó, convocó Pablo a los discípulos, los exhortó, y despidiéndose salió para ir a Macedonia.
 {:#c20-v1}
@@ -2358,7 +2358,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [20, 6](#c20-v6) Nosotros, en cambio, nos dimos a la vela desde Filipos, después de los días de los Ázimos; y en cinco días los alcanzamos en Tróade, donde nos detuvimos siete días.
 {:#c20-v6}
 
-#### Pablo resucita a Eutico
+##### Pablo resucita a Eutico
 
 [20, 7](#c20-v7) El primer día de la semana nos reunimos para partir el pan [[\*\*]](#nt-c20-v7), Pablo, que había de marchar al día siguiente, les predicaba, prolongando su discurso hasta la medianoche.
 {:#c20-v7}
@@ -2378,7 +2378,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [20, 12](#c20-v12) Ellos se llevaron vivo al joven, y quedaron sobremanera consolados.
 {:#c20-v12}
 
-#### En Mileto
+##### En Mileto
 
 [20, 13](#c20-v13) Nosotros, adelantándonos en la nave, dimos vela a Asón, donde habíamos de recibir a Pablo. Lo había dispuesto así, queriendo irse él a pie.
 {:#c20-v13}
@@ -2458,9 +2458,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [20, 38](#c20-v38) afligidos sobre todo por aquella palabra que había dicho, de que ya no verían su rostro. Y le acompañaron hasta el barco.
 {:#c20-v38}
 
-### Hechos [21](#c21) {#c21}
+#### Hechos [21](#c21) {#c21}
 
-#### De Mileto a Tiro
+##### De Mileto a Tiro
 
 [21, 1](#c21-v1) Cuando, arrancándonos de ellos, nos embarcamos, navegamos derechamente rumbo a Coos, al día siguiente a Rodas, y de allí a Pátara [[\*\*]](#nt-c21-v1).
 {:#c21-v1}
@@ -2480,7 +2480,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [21, 6](#c21-v6) y nos despedimos mutuamente. Nosotros subimos a la nave, y ellos se volvieron a sus casas.
 {:#c21-v6}
 
-#### De Tiro a Jerusalén
+##### De Tiro a Jerusalén
 
 [21, 7](#c21-v7) Concluyendo nuestra navegación, llegamos de Tiro a Ptolemaida, donde saludamos a los hermanos y nos quedamos con ellos un día [[\*\*]](#nt-c21-v7).
 {:#c21-v7}
@@ -2512,7 +2512,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [21, 16](#c21-v16) Algunos discípulos iban con nosotros desde Cesarea y nos condujeron a casa de Mnason de Chipre, un antiguo discípulo, en cuya casa debíamos hospedarnos [[\*\*]](#nt-c21-v16).
 {:#c21-v16}
 
-#### Acogida en Jerusalén
+##### Acogida en Jerusalén
 
 [21, 17](#c21-v17) Llegados a Jerusalén, los hermanos nos recibieron con gozo,
 {:#c21-v17}
@@ -2544,9 +2544,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [21, 26](#c21-v26) Entonces Pablo, tomando a los hombres, se purificó con ellos al día siguiente y entró en el Templo, anunciando el vencimiento de los días de la purificación, hasta que se ofreciese por cada uno de ellos la ofrenda [[\*\*]](#nt-c21-v26).
 {:#c21-v26}
 
-## E. Cautividad de san Pablo en Cesarea y Roma
+### E. Cautividad de san Pablo en Cesarea y Roma
 
-#### Tumulto del pueblo contra Pablo
+##### Tumulto del pueblo contra Pablo
 
 [21, 27](#c21-v27) Estando para cumplirse los siete días, lo vieron los judíos de Asia en el Templo, y alborotando todo el pueblo le echaron mano,
 {:#c21-v27}
@@ -2590,9 +2590,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [21, 40](#c21-v40) Permitiéndoselo él, Pablo, puesto de pie en las gradas, hizo señal con la mano al pueblo; y cuando se hizo un gran silencio, les dirigió la palabra en hebreo [[\*\*]](#nt-c21-v40), diciendo:
 {:#c21-v40}
 
-### Hechos [22](#c22) {#c22}
+#### Hechos [22](#c22) {#c22}
 
-#### Pablo se defiende ante el pueblo
+##### Pablo se defiende ante el pueblo
 
 [22, 1](#c22-v1) «Hermanos y padres [[\*\*]](#nt-c22-v1), escuchad la defensa que ahora hago delante de vosotros».
 {:#c22-v1}
@@ -2657,7 +2657,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [22, 21](#c22-v21) Pero Él me dijo: "Anda, que Yo te enviaré a naciones lejanas"».
 {:#c22-v21}
 
-#### Nuevo tumulto del pueblo contra Pablo
+##### Nuevo tumulto del pueblo contra Pablo
 
 [22, 22](#c22-v22) Hasta esta palabra le escucharon, pero luego levantaron la voz y gritaban: «Quita de la tierra a semejante hombre; no debe vivir» [[\*\*]](#nt-c22-v22).
 {:#c22-v22}
@@ -2686,9 +2686,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [22, 30](#c22-v30) Al día siguiente, deseando saber con seguridad de qué causa era acusado por los judíos, le soltó e hizo reunir a los sumos sacerdotes y todo el sinedrio; y trayendo a Pablo lo puso delante de ellos.
 {:#c22-v30}
 
-### Hechos [23](#c23) {#c23}
+#### Hechos [23](#c23) {#c23}
 
-#### Pablo ante el sinedrio
+##### Pablo ante el sinedrio
 
 [23, 1](#c23-v1) Pablo, entonces, teniendo fijos sus ojos en el sinedrio, dijo: «Varones, hermanos: Yo hasta el día de hoy me he conducido delante de Dios con toda rectitud de conciencia».
 {:#c23-v1}
@@ -2723,7 +2723,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [23, 11](#c23-v11) En la noche siguiente se puso a su lado el Señor y dijo: «Ten ánimo, porque así como has dado testimonio de Mí en Jerusalén, así has de dar testimonio también en Roma» [[\*\*]](#nt-c23-v11).
 {:#c23-v11}
 
-#### Conjuración contra la vida de Pablo
+##### Conjuración contra la vida de Pablo
 
 [23, 12](#c23-v12) Cuando fue de día, los judíos tramaron una conspiración, y se juramentaron con anatema, diciendo que no comerían ni beberían hasta matar a Pablo.
 {:#c23-v12}
@@ -2758,7 +2758,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [23, 22](#c23-v22) Con esto, el tribuno despidió al joven, encargándole: «No digas a nadie que me has dado aviso de esto».
 {:#c23-v22}
 
-#### Pablo es llevado a Cesarea
+##### Pablo es llevado a Cesarea
 
 [23, 23](#c23-v23) Llamando entonces (el tribuno) a dos de los centuriones, dio orden: «Tened listos, desde la tercera hora de la noche, doscientos soldados para marchar hasta Cesarea, setenta jinetes y doscientos lanceros [[\*\*]](#nt-c23-v23),
 {:#c23-v23}
@@ -2799,9 +2799,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [23, 35](#c23-v35) dijo: «Te oiré cuando hayan llegado también tus acusadores». Y le mandó custodiar en el pretorio de Herodes.
 {:#c23-v35}
 
-### Hechos [24](#c24) {#c24}
+#### Hechos [24](#c24) {#c24}
 
-#### Ante el gobernador Félix
+##### Ante el gobernador Félix
 
 [24, 1](#c24-v1) Al cabo de cinco días, bajó el Sumo Sacerdote Ananías, con algunos ancianos, y un cierto Tértulo, orador, los cuales comparecieron ante el gobernador, como acusadores de Pablo.
 {:#c24-v1}
@@ -2872,7 +2872,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [24, 23](#c24-v23) Ordenó al centurión que (Pablo) fuese guardado, que le tratase con indulgencia y que no impidiese a ninguno de los suyos asistirle [[\*\*]](#nt-c24-v23).
 {:#c24-v23}
 
-#### Félix conversa con Pablo sobre la fe
+##### Félix conversa con Pablo sobre la fe
 
 [24, 24](#c24-v24) Pasados algunos días, vino Félix con Drusila, su mujer, que era judía, llamó a Pablo y le escuchó acerca de la fe en Jesucristo.
 {:#c24-v24}
@@ -2886,9 +2886,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [24, 27](#c24-v27) Cumplidos dos años, Félix tuvo por sucesor a Porcio Festo; y queriendo congraciarse con los judíos, Félix dejó a Pablo en prisión [[\*\*]](#nt-c24-v27).
 {:#c24-v27}
 
-### Hechos [25](#c25) {#c25}
+#### Hechos [25](#c25) {#c25}
 
-#### Pablo ante Festo. Apelación al César
+##### Pablo ante Festo. Apelación al César
 
 [25, 1](#c25-v1) Llegó Festo a la provincia, y al cabo de tres días subió de Cesarea a Jerusalén.
 {:#c25-v1}
@@ -2926,7 +2926,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [25, 12](#c25-v12) Entonces Festo, después de hablar con el consejo, respondió: «Al César has apelado. Al César irás» [[\*\*]](#nt-c25-v12).
 {:#c25-v12}
 
-#### Festo consulta al rey Agripa
+##### Festo consulta al rey Agripa
 
 [25, 13](#c25-v13) Transcurridos algunos días, llegaron a Cesarea el rey Agripa y Berenice para saludar a Festo [[\*\*]](#nt-c25-v13).
 {:#c25-v13}
@@ -2973,9 +2973,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [25, 27](#c25-v27) Porque me parece fuera de razón mandar un preso sin indicar también las acusaciones que se hagan contra él».
 {:#c25-v27}
 
-### Hechos [26](#c26) {#c26}
+#### Hechos [26](#c26) {#c26}
 
-#### Pablo ante Agripa
+##### Pablo ante Agripa
 
 [26, 1](#c26-v1) Dijo luego Agripa a Pablo: «Se te permite hablar en tu defensa». Entonces Pablo, extendiendo su mano, empezó a defenderse [[\*\*]](#nt-c26-v1):
 {:#c26-v1}
@@ -3046,7 +3046,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [26, 23](#c26-v23) que el Cristo había de padecer, y que Él, como el primero de la resurrección de los muertos, ha de anunciar luz al pueblo y a los gentiles».
 {:#c26-v23}
 
-#### Impresión del discurso
+##### Impresión del discurso
 
 [26, 24](#c26-v24) Defendiéndose (Pablo) de este modo, exclamó Festo en alta voz: «Tú estás loco, Pablo. Las muchas letras te trastornan el juicio» [[\*\*]](#nt-c26-v24).
 {:#c26-v24}
@@ -3075,9 +3075,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [26, 32](#c26-v32) Y Agripa dijo a Festo: «Se podría poner a este hombre en libertad, si no hubiera apelado al César» [[\*\*]](#nt-c26-v32).
 {:#c26-v32}
 
-### Hechos [27](#c27) {#c27}
+#### Hechos [27](#c27) {#c27}
 
-#### Viaje a Roma
+##### Viaje a Roma
 
 [27, 1](#c27-v1) Luego que se determinó que navegásemos [[\*\*]](#nt-c27-v1) a Italia, entregaron a Pablo y a algunos otros presos en manos de un centurión de la cohorte Augusta, por nombre Julio,
 {:#c27-v1}
@@ -3118,7 +3118,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [27, 13](#c27-v13) Y soplando un suave viento sur [[\*\*]](#nt-c27-v13), se figuraban que saldrían con su intento. Levaron, pues, anclas, y navegaban a lo largo de Creta, muy cerca de tierra.
 {:#c27-v13}
 
-#### Tempestad en el mar
+##### Tempestad en el mar
 
 [27, 14](#c27-v14) Pero a poco andar se echó sobre la nave un viento tempestuoso, llamado euraquilón,
 {:#c27-v14}
@@ -3141,7 +3141,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [27, 20](#c27-v20) Durante varios días no se dejó ver ni el sol ni las estrellas, y cargando sobre nosotros una gran borrasca, nos quitó al fin toda esperanza de salvarnos.
 {:#c27-v20}
 
-#### Pablo conforta a los compañeros
+##### Pablo conforta a los compañeros
 
 [27, 21](#c27-v21) Habiendo ellos pasado mucho tiempo sin comer, Pablo se puso en pie en medio de ellos, y dijo: "Era menester, oh varones, haberme dado crédito y no partir de Creta, para ahorrarnos este daño y perjuicio [[\*\*]](#nt-c27-v21).
 {:#c27-v21}
@@ -3161,7 +3161,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [27, 26](#c27-v26) Mas hemos de ir a dar en cierta isla".
 {:#c27-v26}
 
-#### Naufragio
+##### Naufragio
 
 [27, 27](#c27-v27) Llegada la noche decimacuarta y siendo nosotros llevados de una a otra parte en el Adria, hacia la mitad de la noche sospecharon los marineros que se acercaban a alguna tierra [[\*\*]](#nt-c27-v27).
 {:#c27-v27}
@@ -3217,9 +3217,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [27, 44](#c27-v44) y los restantes, parte sobre tablas, parte sobre los despojos del barco. Así llegaron todos salvos a tierra.
 {:#c27-v44}
 
-### Hechos [28](#c28) {#c28}
+#### Hechos [28](#c28) {#c28}
 
-#### San Pablo en Malta
+##### San Pablo en Malta
 
 [28, 1](#c28-v1) Puestos en salvo, supimos entonces que la isla se llamaba Melita [[\*\*]](#nt-c28-v1).
 {:#c28-v1}
@@ -3251,7 +3251,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [28, 10](#c28-v10) por cuyo motivo nos colmaron de muchos honores, y cuando nos hicimos a la vela nos proveyeron de lo necesario.
 {:#c28-v10}
 
-#### De Malta a Roma
+##### De Malta a Roma
 
 [28, 11](#c28-v11) Al cabo de tres meses, nos embarcamos en una nave alejandrina que había invernado en la isla y llevaba la insignia de los Dióscuros [[\*\*]](#nt-c28-v11).
 {:#c28-v11}
@@ -3268,7 +3268,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [28, 15](#c28-v15) Teniendo noticia de nosotros, los hermanos de allí nos salieron al encuentro hasta Foro de Apio y Tres Tabernas. Al verlos, Pablo dio gracias a Dios y cobró buen ánimo [[\*\*]](#nt-c28-v15).
 {:#c28-v15}
 
-#### Primera prisión en Roma
+##### Primera prisión en Roma
 
 [28, 16](#c28-v16) Cuando llegamos a Roma, se le permitió a Pablo vivir como particular con el soldado que le custodiaba [[\*\*]](#nt-c28-v16).
 {:#c28-v16}
@@ -3291,7 +3291,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [28, 22](#c28-v22) Sin embargo, deseamos oír de tu parte lo que piensas porque de la secta esa nos es conocido que halla contradicción en todas partes» [[\*\*]](#nt-c28-v22).
 {:#c28-v22}
 
-#### Último retiro de los judíos
+##### Último retiro de los judíos
 
 [28, 23](#c28-v23) Le señalaron, pues, un día y vinieron a él en gran número a su alojamiento. Les explicó el reino de Dios, dando su testimonio, y procuraba persuadirlos acerca de Jesús, con arreglo a la Ley de Moisés y de los Profetas, desde la mañana hasta la tarde [[\*\*]](#nt-c28-v23).
 {:#c28-v23}

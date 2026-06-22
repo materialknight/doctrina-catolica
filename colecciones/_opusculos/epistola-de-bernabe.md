@@ -746,7 +746,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [5, 4](#c5-v4) Proverbios 1, 17.
 {:#nt-c5-v4}
 
-[5, 5](#c5-v5) Génesis 1, 26.
+[5, 5](#c5-v5) Génesis [1, 26]({{ "biblia-straubinger/genesis#c1-v26" | relative_url }}).
 {:#nt-c5-v5}
 
 [5, 9](#c5-v9) «Que no vino a llamar a los justos, sino a los pecadores»: Mateo 9, 13 y Lucas 5, 32.
@@ -790,10 +790,10 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [6, 8](#c6-v8) Paráfrasis de Éxodo 3, 8 y Deuteronomio 1, 8.
 {:#nt-c6-v8}
 
-[6, 12](#c6-v12) «Hagamos al hombre a imagen y semejanza nuestra, y tenga imperio sobre las bestias de la tierra y sobre las aves del cielo y sobre los peces del mar»: Génesis 1, 26.
+[6, 12](#c6-v12) «Hagamos al hombre a imagen y semejanza nuestra, y tenga imperio sobre las bestias de la tierra y sobre las aves del cielo y sobre los peces del mar»: Génesis [1, 26]({{ "biblia-straubinger/genesis#c1-v26" | relative_url }}).
 {:#nt-c6-v12}
 
-«Creced y multiplicaos y henchid la tierra»: Génesis 1, 28.
+«Creced y multiplicaos y henchid la tierra»: Génesis [1, 28]({{ "biblia-straubinger/genesis#c1-v28" | relative_url }}).
 
 [6, 13](#c6-v13) «He aquí que hago lo último como lo primero»: Isaías 48, 6-7.
 {:#nt-c6-v13}
@@ -808,7 +808,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Te confesaré en la reunión de mis hermanos y te cantaré himnos en medio de la congregacion de los santos»: Salmo 21, 23.
 
-[6, 18](#c6-v18) Génesis 1, 26 y 28.
+[6, 18](#c6-v18) Génesis [1, 26]({{ "biblia-straubinger/genesis#c1-v26" | relative_url }}) y [28]({{ "biblia-straubinger/genesis#c1-v28" | relative_url }}).
 {:#nt-c6-v18}
 
 [7, 2](#c7-v2) «Que ha de juzgar a los vivos y a los muertos»: 2 Timoteo [4, 1]({{ "biblia-straubinger/2-timoteo#c4-v1" | relative_url }}).
@@ -859,7 +859,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [9, 8](#c9-v8) Aquí Bernabé aplica la *isopsefía*, que es la práctica de asignar un número a cada letra del alfabeto griego, y luego sumar los valores numéricos de las letras de una palabra; cuando se hace con el *alefato* (alfabeto hebreo), se le llama *gematría*.
 {:#nt-c9-v8}
 
-Bernabé argumenta que el nombre de Jesús y el signo de la cruz están cifrados en Génesis 14, 14, donde Abraham circuncida a 318 hombres de su casa, porque mediante isopsefía se puede sumar 318 con las letras griegas: *Ι* (*iota*) = 10 + *Η* (*eta*) = 8 + *Τ* (*tau*) = 300, donde *Ι* (*iota*) y *Η* (*eta*) son las primeras dos letras del nombre de Jesús en griego: «ΙΗΣΟΥΣ» (en alfabeto latino: «IESOUS»), y la *Τ* (*tau*) representa la forma de la cruz.
+Bernabé argumenta que el nombre de Jesús y el signo de la cruz están cifrados en Génesis [14, 14]({{ "biblia-straubinger/genesis#c14-v14" | relative_url }}), donde Abraham circuncida a 318 hombres de su casa, porque mediante isopsefía se puede sumar 318 con las letras griegas: *Ι* (*iota*) = 10 + *Η* (*eta*) = 8 + *Τ* (*tau*) = 300, donde *Ι* (*iota*) y *Η* (*eta*) son las primeras dos letras del nombre de Jesús en griego: «ΙΗΣΟΥΣ» (en alfabeto latino: «IESOUS»), y la *Τ* (*tau*) representa la forma de la cruz.
 
 [10, 1](#c10-v1) Levítico 11, 1-23 y Deuteronomio 14, 3-21.
 {:#nt-c10-v1}
