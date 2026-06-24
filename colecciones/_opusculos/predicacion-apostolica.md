@@ -31,9 +31,9 @@ Como el hombre es un ser viviente compuesto de alma y cuerpo, así es necesario 
 
 La piedad se empaña y pierde su candor cuando se contamina con la impureza del cuerpo. Se rompe, se mancha y se desintegra cuando el error entra en el alma. Y se mantendrá en su belleza y en su justa proporción cuando la verdad habita constantemente en el alma y la santidad en el cuerpo. Pero ¿para qué sirve conocer la verdad de palabra si se profana el cuerpo y se realizan acciones degradantes? ¿De qué sirve la santidad del cuerpo si la verdad no anida en el alma?
 
-Ambos, pues, se alegran de estar juntos, están aliados y luchan mano a mano para llevar al hombre a la presencia de Dios. Por eso dice el Espíritu Santo por medio de David: «Dichoso el hombre que no ha caminado en el consejo de los impíos» (Sal 1,1). Es decir, en el consejo de los pueblos que no conocen a Dios. De hecho, impíos son aquellos que no veneran a Aquél que es, por naturaleza, Dios. De ahí que el Verbo dice a Moisés: «Yo soy el que soy» (Ex 3,14).
+Ambos, pues, se alegran de estar juntos, están aliados y luchan mano a mano para llevar al hombre a la presencia de Dios. Por eso dice el Espíritu Santo por medio de David: «Dichoso el hombre que no ha caminado en el consejo de los impíos» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})). Es decir, en el consejo de los pueblos que no conocen a Dios. De hecho, impíos son aquellos que no veneran a Aquél que es, por naturaleza, Dios. De ahí que el Verbo dice a Moisés: «Yo soy el que soy» (Ex 3,14).
 
-De esta forma, los que no veneran a Aquél que verdaderamente es, son impíos, como dice la Escritura: «El que no se ha parado en el camino de los pecadores» (Sal 1,1). Y son pecadores los que poseen el conocimiento de Dios y no guardan sus mandamientos. Es decir, los que le desprecian, como dice la Escritura: «Que tampoco se sienta en la cátedra de los cínicos» (Sal 1,1).
+De esta forma, los que no veneran a Aquél que verdaderamente es, son impíos, como dice la Escritura: «El que no se ha parado en el camino de los pecadores» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})). Y son pecadores los que poseen el conocimiento de Dios y no guardan sus mandamientos. Es decir, los que le desprecian, como dice la Escritura: «Que tampoco se sienta en la cátedra de los cínicos» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})).
 
 Cínicos son los que con doctrinas falsas y perversas no sólo se corrompen a sí mismos, sino también a los demás. La cátedra, de hecho, es el símbolo de la escuela. Así son los herejes, los cuales «se sientan en la cátedra de los cínicos» y corrompen a los que toman el veneno de sus doctrinas.
 
@@ -54,7 +54,7 @@ Es necesario que las cosas creadas tengan por principio alguna causa grande, y e
 ## [5](#c5). Dios crea por medio del Verbo y del Espíritu
 {:#c5}
 
-He aquí la demostración de esta doctrina, y de que hay un solo Dios, Padre, increado, invisible, creador del universo; ni por encima de él ni después de él existe otro Dios; que Dios es racional y por esto todos los seres fueron creados por medio del Verbo; y Dios es Espíritu, y con el Espíritu lo dispuso todo, según dice el profeta: «Por la palabra del Señor fueron establecidos los cielos, y por obra de su Espíritu todas sus potencias» (Sal 32,6).
+He aquí la demostración de esta doctrina, y de que hay un solo Dios, Padre, increado, invisible, creador del universo; ni por encima de él ni después de él existe otro Dios; que Dios es racional y por esto todos los seres fueron creados por medio del Verbo; y Dios es Espíritu, y con el Espíritu lo dispuso todo, según dice el profeta: «Por la palabra del Señor fueron establecidos los cielos, y por obra de su Espíritu todas sus potencias» (Sal [32, 6]({{ "biblia-straubinger/salmos#c32-v6" | relative_url }})).
 
 Ahora bien, ya que el Verbo establece, es decir, crea y otorga la consistencia a cuanto es, allí donde el Espíritu pone en orden y en forma la múltiple variedad de las potencias, justa y convenientemente el Verbo es denominado Hijo, y el Espíritu, sabiduría de Dios. A este propósito el apóstol Pablo dice: «Un solo Dios Padre, que está por encima de todo, con todo y en todos nosotros» (Ef [4, 6]({{ "biblia-straubinger/efesios#c4-v6" | relative_url }})). Porque «sobre todas las cosas» está el Padre, pero con todo está el Verbo, puesto que por su medio el Padre ha creado el universo; y en todos nosotros está el espíritu que grita «Abbá, Padre» y ha plasmado el hombre a semejanza de Dios.
 
@@ -188,7 +188,7 @@ Igual que la maldición siguió su camino, la bendición continuó en la posteri
 
 De esta bendición resultó que Dios, Señor del universo, llegó a ser para Sem objeto privilegiado de su piedad; la bendición se desarrolló hasta alcanzar a Abraham, que, en la posteridad de Sem, llega a la décima generación según el orden genealógico descendente. Y es ésta la razón por la que el Padre, Dios del universo, se complace en ser llamado «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex 3,6; Mt 22,32; Mc [12, 26]({{ "biblia-straubinger/marcos#c12-v26" | relative_url }}); Lc 20,37), porque la bendición de Sem llegó hasta Abrahán.
 
-La bendición de Jafet fue formulada del siguiente modo: «Que Dios dilate a Jafet y habite en la casa de Sem, y Cam sea su siervo» (Gn [9, 27]({{ "biblia-straubinger/genesis#c9-v27" | relative_url }})). Esta bendición floreció al final de este período, cuando el Señor se manifestó a las naciones por su llamamiento (pues Dios dilató su llamamiento hasta ellas) y «a toda la tierra alcanzó su pregón y sus palabras han llegado hasta los límites del orbe» (Sal 18,5).
+La bendición de Jafet fue formulada del siguiente modo: «Que Dios dilate a Jafet y habite en la casa de Sem, y Cam sea su siervo» (Gn [9, 27]({{ "biblia-straubinger/genesis#c9-v27" | relative_url }})). Esta bendición floreció al final de este período, cuando el Señor se manifestó a las naciones por su llamamiento (pues Dios dilató su llamamiento hasta ellas) y «a toda la tierra alcanzó su pregón y sus palabras han llegado hasta los límites del orbe» (Sal [18, 5]({{ "biblia-straubinger/salmos#c18-v5" | relative_url }})).
 
 Dilatar significa, pues, el llamamiento de entre las naciones. A saber, la Iglesia. Y «habitar en la casa de Sem» indica la herencia de los patriarcas, por haber recibido en Jesucristo el derecho de primogenitura. De este modo, según el orden de la bendición, cada uno recibió por medio de la descendencia el fruto de la bendición.
 
@@ -411,16 +411,16 @@ Esto significa que el Hijo, en cuanto Dios, recibe del Padre (es decir, de Dios)
 ## [48](#c48). Primado y realeza de Cristo, sacerdote eterno
 {:#c48}
 
-También dice David: «Dice el Señor a mi Señor: siéntate a mi derecha, hasta que yo haga de tus enemigos el estrado de tus pies. Desde Sión extenderá el Señor un cetro de poder; ¡domina en medio de tus enemigos! Contigo, al principio, en el día de tu poder, en el esplendor de los santos, del seno, antes de la aurora, te he engendrado. El Señor lo ha jurado y no se arrepentirá. Tú eres sacerdote eterno según el orden de Melquisedec y el Señor está a tu derecha. En el día de su cólera ha quebrantado a reyes; juzgará a las naciones, llenará de ruinas, quebrantará las cabezas de muchos sobre la tierra. En el camino beberá del torrente, por eso levantará la cabeza» (Sal 109,1-7).
+También dice David: «Dice el Señor a mi Señor: siéntate a mi derecha, hasta que yo haga de tus enemigos el estrado de tus pies. Desde Sión extenderá el Señor un cetro de poder; ¡domina en medio de tus enemigos! Contigo, al principio, en el día de tu poder, en el esplendor de los santos, del seno, antes de la aurora, te he engendrado. El Señor lo ha jurado y no se arrepentirá. Tú eres sacerdote eterno según el orden de Melquisedec y el Señor está a tu derecha. En el día de su cólera ha quebrantado a reyes; juzgará a las naciones, llenará de ruinas, quebrantará las cabezas de muchos sobre la tierra. En el camino beberá del torrente, por eso levantará la cabeza» (Sal [109, 1]({{ "biblia-straubinger/salmos#c109-v1" | relative_url }})-7).
 
 Mediante estas palabras, anunció David que el Hijo de Dios vino primero a la existencia, domina sobre los pueblos, juzga a los hombres y a los reyes, a los que aborrecen ahora y persiguen su nombre, pues esos son su enemigos. Denominándole «sacerdote eterno» de Dios declara la inmortalidad. Cuando dice «en el camino beberá del torrente, por eso levantará la cabeza», se refería a la exaltación gloriosa, después de su condición humana, de su humillación y abyección.
 
 ## [49](#c49). El Hijo de Dios, rey universal
 {:#c49}
 
-El profeta Isaías, a su vez, afirma: «Así dice el Señor Dios al ungido, mi Señor, a quien yo he tomado de la diestra para que le obedezcan las naciones» (Is 45,1). En cuanto a la afirmación de que el Hijo de Dios es llamado ungido y «rey de las naciones» (es decir, de todos los hombres), David repite que Él es y es llamado Hijo de Dios y rey de todos con estas palabras: «El Señor me ha dicho: tú eres mi Hijo, yo te he engendrado hoy. Pídeme y te daré en herencia las naciones; te daré en propiedad los confines de la tierra» (Sal 2,7-8).
+El profeta Isaías, a su vez, afirma: «Así dice el Señor Dios al ungido, mi Señor, a quien yo he tomado de la diestra para que le obedezcan las naciones» (Is 45,1). En cuanto a la afirmación de que el Hijo de Dios es llamado ungido y «rey de las naciones» (es decir, de todos los hombres), David repite que Él es y es llamado Hijo de Dios y rey de todos con estas palabras: «El Señor me ha dicho: tú eres mi Hijo, yo te he engendrado hoy. Pídeme y te daré en herencia las naciones; te daré en propiedad los confines de la tierra» (Sal [2, 7]({{ "biblia-straubinger/salmos#c2-v7" | relative_url }})-8).
 
-Estas palabras no fueron pronunciadas refiriéndose a David, porque éste no gobernó todas las naciones. Ni toda la tierra, sino solamente a los judíos. Es evidente, pues, que la promesa hecha al ungido de reinar sobre toda la tierra se refiere al Hijo de Dios, al que el mismo David reconoce como su Señor cuando escribe: «Dice el Señor a mi Señor: siéntate a mi derecha» (Sal 109,1), como hace poco hemos referido.
+Estas palabras no fueron pronunciadas refiriéndose a David, porque éste no gobernó todas las naciones. Ni toda la tierra, sino solamente a los judíos. Es evidente, pues, que la promesa hecha al ungido de reinar sobre toda la tierra se refiere al Hijo de Dios, al que el mismo David reconoce como su Señor cuando escribe: «Dice el Señor a mi Señor: siéntate a mi derecha» (Sal [109, 1]({{ "biblia-straubinger/salmos#c109-v1" | relative_url }})), como hace poco hemos referido.
 
 Esto significa que el Padre conversa con el Hijo, como arriba hemos demostrado a propósito del Isaías que decía: «Así dice el Señor al ungido mi Señor: obedézcanle las naciones». Idéntica promesa aparece en ambos profetas («él será rey»), luego las palabras de Dios se refieren a una sola y a una misma persona (a saber, a Cristo, Hijo de Dios).
 
@@ -537,7 +537,7 @@ Pero Belén es también el pueblo de David, de suerte que Cristo es de la poster
 ## [64](#c64). Cristo, rey para siempre
 {:#c64}
 
-A su vez, dice David que Cristo nacerá de su posteridad: «Por causa de David, tu siervo, no apartes el rostro de tu Cristo. El Señor juró a David la verdad y no la mentira: del fruto de tu seno pondré sobre tu trono, si tus hijos guardan mi alianza y mis testimonios, objeto de mi pacto con ellos, y el hijo de ellos será hasta la eternidad» (Sal 131,10-12).
+A su vez, dice David que Cristo nacerá de su posteridad: «Por causa de David, tu siervo, no apartes el rostro de tu Cristo. El Señor juró a David la verdad y no la mentira: del fruto de tu seno pondré sobre tu trono, si tus hijos guardan mi alianza y mis testimonios, objeto de mi pacto con ellos, y el hijo de ellos será hasta la eternidad» (Sal [131, 10]({{ "biblia-straubinger/salmos#c131-v10" | relative_url }})-12).
 
 Mas no hay ninguno, entre los hijos de David, que haya reinado hasta la eternidad, ni su reino permaneció para siempre, pues ha sido destruido. Indica, en efecto, al rey que ha nacido de David, a saber Cristo. Todos estos testimonios dan a entender clarísimamente, sobre su descendiente según la carne, tanto el linaje como el lugar donde iba a nacer. Los hombres no tienen por qué buscar el nacimiento del Hijo de Dios entre los gentiles o en cualquier otro lugar, sino en Belén de Judá, entre la descendencia de Abraham y David.
 
@@ -569,7 +569,7 @@ Y acerca de la resurrección de los muertos, dice: «Así resucitarán los muert
 
 Isaías dice que había de ser despreciado, torturado y finalmente matado: «He aquí que mi Hijo comprenderá: será exaltado y glorificado sobremanera. Como muchos se espantarán de ti, así sin gloria será tu rostro a los ojos de los hombres; muchos pueblos se asombrarán y los reyes cerrarán la boca porque contemplarán algo inenarrable y comprenderán algo inaudito. Señor ¿quién creyó nuestro anuncio? ¿A quién se reveló el brazo del Señor? Lo hemos narrado ante él, como a un niño, como a una raíz en tierra árida; no tenía figura ni gloria. Lo hemos visto sin aspecto y sin belleza. Su aspecto era despreciable, más abatido que los demás hombres. Hombre de dolores acostumbrado a sufrimientos; porque volvía su rostro hacia otra parte era despreciado y tenido a menos. Él cargó con nuestros pecados y sufre por amor a nosotros; lo hemos creído víctima del dolor, de los golpes y torturas. Fue traspasado por nuestros delitos, maltratado por nuestros pecados. El castigo que nos da la paz cayó sobre él, y sus cicatrices nos curaron» (Is 52,13-53, 5).
 
-David anunció con estas palabras sus torturas: «Yo fui torturado» (Sal 38,9). Sin embargo, David nunca fue torturado sino Cristo cuando ordenaron que fuese crucificado. Una vez más, el Verbo dice en Isaías: «Ofrecí la espalda a los golpes y las mejillas a las bofetadas; no me tapé el rostro ante ultrajes ni salivazos» (Is 50,6). El profeta Jeremías repite lo mismo en estos términos: «Presentará la mejilla al que lo hiere y será colmado de oprobios» (Lm 3,30). Todo esto lo sufrió Cristo.
+David anunció con estas palabras sus torturas: «Yo fui torturado» (Sal [38, 9]({{ "biblia-straubinger/salmos#c38-v9" | relative_url }})). Sin embargo, David nunca fue torturado sino Cristo cuando ordenaron que fuese crucificado. Una vez más, el Verbo dice en Isaías: «Ofrecí la espalda a los golpes y las mejillas a las bofetadas; no me tapé el rostro ante ultrajes ni salivazos» (Is 50,6). El profeta Jeremías repite lo mismo en estos términos: «Presentará la mejilla al que lo hiere y será colmado de oprobios» (Lm 3,30). Todo esto lo sufrió Cristo.
 
 ## [69](#c69). La pasión y su sentencia
 {:#c69}
@@ -603,24 +603,24 @@ El mismo profeta, a propósito de la pasión de Cristo, dice lo siguiente: «He 
 
 Cuando Isaías dice «su sepultura será paz», da a conocer como murió por nuestra salvación, que está en la paz de la salvación; y anuncia que por su muerte quienes antes eran enemigos y adversarios unos de otros, no bien crean juntos en él, tendrán paz entre sí, dando y recibiendo señales de amistad por su común fe en él. Es exactamente lo que ocurre.
 
-Las palabras «ha sido preservado» se refieren a la resurrección de entre los muertos, porque después de la sepultura nadie le vio muerto. Que una vez muerto y resucitado Cristo, debía permanecer inmortal. Lo dice el profeta en estos términos: «Pidió la vida y tú le has concedido además la longevidad por los siglos de los siglos» (Sal 21,5). ¿Por qué dijo «pidió la vida», cuando debía morir? En efecto, anuncia su resurrección de entre los muertos, y que resucitado de entre los muertos es inmortal. Ya que recibió la vida para resucitar, y la «longevidad por los siglos de los siglos» para ser incorruptible.
+Las palabras «ha sido preservado» se refieren a la resurrección de entre los muertos, porque después de la sepultura nadie le vio muerto. Que una vez muerto y resucitado Cristo, debía permanecer inmortal. Lo dice el profeta en estos términos: «Pidió la vida y tú le has concedido además la longevidad por los siglos de los siglos» (Sal [20, 5]({{ "biblia-straubinger/salmos#c20-v5" | relative_url }})). ¿Por qué dijo «pidió la vida», cuando debía morir? En efecto, anuncia su resurrección de entre los muertos, y que resucitado de entre los muertos es inmortal. Ya que recibió la vida para resucitar, y la «longevidad por los siglos de los siglos» para ser incorruptible.
 
 ## [73](#c73). La muerte y resurrección según David
 {:#c73}
 
-Dice de nuevo David, a propósito de la muerte y de la resurrección de Cristo: «Yo me acosté y me dormí; me desperté porque el Señor me acogió» (Sal 3,6). David no decía esto de sí mismo, porque muerto él no resucitó. Sino el Espíritu de Cristo, que habló también de él en otros profetas, dice también ahora por medio de David: «Yo me acosté y dormí; me desperté porque el Señor me acogió». Llama sueño a la muerte, porque resucitó.
+Dice de nuevo David, a propósito de la muerte y de la resurrección de Cristo: «Yo me acosté y me dormí; me desperté porque el Señor me acogió» (Sal [3, 6]({{ "biblia-straubinger/salmos#c3-v6" | relative_url }})). David no decía esto de sí mismo, porque muerto él no resucitó. Sino el Espíritu de Cristo, que habló también de él en otros profetas, dice también ahora por medio de David: «Yo me acosté y dormí; me desperté porque el Señor me acogió». Llama sueño a la muerte, porque resucitó.
 
 ## [74](#c74). Herodes y Pilato
 {:#c74}
 
-Sobre la pasión de Cristo, David dice: «¿Por qué se agitan los gentiles y los pueblos planean fracasos? Se alían los reyes de la tierra y los príncipes conspiran contra el Señor y su ungido» (Sal 2,1-2; Hch [4, 24]({{ "biblia-straubinger/hechos#c4-v24" | relative_url }})-28). De hecho, Herodes, rey de los judíos, y Poncio Pilato, procurador del césar, se reunieron y lo condenaron a ser crucificado.
+Sobre la pasión de Cristo, David dice: «¿Por qué se agitan los gentiles y los pueblos planean fracasos? Se alían los reyes de la tierra y los príncipes conspiran contra el Señor y su ungido» (Sal [2, 1]({{ "biblia-straubinger/salmos#c2-v1" | relative_url }})-2; Hch [4, 24]({{ "biblia-straubinger/hechos#c4-v24" | relative_url }})-28). De hecho, Herodes, rey de los judíos, y Poncio Pilato, procurador del césar, se reunieron y lo condenaron a ser crucificado.
 
 Herodes temía perder el reinado, como si él fuese a ser un rey terreno, y Pilato fue obligado, contra su voluntad, por Herodes y por los judíos que lo rodeaban, a condenarlo a muerte, por el hecho de que no hacerlo se interpretaría como ir en contra del césar dejando en libertad a un hombre al que se dio el título de rey.
 
 ## [75](#c75). El anuncio de la pasión
 {:#c75}
 
-A propósito de la pasión, dice todavía el mismo profeta: «Tú nos has rechazado y despreciado; has repudiado a tu ungido; has roto la alianza de mi siervo; has echado a tierra tu santuario; has derrumbado su cerca; has hecho temblar sus fortalezas; cuantos pasan de largo la han saqueado; se ha convertido en el oprobio de sus vecinos; has robustecido la derecha de sus opresores, has alegrado a sus enemigos; le has torcido la hoja de su espada y no lo has sostenido en el combate; lo has excluido de la purificación, echando por tierra su trono; le has acortado los días de su tiempo y lo has cubierto de ignominia» (Sal 88,39-46).
+A propósito de la pasión, dice todavía el mismo profeta: «Tú nos has rechazado y despreciado; has repudiado a tu ungido; has roto la alianza de mi siervo; has echado a tierra tu santuario; has derrumbado su cerca; has hecho temblar sus fortalezas; cuantos pasan de largo la han saqueado; se ha convertido en el oprobio de sus vecinos; has robustecido la derecha de sus opresores, has alegrado a sus enemigos; le has torcido la hoja de su espada y no lo has sostenido en el combate; lo has excluido de la purificación, echando por tierra su trono; le has acortado los días de su tiempo y lo has cubierto de ignominia» (Sal [88, 39]({{ "biblia-straubinger/salmos#c88-v39" | relative_url }})-46).
 
 Como se ve, el profeta afirma abiertamente que debía sufrir todo esto y que ésta era la voluntad del Padre, puesto que por voluntad del Padre sufrió la pasión.
 
@@ -648,14 +648,14 @@ Aquí se revelan también las razones de su muerte, porque su descenso a los inf
 ## [79](#c79). Profecías sobre la cruz
 {:#c79}
 
-De nuevo en torno a su cruz, Isaías dice: «Extendí las manos todo el día hacia un pueblo indócil y rebelde» (Is 65,2). Así prefiguraba la cruz. Y todavía más claramente David: «Perros de caza me rodearon, una multitud de malvados me ha cercado; me han taladrado mis manos y mis pies» (Sal 21,17). Y nuevamente: «Mi corazón se hizo como cera líquida en medio de mis entrañas; han descoyuntado mis huesos» (Sal 21,15). Y sigue diciendo: «Perdona a mi alma la espada y enclava mis carnes, pues una muchedumbre de malvados se levantó contra mí».
+De nuevo en torno a su cruz, Isaías dice: «Extendí las manos todo el día hacia un pueblo indócil y rebelde» (Is 65,2). Así prefiguraba la cruz. Y todavía más claramente David: «Perros de caza me rodearon, una multitud de malvados me ha cercado; me han taladrado mis manos y mis pies» (Sal [21, 17]({{ "biblia-straubinger/salmos#c21-v17" | relative_url }})). Y nuevamente: «Mi corazón se hizo como cera líquida en medio de mis entrañas; han descoyuntado mis huesos» (Sal [21, 15]({{ "biblia-straubinger/salmos#c21-v15" | relative_url }})). Y sigue diciendo: «Perdona a mi alma la espada y enclava mis carnes, pues una muchedumbre de malvados se levantó contra mí».
 
 En estos pasajes, se muestra e indica en modo luminoso su crucifixión. Moisés dice la misma cosa a su pueblo: «Y tu vida colgará delante de tus ojos, y temerás día y noche, y no creerás en tu vida» (Dt 28,66).
 
 ## [80](#c80). Profecías sobre los vestidos
 {:#c80}
 
-Nuevamente dijo David: «Ellos me miraron fijamente. Se dividieron mi vestido y echaron a suertes mi túnica» (Sal 21,19).
+Nuevamente dijo David: «Ellos me miraron fijamente. Se dividieron mi vestido y echaron a suertes mi túnica» (Sal [21, 19]({{ "biblia-straubinger/salmos#c21-v19" | relative_url }})).
 
 En efecto, cuando crucificaron a Jesús, se repartieron los soldados sus vestidos según su costumbre, como recuerda Juan: «El vestido se lo dividieron luego de haberlo desgarrado; mas en cuanto a la túnica, como estaba tejida desde arriba y sin costura, la echaron a suertes para ver quién se la llevaba» (Jn 19,23-24).
 
@@ -671,28 +671,28 @@ A continuación, movido por los remordimientos de lo que había hecho, tiró el 
 ## [82](#c82). Profecías sobre el vinagre mezclado con hiel
 {:#c82}
 
-Una vez crucificado, al pedir de beber, le dieron vinagre mezclado con hiel. Y esto mismo lo había dicho David: «Me dieron por alimento hiel, y en mi sed me dieron a beber vinagre» (Sal 69,22; Mt 27,34; Jn 19,28).
+Una vez crucificado, al pedir de beber, le dieron vinagre mezclado con hiel. Y esto mismo lo había dicho David: «Me dieron por alimento hiel, y en mi sed me dieron a beber vinagre» (Sal [68, 22]({{ "biblia-straubinger/salmos#c68-v22" | relative_url }}); Mt 27,34; Jn 19,28).
 
 ## [83](#c83). La ascensión de Jesús
 {:#c83}
 
-He aquí lo que dice David de la ascensión al cielo, después de la resurrección de entre los muertos: «Los carros de Dios a decenas de millares, y millares los cocheros. El Señor está entre ellos, en Sión, en el santuario; subió a lo alto, cautivó al cautiverio; ha recibido y entregado dones a los hombres» (Sal 67,18-19).
+He aquí lo que dice David de la ascensión al cielo, después de la resurrección de entre los muertos: «Los carros de Dios a decenas de millares, y millares los cocheros. El Señor está entre ellos, en Sión, en el santuario; subió a lo alto, cautivó al cautiverio; ha recibido y entregado dones a los hombres» (Sal [67, 18]({{ "biblia-straubinger/salmos#c67-v18" | relative_url }})-19).
 
-Por cautivar entiende David la destrucción de poder de los ángeles rebeldes. Dio a conocer el lugar donde habría de subir de la tierra al cielo al decir: «El Señor en Sión subió a lo alto» (Sal 67,18). En efecto, en el Monte de los Olivos, frente a Jerusalén, después de resucitado de entre los muertos, reunió Jesús a sus discípulos, y habiéndoles recordado lo concerniente al reino de los cielos, fue levantado ante sus ojos y vieron ellos cómo lo acogían, abiertos, los cielos.
+Por cautivar entiende David la destrucción de poder de los ángeles rebeldes. Dio a conocer el lugar donde habría de subir de la tierra al cielo al decir: «El Señor en Sión subió a lo alto» (Sal [67, 18]({{ "biblia-straubinger/salmos#c67-v18" | relative_url }})). En efecto, en el Monte de los Olivos, frente a Jerusalén, después de resucitado de entre los muertos, reunió Jesús a sus discípulos, y habiéndoles recordado lo concerniente al reino de los cielos, fue levantado ante sus ojos y vieron ellos cómo lo acogían, abiertos, los cielos.
 
-## [84](#c84). El triunfo del rey de la gloria
+## [84](#c84). El triunfo del Rey de la gloria
 {:#c84}
 
-La misma cosa dice nuevamente David: «Alzad, oh príncipes, vuestras puertas; levantaos, puertas eternas, y entrará el rey de la gloria» (Sal 23,7). Las «puertas eternas» son, efectivamente, los cielos. Mas como el Verbo descendió invisible para los seres creados, no fue reconocido, a su descenso, por ellos.
+La misma cosa dice nuevamente David: «Alzad, oh príncipes, vuestras puertas; levantaos, puertas eternas, y entrará el Rey de la gloria» (Sal [23, 7]({{ "biblia-straubinger/salmos#c23-v7" | relative_url }})). Las «puertas eternas» son, efectivamente, los cielos. Mas como el Verbo descendió invisible para los seres creados, no fue reconocido, a su descenso, por ellos.
 
-Al igual que el Verbo se encarnó visiblemente, también se hizo visible cuando ascendió al cielo. Al verle los principados de los ángeles inferiores, gritaron a los que estaban en el firmamento: «Alzad vuestras puertas; alzaos, puertas eternas, para que entre el rey de la gloria». Éstos, asombrados, se preguntaban: «¿Quién es éste?», y los que le habían visto, atestiguan por segunda vez: «El Señor poderoso y fuerte es el rey de la gloria» (Sal 23,10).
+Al igual que el Verbo se encarnó visiblemente, también se hizo visible cuando ascendió al cielo. Al verle los principados de los ángeles inferiores, gritaron a los que estaban en el firmamento: «Alzad vuestras puertas; alzaos, puertas eternas, para que entre el Rey de la gloria». Éstos, asombrados, se preguntaban: «¿Quién es éste?», y los que le habían visto, atestiguan por segunda vez: «El Señor poderoso y fuerte es el Rey de la gloria» (Sal [23, 10]({{ "biblia-straubinger/salmos#c23-v10" | relative_url }})).
 
 ## [85](#c85). El juicio final
 {:#c85}
 
 Resucitado y subido al cielo, aguarda a la diestra del Padre el momento por él fijado para juzgar a todos sus enemigos que a él habían de ser sometidos. Los enemigos son todos los que fueron hallados en rebelión: ángeles, arcángeles, principados, tronos, que menosprecian la verdad.
 
-David afirma aún: «Dijo el Señor a mi Señor: Siéntate a mi derecha, hasta que ponga a tus enemigos a tus pies» (Sal 109,1). Aún más, David dice que subió al lugar de donde había bajado: «Él sube de los últimos confines del cielo y su reposo alcanza el otro extremo del cielo». Señala después el juicio al decir: «Ninguno se sustraerá a su ardor» (Sal 18,7).
+David afirma aún: «Dijo el Señor a mi Señor: Siéntate a mi derecha, hasta que ponga a tus enemigos a tus pies» (Sal [109, 1]({{ "biblia-straubinger/salmos#c109-v1" | relative_url }})). Aún más, David dice que subió al lugar de donde había bajado: «Él sube de los últimos confines del cielo y su reposo alcanza el otro extremo del cielo». Señala después el juicio al decir: «Ninguno se sustraerá a su ardor» (Sal [18, 7]({{ "biblia-straubinger/salmos#c18-v7" | relative_url }})).
 
 ## [86](#c86). El testimonio de los apóstoles
 {:#c86}
@@ -701,7 +701,7 @@ Ahora bien, si los profetas han vaticinado que el Hijo de Dios debía manifestar
 
 Los apóstoles, enviados por el Señor, han predicado por el mundo entero que el Hijo de Dios había venido para sufrir la pasión, la había soportado para destruir la muerte y dar vida al cuerpo, y que dando fin a la hostilidad hacia Dios (es decir, a la iniquidad), hemos de obtener su paz cumpliendo lo que es de su agrado.
 
-Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos son los pies de los mensajeros que anuncian la buena nueva de la paz, que pregonan la alegre noticia del bien!» (Is 52,7; Rm [10, 15]({{ "biblia-straubinger/romanos#c10-v15" | relative_url }})). Isaías dice que estos mensajeros vendrían de Judea y de Jerusalén para anunciarnos la palabra de Dios, que para nosotros es también ley: «Pues de Sión saldrá la ley, y de Jerusalén la palabra del Señor» (Is 2,3). David afirma que habían de predicar por toda la tierra: «A toda la tierra alcanza su pregón y hasta los límites del orbe su palabra» (Sal 18,5).
+Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos son los pies de los mensajeros que anuncian la buena nueva de la paz, que pregonan la alegre noticia del bien!» (Is 52,7; Rm [10, 15]({{ "biblia-straubinger/romanos#c10-v15" | relative_url }})). Isaías dice que estos mensajeros vendrían de Judea y de Jerusalén para anunciarnos la palabra de Dios, que para nosotros es también ley: «Pues de Sión saldrá la ley, y de Jerusalén la palabra del Señor» (Is 2,3). David afirma que habían de predicar por toda la tierra: «A toda la tierra alcanza su pregón y hasta los límites del orbe su palabra» (Sal [18, 5]({{ "biblia-straubinger/salmos#c18-v5" | relative_url }})).
 
 ## [87](#c87). El primado del amor
 {:#c87}

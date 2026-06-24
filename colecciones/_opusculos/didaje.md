@@ -421,7 +421,7 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 [9, 5](#c9-v5) Cp. Mateo 7, 6.
 {:#nt-c9-v5}
 
-[10, 6](#c10-v6) «Hosanna» es la transliteración de una expresión hebrea que significa «sálvanos ya». El Domingo de Ramos, cuando Jesús entra en Jerusalén, la multitud lo recibe tendiendo ramas en su camino, y aclamando: «¡*Hosanna* al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo 21, 8-9), y unos muchachos lo aclaman *en el Templo* (Mateo 21, 15). Todo eso da cumplimiento al Salmo 118, 25-27:
+[10, 6](#c10-v6) «Hosanna» es la transliteración de una expresión hebrea que significa «sálvanos ya». El Domingo de Ramos, cuando Jesús entra en Jerusalén, la multitud lo recibe tendiendo ramas en su camino, y aclamando: «¡*Hosanna* al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo 21, 8-9), y unos muchachos lo aclaman *en el Templo* (Mateo 21, 15). Todo eso da cumplimiento al Salmo [118, 25]({{ "biblia-straubinger/salmos#c117-v25" | relative_url }})-27:
 {:#nt-c10-v6}
 
 > 25 ¡Danos, oh Señor, la salvación; danos, oh Señor, la victoria!<br>

@@ -1,6 +1,6 @@
 ---
 title: Epístola de Bernabé
-published: false
+# published: false
 ---
 
 {% include components/toc-auto.html %}
@@ -380,7 +380,7 @@ published: false
 [10, 9](#c10-v9) En conclusión, tomando Moisés tres símbolos sobre los alimentos, así habló en espiritu mas ellos lo entendieron conforme al deseo de la carne, como si se tratara de la comida.
 {:#c10-v9}
 
-[10, 10](#c10-v10) [[\*\*]](#nt-c10-v10) De esos tres mismos símbolos toma también David conocimiento, y dice igualmente: «Bienaventurado el varón que no anduvo en consejo de impíos», al modo como peces nadan entre tinieblas en las profundidades del mar; «y en el camino de los pecadores no se detuvo», al modo de algunos que aparentan temer al Señor y pecan como el cerdo, «y sobre silla de pestilencia no se sentó, al modo de las aves apostadas para la rapiña». Ahí tenéis perfectamente lo que atañe a la comida.
+[10, 10](#c10-v10) [[\*\*]](#nt-c10-v10) De esos tres mismos símbolos toma también David conocimiento, y dice igualmente: «Bienaventurado el varón que no anduvo en consejo de impíos», al modo como peces nadan entre tinieblas en las profundidades del mar; «y en el camino de los pecadores no se detuvo», al modo de algunos que aparentan temer al Señor y pecan como el cerdo, «y sobre silla de pestilencia no se sentó», al modo de las aves apostadas para la rapiña. Ahí tenéis perfectamente lo que atañe a la comida.
 {:#c10-v10}
 
 [10, 11](#c10-v11) Dice otra vez Moisés: «Comerás todo animal de pezuña partida y que rumia». ¿Qué quiere decir?: Se refiere al que, tomando alimento, reconoce al que lo alimenta, y complaciéndose en Él se alegra. Bellamente lo dijo con miras a otro mandamiento. ¿Qué es, pues, lo que dice?: «Juntaos con los que temen al Señor, con los que meditan en su corazón el precepto de la palabra que recibieron, con los que hablan y observan las justificaciones del Señor, con los que saben que la meditación es obra de alegría y rumian la palabra del Señor». ¿Y qué significa la pezuña partida?: Que el justo camina en este mundo y a la vez espera el siglo santo. Mirad cuán hermosamente legisló Moisés.
@@ -693,7 +693,7 @@ published: false
 
 Los cristianos antiguos solían citar de memoria, a veces parafraseando (es decir: conservando la idea del texto sin atender mucho a su formulación literal), y a veces mezclando libremente versículos dispersos; por eso algunas citas de Bernabé no coinciden *exactamente* con ningún versículo, pero estas notas indican, para cada cita de Bernabé, los versículos que, cierta o probablemente, le sirvieron de fundamento.
 
-En estas notas, las referencias a los salmos siguen la numeración de la Septuaginta (la Traducción de los LXX), utilizada habitualmente por los cristianos antiguos, la cual no coincide con la numeración del texto masorético, usada en la mayoría de biblias modernas. De manera que, por ejemplo: Si al consultar en tu Biblia el Salmo 50, 19, el texto no tiene nada que ver con la cita, véase el salmo siguiente (51, 19), y en ambos casos, véase el versículo anterior y el siguiente.
+En estas notas, las referencias a los salmos siguen la numeración de la Septuaginta (la Traducción de los LXX), utilizada habitualmente por los cristianos antiguos, la cual no coincide con la numeración del texto masorético, usada en la mayoría de biblias modernas. De manera que, por ejemplo: Si al consultar en tu Biblia el Salmo [50, 7]({{ "biblia-straubinger/salmos#c50-v7" | relative_url }}), el texto no tiene nada que ver con la cita, véase el salmo siguiente ([51, 7]({{ "biblia-straubinger/salmos#c51-v7" | relative_url }})), y en ambos casos, véase el versículo anterior y el siguiente.
 
 [1, 4](#c1-v4) «Por la esperanza de su vida»: Véase Tito [1, 2]({{ "biblia-straubinger/tito#c1-v2" | relative_url }}); [3, 7]({{ "biblia-straubinger/tito#c3-v7" | relative_url }}) y 1 Pedro [3, 15]({{ "biblia-straubinger/1-pedro#c3-v15" | relative_url }}).
 {:#nt-c1-v4}
@@ -704,7 +704,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [2, 7](#c2-v7) Paráfrasis de Jeremías 7, 22-23 y Zacarías 7, 10, y 8, 17.
 {:#nt-c2-v7}
 
-[2, 10](#c2-v10) Salmo 50, 19.
+[2, 10](#c2-v10) Salmo [50, 19]({{ "biblia-straubinger/salmos#c50-v19" | relative_url }}).
 {:#nt-c2-v10}
 
 [3, 1](#c3-v1) Este y el siguiente versículo son una paráfrasis de Isaías 58, 3-5.
@@ -728,12 +728,12 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [4, 11](#c4-v11) «¡Ay de los prudentes para sí mismos y de los sabios ante sí mismos»: Isaías 5, 21.
 {:#nt-c4-v11}
 
-«Meditemos el temor de Dios»: Deuteronomio 6, 2; 10, 12, Job 28, 28, Proverbios 1, 7, Salmo 110, 10, etc.
+«Meditemos el temor de Dios»: Deuteronomio 6, 2; 10, 12, Job 28, 28, Proverbios 1, 7, Salmo [110, 10]({{ "biblia-straubinger/salmos#c110-v10" | relative_url }}), etc.
 
 [4, 12](#c4-v12) «Juzgará al mundo sin acepción de personas»: Deuteronomio 10, 17, Hechos [10, 34]({{ "biblia-straubinger/hechos#c10-v34" | relative_url }}) y Romanos [2, 11]({{ "biblia-straubinger/romanos#c2-v11" | relative_url }}).
 {:#nt-c4-v12}
 
-«Cada uno recibirá conforme obró»: Salmo 61, 13, Mateo 16, 27, Romanos [2, 6]({{ "biblia-straubinger/romanos#c2-v6" | relative_url }}) y Apocalipsis 20, 12-13.
+«Cada uno recibirá conforme obró»: Salmo [61, 13]({{ "biblia-straubinger/salmos#c61-v13" | relative_url }}), Mateo 16, 27, Romanos [2, 6]({{ "biblia-straubinger/romanos#c2-v6" | relative_url }}) y Apocalipsis 20, 12-13.
 
 «Su justicia marchará delante de él»: Isaías 58, 8.
 
@@ -755,10 +755,10 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [5, 12](#c5-v12) Zacarías 13, 6-7. Cp. Mateo 26, 31.
 {:#nt-c5-v12}
 
-[5, 13](#c5-v13) «Perdona a mi alma de la espada»: Salmo 21, 21.
+[5, 13](#c5-v13) «Perdona a mi alma de la espada»: Salmo [21, 21]({{ "biblia-straubinger/salmos#c21-v21" | relative_url }}).
 {:#nt-c5-v13}
 
-«Traspasa con un clavo mis carnes, porque las juntas de malvados se levantaron contra mi»: Salmo 21, 17. Cp. Salmo 26, 12.
+«Traspasa con un clavo mis carnes, porque las juntas de malvados se levantaron contra mi»: Salmo [21, 17]({{ "biblia-straubinger/salmos#c21-v17" | relative_url }}). Cp. Salmo [26, 12]({{ "biblia-straubinger/salmos#c26-v12" | relative_url }}).
 
 [5, 14](#c5-v14) Isaías 50, 6 y 7.
 {:#nt-c5-v14}
@@ -774,15 +774,15 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Y púsome como una roca dura»: Isaías 50, 7.
 
-[6, 4](#c6-v4) «La piedra que desecharon los constructores vino a ser cabeza de ángulo»: La cita es del Salmo 117, 22, y se repite en Mateo 21, 42, Hechos [4, 11]({{ "biblia-straubinger/hechos#c4-v11" | relative_url }}) y 1 Pedro [2, 7]({{ "biblia-straubinger/1-pedro#c2-v7" | relative_url }}).
+[6, 4](#c6-v4) «La piedra que desecharon los constructores vino a ser cabeza de ángulo»: La cita es del Salmo [117, 22]({{ "biblia-straubinger/salmos#c117-v22" | relative_url }}), y se repite en Mateo 21, 42, Hechos [4, 11]({{ "biblia-straubinger/hechos#c4-v11" | relative_url }}) y 1 Pedro [2, 7]({{ "biblia-straubinger/1-pedro#c2-v7" | relative_url }}).
 {:#nt-c6-v4}
 
-«Este es el día grande y maravilloso que hizo el Señor»: Salmo 117, 24.
+«Este es el día grande y maravilloso que hizo el Señor»: Salmo [117, 24]({{ "biblia-straubinger/salmos#c117-v24" | relative_url }}).
 
-[6, 6](#c6-v6) «Me rodeó la junta de los malvados; cercáronme como abejas al panal»: Paráfrasis de los Salmos 21, 17, y 117, 12
+[6, 6](#c6-v6) «Me rodeó la junta de los malvados; cercáronme como abejas al panal»: Paráfrasis de los Salmos [21, 17]({{ "biblia-straubinger/salmos#c21-v17" | relative_url }}), y [117, 12]({{ "biblia-straubinger/salmos#c117-v12" | relative_url }})
 {:#nt-c6-v6}
 
-«Sobre mi vestidura echaron suerte»: Salmo 21, 19.
+«Sobre mi vestidura echaron suerte»: Salmo [21, 19]({{ "biblia-straubinger/salmos#c21-v19" | relative_url }}).
 
 [6, 7](#c6-v7) La cita es de Isaías 3, 9-10, pero según la Septuaginta; no hay texto equivalente en el texto masorético, en el cual se basan la mayoría de biblias modernas.
 {:#nt-c6-v7}
@@ -806,7 +806,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [6, 16](#c6-v16) «¿Y en qué seré visto por el Señor mi Dios y seré glorificado?»: Posíblemente una paráfrasis de Isaías 49, 5.
 {:#nt-c6-v16}
 
-«Te confesaré en la reunión de mis hermanos y te cantaré himnos en medio de la congregacion de los santos»: Salmo 21, 23.
+«Te confesaré en la reunión de mis hermanos y te cantaré himnos en medio de la congregacion de los santos»: Salmo [21, 23]({{ "biblia-straubinger/salmos#c21-v23" | relative_url }}).
 
 [6, 18](#c6-v18) Génesis [1, 26]({{ "biblia-straubinger/genesis#c1-v26" | relative_url }}) y [28]({{ "biblia-straubinger/genesis#c1-v28" | relative_url }}).
 {:#nt-c6-v18}
@@ -834,7 +834,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [8, 1](#c8-v1) Números 19.
 {:#nt-c8-v1}
 
-[9, 1](#c9-v1) «Con solo oír, me obedecieron»: Salmo 17, 45.
+[9, 1](#c9-v1) «Con solo oír, me obedecieron»: Salmo [17, 45]({{ "biblia-straubinger/salmos#c17-v45" | relative_url }}).
 {:#nt-c9-v1}
 
 «Escucharán atentamente los que están lejos, y conocerán lo que yo hice»: Isaías 33, 13
@@ -844,7 +844,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [9, 2](#c9-v2) . «Escucha, Israel, porque esto dice el Señor Dios tuyo»: Probablemente una paráfrasis de Deuteronomio 6, 4 y Jeremías 7, 2.
 {:#nt-c9-v2}
 
-«¿Quién es el que quiere vivir para siempre? Escuche atentamente la voz de mi siervo»: Paráfrasis del Salmo 33, 12-13, y quizá de Isaías 42, 1, o 50, 10.
+«¿Quién es el que quiere vivir para siempre? Escuche atentamente la voz de mi siervo»: Paráfrasis del Salmo [33, 12]({{ "biblia-straubinger/salmos#c33-v12" | relative_url }})-13, y quizá de Isaías 42, 1, o 50, 10.
 
 [9, 3](#c9-v3) «Escucha, cielo, y tú, tierra, presta oídos, porque el Señor ha hablado esto para testimonio»: Isaías 1, 2.
 {:#nt-c9-v3}
@@ -885,6 +885,6 @@ Bernabé argumenta que el nombre de Jesús y el signo de la cruz están cifrados
 [10, 8](#c10-v8) Levítico 11, 29.
 {:#nt-c10-v8}
 
-[10, 10](#c10-v10) Las tres citas son del Salmo 1, 1.
+[10, 10](#c10-v10) Las tres citas son del Salmo [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }}).
 {:#nt-c10-v10}
 

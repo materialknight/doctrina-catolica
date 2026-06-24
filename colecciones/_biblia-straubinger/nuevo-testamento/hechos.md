@@ -1524,7 +1524,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 
 ##### Discurso de San Pablo en Antioquía de Pisidia
 
-[13, 16](#c13-v16) Levantose entonces Pablo y haciendo señal (de silencio) con la mano, dijo: "Varones israelitas y los que teméis a Dios, escuchad [[\*\*]](#nt-c13-v16).
+[13, 16](#c13-v16) Levantose entonces Pablo y haciendo señal (de silencio) con la mano, dijo: «Varones israelitas y los que teméis a Dios, escuchad [[\*\*]](#nt-c13-v16).
 {:#c13-v16}
 
 [13, 17](#c13-v17) El Dios de este pueblo de Israel escogió a nuestros padres y ensalzó al pueblo durante su estancia en tierra de Egipto; y con brazo excelso los sacó de allí [[\*\*]](#nt-c13-v17).
@@ -1542,7 +1542,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 21](#c13-v21) Desde entonces pidieron rey, y Dios les dio a Saúl, hijo de Cis, varón de la tribu de Benjamín, por espacio de cuarenta años.
 {:#c13-v21}
 
-[13, 22](#c13-v22) Depuesto este, les suscitó por rey a David, de quien también dio testimonio diciendo: «He hallado a David, hijo de Jesé, varón conforme a mi corazón quien cumplirá toda mi voluntad» [[\*\*]](#nt-c13-v22).
+[13, 22](#c13-v22) Depuesto este, les suscitó por rey a David, de quien también dio testimonio diciendo: "He hallado a David, hijo de Jesé, varón conforme a mi corazón quien cumplirá toda mi voluntad" [[\*\*]](#nt-c13-v22).
 {:#c13-v22}
 
 [13, 23](#c13-v23) Del linaje de este, según la promesa, suscitó Dios para Israel un Salvador, Jesús.
@@ -1551,7 +1551,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 24](#c13-v24) Pero antes de su entrada, Juan predicó un bautismo de arrepentimiento a todo el pueblo de Israel.
 {:#c13-v24}
 
-[13, 25](#c13-v25) Y al cumplir Juan su carrera dijo: «Yo no soy el que vosotros pensáis, mas después de mí vendrá uno, a quien no soy digno de desatar el calzado de sus pies».
+[13, 25](#c13-v25) Y al cumplir Juan su carrera dijo: "Yo no soy el que vosotros pensáis, mas después de mí vendrá uno, a quien no soy digno de desatar el calzado de sus pies".
 {:#c13-v25}
 
 [13, 26](#c13-v26) Varones, hermanos, hijos del linaje de Abrahán, y los que entre vosotros son temerosos de Dios, a vosotros ha sido enviada la palabra de esta salvación [[\*\*]](#nt-c13-v26).
@@ -1575,13 +1575,13 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 32](#c13-v32) Nosotros os anunciamos la promesa dada a los padres [[\*\*]](#nt-c13-v32),
 {:#c13-v32}
 
-[13, 33](#c13-v33) esta es la que ha cumplido Dios con nosotros, los hijos de ellos, resucitando a Jesús según está escrito también en el Salmo segundo: «Tú eres mi Hijo, hoy te he engendrado» [[\*\*]](#nt-c13-v33).
+[13, 33](#c13-v33) esta es la que ha cumplido Dios con nosotros, los hijos de ellos, resucitando a Jesús según está escrito también en el Salmo segundo: "Tú eres mi Hijo, hoy te he engendrado" [[\*\*]](#nt-c13-v33).
 {:#c13-v33}
 
-[13, 34](#c13-v34) Y que lo resucitó de entre los muertos para nunca más volver a la corrupción, esto lo anunció así: «Os cumpliré las promesas santas y fieles dadas a David».
+[13, 34](#c13-v34) Y que lo resucitó de entre los muertos para nunca más volver a la corrupción, esto lo anunció así: "Os cumpliré las promesas santas y fieles dadas a David".
 {:#c13-v34}
 
-[13, 35](#c13-v35) Y en otro lugar dice: «No permitirás que tu Santo vea la corrupción».
+[13, 35](#c13-v35) Y en otro lugar dice: "No permitirás que tu Santo vea la corrupción".
 {:#c13-v35}
 
 [13, 36](#c13-v36) Porque David después de haber servido en su tiempo al designio de Dios, murió y fue agregado a sus padres, y vio la corrupción.
@@ -1599,7 +1599,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [13, 40](#c13-v40) Mirad, pues, no recaiga sobre vosotros lo que se ha dicho en los Profetas:
 {:#c13-v40}
 
-[13, 41](#c13-v41) «Mirad, burladores, maravillaos y escondeos, porque Yo hago una obra en vuestros días, obra que no creeréis, aun cuando alguno os lo explicare» [[\*\*]](#nt-c13-v41).
+[13, 41](#c13-v41) "Mirad, burladores, maravillaos y escondeos, porque Yo hago una obra en vuestros días, obra que no creeréis, aun cuando alguno os lo explicare" [[\*\*]](#nt-c13-v41).»
 {:#c13-v41}
 
 ##### Efectos del discurso
