@@ -469,7 +469,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 [8, 8](#c8-v8) Pues en son de reproche les dice: «He aquí que vienen días, dice el Señor, en que concluiré una alianza nueva con la casa de Israel y con la casa de Judá [[\*\*]](#nt-c8-v8);
 {:#c8-v8}
 
-[8, 9](#c8-v9) o como el pacto que hice con sus padres el día que los tomé de la mano, para sacarlos de la tierra de Egipto; pues ellos no perseveraron en mi pacto, por lo cual Yo los abandoné, dice el Señor.
+[8, 9](#c8-v9) no como el pacto que hice con sus padres el día que los tomé de la mano, para sacarlos de la tierra de Egipto; pues ellos no perseveraron en mi pacto, por lo cual Yo los abandoné, dice el Señor.
 {:#c8-v9}
 
 [8, 10](#c8-v10) Porque esta es la alianza que haré con la casa de Israel, después de aquellos días, dice el Señor: Pondré mis leyes en su mente, y, las escribiré en su corazón; Yo seré su Dios, y ellos serán mi pueblo;

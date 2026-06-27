@@ -1440,10 +1440,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [11, 8](#c11-v8) Y muchos extendieron sus mantos sobre el camino; otros, brazadas de follaje que habían cortado de los campos.
 {:#c11-v8}
 
-[11, 9](#c11-v9) Y los que marchaban delante y los que seguían, clamaban: "¡Hosanna! [[\*\*]](#nt-c11-v9) ¡Bendito sea el que viene en el nombre del Señor!
+[11, 9](#c11-v9) Y los que marchaban delante y los que seguían, clamaban: «¡*Hosanna*! [[\*\*]](#nt-c11-v9) ¡Bendito sea el que viene en el nombre del Señor!
 {:#c11-v9}
 
-[11, 10](#c11-v10) ¡Bendito sea el advenimiento del reino de nuestro padre David! ¡Hosanna en las alturas!"
+[11, 10](#c11-v10) ¡Bendito sea el advenimiento del reino de nuestro padre David! ¡*Hosanna* en las alturas!»
 {:#c11-v10}
 
 [11, 11](#c11-v11) Y entró en Jerusalén en el Templo, y después de mirarlo todo, siendo ya tarde, partió de nuevo para Betania con los Doce.

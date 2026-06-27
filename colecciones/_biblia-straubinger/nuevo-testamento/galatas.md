@@ -133,7 +133,7 @@ title: Carta del apóstol san Pablo a los Gálatas
 [2, 13](#c2-v13) Y los otros judíos incurrieron con él en la misma hipocresía, tanto que hasta Bernabé se dejó arrastrar por la simulación de ellos.
 {:#c2-v13}
 
-[2, 14](#c2-v14) Mas cuando yo vi que no andaban rectamente, conforme a la verdad del Evangelio, dije a Cefas en presencia de todos: "Si tú, siendo judío, vives como los gentiles, y no como los judíos, ¿cómo obligas a los gentiles a judaizar? [[\*\*]](#nt-c2-v14)
+[2, 14](#c2-v14) Mas cuando yo vi que no andaban rectamente, conforme a la verdad del Evangelio, dije a Cefas en presencia de todos: «Si tú, siendo judío, vives como los gentiles, y no como los judíos, ¿cómo obligas a los gentiles a judaizar? [[\*\*]](#nt-c2-v14)
 {:#c2-v14}
 
 [2, 15](#c2-v15) Nosotros somos judíos de nacimiento, y no pecadores procedentes de la gentilidad;
@@ -154,7 +154,7 @@ title: Carta del apóstol san Pablo a los Gálatas
 [2, 20](#c2-v20) y ya no vivo yo, sino que en mí vive Cristo. Y si ahora vivo en carne, vivo por la fe en el Hijo de Dios, el cual me amó y se entregó por mí.
 {:#c2-v20}
 
-[2, 21](#c2-v21) No inutilizo la gracia de Dios. Porque si por la Ley se alcanza la justicia, entonces Cristo murió en vano" [[\*\*]](#nt-c2-v21).
+[2, 21](#c2-v21) No inutilizo la gracia de Dios. Porque si por la Ley se alcanza la justicia, entonces Cristo murió en vano» [[\*\*]](#nt-c2-v21).
 {:#c2-v21}
 
 ## II. La justificación por la fe

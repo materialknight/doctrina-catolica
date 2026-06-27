@@ -612,16 +612,16 @@ title: Segunda carta de san Pablo a los Corintios
 [10, 7](#c10-v7) Vosotros miráis según lo que os parece. Si alguno presume de sí que es de Cristo, considere a su vez que, así como él es de Cristo, también lo somos nosotros.
 {:#c10-v7}
 
-[10, 8](#c10-v8) Pues no seré confundido, aunque me gloriare algo más todavía de nuestra autoridad, porque el Señor la dio para edificación y no para destrucción vuestra.
+[10, 8](#c10-v8) Pues no seré confundido, aunque me gloriare algo más todavía de nuestra autoridad, porque el Señor la dio para edificación y no para destrucción vuestra
 {:#c10-v8}
 
-[10, 9](#c10-v9) Y para que no parezca que pretendo intimidaros con las cartas —
+[10, 9](#c10-v9) —(digo esto) para que no parezca que pretendo intimidaros con las cartas—,
 {:#c10-v9}
 
-[10, 10](#c10-v10) porque: «Sus cartas, dicen, son graves y fuertes; mas su presencia corporal es débil, y su palabra despreciable»—
+[10, 10](#c10-v10) porque dicen: «Sus cartas son graves y fuertes; mas su presencia corporal es débil, y su palabra despreciable».
 {:#c10-v10}
 
-[10, 11](#c10-v11) piensen esos tales que cual es nuestro modo de hablar por medio de cartas, estando ausentes, tal será también nuestra conducta cuando estemos presentes.
+[10, 11](#c10-v11) Piensen esos tales que cual es nuestro modo de hablar por medio de cartas, estando ausentes, tal será también nuestra conducta cuando estemos presentes.
 {:#c10-v11}
 
 #### Comunicación de bienes espirituales
@@ -1215,7 +1215,7 @@ Esto se entiende fácilmente, pues ¿cómo vamos a odiar un acto, mientras lo mi
 [12, 2](#c12-v2) S. Pablo habla de sí mismo en tercera persona, para destacar que en tales visiones, todo fue obra de Dios, sin mérito alguno de su parte.
 {:#nt-c12-v2}
 
-**El tercer cielo**: Los rabinos distinguían tres cielos: el atmosférico, el astral, y el empíreo. S. Pablo se refiere al último, pero entendiéndolo como cielo espiritual, la morada de Dios. Cf. Salmo [113B, 6](salmos#c113b-v6) y nota.
+**El tercer cielo**: Los rabinos distinguían tres cielos: el atmosférico, el astral, y el empíreo. S. Pablo se refiere al último, pero entendiéndolo como cielo espiritual, la morada de Dios. Cf. Salmo [113B, 6](salmos#c113B-v6) y nota.
 
 [12, 7](#c12-v7) **Un aguijón**: más exactamente una espina en la carne, como un dolor prolongado. Algunos entienden que el apóstol alude a una enfermedad o dolencia física (cf. Gálatas [4, 13](galatas#c4-v13)); otros piensan en la rebeldía de la concupiscencia de la que habla en Romanos [7, 23](romanos#c7-v23).
 {:#nt-c12-v7}

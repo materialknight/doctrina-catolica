@@ -1,5 +1,5 @@
 ---
-title: Segunda carta de san Pablo a los Tesalonicenses
+title: Primera carta del apóstol san Pablo a los Tesalonicenses
 ---
 
 {% include bible/toc-auto.html %}

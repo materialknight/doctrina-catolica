@@ -192,7 +192,7 @@ title: Génesis
 
 #### Tentación y caída
 
-[3, 1](#c3-v1) [[\*\*]](#nt-c3-v1) La serpiente, que era el más astuto de todos los animales del campo que Yahvé Dios había hecho, dijo a la mujer: «¿Cómo es que Dios ha mandado 'No comáis de ningún árbol del jardín'?»
+[3, 1](#c3-v1) [[\*\*]](#nt-c3-v1) La serpiente, que era el más astuto de todos los animales del campo que Yahvé Dios había hecho, dijo a la mujer: «¿Cómo es que Dios ha mandado "No comáis de ningún árbol del jardín"?»
 {:#c3-v1}
 
 [3, 2](#c3-v2) [[\*\*]](#nt-c3-v2) Respondió la mujer a la Serpiente: "Podemos comer del fruto de los árboles del jardín;
@@ -1570,13 +1570,13 @@ title: Génesis
 [19, 19](#c19-v19) Veo que tu siervo ha hallado gracia a tus ojos, y le has mostrado tan grande misericordia salvándome la vida; mas no puedo escapar a la montaña, sin riesgo de que me alcance la destrucción y la muerte.
 {:#c19-v19}
 
-[19, 20](#c19-v20) He ahí cerca esa ciudad donde podría refugiarme. Es tan pequeña. Con tu permiso huiré a ella -¿no es ella tan pequeña?- y vivirá mi alma.»
+[19, 20](#c19-v20) He ahí cerca esa ciudad donde podría refugiarme. Es tan pequeña. Con tu permiso huiré a ella —¿no es ella tan pequeña?— y vivirá mi alma.»
 {:#c19-v20}
 
 [19, 21](#c19-v21) Contestóle: «Bien, te concedo también esta gracia de no destruir la ciudad de la cual hablas.
 {:#c19-v21}
 
-[19, 22](#c19-v22) [[\*\*]](#nt-c19-v22) Date prisa, refúgiate allá; pues nada podré hacer hasta que hayas entrado en ella.» Por eso fue llamada aquella ciudad Segor.
+[19, 22](#c19-v22) [[\*\*]](#nt-c19-v22) Date prisa, refúgiate allá; pues nada podré hacer hasta que hayas entrado en ella.» Por eso fue llamada aquella ciudad *Segor*.
 {:#c19-v22}
 
 [19, 23](#c19-v23) Salía el sol sobre la tierra cuando Lot entraba en Segor.
@@ -1599,7 +1599,7 @@ title: Génesis
 [19, 28](#c19-v28) Miró hacia Sodoma y Gomorra, y hacia toda la región de la Vega, y vio que de aquella tierra subía humo, como humo de un horno.
 {:#c19-v28}
 
-[19, 29](#c19-v29) Así, pues, cuando Dios destruyó las ciudades de la Vega, se acordó de Abrahán y sacó a Lot de en medio de la ruina, al asolar las ciudades donde Lot habitaba.
+[19, 29](#c19-v29) Así, pues, cuando Dios destruyó las ciudades de la vega, se acordó de Abrahán y sacó a Lot de en medio de la ruina, al asolar las ciudades donde Lot habitaba.
 {:#c19-v29}
 
 #### Las hijas de Lot
@@ -3728,7 +3728,7 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [38, 21](#c38-v21) Por lo cual preguntó a los hombres de aquel lugar, diciendo «¿Dónde está la prostituta de Enaim, la de junto al camino?» Respondieron: «Aquí no ha habido prostituta alguna.»
 {:#c38-v21}
 
-[38, 22](#c38-v22) Se volvió, pues, a Judá y dijo: «No la he encontrado; y además los hombres de aquel lugar dicen: 'No ha habido aquí prostituta alguna.'»
+[38, 22](#c38-v22) Se volvió, pues, a Judá y dijo: «No la he encontrado; y además los hombres de aquel lugar dicen: "No ha habido aquí prostituta alguna."»
 {:#c38-v22}
 
 [38, 23](#c38-v23) Dijo entonces Judá: «Tómeselo para sí, para que nadie pueda burlarse de nosotros. He aquí, yo he enviado este cabrito, mas tú no la has encontrado.»
@@ -5006,7 +5006,7 @@ Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c
 
 *Elohim* lleva por regla general los atributos y verbos en singular, como en este versículo (cf. también el versículo [26](#c1-v26)), lo que prueba claramente que no se trata como dicen los racionalistas, de un resto de politeísmo. Al contrario, el politeísmo es una depravación del monoteísmo primitivo, cuyas huellas se han conservado, fuera de la Biblia, hasta nuestros días, en algunos pueblos «salvajes» que viven muy retirados y sin mayor contacto con los otros. Los investigadores modernos, sobre todo la escuela antropológica del P. W. Schmidt, han descubierto en aquellos pueblos la creencia de un Dios supremo, creador de todas las cosas, muy justo y muy bueno, legislador y juez de los hombres. No hay, pues, duda, de que el politeísmo es un producto de la apostasía de la religión primitiva.
 
-**El cielo**, incluso los ángeles (cf. El pasaje de Colosenses [11, 16](colosenses#c11-v16), citado más arriba) y **la tierra**: el orbe entero, sin excluir nada. Orígenes y San Agustín entienden por cielo las cosas espirituales, por tierra las materiales.
+**El cielo**, incluso los ángeles (cf. El pasaje de Colosenses [1, 16](colosenses#c1-v16), citado más arriba) y **la tierra**: el orbe entero, sin excluir nada. Orígenes y San Agustín entienden por «cielo» las cosas espirituales, por «tierra» las materiales.
 
 [1, 2](#c1-v2) **Confusión y caos**: El hebreo usa dos palabras que suenan onomatopéyicamente: «*tohu*» y «*bohu*», y que se repiten en Jeremías [4, 23](jeremias#c4-v23). Los Setenta vierten: «invisible y carente de orden». Algunos autores modernos ven en este versículo una alusión a un cataclismo anterior a la actual organización de la tierra; opinión que no tiene fundamento en la construcción gramatical del texto hebreo.
 {:#nt-c1-v2}
@@ -5030,7 +5030,7 @@ Son de admirar estas luces que Dios nos hace ver desde el Antiguo Testamento sob
 [1, 3](#c1-v3) Comienza con este versículo el relato de las obras de la creación que se dividen en dos clases: *opus distinctionis* (creación de los espacios y lugares) y el *opus ornatus* (acción de llenar y poblar los espacios). A la primera clase de obras dedica el autor sagrado los tres primeros días; a la segunda, los días siguientes. Parece haber aquí una contradicción con el versículo [14](#c1-v14), donde se narra la creación del sol, fuente de la luz. La contradicción desaparece, si tomamos la voz «luz» en sentido lato: energía, que Dios concentrará en el sol (v. [14](#c1-v14)). Oigamos sobre este punto un físico moderno:
 {:#nt-c1-v3}
 
-> «En nuestro siglo este 'grave error' del Génesis se ha disipado, y muy lejos de ver aquí un error, vemos un acierto científico verdaderamente sorprendente. Hoy sabemos que luz y materia no son sino distintas formas de una misma cosa: la energía. Sabemos también que de todas las formas de la energía es la luz la más pura y la única que pudo existir sin un soporte material; si bien en nuestras aplicaciones corrientes, nosotros obligamos a la materia a que nos devuelva luz.» (J. Domínguez Casanueva, Estudios, Santiago de Chile, abril 1949, pág. 17)
+> «En nuestro siglo este "grave error" del Génesis se ha disipado, y muy lejos de ver aquí un error, vemos un acierto científico verdaderamente sorprendente. Hoy sabemos que luz y materia no son sino distintas formas de una misma cosa: la energía. Sabemos también que de todas las formas de la energía es la luz la más pura y la única que pudo existir sin un soporte material; si bien en nuestras aplicaciones corrientes, nosotros obligamos a la materia a que nos devuelva luz.» (J. Domínguez Casanueva, Estudios, Santiago de Chile, abril 1949, pág. 17)
 
 [1, 4](#c1-v4) **Era buena**, no sólo por su belleza o sus buenos efectos, sino por ser la realización de una idea del Creador, pues todo lo que hace Dios es bueno; lo malo entró en el mundo por el pecado (cf. Sabiduría [2, 24](sabiduria#c2-v24) y nota).
 {:#nt-c1-v4}
@@ -5103,7 +5103,7 @@ En el Nuevo Testamento se restauró esta grandiosa idea de la semejanza del homb
 [1, 28](#c1-v28) Dios aparece en todo este capítulo como Rey del universo, por el hecho mismo de la Creación. Los libros todos del Antiguo Testamento, especialmente los Salmos, celebran tal reinado (Salmos [28](salmos#c28); [47](salmos#c47); [92](salmos#c92); [94](salmos#c94); [103](salmos#c103); [104](salmos#c104); [144](salmos#c144); Tobías [13, 1](tobias#c13-v1)-6; Ester [13, 9](ester#c13-v9)-14; Isaías [37, 16](isaias#c37-v16); etcétera). Dentro del Reino de Dios, el hombre ocupa un lugar preferido y es también rey, porque a él le entregó Dios el señorío sobre la creación visible, pero tal privilegio se trocó en duro trabajo a causa de la caída del hombre, por lo cual todas las cosas creadas, hasta las inanimadas aguardan «con ardiente anhelo» la libertad de la «servidumbre de la corrupción» (Romanos [8, 19](romanos#c8-v19) y [21](romanos#c8-v21) y notas).
 {:#nt-c1-v28}
 
-[1, 31](#c1-v31) Sobre el «carácter histórico» de los acontecimientos narrados en este capítulo se han escrito muchísimos artículos y libros, principalmente con el fin de establecer la concordancia de las Ciencias naturales con la Biblia, sin que se haya logrado probarla.
+[1, 31](#c1-v31) Sobre el *carácter histórico* de los acontecimientos narrados en este capítulo se han escrito muchísimos artículos y libros, principalmente con el fin de establecer la concordancia de las Ciencias naturales con la Biblia, sin que se haya logrado probarla.
 {:#nt-c1-v31}
 
 > «Poco servicio hacían a la Biblia los autores del siglo pasado, que querían concordar los trascendentales relatos del Génesis con las teoría de La Place. Era comparar lo incomparable; era no tener idea de lo que es la Biblia.» (Celada)
@@ -5419,7 +5419,7 @@ San Crisóstomo combina las palabras de este versículo de otra manera, y ve aqu
 
 **Yo maté**: Algunos traducen: «yo mataré». Lamec se gloría de ser peor que Caín.
 
-> «Sabrá vengarse ampliamente si uno lo hiere, no sólo 'siete veces' -con lo cual impíamente alude a la palabra divina (v. [15](#c4-v15))- sino 'setenta veces siete'. Su brazo le bastará, no tendrá necesidad de Dios como Caín.» (Fillion)
+> «Sabrá vengarse ampliamente si uno lo hiere, no sólo "siete veces" -con lo cual impíamente alude a la palabra divina (v. [15](#c4-v15))- sino "setenta veces siete". Su brazo le bastará, no tendrá necesidad de Dios como Caín.» (Fillion)
 
 Preferimos la lección de la *Vulgata* en vez del hebreo, que dice «setenta y siete veces».
 
@@ -5519,7 +5519,7 @@ Aducen asimismo el testimonio de los Padres y antiguos intérpretes que se han p
 [8, 11](#c8-v11)
 {:#nt-c8-v11}
 
-> «La paloma, dice San Buenaventura, volvió al arca, con un ramo de olivo en el pico. De igual modo, el alma que es semejante a la paloma, vuelve de nuevo al Señor, porque en él halla descanso.» (Sermón del Sábado Santo)
+> «La palomau002014 volvió al arca, con un ramo de olivo en el pico. De igual modo, el alma que es semejante a la paloma, vuelve de nuevo al Señor, porque en él halla descanso.» (Sermón del Sábado Santo)
 
 Desde entonces el ramo de olivo se toma como símbolo de la paz. Tanto la paloma como el aceite de olivos son también símbolos del Espíritu Santo, cuya obra pacificadora no debemos olvidar en esta primera reconciliación del género humano con Dios; pues la paz es, según San Pablo, «fruto del Espíritu» (Gálatas [5, 22](galatas#c5-v22)). Sobre la actividad del Espíritu Santo en la creación véanse las notas a Génesis [1, 1](genesis#c1-v1) y [2](#c1-v2).
 
@@ -5672,7 +5672,7 @@ Sobre **Magog**, un país situado al norte, véase Ezequiel [38, 2](ezequiel#c38
 [11, 4](#c11-v4) **Cuya cumbre llegue hasta el cielo**: Esta expresión no ha de tomarse en sentido literal, ya que se aplicaba también a otros templos de Babilonia. Es tal vez la traducción del nombre sumerio de la torre Etemenanki (Casa de los cimientos del cielo y de la tierra), que estaba un poco al norte del templo Esagila de Babilonia, cuya base era de 91,50 metros cuadrados. Algunos buscan los restos de esta torre en las ruinas de Birs Nimrud («castillo de Nimrod») en las cercanías de Babilonia, otros en la torre «Babil» de la ciudad de Babel.
 {:#nt-c11-v4}
 
-**Para que no nos dispersemos**: Era la voluntad de Dios que se dispersasen y repoblasen la tierra, como lo había mandado a Noé ([9, 1](#c9-v1)). Pero revivió en ellos el espíritu de Caín, la rebeldía contra Dios, que siempre cunde en el mundo (cf. Judas v. [11](judas#v11)). Eran inventores y progresistas, como el hombre moderno, que los imita en la construcción de torres babilónicas, en sentido técnico y más aún en sentido ideológico. En lugar de cumplir la voluntad divina edificaron una ciudad monstruosa, en la cual levantaron, como símbolo de su unidad espiritual, un templo, pues las torres babilónicas eran a su vez santuarios, en cuya cumbre había un templo o por lo menos un altar. La idea que los animaba consistía en crear no sólo un monumento, sino a la vez un centro idolátrico que les sirviese de lazo de unión. De ahí que Dios interviniera con tanta severidad. La soberbia, dice San Agustín, confundió las lenguas, la humildad de Cristo las unió de nuevo.
+**Para que no nos dispersemos**: Era la voluntad de Dios que se dispersasen y repoblasen la tierra, como lo había mandado a Noé ([9, 1](#c9-v1)). Pero revivió en ellos el espíritu de Caín, la rebeldía contra Dios, que siempre cunde en el mundo (cf. Judas v. [11](judas#v11)). Eran inventores y progresistas, como el hombre moderno, que los imita en la construcción de torres babilónicas, en sentido técnico y más aún en sentido ideológico. En lugar de cumplir la voluntad divina edificaron una ciudad monstruosa, en la cual levantaron, como símbolo de su unidad espiritual, un templo, pues las torres babilónicas eran a su vez santuarios, en cuya cumbre había un templo o por lo menos un altar. La idea que los animaba consistía en crear no sólo un monumento, sino a la vez un centro idolátrico que les sirviese de lazo de unión. De ahí que Dios interviniera con tanta severidad. La soberbia—dice San Agustínu002014 confundió las lenguas, la humildad de Cristo las unió de nuevo.
 
 [11, 5](#c11-v5) **Yahvé descendió para ver**: Uno de los antropomorfismos en que tan fecunda es la Biblia, en especial el Génesis. Véase antropomorfismos semejantes en [6, 6](#c6-v6); [8, 21](#c8-v21); Job [38, 13](job#c38-v13); Salmo [40, 4](salmos#c40-v4).
 {:#nt-c11-v5}
@@ -5757,7 +5757,7 @@ Los cananeos vivían en ciudades y lugares fortificados y permitían que las tri
 [13, 8](#c13-v8) **Lot** era sobrino de Abrahán ([14, 12](#c14-v12)). Se llamaba aquí hermano, porque el nombre de hermano se usaba entre parientes en general. Así habla también el Nuevo Testamento de los «hermanos» de Jesús, que en realidad no eran hermanos carnales sino sólo parientes. Cf. [14, 16](#c14-v16); [29, 12](#c29-v12) y [15](#c29-v15); Mateo [12, 46](mateo#c12-v46) y nota.
 {:#nt-c13-v8}
 
-[13, 10](#c13-v10) **Segor**, una de las ciudades de la Pentápolis, que como veremos más adelante ([19, 20](#c19-v20)), fue perdonada cuando la ira del Señor destruyó las demás: Sodoma, Gomorra, Adamá y Seboím.
+[13, 10](#c13-v10) **Segor**: una de las ciudades de la Pentápolis, que como veremos más adelante ([19, 20](#c19-v20)), fue perdonada cuando la ira del Señor destruyó las demás: Sodoma, Gomorra, Adamá y Seboím.
 {:#nt-c13-v10}
 
 [13, 11](#c13-v11)
@@ -5962,10 +5962,10 @@ Los primeros cristianos, y aun las mujeres de la Edad Media, conocían estas sab
 [19, 16](#c19-v16) Admirable imagen de la gracia, que nos salva aún a pesar de nuestra flaqueza, como dice la Iglesia en la Secreta de la cuarta Dominica después de Pentecostés.
 {:#nt-c19-v16}
 
-[19, 22](#c19-v22) **Segor** significa en hebreo «pequeño». La ciudad se llamaba anteriormente Bela (cf. [14, 2](#c14-v2) y [8](#c14-v8)). Lot intercedió por ella (v. [20](#c19-v20)), aduciendo su pequeñez. Tal es el privilegio de los pequeños (Sabiduría [6, 7](sabiduria#c6-v7)).
+[19, 22](#c19-v22) «**Segor**» significa en hebreo «pequeño». La ciudad se llamaba anteriormente «Bela» (cf. [14, 2](#c14-v2) y [8](#c14-v8)). Lot intercedió por ella (v. [20](#c19-v20)), aduciendo su pequeñez. Tal es el privilegio de los pequeños (Sabiduría [6, 7](sabiduria#c6-v7)).
 {:#nt-c19-v22}
 
-[19, 24](#c19-v24) Según Deuteronomio [29, 3](deuteronomio#c29-v3) fueron alcanzadas por el castigo, las ciudades de Sodoma, Gomorra, Adamá y Seboím. La quinta ciudad de la zona fue perdonada y recibió el nombre de «Segor» (v.23). La catástrofe cuyo teatro era la parte meridional del lago que hoy se llama Mar Muerto, se realizó probablemente con intervención de causas naturales, betunes que se encendieron, volcanes, etc. Cf. Sabiduría [10, 7](sabiduria#c10-v7).
+[19, 24](#c19-v24) Según Deuteronomio [29, 3](deuteronomio#c29-v3) fueron alcanzadas por el castigo, las ciudades de Sodoma, Gomorra, Adamá y Seboím. La quinta ciudad de la zona fue perdonada y recibió el nombre de «Segor» (v. [23](#c19-v23)). La catástrofe cuyo teatro era la parte meridional del lago que hoy se llama Mar Muerto, se realizó probablemente con intervención de causas naturales, betunes que se encendieron, volcanes, etc. Cf. Sabiduría [10, 7](sabiduria#c10-v7).
 {:#nt-c19-v24}
 
 Flavio Josefo, Eusebio, el mapa de Madaba y muchos expositores modernos, p. ej. Abel, Dhorme, Heinisch, Lagrange, ubican las ciudades destruidas de la Pentápolis en la parte meridional del Mar Muerto. Algunos modernos buscan su lugar en el norte del mismo mar, en la región de Teleilat el Ghassul, donde el P. Köppel hizo excavaciones, descubriendo una ciudad destruida por un incendio, alrededor del año 2000 a. C.
@@ -5981,7 +5981,7 @@ Dios le dio lo que deseaba, convirtiéndola en un pedazo de la misma ciudad que 
 
 Comentando estas palabras de Jesús, escribe Fillion:
 
-> «Así también el cristiano cuyo primer pensamiento, a la venida del Hijo del hombres, se fijare en la seguridad de sus bienes temporales, no sería digno del Reino de Dios».
+> «Así también el cristiano cuyo primer pensamiento, a la venida del Hijo del hombre, se fijare en la seguridad de sus bienes temporales, no sería digno del Reino de Dios».
 
 Santa Teresa toma a la mujer de Lot como figura de aquellas almas que, si no viene el mismo Señor a mandarlas se levanten, son incapaces de orientarse:
 
@@ -6069,7 +6069,7 @@ Como Isaac tomó sobre sus espaldas la leña, así Cristo cargó con el madero d
 
 > «Aun en los pasajes en que ante Yahvé omnipotente y vengador el "temor" tiende a predominar en el sentido más crudo de "miedo"... es éste un solo elemento y predominante cuando se quiera, de todo un complejo, de que también son parte primordial el "respeto", la "reverencia". En ocasiones los papeles se cambian, y el "temor" queda como escondido en el fondo, mientras el "respeto", la "reverencia", concretados en la "piedad" practicada, en la "religión" —total ley divina— vivida, suben a primer plano, hasta tal punto que la expresión "*timentes Deum*" llega a ser el término consagrado que se da a quienes, piadosos para con Dios, en todo guardan su ley» (Asensio).
 
-[22, 17](#c22-v17) **Poseer la puerta** es un giro hebreo que significa vencer, conquistar, triunfar.
+[22, 17](#c22-v17) **Poseer la puerta**: es un giro hebreo que significa vencer, conquistar, triunfar.
 {:#nt-c22-v17}
 
 [22, 18](#c22-v18) **En tu descendencia**: Jesucristo. Así lo explica San Pablo en Gálatas [3, 16](galatas#c3-v16). Cf. las promesas anteriores en [12, 3](#c12-v3); [18, 18](#c18-v18). Abrahán es nuevamente colmado de bendiciones por su obediencia, y contribuye a la gran bendición del mundo que culminará en Cristo.
@@ -6099,7 +6099,7 @@ Como Isaac tomó sobre sus espaldas la leña, así Cristo cargó con el madero d
 [24, 1](#c24-v1) Abrahán tenía a la sazón 140 años, su hijo Isaac 40 años (cf. [25, 20](#c25-v20)).
 {:#nt-c24-v1}
 
-**Yahvé había bendecido**, etc.: Así recompensa Dios a sus amigos. Véase Salmo 127. Del Señor son las riquezas. El justo del Antiguo Testamento las consideraba como una especial bendición de Dios y las aprovechaba para socorrer al pobre y a la viuda, como que son representantes de Dios, autorizados para participar de los bienes que Dios otorgó a los ricos. De ahí el elogio que el Eclesiástico hace al rico misericordioso (Eclesiástico [31, 8](eclesiastico#c31-v8) ss.).
+**Yahvé había bendecido**, etc.: Así recompensa Dios a sus amigos. Véase Salmo [127](salmos#c127). Del Señor son las riquezas. El justo del Antiguo Testamento las consideraba como una especial bendición de Dios y las aprovechaba para socorrer al pobre y a la viuda, como que son representantes de Dios, autorizados para participar de los bienes que Dios otorgó a los ricos. De ahí el elogio que el Eclesiástico hace al rico misericordioso (Eclesiástico [31, 8](eclesiastico#c31-v8) ss.).
 
 [24, 2](#c24-v2) El administrador de la casa de Abrahán se llamaba Eliécer y era oriundo de Damasco (cf. [15, 20](#c15-v20)). Poner la mano debajo del muslo del que tomaba juramento era una forma solemne de jurar. Cf. [47, 20](#c47-v20). Según Teodoreto significaría jurar por la circuncisión, señal de la alianza con Dios.
 {:#nt-c24-v2}
@@ -6473,7 +6473,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [35, 16](#c35-v16) **Efrata**: ciudad y región de Belén, denominada así por su fertilidad; pues *Efrata* significa «fértil», y *Belén* (*Betlehem*), «casa del pan», cf. Rut [1, 2](rut#c1-v2); Miqueas [4, 2](miqueas#c4-v2).
 {:#nt-c35-v16}
 
-[35, 18](#c35-v18) **Benoní**: hijo de mi dolor. **Benjamín**: hijo de la diestra o hijo de buen augurio; corresponde al nombre de *Buenaventura* (en griego *Eustaquio*).
+[35, 18](#c35-v18) **Benoní**: «hijo de mi dolor». **Benjamín**: «hijo de la diestra» o «hijo de buen augurio»; corresponde al nombre de *Buenaventura* (en griego *Eustaquio*).
 {:#nt-c35-v18}
 
 [35, 20](#c35-v20) Los judíos y mahometanos veneran la tumba de Raquel, en un monumento sepulcral erigido en el camino de Jerusalén a Belén. Véase [48, 9](#c48-v9).
@@ -6560,7 +6560,7 @@ El P. Páramo completa este pensamiento, llamando la atención sobre el hecho de
 [38, 9](#c38-v9) Enseña esta narración que el uso del matrimonio sin querer tener hijos provoca el castigo de Dios (v. [10](#c38-v10)), por ser un pecado contra la naturaleza. Este castigo se cumple también hoy en las familias contagiadas por el onanismo, vicio que de Onán trae su nombre. Dios no los hace desaparecer tan rápidamente como Onán, los abandona más bien a la comodidad, a los placeres de la vida y a las pasiones vergonzosas (Romanos [1, 26](romanos#c1-v26)), de modo que degeneran sin remedio, extirpándose a sí mismos. Nótese que el móvil de Onán no fue tan perverso como el del maltusianismo de hoy, por lo cual éste es aun más detestable. Tenemos en este episodio un ejemplo de pedagogía divina, que envuelve los preceptos morales en historias. Hay un caudal de verdades morales que de esta manera nos han sido transmitidas en la Biblia.
 {:#nt-c38-v9}
 
-> «Dictada por Dios principalmente, con un fin religioso, es decir, santificador, prepondera en ella la verdad normativa a la de simple especulación... Pero la misma enseñanza moral suele darse en historias, y éstas se convierten en regla viva, en moral 'vivida', como hoy se dice, cuyas reglas se graban profundamente en el espíritu de los oyentes.» (Cardenal Gomá, Biblia y Predicación, pág. 118)
+> «Dictada por Dios principalmente, con un fin religioso, es decir, santificador, prepondera en ella la verdad normativa a la de simple especulación... Pero la misma enseñanza moral suele darse en historias, y éstas se convierten en regla viva, en moral "vivida", como hoy se dice, cuyas reglas se graban profundamente en el espíritu de los oyentes.» (Cardenal Gomá, Biblia y Predicación, pág. 118)
 
 [38, 18](#c38-v18) El **cordón** servía para llevar el sello, el cual pendía del cuello y era, por regla general, un cilindro horadado.
 {:#nt-c38-v18}
@@ -6627,7 +6627,9 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 [41, 38](#c41-v38) **Lleno del espíritu de Dios**: Fue el Espíritu Santo quien inspiró no solamente a los profetas, que escribieron los libros sagrados, sino también a muchas otras personas. Cf. el cántico de María, hermana de Moisés (Éxodo [15, 20](exodo#c15-v20) s.), el de Débora la profetisa (Jueces 5) y el de Ana, madre de Samuel (I Reyes 2), que también hablaron inspiradas por el Espíritu Santo.
 {:#nt-c41-v38}
 
-[41, 40](#c41-v40) También en su encumbramiento es José figura de Cristo. Salió José de la cárcel; Jesucristo del sepulcro. José fue exaltado por rey de Egipto; Jesucristo por el Rey del Universo. Llamaron a José «salvador del mundo» (v. [45](#c41-v45)); Jesucristo lo es en persona. La exaltación de José es un milagro de la Providencia de Dios, quien eleva a los humildes y huilla a los soberbios. Mirad a José, dice San Crisóstomo; de cautivo llegó bien pronto a ser el jefe de todo el Egipto; ésta es la ventaja de las aflicciones sufridas valerosamente; su paciencia fue inquebrantable, las pruebas no le abatieron, y Dios, después de haberle experimentado, le halló digno y le bendijo. (Homilía ad pop.) Cf. el Magnificat de la Virgen (Lucas [1, 52](lucas#c1-v52)).
+[41, 40](#c41-v40) También en su encumbramiento es José figura de Cristo. Salió José de la cárcel; Jesucristo del sepulcro. José fue exaltado por rey de Egipto; Jesucristo por el Rey del Universo. Llamaron a José «salvador del mundo» (v. [45](#c41-v45)); Jesucristo lo es en persona. La exaltación de José es un milagro de la Providencia de Dios, quien eleva a los humildes y huilla a los soberbios.
+
+> «Mirad a José —dice San Crisóstomo— de cautivo llegó bien pronto a ser el jefe de todo el Egipto; ésta es la ventaja de las aflicciones sufridas valerosamente; su paciencia fue inquebrantable, las pruebas no le abatieron, y Dios, después de haberle experimentado, le halló digno y le bendijo.» (Homilía *ad pop*.) Cf. el Magníficat de la Virgen (Lucas [1, 52](lucas#c1-v52)).
 {:#nt-c41-v40}
 
 [41, 45](#c41-v45) **Safnat Panea**: Palabra egipcia, que San Jerónimo traduce por «salvador del mundo». Otros lo interpretan: «dador de vida», o «Dios dijo: éste vive». Preferimos la traducción de San Jerónimo, ya que corresponde mejor al contexto. Los honores y las distinciones son otras tantas pruebas de la elevada posición que José ocupaba en el país del Faraón. En esto, y en su castidad, la Iglesia lo compara con el patriarca San José, esposo de María Santísima, y aplica a él los versículos [41, 55](#c41-v55); [45, 8](#c45-v8) y [49, 22](#c49-v22).
