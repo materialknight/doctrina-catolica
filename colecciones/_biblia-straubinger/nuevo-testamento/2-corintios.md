@@ -635,7 +635,7 @@ title: Segunda carta de san Pablo a los Corintios
 [10, 14](#c10-v14) Y hasta vosotros hemos llegado ciertamente en la predicación del Evangelio de Cristo; no estamos, pues, extralimitándonos, como si no llegásemos hasta vosotros.
 {:#c10-v14}
 
-[10, 15](#c10-v15) Y según esto, si nos gloriamos (aun en vuestros trabajos) no es fuera de medida en labores ajenas, pues esperamos que con el aumento de vuestra fe que se produce en vosotros, también nosotros creceremos más y más conforme a nuestra medida [[\*\*]](#nt-c10-v15),
+[10, 15](#c10-v15) Y según esto, si nos gloriamos (aun en vuestros trabajos) no es fuera de medida, en labores ajenas, pues esperamos que con el aumento de vuestra fe que se produce en vosotros, también nosotros creceremos más y más, conforme a nuestra medida [[\*\*]](#nt-c10-v15),
 {:#c10-v15}
 
 [10, 16](#c10-v16) llegando a predicar el Evangelio hasta más allá de vosotros, no para gloriarnos en medida ajena, por cosas ya hechas.
