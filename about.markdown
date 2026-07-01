@@ -33,7 +33,25 @@ Nuestra labor consiste en adaptar obras de doctrina católica a un formato digit
 1. Agregar una obra o enlace que falte.
 3. Reportar o corregir errores en el contenido o el funcionamiento de este sitio.
 
-También puedes ayudar visitando nuestro sitio hermano: [rincondeluce](https://rincondeluce.vercel.app/), o haciendo una ofrenda por este medio:
+También puedes ayudar visitando nuestro sitio hermano: [rincondeluce](https://rincondeluce.vercel.app/), o haciendo una ofrenda con el siguiente botón:
+
+<div id="donate-button-container">
+   <div id="donate-button"></div>
+   <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+   <script>
+   PayPal.Donation.Button({
+      env:'production',
+      hosted_button_id:'54YNUY9U3HXSL',
+      image: {
+         src:'https://pics.paypal.com/00/s/ZWFiYjAzOTUtOTc4Zi00ZjVmLWIwNjktMTc2OGFmYTgwNWY1/file.PNG',
+         alt:'Donate with PayPal button',
+         title:'PayPal - The safer, easier way to pay online!',
+      }
+   }).render('#donate-button');
+   </script>
+</div>
+
+O escaneado el siguiente código QR (o copiando el enlace de abajo) en un monedero de Bitcoin:
 
 <div class="big-img-container">
    <img alt="QR de BTC" src="{{ '/assets/images/QR_BTC.jpeg' | relative_url }}">

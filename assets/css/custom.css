@@ -212,6 +212,12 @@ textarea {
    background-color: cornsilk;
 }
 
+#donate-button-container {
+   display: flex;
+   justify-content: center;
+   margin-bottom: 15px;
+}
+
 /* IMAGES AND THEIR CONTAINERS */
 
 .small-img-container {

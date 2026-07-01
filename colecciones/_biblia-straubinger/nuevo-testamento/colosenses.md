@@ -81,7 +81,7 @@ title: Carta del apóstol san Pablo a los Colosenses
 [1, 23](#c1-v23) Si es que en verdad permanecéis fundados y asentados en la fe e inconmovibles en la esperanza del Evangelio que oísteis, el cual ha sido predicado en toda la creación debajo del cielo y del cual yo Pablo he sido constituido ministro [[\*\*]](#nt-c1-v23).
 {:#c1-v23}
 
-[1, 24](#c1-v24) Ahora me gozo en los padecimientos a causa de vosotros, y lo que en mi carne falta de las tribulaciones de Cristo, lo cumplo en favor del Cuerpo Suyo, que es la Iglesia.
+[1, 24](#c1-v24) Ahora me gozo en los padecimientos a causa de vosotros; y lo que en mi carne falta de las tribulaciones de Cristo, lo cumplo en favor del Cuerpo Suyo, que es la Iglesia.
 {:#c1-v24}
 
 [1, 25](#c1-v25) De ella fui yo constituido siervo, según la misión que Dios me encomendó en beneficio vuestro, de anunciar en su plenitud el divino Mensaje [[\*\*]](#nt-c1-v25),
@@ -344,7 +344,7 @@ title: Carta del apóstol san Pablo a los Colosenses
 [1, 18](#c1-v18) Cf. [2, 19](#c2-v19); 1 Corintios [15, 20](1-corintios#c15-v20); Gálatas [3, 28](galatas#c3-v28); Apocalipsis [1, 5](apocalipsis#c1-v5).
 {:#nt-c1-v18}
 
-> «Si la Iglesia es un cuerpo, necesariamente ha de ser una sola cosa indivisa, según aquello de S. Pablo: 'Muchos formamos en Cristo un solo cuerpo' (Romanos [12, 5](romanos#c12-v5)). Por lo cual se apartan de la verdad divina aquellos que se forjan la Iglesia de tal manera que... muchas comunidades cristianas, aunque separadas mutuamente en la fe, se juntan, sin embargo, por un lazo invisible» (Encíclica de Pío XII Cuerpo Místico de Cristo).
+> «Si la Iglesia es un cuerpo, necesariamente ha de ser una sola cosa indivisa, según aquello de S. Pablo: "Muchos formamos en Cristo un solo cuerpo" (Romanos [12, 5](romanos#c12-v5)). Por lo cual se apartan de la verdad divina aquellos que se forjan la Iglesia de tal manera que... muchas comunidades cristianas, aunque separadas mutuamente en la fe, se juntan, sin embargo, por un lazo invisible» (Encíclica de Pío XII «Cuerpo Místico de Cristo»).
 
 [1, 20](#c1-v20) Véase Efesios [1, 7](efesios#c1-v7) y [10](efesios#c1-v10); [2, 13](efesios#c2-v13) ss.; 1 Juan [2, 2](1-juan#c2-v2); 1 Pedro [3, 19](1-pedro#c3-v19); [4, 6](1-pedro#c4-v6).
 {:#nt-c1-v20}
