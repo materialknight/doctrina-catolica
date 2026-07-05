@@ -135,7 +135,7 @@ title: Carta del apóstol san Pablo a los Colosenses
 
 ### En el bautismo morimos y resucitamos con Cristo
 
-[2, 11](#c2-v11) En Él también fuisteis circuncidados con circuncisión no hecha por mano de hombre mediante el despojo del cuerpo de la carne, sino con la circuncisión de Cristo [[\*\*]](#nt-c2-v11),
+[2, 11](#c2-v11) En Él también fuisteis circuncidados con circuncisión no hecha por mano de hombre, sino mediante el despojo del cuerpo de la carne con la circuncisión de Cristo [[\*\*]](#nt-c2-v11),
 {:#c2-v11}
 
 [2, 12](#c2-v12) habiendo sido sepultados con Él en el bautismo, donde así mismo fuisteis resucitados con Él por la fe en el poder de Dios que le resucitó de entre los muertos [[\*\*]](#nt-c2-v12).
@@ -192,7 +192,7 @@ title: Carta del apóstol san Pablo a los Colosenses
 [3, 4](#c3-v4) Cuando se manifieste nuestra vida, que es Cristo, entonces vosotros también seréis manifestados con Él en gloria [[\*\*]](#nt-c3-v4).
 {:#c3-v4}
 
-[3, 5](#c3-v5) Por tanto, haced morir los miembros que aún tengáis en la tierra: fornicación, impureza, pasiones, la mala concupiscencia y la codicia, que es idolatría.
+[3, 5](#c3-v5) Por tanto, haced morir los miembros que aún tengáis en la tierra: fornicación, impureza, pasiones, los malos deseos y la codicia, que es idolatría.
 {:#c3-v5}
 
 [3, 6](#c3-v6) A causa de estas cosas descarga la ira de Dios sobre los hijos de la desobediencia.

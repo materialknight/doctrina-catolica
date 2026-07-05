@@ -370,7 +370,7 @@ title: Primera carta del apóstol san Pablo a Timoteo
 [6, 14](#c6-v14) que guardes tu mandato sin mancha y sin reproche hasta la aparición de nuestro Señor Jesucristo [[\*\*]](#nt-c6-v14),
 {:#c6-v14}
 
-[6, 15](#c6-v15) que a su tiempo hará ostensible el bendito y único Dominador, Rey de los reyes y Señor de los señores [[\*\*]](#nt-c6-v15);
+[6, 15](#c6-v15) la cual a su tiempo hará ostensible el bendito y único Dominador, Rey de los reyes y Señor de los señores [[\*\*]](#nt-c6-v15);
 {:#c6-v15}
 
 [6, 16](#c6-v16) el único que posee inmortalidad y habita en una luz inaccesible que ningún hombre ha visto ni puede ver. A Él sea honor y poder eterno [[\*\*]](#nt-c6-v16). Amén.

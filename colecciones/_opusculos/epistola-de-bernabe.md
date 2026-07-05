@@ -17,7 +17,7 @@ title: Epístola de Bernabé
 [1, 2](#c1-v2) Habiendo visto tan fructíferos los mandamientos de Dios en vosotros, yo me regocijo, sobre toda otra cosa y por todo extremo, en vuestros bienaventurados y gloriosos espíritus, pues de Él habéis recibido la semilla plantada en vuestras almas, el don de la gracia espiritual.
 {:#c1-v2}
 
-[1, 3](#c1-v3) Por lo cual, aun me congratulo más a mi mismo con la esperanza de salvarme, pues verdaderamente contemplo entre vosotros cómo el Señor, que es rico en caridad, ha derramado su Espíritu sobre vosotros. Hasta tal punto me conmovió, estando entre vosotros, vuestra vista tan anhelada.
+[1, 3](#c1-v3) Por lo cual, aun me congratulo más a mí mismo con la esperanza de salvarme, pues verdaderamente contemplo entre vosotros cómo el Señor, que es rico en caridad, ha derramado su Espíritu sobre vosotros. Hasta tal punto me conmovió, estando entre vosotros, vuestra vista tan anhelada.
 {:#c1-v3}
 
 [1, 4](#c1-v4) [[\*\*]](#nt-c1-v4) Estoy convencido y siento en mis adentros que ahora entiendo más que cuando empecé a predicarles, porque el Señor anduvo conmigo en el camino de la justicia; y me veo también yo de todo punto forzado a amaros más que a mi propia vida, pues grande es la fe y la caridad que habita en vosotros *por la esperanza en la vida que Él les ha prometido*.

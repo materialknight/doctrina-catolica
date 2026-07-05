@@ -1089,7 +1089,7 @@ title: Primera carta de san Pablo a los Corintios
 [14, 10](#c14-v10) Por numerosos que sean tal vez en el mundo los diversos sonidos, nada hay, empero, que no sea una voz (inteligible) [[\*\*]](#nt-c14-v10).
 {:#c14-v10}
 
-[14, 11](#c14-v11) Si, pues, el valor del sonido es para mí ininteligible, será para el que habla un bárbaro, y el que habla un bárbaro para mí [[\*\*]](#nt-c14-v11).
+[14, 11](#c14-v11) Si, pues, el valor del sonido es para mí ininteligible, será para el que habla un bárbaro, y el que habla, un bárbaro para mí [[\*\*]](#nt-c14-v11).
 {:#c14-v11}
 
 [14, 12](#c14-v12) Así también vosotros, ya que anheláis dones espirituales, procurad tenerlos abundantemente para edificación de la Iglesia.
@@ -1121,7 +1121,7 @@ title: Primera carta de san Pablo a los Corintios
 [14, 20](#c14-v20) Hermanos, no seáis niños en inteligencia; sed, sí, niños en la malicia; mas en la inteligencia sed hombres acabados.
 {:#c14-v20}
 
-[14, 21](#c14-v21) En la Ley está escrito: «En lenguas extrañas, y por otros labios hablaré a este pueblo; y ni aun así me oirán, dice el Señor».
+[14, 21](#c14-v21) En la Ley está escrito: «En lenguas extrañas, y por otros labios hablaré a este pueblo; y ni aun así me oirán», dice el Señor [[\*\*]](#nt-c14-v21).
 {:#c14-v21}
 
 [14, 22](#c14-v22) De manera que el don de lenguas es para señal, no a los creyentes, sino a los que no creen; mas la profecía no es para los incrédulos, sino para los creyentes.
@@ -1147,7 +1147,7 @@ title: Primera carta de san Pablo a los Corintios
 [14, 28](#c14-v28) Pero si no hay intérprete, calle en la Iglesia, y hable consigo y con Dios.
 {:#c14-v28}
 
-[14, 29](#c14-v29) Cuanto a los profetas, hablen dos o tres, y los otros juzguen.
+[14, 29](#c14-v29) En cuanto a los profetas, hablen dos o tres, y los otros juzguen.
 {:#c14-v29}
 
 [14, 30](#c14-v30) Mas si algo fuere revelado a otro que está sentado, cállese el primero.
@@ -2112,6 +2112,9 @@ La caridad es, como dice Santo Tomás, la que, mientras vivimos, da la vida a la
 
 [14, 19](#c14-v19) S. Pablo quiere decir: Lo que uno no entiende, no puede servir para la edificación. Por eso no debe omitirse ninguna diligencia para poner a los fieles en estado de tomar parte en las oraciones públicas, ya sea explicándoselas de viva voz, ya sea poniendo en sus manos versiones fieles y exactas que ilustren su entendimiento, sostengan y fomenten su atención (Conc. Trid. Ses. XXII cap. 8).
 {:#nt-c14-v19}
+
+[14, 21](#c14-v21) Cf. Isaías [28, 11](isaias#c28-v11)-12
+{:#nt-c14-v21}
 
 [14, 26](#c14-v26) *La intervención de los fieles en la Iglesia*, como se ve, era frecuentísima. El orden resultaba de la caridad del Espíritu Santo, que a todos los llenaba. Véase Hechos [13, 15](hechos#c13-v15). Hoy desgraciadamente la actitud de los fieles en el templo es demasiado pasiva.
 {:#nt-c14-v26}
