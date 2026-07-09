@@ -1882,11 +1882,11 @@ Bien explica S. Tomás que «la maceración del propio cuerpo no es acepta a Dio
 [10, 4](#c10-v4) **Piedra** es, desde antiguo, uno de los nombres divinos (Deuteronomio [32, 4](deuteronomio#c32-v4); [15, 8](deuteronomio#c15-v8); 2 Samuel [2, 22](2-samuel#c2-v22); Salmo [17, 3](salmos#c17-v3), etc.).
 {:#nt-c10-v4}
 
-**La piedra era Cristo**: Así le llama también el Príncipe de los Apóstoles (1 Pedro [2, 4](1-pedro#c2-v4) ss.) y el mismo Pablo en Efesios [2, 20](efesios#c2-v20). S. Justino, fundándose en los Evangelios (que él llama «Memorias de los Apóstoles») escribe a Trifón el judío: «Porque leemos (en ellos) que el Cristo es el Hijo de Dios, lo proclamamos y lo entendemos como Hijo, el mismo que en los libros de los Profetas es llamado 'la Sabiduría', 'el Día', 'el Oriente', 'la Espada', 'la Piedra', etc.».
+**La piedra era Cristo**: Así le llama también el Príncipe de los Apóstoles (1 Pedro [2, 4](1-pedro#c2-v4) ss.) y el mismo Pablo en Efesios [2, 20](efesios#c2-v20). S. Justino, fundándose en los Evangelios (que él llama «Memorias de los Apóstoles») escribe a Trifón el judío: «Porque leemos (en ellos) que el Cristo es el Hijo de Dios, lo proclamamos y lo entendemos como Hijo, el mismo que en los libros de los Profetas es llamado "la Sabiduría", "el Día", "el Oriente", "la Espada", "la Piedra", etc.».
 
-> "Era el Mesías quien acordaba a la nación teocrática no solamente el agua para saciar su sed, sino también todas las demás gracias que necesitaba. Nada más bello y nada más real que esta actividad anticipada del Mesías en la historia judía (v. [9](#c10-v9); Juan [12, 41](juan#c12-v41), etc.).
+> «Era el Mesías quien acordaba a la nación teocrática no solamente el agua para saciar su sed, sino también todas las demás gracias que necesitaba. Nada más bello y nada más real que esta actividad anticipada del Mesías en la historia judía (v. [9](#c10-v9); Juan [12, 41](juan#c12-v41), etc.).
 >
-> Ya un escritor sagrado del Antiguo Testamento había dicho (Sabiduría [10, 15](sabiduria#c10-v15) ss.) que la divina Sabiduría estaba con los judíos en el desierto; ahora bien, esa Sabiduría es el mismo Verbo de Dios" (Fillion). Cf. nuestra introducción al Libro de la Sabiduría; Eclesiástico [4, 15](eclesiastico#c4-v15) y notas. Véase también el v. [17](#c10-v17) y [12, 12](#c12-v12); Judas [5](judas#v5) y notas.
+> Ya un escritor sagrado del Antiguo Testamento había dicho (Sabiduría [10, 15](sabiduria#c10-v15) ss.) que la divina Sabiduría estaba con los judíos en el desierto; ahora bien, esa Sabiduría es el mismo Verbo de Dios» (Fillion). Cf. nuestra introducción al Libro de la Sabiduría; Eclesiástico [4, 15](eclesiastico#c4-v15) y notas. Véase también el v. [17](#c10-v17) y [12, 12](#c12-v12); Judas [5](judas#v5) y notas.
 
 [10, 5](#c10-v5) Cita de Números [14, 16](numeros#c14-v16) y [29](numeros#c14-v29) según los LXX.
 {:#nt-c10-v5}

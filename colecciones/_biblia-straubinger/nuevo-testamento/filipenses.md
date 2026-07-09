@@ -60,7 +60,7 @@ title: Carta del apóstol san Pablo a los Filipenses
 [1, 16](#c1-v16) unos por amor, sabiendo que estoy constituido para la defensa del Evangelio,
 {:#c1-v16}
 
-[1, 17](#c1-v17) mas otros predican a Cristo por emulación, no con recta intención, ya que creen causar tribulación a mis cadenas [[\*\*]](#nt-c1-v17).
+[1, 17](#c1-v17) mas otros predican a Cristo por emulación, no con recta intención, ya que creen añadir tribulación a mis cadenas [[\*\*]](#nt-c1-v17).
 {:#c1-v17}
 
 [1, 18](#c1-v18) ¿Mas qué? De todas maneras, sea con pretexto, sea con verdad, es predicado Cristo. En esto me regocijo y no dejaré de regocijarme.
@@ -360,7 +360,7 @@ title: Carta del apóstol san Pablo a los Filipenses
 [1, 17](#c1-v17) s. La envidia se infiltra aun en las cosas santas y despierta la rivalidad entre los ministros de Dios. Aunque otros se habrían desalentado por ese triste fenómeno. S. Pablo muestra su espíritu sobrenatural prescindiendo de todo lo humano y alegrándose con tal que se predique el Evangelio de Cristo (v. [18](#c1-v18)). Cf. Marcos [9, 38](marcos#c9-v38); Números [11, 29](numeros#c11-v29).
 {:#nt-c1-v17}
 
-[1, 22](#c1-v22) Si me es útil vivir para que muchos se conviertan a Jesucristo, no sé a la verdad qué partido tomar, si el de vivir o el de morir. Para mí sería mucho mejor el morir, porque me uniría con Cristo; mas el permanecer en esta carne mortal es más necesario para vuestra salud y la de todos los fieles. De estas dos cosas desea la una el apóstol ardientemente, y sufre la otra por amor a sus hermanos (S. Tomás). Véase Hebreos [9, 27](hebreos#c9-v27); 2 Corintios [5, 8](2-corintios#c5-v8); 1 Tesalonicenses [5, 10](1-tesalonicenses#c5-v10); 2 Timoteo [4, 6](2-timoteo#c4-v6)-8, de donde se deduce la inmediata visión beatífica de las almas justificadas, aun antes de la resurrección de los cuerpos, como lo definió el Concilio de Florencia.
+[1, 22](#c1-v22) «Si me es útil vivir para que muchos se conviertan a Jesucristo, no sé a la verdad qué partido tomar, si el de vivir o el de morir. Para mí sería mucho mejor el morir, porque me uniría con Cristo; mas el permanecer en esta carne mortal es más necesario para vuestra salud y la de todos los fieles». De estas dos cosas desea la una el apóstol ardientemente, y sufre la otra por amor a sus hermanos (S. Tomás). Véase Hebreos [9, 27](hebreos#c9-v27); 2 Corintios [5, 8](2-corintios#c5-v8); 1 Tesalonicenses [5, 10](1-tesalonicenses#c5-v10); 2 Timoteo [4, 6](2-timoteo#c4-v6)-8, de donde se deduce la inmediata visión beatífica de las almas justificadas, aun antes de la resurrección de los cuerpos, como lo definió el Concilio de Florencia.
 {:#nt-c1-v22}
 
 [1, 25](#c1-v25) Se trata de la primera prisión de S. Pablo que se acercaba a su fin y terminó con la restitución de su libertad.
@@ -501,7 +501,7 @@ Bien sabemos que S. Pablo no obstante su corazón ardiente y lleno de caridad, n
 [4, 4](#c4-v4) S. Pablo proclama la gran excelencia de la *alegría*, la cual en la Vulgata es llamada tesoro inexhausto de santidad (Eclesiástico [30, 23](eclesiastico#c30-v23)). Mas debemos evitar que esa hermosa fuerza de la alegría descienda del espíritu a la carne. ¡Cuántas veces sucede que un banquete para celebrar algo espiritual concluye con la ebriedad que nos bestializa y nos mueve al Pecado! Véase 1 Corintios [11, 17](1-corintios#c11-v17) y nota.
 {:#nt-c4-v4}
 
-[4, 5](#c4-v5) El Señor está cerca, esto es, su segunda venida. Cf. 1 Corintios [7, 29](1-corintios#c7-v29); Hebreos [10, 37](hebreos#c10-v37); Santiago [5, 8](santiago#c5-v8); Apocalipsis [1, 3](apocalipsis#c1-v3); [22, 7](apocalipsis#c22-v7) y [10](apocalipsis#c22-v10).
+[4, 5](#c4-v5) **El Señor está cerca**: esto es, su segunda venida. Cf. 1 Corintios [7, 29](1-corintios#c7-v29); Hebreos [10, 37](hebreos#c10-v37); Santiago [5, 8](santiago#c5-v8); Apocalipsis [1, 3](apocalipsis#c1-v3); [22, 7](apocalipsis#c22-v7) y [10](apocalipsis#c22-v10).
 {:#nt-c4-v5}
 
 [4, 6](#c4-v6) **No os inquietéis**:

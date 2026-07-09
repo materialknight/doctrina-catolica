@@ -491,13 +491,13 @@ La prohibición aquí dada se refiere en primer lugar a la predicación. Por eso
 [3, 15](#c3-v15)
 {:#nt-c3-v15}
 
-> "En el Antiguo Testamento era el templo lo que llevaba ordinariamente el nombre de **Casa de Dios**. Sin embargo, desde el Libro de los Números [12, 7](numeros#c12-v7), esta locución es empleada en sentido figurado para representar la familia espiritual de Yahvé, es decir, su pueblo. Así también aquí. Cf. Hebreos [10, 21](hebreos#c10-v21); 1 Pedro [2, 5](1-pedro#c2-v5); [4, 17](1-pedro#c4-v17).
+> «En el Antiguo Testamento era el templo lo que llevaba ordinariamente el nombre de **Casa de Dios**. Sin embargo, desde el Libro de los Números [12, 7](numeros#c12-v7), esta locución es empleada en sentido figurado para representar la familia espiritual de Yahvé, es decir, su pueblo. Así también aquí. Cf. Hebreos [10, 21](hebreos#c10-v21); 1 Pedro [2, 5](1-pedro#c2-v5); [4, 17](1-pedro#c4-v17).
 >
-> **La Iglesia**: En la acepción más amplia, la asamblea de los fieles de todos los países... Al destacar así la grandeza de la Iglesia, el apóstol insinúa con qué celo deben servirla sus ministros" (Fillion).
+> **La Iglesia**: En la acepción más amplia, la asamblea de los fieles de todos los países... Al destacar así la grandeza de la Iglesia, el apóstol insinúa con qué celo deben servirla sus ministros» (Fillion).
 
 En cuanto a la jerarquía, su sagrada misión consiste ante todo en transmitir fielmente y plenamente a la grey de Cristo las palabras de la Verdad eterna (Mateo [28, 20](mateo#c28-v20); Hechos [3, 22](hechos#c3-v22); Malaquías [2, 7](malaquias#c2-v7) ss.), que S. Pablo llama «el depósito» ([6, 20](#c6-v20) y nota).
 
-> «En efecto, la palabra 'jerarca' viene de *hierarches* = guarda, custodio de un santuario o de cosas sagradas. 'Jerarquía', *Hierarjía* es el oficio de un *hierarjes*, de un 'custodio de cosas sagradas'... La palabra no figura entre los clásicos griegos, pero se la encuentra en inscripciones. Su uso corriente se debe a los escritos de Dionisio Seudo-Areopagita, presumiblemente de la época de Justiniano» (S. Huber).
+> «En efecto, la palabra "jerarca" viene de "*hierarches*" = "guarda", custodio de un santuario o de cosas sagradas. "Jerarquía" (*Hierarjía*) es el oficio de un *hierarjes*, de un "custodio de cosas sagradas"... La palabra no figura entre los clásicos griegos, pero se la encuentra en inscripciones. Su uso corriente se debe a los escritos de Dionisio Seudo-Areopagita, presumiblemente de la época de Justiniano» (S. Huber).
 
 San Pablo insiste en el carácter esencialmente sobrenatural de la función de los *presbíteros* (2 Timoteo [2, 4](2-timoteo#c2-v4) y nota), y Pío XI quiso extenderlo aun a las actividades de la Acción Católica, que son consideradas como participación en el apostolado jerárquico, al alejarlas de toda intervención de orden meramente político o temporal.
 

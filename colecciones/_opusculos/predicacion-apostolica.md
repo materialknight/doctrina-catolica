@@ -322,7 +322,7 @@ Y si la promesa fue del fruto de su seno (a saber, un pimpollo de la concepción
 ## [37](#c37). La encarnación: destrucción de la muerte y don de la vida
 {:#c37}
 
-En tales condiciones, pues, realizaba Dios magníficamente nuestra salvación, mantenía las promesas hechas a los patriarcas y abolía la antigua desobediencia. El Hijo de Dios se hace hijo de David e hijo de Abraham. Para cumplir las promesas y recapitularlas en sí mismo con el fin de restituirnos las vida, el Verbo de Dios se hizo carne por el ministerio de la Virgen, a fin de desatar la muerte y vivificar al hombre, porque nosotros estábamos encadenados por el pecado, y destinados a nacer a través del régimen del pecado y a caer bajo el imperio de la muerte.
+En tales condiciones, pues, realizaba Dios magníficamente nuestra salvación, mantenía las promesas hechas a los patriarcas y abolía la antigua desobediencia. El Hijo de Dios se hace hijo de David e hijo de Abraham. Para cumplir las promesas y recapitularlas en sí mismo con el fin de restituirnos la vida, el Verbo de Dios se hizo carne por el ministerio de la Virgen, a fin de desatar la muerte y vivificar al hombre, porque nosotros estábamos encadenados por el pecado, y destinados a nacer a través del régimen del pecado y a caer bajo el imperio de la muerte.
 
 ## [38](#c38). Nacimiento, muerte y resurrección de Cristo
 {:#c38}

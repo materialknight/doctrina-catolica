@@ -140,7 +140,7 @@ title: Segunda carta de san Pablo a los Corintios
 [2, 14](#c2-v14) Pero gracias a Dios siempre Él nos hace triunfar en Cristo, y por medio de nosotros derrama la fragancia de su conocimiento en todo lugar,
 {:#c2-v14}
 
-[2, 15](#c2-v15) porque somos para Dios buen olor de Cristo, entre los que se salvan, y entre los que se pierden [[\*\*]](#nt-c2-v15);
+[2, 15](#c2-v15) porque somos para Dios buen olor de Cristo, entre los que se salvan y entre los que se pierden [[\*\*]](#nt-c2-v15);
 {:#c2-v15}
 
 [2, 16](#c2-v16) a los unos, olor de muerte para muerte; y a los otros, olor de vida para vida.
@@ -391,13 +391,13 @@ title: Segunda carta de san Pablo a los Corintios
 [6, 15](#c6-v15) ¿Qué concordia entre Cristo y Belial? [[\*\*]](#nt-c6-v15) ¿O qué comunión puede tener el que cree con el que no cree?
 {:#c6-v15}
 
-[6, 16](#c6-v16) ¿Y qué transacción entre el templo de Dios y los ídolos? Pues templo del Dios vivo somos nosotros, según aquello que dijo Dios: "Habitaré en ellos y andaré en medio de ellos; y Yo seré su Dios, y ellos serán mi pueblo [[\*\*]](#nt-c6-v16).
+[6, 16](#c6-v16) ¿Y qué transacción entre el templo de Dios y los ídolos? Pues templo del Dios vivo somos nosotros, según aquello que dijo Dios: «Habitaré en ellos y andaré en medio de ellos; y Yo seré su Dios, y ellos serán mi pueblo [[\*\*]](#nt-c6-v16).
 {:#c6-v16}
 
 [6, 17](#c6-v17) Por lo cual salid de en medio de ellos, y apartaos, dice el Señor, y no toquéis lo inmundo; y Yo os acogeré;
 {:#c6-v17}
 
-[6, 18](#c6-v18) y seré Padre para vosotros, y vosotros seréis para Mí hijos e hijas, dice el Señor Todopoderoso".
+[6, 18](#c6-v18) y seré Padre para vosotros, y vosotros seréis para Mí hijos e hijas, dice el Señor Todopoderoso».
 {:#c6-v18}
 
 ### 2 Corintios [7](#c7) {#c7}
@@ -1073,15 +1073,15 @@ La concreta referencia a nuestros **cuerpos**, que se hace en este versículo, c
 [6, 14](#c6-v14) ss. Para muchos cristianos el trato con los paganos era peligroso. No quedaba otro remedio que huir de la ocasión próxima de pecado. S. Jerónimo cree que S. Pablo prohíbe aquí los matrimonios con los infieles.
 {:#nt-c6-v14}
 
-[6, 15](#c6-v15) **Belial** o **Beliar**: palabra que significa la causa de los malos: nombre de Satanás, príncipe de los demonios.
+[6, 15](#c6-v15) «**Belial**» o «**Beliar**»: palabra que significa la causa de los malos: nombre de Satanás, príncipe de los demonios.
 {:#nt-c6-v15}
 
 [6, 16](#c6-v16) Cita libre de Levítico [26, 12](levitico#c26-v12), hecha en forma análoga; pues, como observa Fillion, se ve aquí un eco de la promesa hecha a Israel en Ezequiel [37, 27](ezequiel#c37-v27) (cf. 2 Samuel [7, 14](2-samuel#c7-v14); Isaías [43, 6](isaias#c43-v6); [52, 11](isaias#c52-v11); Jeremías [31, 9](jeremias#c31-v9); [32, 38](jeremias#c32-v38); [51, 45](jeremias#c51-v45); Ezequiel [20, 34](ezequiel#c20-v34) y [41](ezequiel#c20-v41); Oseas [1, 10](oseas#c1-v10)). Para el cristiano es aún más íntima y ya presente la habitación de Dios en su alma, que debe alejarlo con repugnancia de toda contaminación exterior (1 Corintios [3, 16](1-corintios#c3-v16); [6, 19](1-corintios#c6-v19)).
 {:#nt-c6-v16}
 
-> "Si en vez de mirar a Dios como un objeto exterior a mí, lo considero en mí, hallo ya cumplida y colmada mi oración, pues nunca soñaría yo en llegar a pedirle que habitase en mí y me transformase a la imagen de su Hijo Jesús. Eso es lo que ya ha hecho Él conmigo, y continúa haciéndolo a cada instante por la gracia de su bondad 'a causa del excesivo amor con que nos ama' (Efesios [2, 4](efesios#c2-v4) ss.).
+> «Si en vez de mirar a Dios como un objeto exterior a mí, lo considero en mí, hallo ya cumplida y colmada mi oración, pues nunca soñaría yo en llegar a pedirle que habitase en mí y me transformase a la imagen de su Hijo Jesús. Eso es lo que ya ha hecho Él conmigo, y continúa haciéndolo a cada instante por la gracia de su bondad "a causa del excesivo amor con que nos ama" (Efesios [2, 4](efesios#c2-v4) ss.).
 >
-> Basta esa consideración inicial: 'yo estoy ya divinizado por la gracia', para que inmediatamente el alma entre en la paz, superando por un lado toda inquietud o escrúpulo, y por otro lado evitando con el mayor esfuerzo posible todos los peligros de pecado, y quedando así en el estado de ánimo propicio para crecer en la fe y en el amor. He aquí lo que hemos de recordar especialmente cuando nos sentimos incapaces de orar".
+> Basta esa consideración inicial: "yo estoy ya divinizado por la gracia", para que inmediatamente el alma entre en la paz, superando por un lado toda inquietud o escrúpulo, y por otro lado evitando con el mayor esfuerzo posible todos los peligros de pecado, y quedando así en el estado de ánimo propicio para crecer en la fe y en el amor. He aquí lo que hemos de recordar especialmente cuando nos sentimos incapaces de orar».
 
 [7, 2](#c7-v2) El apóstol, que tanto ama a los corintios, les pide nuevamente amor y confianza.
 {:#nt-c7-v2}
@@ -1113,7 +1113,7 @@ La concreta referencia a nuestros **cuerpos**, que se hace en este versículo, c
 [8, 9](#c8-v9) Notemos que no habla de hacernos ricos por la riqueza del poderoso Redentor, sino ante todo por su pobreza. Nunca quiso Él ser rico, para que nadie pudiese atribuir su predicación al afán de lucro.
 {:#nt-c8-v9}
 
-> «Si los discípulos hubieran tenido riquezas, dice S. Jerónimo, creeríamos que predicaron, no por la salvación de los hombres, sino por aumentar sus haberes».
+> «Si los discípulos hubieran tenido riquezas —dice S. Jerónimo— creeríamos que predicaron, no por la salvación de los hombres, sino por aumentar sus haberes».
 
 [8, 10](#c8-v10) En este caso práctico nos muestra precisamente el apóstol cómo lo que importa es tener siempre la buena disposición en el corazón (Proverbios [4, 23](proverbios#c4-v23) y nota), pues, habiendo esta, la ejecución de las buenas obras vendrá en el momento oportuno, cuando Dios nos muestre su voluntad para que las hagamos, ya que es Él mismo quien las prepara (Efesios [2, 10](efesios#c2-v10)).
 {:#nt-c8-v10}
