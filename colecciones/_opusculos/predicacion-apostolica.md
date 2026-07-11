@@ -40,48 +40,48 @@ Cínicos son los que con doctrinas falsas y perversas no sólo se corrompen a s�
 ## [3](#c3). La Regla de Fe: fundamento de la verdad y de la salvación
 {:#c3}
 
-Así pues, por temor a cosa semejante, nosotros debemos mantener inalterada la Regla de la Fe, y cumplir los mandamientos de Dios creyendo en él, temiéndole como a Señor y amándole como a Padre. Por tanto, un comportamiento de este estilo es una conquista de la fe, pues, como dice Isaías: «Si no creéis no comprenderéis» (Is 7,9); la fe nos es concedida por la verdad, pues la fe se fundamenta en la verdad. De hecho, nosotros creemos lo que realmente es y como es; y creyendo lo que realmente es y como siempre es, mantendremos firme nuestra adhesión.
+Así pues, por temor a cosa semejante, nosotros debemos mantener inalterada la Regla de la Fe, y cumplir los mandamientos de Dios creyendo en Él, temiéndole como a Señor y amándole como a Padre. Por tanto, un comportamiento de este estilo es una conquista de la fe, pues, como dice Isaías: «Si no creéis no comprenderéis» (Is 7,9); la fe nos es concedida por la verdad, pues la fe se fundamenta en la verdad. De hecho, nosotros creemos lo que realmente es y como es; y creyendo lo que realmente es y como siempre es, mantendremos firme nuestra adhesión.
 
 Ahora bien, puesto que la fe sostiene nuestra salvación, es necesario prestarle mucha atención para lograr una auténtica inteligencia de la realidad. La fe es la que nos procura todo eso como nos han transmitido los presbíteros, discípulos de los apóstoles.
 
-En primer lugar, la fe nos invita insistentemente a rememorar que hemos recibido el bautismo para el perdón de los pecados en el nombre de Dios Padre y en el nombre de Jesucristo, Hijo de Dios encarnado, muerto y resucitado, y en el Espíritu Santo de Dios; que el bautismo es el sello de la vida eterna, el nuevo nacimiento de Dios, de tal modo que no seamos ya más hijos de los hombres mortales, sino de Dios eterno e indefectible; que el Eterno e Indefectible es Dios, por encima de todas las creaturas, y que cada cosa, sea de la especie que sea, está sometida a él, y cuanto a él fue sometido fue por él creado. Dios, por lo tanto, no ejerce su poder y soberanía sobre lo que pertenece a otros, sino sobre lo que le es propio. Y todo es de Dios. En efecto, Dios es omnipotente y todo proviene de él.
+En primer lugar, la fe nos invita insistentemente a rememorar que hemos recibido el bautismo para el perdón de los pecados en el nombre de Dios Padre y en el nombre de Jesucristo, Hijo de Dios encarnado, muerto y resucitado, y en el Espíritu Santo de Dios; que el bautismo es el sello de la vida eterna, el nuevo nacimiento de Dios, de tal modo que no seamos ya más hijos de los hombres mortales, sino de Dios eterno e indefectible; que el Eterno e Indefectible es Dios, por encima de todas las creaturas, y que cada cosa, sea de la especie que sea, está sometida a Él, y cuanto a Él fue sometido fue por Él creado. Dios, por lo tanto, no ejerce su poder y soberanía sobre lo que pertenece a otros, sino sobre lo que le es propio. Y todo es de Dios. En efecto, Dios es omnipotente y todo proviene de Él.
 
 ## [4](#c4). Dios creador de todas las cosas
 {:#c4}
 
-Es necesario que las cosas creadas tengan por principio alguna causa grande, y el principio de todo es Dios. Él no tiene origen en otro, antes por el contrario, todo fue creado por él. Es necesario, pues, creer primeramente que hay un Dios, el Padre, el cual lo creó y organizó el conjunto de los seres e hizo existir lo único que no existía, y conteniendo el conjunto de los seres es el único incontenible. Ahora bien, en tal conjunto se halla igualmente este mundo nuestro, y en el mundo, el hombre. También, pues, este mundo fue creado por Dios.
+Es necesario que las cosas creadas tengan por principio alguna causa grande, y el principio de todo es Dios. Él no tiene origen en otro, antes por el contrario, todo fue creado por Él. Es necesario, pues, creer primeramente que hay un Dios, el Padre, el cual lo creó y organizó el conjunto de los seres e hizo existir lo que no existía, y conteniendo el conjunto de los seres es el único incontenible. Ahora bien, en tal conjunto se halla igualmente este mundo nuestro, y en el mundo, el hombre. También, pues, este mundo fue creado por Dios.
 
 ## [5](#c5). Dios crea por medio del Verbo y del Espíritu
 {:#c5}
 
-He aquí la demostración de esta doctrina, y de que hay un solo Dios, Padre, increado, invisible, creador del universo; ni por encima de él ni después de él existe otro Dios; que Dios es racional y por esto todos los seres fueron creados por medio del Verbo; y Dios es Espíritu, y con el Espíritu lo dispuso todo, según dice el profeta: «Por la palabra del Señor fueron establecidos los cielos, y por obra de su Espíritu todas sus potencias» (Sal [32, 6]({{ "biblia-straubinger/salmos#c32-v6" | relative_url }})).
+He aquí la demostración de esta doctrina, y de que hay un solo Dios, Padre, increado, invisible, creador del universo; ni por encima de Él ni después de Él existe otro Dios; que Dios es racional y por esto todos los seres fueron creados por medio del Verbo; y Dios es Espíritu, y con el Espíritu lo dispuso todo, según dice el profeta: «Por la palabra del Señor fueron establecidos los cielos, y por obra de su Espíritu todas sus potencias» (Sal [32, 6]({{ "biblia-straubinger/salmos#c32-v6" | relative_url }})).
 
 Ahora bien, ya que el Verbo establece, es decir, crea y otorga la consistencia a cuanto es, allí donde el Espíritu pone en orden y en forma la múltiple variedad de las potencias, justa y convenientemente el Verbo es denominado Hijo, y el Espíritu, sabiduría de Dios. A este propósito el apóstol Pablo dice: «Un solo Dios Padre, que está por encima de todo, con todo y en todos nosotros» (Ef [4, 6]({{ "biblia-straubinger/efesios#c4-v6" | relative_url }})). Porque «sobre todas las cosas» está el Padre, pero con todo está el Verbo, puesto que por su medio el Padre ha creado el universo; y en todos nosotros está el espíritu que grita «Abbá, Padre» y ha plasmado el hombre a semejanza de Dios.
 
-Así pues, el Espíritu muestra al Verbo; a su vez los profetas anunciaron al Hijo de Dios; mas el Verbo lleva consigo el Espíritu, y así es él mismo quien comunica a los profetas el mensaje y eleva al hombre hasta el Padre.
+Así pues, el Espíritu muestra al Verbo; a su vez los profetas anunciaron al Hijo de Dios; mas el Verbo lleva consigo el Espíritu, y así es Él mismo quien comunica a los profetas el mensaje y eleva al hombre hasta el Padre.
 
 ## [6](#c6). Los tres artículos de la fe: Padre, Hijo y Espíritu Santo
 {:#c6}
 
-He aquí nuestra Regla de Fe, el fundamento del edificio y la base de nuestra conducta: Dios Padre, increado, ilimitado, invisible, único Dios, creador del universo. Éste es el primer y principal artículo. El segundo es: el Verbo de Dios, Hijo de Dios, Jesucristo nuestro Señor, que se ha aparecido a los profetas según el designio de su profecía y según la economía dispuesta por el Padre; por medio de él ha sido creado el universo.
+He aquí nuestra Regla de Fe, el fundamento del edificio y la base de nuestra conducta: Dios Padre, increado, ilimitado, invisible, único Dios, creador del universo. Éste es el primer y principal artículo. El segundo es: el Verbo de Dios, Hijo de Dios, Jesucristo nuestro Señor, que se ha aparecido a los profetas según el designio de su profecía y según la economía dispuesta por el Padre; por medio de Él ha sido creado el universo.
 
 Además, al final de los tiempos, y para recapitular todas las cosas, Dios se hizo hombre entre los hombres, visible y tangible, para destruir la muerte, para manifestar la vida y para restablecer la comunión entre Dios y el hombre.
 
-Y como tercer artículo: el Espíritu Santo, por cuyo poder los profetas han profetizado, y los padres han sido instruidos en lo que concierne a Dios, y los justos han sido guiados por el camino de la justicia, al fin de los tiempos ha sido difundido de un modo nuevo sobre la humanidad, por toda la tierra, renovando al hombre para Dios.
+Y como tercer artículo: el Espíritu Santo, por cuyo poder los profetas han profetizado, y los Padres han sido instruidos en lo que concierne a Dios, y los justos han sido guiados por el camino de la justicia, al fin de los tiempos ha sido difundido de un modo nuevo sobre la humanidad, por toda la tierra, renovando al hombre para Dios.
 
 ## [7](#c7). El bautismo, nuevo nacimiento en Dios
 {:#c7}
 
-Por  eso el bautismo, nuestro nuevo nacimiento, tiene lugar por estos tres artículos, y nos concede renacer a Dios Padre por medio de su Hijo en el Espíritu Santo. Porque los portadores del Espíritu de Dios son conducidos al Verbo, esto es, al Hijo, que es quien los acoge y los presenta al Padre, y el Padre les regala la incorruptibilidad.
+Por eso el bautismo, nuestro nuevo nacimiento, tiene lugar por estos tres artículos, y nos concede renacer a Dios Padre por medio de su Hijo en el Espíritu Santo. Porque los portadores del Espíritu de Dios son conducidos al Verbo, esto es, al Hijo, que es quien los acoge y los presenta al Padre, y el Padre les regala la incorruptibilidad.
 
-Sin el Espíritu Santo es imposible, pues, ver al Verbo de Dios, y sin el Hijo nadie puede acercarse al Padre, porque el Hijo es el conocimiento del Padre y el conocimiento del Hijo se obtiene por medio del Espíritu Santo. Pero el Hijo, según la bondad del Padre, dispensa como ministro al Espíritu Santo a quien quiere y como el padre quiere.
+Sin el Espíritu Santo es imposible, pues, ver al Verbo de Dios, y sin el Hijo nadie puede acercarse al Padre, porque el Hijo es el conocimiento del Padre y el conocimiento del Hijo se obtiene por medio del Espíritu Santo. Pero el Hijo, según la bondad del Padre, dispensa como ministro al Espíritu Santo a quien quiere y como el Padre quiere.
 
 ## [8](#c8). Dios Padre bondadoso y justo
 {:#c8}
 
-Si el padre es denominado, por el Espíritu Santo, Altísimo, Omnipotente y Señor de las potencias, es para que lleguemos a conocer a Dios. Es decir, al creador del cielo y de la tierra y de todo el universo, al Creador de los ángeles y de los hombres y Señor de todos, por medio del cual todo existe y permanece en vida, misericordioso, compasivo, tiernísimo, bueno, justo.
+Si el Padre es denominado por el Espíritu Santo como Altísimo, Omnipotente y Señor de las potencias, es para que lleguemos a conocer a Dios. Es decir, al creador del cielo y de la tierra y de todo el universo, al Creador de los ángeles y de los hombres y Señor de todos, por medio del cual todo existe y permanece en vida, misericordioso, compasivo, tiernísimo, bueno, justo.
 
-Dios es el Dios de todos, de los judíos, de los gentiles y de los creyentes. Pero de los creyentes es Dios Padre, pues al fin de los tiempos abrió él el testamento de la adopción filial; sin embargo para los judíos es Señor y legislador porque cuando aquellos hombres, en los tiempos medios, olvidaron a Dios alejándose y rebelándose contra él, los recondujo a la obediencia mediante la ley para que cayeran en la cuenta que tenían un Señor que es autor, creador y que da el soplo de vida, al cual debemos prestar culto día y noche; y para los gentiles es creador, demiurgo y omnipotente.
+Dios es el Dios de todos, de los judíos, de los gentiles y de los creyentes. Pero de los creyentes es Dios Padre, pues al fin de los tiempos abrió Él el testamento de la adopción filial; sin embargo para los judíos es Señor y legislador porque cuando aquellos hombres, en los tiempos medios, olvidaron a Dios alejándose y rebelándose contra Él, los recondujo a la obediencia mediante la ley para que cayeran en la cuenta que tenían un Señor que es autor, creador y que da el soplo de vida, al cual debemos prestar culto día y noche; y para los gentiles es creador, demiurgo y omnipotente.
 
 Para todos, sin excepción, es dador de alimento y manjar, rey y juez, porque nadie escapará a su juicio, ni judío, ni gentil ni ningún creyente que haya pecado y ni siquiera un ángel. Aquellos que en el presente se nieguen a creer en su bondad, experimentarán en el juicio su poder, como dice el santo apóstol: «No reconociendo que la bondad de Dios te está empujando a la enmienda, antes por el contrario, con la dureza y la impenitencia de tu corazón te estás almacenando la ira para el día de la ira cuando se revelará el justo juicio de Dios que pagará a cada uno según sus obras» (Rm [2, 4]({{ "biblia-straubinger/romanos#c2-v4" | relative_url }})-6).
 
@@ -92,7 +92,7 @@ Para todos, sin excepción, es dador de alimento y manjar, rey y juez, porque na
 
 Este mundo hálláse rodeado de siete cielos, en los cuales habitan innumerables potencias, ángeles y arcángeles, que aseguran un culto a Dios todopoderoso y creador del universo. No porque tenga necesidad de ellos, sino para que no estén al menos sin hacer nada e inútiles y malditos.
 
-Por eso es múltiple la presencia interior del Espíritu de Dios, y el profeta Isaías la enumera en siete formas de ministerio, que han descansado en el Hijo de Dios, a saber, el Verbo en su venida humana. En efecto, dice: «Sobre él se posará el Espíritu de Dios, espíritu de sabiduría e inteligencia, espíritu de consejo y de fortaleza, espíritu de ciencia y de piedad; le conquistará el espíritu del temor de Dios» (Is 11,2-3).
+Por eso es múltiple la presencia interior del Espíritu de Dios, y el profeta Isaías la enumera en siete formas de ministerio, que han descansado en el Hijo de Dios, a saber, el Verbo en su venida humana. En efecto, dice: «Sobre Él se posará el Espíritu de Dios, espíritu de sabiduría e inteligencia, espíritu de consejo y de fortaleza, espíritu de ciencia y de piedad; le conquistará el espíritu del temor de Dios» (Is 11,2-3).
 
 El primer cielo, a partir de lo alto (que contiene a los restantes), es la sabiduría; el segundo es la inteligencia; el tercero es el consejo; el cuarto, en línea descendente, es la fortaleza; el quinto es la ciencia; el sexto es la piedad; el séptimo, que corresponde a nuestro firmamento, está repleto del temor de este Espíritu que ilumina a los cielos.
 
@@ -122,9 +122,9 @@ El jardín era tan bello y agradable que el Verbo de Dios se personaba con frecu
 ## [13](#c13). La creación de Eva
 {:#c13}
 
-Entonces Dios hizo comparecer ante su presencia de Adán, que estaba paseando por el jardín junto al resto de animales y le dio orden de imponerles nombres a cada uno. Y a él le denominó Adán, como primer ser viviente. Decidió, así mismo, crear una ayuda al hombre, diciendo: «No es bueno que el hombre esté solo, voy a hacerle el auxiliar que le corresponde» (Gn [2, 18]({{ "biblia-straubinger/genesis#c2-v18" | relative_url }})).
+Entonces Dios hizo comparecer ante la presencia de Adán, que estaba paseando por el jardín, a todos los animales, y le dio orden de imponerles nombre a cada uno. Y a él le denominó Adán, como primer ser viviente. Decidió, así mismo, crear una ayuda al hombre, diciendo: «No es bueno que el hombre esté solo, voy a hacerle el auxiliar que le corresponde» (Gn [2, 18]({{ "biblia-straubinger/genesis#c2-v18" | relative_url }})).
 
-Entre todos los vivientes no fue hallada una ayuda igual, parangonable y similar a Adán. Entonces Dios mismo inspiró un éxtasis a Adán, y le adormeció. Como el sueño no existía en el jardín, fue inspirado sobre Adán por voluntad de Dios, para realizar una obra a partir de otra obra. Tomó entonces una costilla de Adán, llenó de carne el vacío creado, y con la costilla extraída hizo a la mujer y así la presentó a Adán. Éste, nada más verla, exclamó: «¡Ésta si que es hueso de mis huesos y carne de mi carne. Su nombre será hembra, porque la han sacado de su hombre!» (Gn [2, 23]({{ "biblia-straubinger/genesis#c2-v23" | relative_url }})).
+Entre todos los vivientes no fue hallada una ayuda igual, parangonable y similar a Adán. Entonces Dios mismo inspiró un éxtasis a Adán, y le adormeció. Como el sueño no existía en el jardín, fue inspirado sobre Adán por voluntad de Dios, para realizar una obra a partir de otra obra. Tomó entonces una costilla de Adán, llenó de carne el vacío creado, y con la costilla extraída hizo a la mujer y así la presentó a Adán. Éste, nada más verla, exclamó: «¡Ésta sí que es hueso de mis huesos y carne de mi carne. Su nombre será hembra, porque la han sacado de su hombre!» (Gn [2, 23]({{ "biblia-straubinger/genesis#c2-v23" | relative_url }})).
 
 ## [14](#c14). Adán y Eva en perfecta armonía
 {:#c14}
@@ -170,14 +170,14 @@ Los ángeles malignos, entonces, dieron a sus esposas malignas enseñanzas. Les 
 
 Finalmente, cuando vino sobre el mundo el justo juicio de Dios con el diluvio en la décima generación, contando desde el primer hombre, únicamente Noé fue encontrado justo y, gracias a su propia justicia, fue salvado con su mujer, sus tres hijos y sus mujeres, encerrados en el arca con los animales que Dios había ordenado a Noé introducir en el arca.
 
-Cuando la destrucción se cernía sobre toda la tierra, sobre hombres y seres vivientes, se salvaron solamente los que estaban en el arca. Los tres hijos de Noé eran Sem, Cam y jafet, y su estirpe volvió a multiplicarse de nuevo. Éstos son el origen de todos los nacidos después del diluvio.
+Cuando la destrucción se cernía sobre toda la tierra, sobre hombres y seres vivientes, se salvaron solamente los que estaban en el arca. Los tres hijos de Noé eran Sem, Cam y Jafet, y su estirpe volvió a multiplicarse de nuevo. Éstos son el origen de todos los nacidos después del diluvio.
 
 ## [20](#c20). Las bendiciones y las maldiciones en la familia de Noé
 {:#c20}
 
-De entre los hijos de Noé, uno cayó en maldición, mientras que los dos restantes recibieron la bendición pos sus obras. Pues el más joven de entre ellos, llamado Cam, por haberse reído de su padre y haber sido condenado por pecado de impiedad a causa de ultraje e ignominia para con su padre, atrájose una maldición que le trasmitió a toda su descendencia. Resultó por ello que toda la raza que le siguió fue maldita y en este pecado creció y se multiplicó.
+De entre los hijos de Noé, uno cayó en maldición, mientras que los dos restantes recibieron la bendición por sus obras. Pues el más joven de entre ellos, llamado Cam, por haberse reído de su padre y haber sido condenado por pecado de impiedad a causa de ultraje e ignominia para con su padre, atrájose una maldición que le trasmitió a toda su descendencia. Resultó por ello que toda la raza que le siguió fue maldita y en este pecado creció y se multiplicó.
 
-En cambio, Sem y Jafet, sus hermanos, por razón de su piedad con el padre, obtuvieron una bendición. He aquí los términos de la maldición lanzada por Noé sobre Cam: «Maldito sea el joven Cam. Sea el siervo de su hermanos» (Gn [9, 25]({{ "biblia-straubinger/genesis#c9-v25" | relative_url }})). Cuando alcanzó la edad adulta, tuvo sobre la tierra un posteridad numerosa como una floresta, desarrollándose por catorce generaciones de descendientes, hasta que, tras haber sido condenada, fue sesgada por Dios.
+En cambio, Sem y Jafet, sus hermanos, por razón de su piedad con el padre, obtuvieron una bendición. He aquí los términos de la maldición lanzada por Noé sobre Cam: «Maldito sea el joven Cam. Sea el siervo de su hermanos» (Gn [9, 25]({{ "biblia-straubinger/genesis#c9-v25" | relative_url }})). Cuando alcanzó la edad adulta, tuvo sobre la tierra una posteridad numerosa como una floresta, desarrollándose por catorce generaciones de descendientes, hasta que, tras haber sido condenada, fue segada por Dios.
 
 De hecho, los cananeos, los jeteos, los fereceos, los jeveos, los amorreos, los jebuseos, los gergeseos, los sodomitas, los árabes, los habitantes de Fenicia, todos los egipcios y los libios descienden de Cam y cayeron bajo la maldición, la cual se extendió ampliamente sobre los impíos.
 
@@ -242,7 +242,7 @@ Allí colocó los vasos, los altares y el arca en la que introdujo las tablas. C
 ## [27](#c27). La peregrinación por el desierto, y exploración de la Tierra Prometida
 {:#c27}
 
-Cuando estaban cerca de la tierra prometida por Dios a Abraham y a su posteridad, Moisés escogió a un hombre de cada tribu y les envió a explorar aquella tierra, las ciudades y sus habitantes. Entonces fue cuando Dios le reveló su único nombre, el único capaz de salvar a los que en él creyeran.
+Cuando estaban cerca de la tierra prometida por Dios a Abraham y a su posteridad, Moisés escogió a un hombre de cada tribu y les envió a explorar aquella tierra, las ciudades y sus habitantes. Entonces fue cuando Dios le reveló su único nombre, el único capaz de salvar a los que en Él creyeran.
 
 Moisés cambió el nombre a Oseas, hijo de Navé, uno de los exploradores, y le puso por nombre Jesús. Y Moisés les envió junto con el poder de aquel nombre, persuadido de que los acogería incólumes a su vuelta, por haber sido conducidos por aquel nombre. Lo que, en efecto, ocurrió.
 
@@ -287,7 +287,7 @@ Y porque, envueltos todos en la creación originaria de Adán, hemos sido vincul
 
 Ahora bien, ¿de dónde proviene la esencia de la primera creatura? De la voluntad y de la Sabiduría de Dios y de la tierra virgen. Porque, como dice la Escritura, «Dios aún no había enviado lluvia a la tierra antes de que el hombre fuese plasmado y antes de que el hombre estuviese allí para cultivar la tierra» (Gn [2, 5]({{ "biblia-straubinger/genesis#c2-v5" | relative_url }})). De esta tierra, pues, todavía virgen, Dios tomó barro y plasmó al hombre, principio del género humano.
 
-Para dar cumplimiento a este hombre, pues, asumió el Señor la misma disposición suya de corporeidad, que nació de una Virgen por la voluntad y por la sabiduría de Dios, para manifestar también él la identidad de su corporeidad con la de Adán, y para que se cumpliese lo que en el principio se había escrito: el hombre a imagen y semejanza de Dios.
+Para dar cumplimiento a este hombre, pues, asumió el Señor la misma disposición suya de corporeidad, que nació de una Virgen por la voluntad y por la sabiduría de Dios, para manifestar también Él la identidad de su corporeidad con la de Adán, y para que se cumpliese lo que en el principio se había escrito: el hombre a imagen y semejanza de Dios.
 
 ## [33](#c33). Eva y María
 {:#c33}
@@ -301,14 +301,14 @@ Y que Eva fuese recapitulada en María, a fin de que una Virgen, venida a ser ab
 
 El Verbo, preanunciando por medio del profeta Isaías los acontecimientos futuros (son profetas porque anuncian lo que va a suceder), se expresa así: «Yo no me rebelo ni contradigo. He ofrecido mis espaldas a los azotes y mis mejillas a las bofetadas; no hurtaré mi rostro a la afrenta de los esputos» (Is 50,5-6).
 
-Así pues, por la obediencia a que se sometió hasta la muerte, pendiente del madero, destruyó la desobediencia antigua cometida en el árbol. Y como el Verbo mismo omnipotente de Dios, en su condición invisible, está entre nosotros extendido por todo este universo visible y abraza su largura y su anchura y su altura y su hondura (pues por medio del Verbo de Dios fueron dispuestas y gobernadas aquí todas las cosas), la crucifixión visible del Hijo de Dios tuvo también lugar en esas dimensiones, anticipadas invisiblemente en la forma de cruz trazada por él en el universo.
+Así pues, por la obediencia a que se sometió hasta la muerte, pendiente del madero, destruyó la desobediencia antigua cometida en el árbol. Y como el Verbo mismo omnipotente de Dios, en su condición invisible, está entre nosotros extendido por todo este universo visible y abraza su largura y su anchura y su altura y su hondura (pues por medio del Verbo de Dios fueron dispuestas y gobernadas aquí todas las cosas), la crucifixión visible del Hijo de Dios tuvo también lugar en esas dimensiones, anticipadas invisiblemente en la forma de cruz trazada por Él en el universo.
 
-Al hacerse visible, en efecto, debió de hacer manifiesta la participación de este universo sensible en su crucifixión invisible, a fin de revelar, merced a su forma visible, su acción misteriosa y oculta sobre lo visible. A saber, cómo es él quien ilumina la altura (es decir, lo celeste), contiene la hondura (las regiones subterráneas), se extiende desde el Oriente hasta el Ocaso, gobierna la región Norte y la anchura del Mediodía, y convoca de todas partes al conocimiento del Padre a los dispersos.
+Al hacerse visible, en efecto, debió de hacer manifiesta la participación de este universo sensible en su crucifixión invisible, a fin de revelar, merced a su forma visible, su acción misteriosa y oculta sobre lo visible. A saber, cómo es Él quien ilumina la altura (es decir, lo celeste), contiene la hondura (las regiones subterráneas), se extiende desde el Oriente hasta el Ocaso, gobierna la región Norte y la anchura del Mediodía, y convoca de todas partes al conocimiento del Padre a los dispersos.
 
 ## [35](#c35). El cumplimiento de la promesa de Abraham
 {:#c35}
 
-Se realizó así la promesa hecha por Dios a Abraham, según la cual su descendencia sería como las estrellas del cielo. Cristo cumplió la promesa naciendo de la Virgen, de la estirpe de Abraham, y convirtiendo en luminarias del mundo a los creyentes en él y justificando a los gentiles con Abraham por medio de la misma fe. «Abraham creyó al Señor y le fue reputado por justicia» (Gn [15, 6]({{ "biblia-straubinger/genesis#c15-v6" | relative_url }})).
+Se realizó así la promesa hecha por Dios a Abraham, según la cual su descendencia sería como las estrellas del cielo. Cristo cumplió la promesa naciendo de la Virgen, de la estirpe de Abraham, y convirtiendo en luminarias del mundo a los creyentes en Él y justificando a los gentiles con Abraham por medio de la misma fe. «Abraham creyó al Señor y le fue reputado por justicia» (Gn [15, 6]({{ "biblia-straubinger/genesis#c15-v6" | relative_url }})).
 
 Del mismo modo, también nosotros somos justificados en virtud de la fe en Dios, porque «el justo vivirá por la fe». La promesa de Abraham no fue hecha por el cumplimiento de la ley sino por medio de la fe. De hecho, Abraham fue justificado por la fe: «la ley no fue establecida para el justo» (1 Tm [1, 9]({{ "biblia-straubinger/1-timoteo#c1-v9" | relative_url }}))). De igual forma, también nosotros no somos justificados por la ley sino por la fe, que ha recibido el testimonio de la ley y los profetas y que nos presenta el Verbo de Dios.
 
@@ -329,7 +329,7 @@ En tales condiciones, pues, realizaba Dios magníficamente nuestra salvación, m
 
 Dios Padre, por su inmensa misericordia, envió a su Verbo creador, el cual, venido para salvarnos, estuvo en los mismos lugares, en la misma situación y en los ambientes donde nosotros hemos perdido la vida. Y rompió las cadenas que nos tenían prisioneros. Apareció su luz e hizo desaparecer las tinieblas de la prisión y santificó nuestro nacimiento y abolió la muerte, desligando aquellos mismos lazos en que nos habían encadenado.
 
-Dios manifestó la resurrección haciéndose él en persona primogénito de los muertos. Levantó en su persona al hombre caído por tierra, al ser elevado a él a las alturas del cielo hasta la diestra de la gloria del Padre, como había Dios prometido por medio del profeta al decir: «Levantaré la tienda de David, caída en la tierra» (Am 9,11). Es decir, el cuerpo que proviene de David.
+Dios manifestó la resurrección haciéndose Él en persona primogénito de los muertos. Levantó en su persona al hombre caído por tierra, al ser elevado a Él a las alturas del cielo hasta la diestra de la gloria del Padre, como había Dios prometido por medio del profeta al decir: «Levantaré la tienda de David, caída en la tierra» (Am 9,11). Es decir, el cuerpo que proviene de David.
 
 Nuestro Señor Jesucristo cumplió realmente esto actuando gloriosamente nuestra salvación, a fin de resucitarnos de veras y presentarnos libres al Padre. Y si alguien no acepta su nacimiento de una virgen, ¿cómo va a admitir su resurrección de entre los muertos? Porque nada tiene de milagroso, extraño e inesperado, que resucite de entre los muertos el que no nació; ni siquiera podemos hablar de resurrección para el que vino a la existencia sin nacimiento.
 
@@ -345,14 +345,14 @@ Según eso, los que niegan al hombre la redención y no creen que Dios le resuci
 ## [40](#c40). La continua llamada del Verbo
 {:#c40}
 
-Así pues, el Verbo de Dios ostenta el primado sobre todas las cosas, porque es verdadero hombre y «admirable consejero y Dios fuerte» (Is 9,6), que llama de nuevo con la resurrección al hombre a la comunión con Dios para que por medio de la comunión con él participemos en la incorruptibilidad.
+Así pues, el Verbo de Dios ostenta el primado sobre todas las cosas, porque es verdadero hombre y «admirable consejero y Dios fuerte» (Is 9,6), que llama de nuevo con la resurrección al hombre a la comunión con Dios para que por medio de la comunión con Él participemos en la incorruptibilidad.
 
 El que es anunciado por Moisés y por los profetas del Dios altísimo y omnipotente, Padre del universo y origen de todo, vino a Judea, engendrado por Dios por medio del Espíritu Santo, y nacido de la Virgen María, que era de la estirpe de David y de Abraham. Así vino Jesús, el Ungido de Dios, el que se reveló a sí mismo como el que había sido predicho por los profetas.
 
 ## [41](#c41). La Iglesia comunica el espíritu de salvación por medio del bautismo
 {:#c41}
 
-Juan el bautista, el precursor, cuando preparaba y disponía al pueblo para recibir el Verbo de la vida, hizo saber que éste era el Cristo sobre quien el Espíritu de Dios había descansado unido con su carne. Los discípulos y testigos de todas sus buenas obras, de su enseñanza, de su pasión, de su muerte, de su resurrección, de la ascensión al cielo después  de la resurrección corporal, es decir los apóstoles, con el poder del Espíritu Santo, enviados por él por toda la tierra, convocaron a los gentiles, enseñando a los hombres el camino de la vida para apartarlos de los ídolos, de la fornicación y de la avaricia, purificando sus almas y sus cuerpos con el bautismo de agua y de Espíritu Santo, distribuyendo y suministrando a los creyentes este Espíritu Santo que habían recibido del Señor. Así instituyeron y fundaron esta iglesia.
+Juan el bautista, el precursor, cuando preparaba y disponía al pueblo para recibir el Verbo de la vida, hizo saber que éste era el Cristo sobre quien el Espíritu de Dios había descansado unido con su carne. Los discípulos y testigos de todas sus buenas obras, de su enseñanza, de su pasión, de su muerte, de su resurrección, de la ascensión al cielo después  de la resurrección corporal, es decir los apóstoles, con el poder del Espíritu Santo, enviados por Él por toda la tierra, convocaron a los gentiles, enseñando a los hombres el camino de la vida para apartarlos de los ídolos, de la fornicación y de la avaricia, purificando sus almas y sus cuerpos con el bautismo de agua y de Espíritu Santo, distribuyendo y suministrando a los creyentes este Espíritu Santo que habían recibido del Señor. Así instituyeron y fundaron esta iglesia.
 
 Con la fe, la caridad y la esperanza confirmaron la llamada a los gentiles que, preanunciada por los los profetas, les fue dirigida según la misericordia de Dios manifestada con su ministerio, acogiéndoles en la promesa hecha a los patriarcas, es decir, a aquellos que creyeron y amaron a Dios; y a los que viven en su santidad, la justicia y la paciencia, el Dios de todos otorgará, por medio de la resurrección de los muertos, la vida eterna; gracias a aquel que murió y resucitó, Jesucristo, al cual confió la realeza sobre todos los seres de la tierra, la autoridad sobre los vivos y los muertos, y el juicio. Los apóstoles, con la palabra de verdad, exhortaron a los gentiles a guardar su cuerpo sin mancilla en orden a la resurrección y su alma al abrigo de la corrupción.
 
@@ -368,36 +368,36 @@ Que estas cosas hubieran de ocurrir, lo predijo el Espíritu Santo por medio de 
 ## [43](#c43). Identidad entre el Verbo y el Hijo de Dios
 {:#c43}
 
-A Dios se le debe creer todo, porque es veraz en todo. Y creer que un hijo existía en Dios y que existía no sólo antes de su aparición en el mundo sino también antes de que el mundo fuese creado. Y Moisés fue el primero en profetizarlo cuando escribió en hebreo: Beresit bara Elohim basan benowam sament'ares. Lo cual, traducido significa: «Un Hijo en el principio estableció Dios, luego estableció el cielo y la tierra».
+A Dios se le debe creer todo, porque es veraz en todo. Y creer que un hijo existía en Dios y que existía no sólo antes de su aparición en el mundo sino también antes de que el mundo fuese creado. Y Moisés fue el primero en profetizarlo cuando escribió en hebreo: «*Beresit bara Elohim basan benowam sament'ares*». Lo cual, traducido significa: «Un Hijo en el principio estableció Dios, luego estableció el cielo y la tierra».
 
 El profeta Jeremías lo testimonió cuando dice: «Antes de  la estrella matutina te he engendrado, y antes del sol es tu nombre». Es decir, antes de la creación del mundo y antes de las estrellas creadas con el mundo. Y también cuando dijo: «Dichoso aquel que existía antes de ser hombre». Pues para Dios, el Hijo fue el principio antes de la creación del mundo, pero para nosotros no existe más que desde ahora (es decir, desde cuando se ha manifestado).
 
-Antes, pues, no existía para nosotros porque no lo conocíamos. Por esto su discípulo Juan, explicándonos quien es el Hijo de Dios que estaba junto al Padre antes de que el mundo fuese formado, y que por su mediación todo fue creado, dice: «Al principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios. Él estaba al principio en Dios. Todas las cosas fueron hechas por él, y sin él, no se hizo nada de cuanto ha sido hecho» (Jn 1,1-3). De esta forma demuestra claramente Juan que todas las cosas han sido creadas por medio de este Verbo, el cual desde el principio estaba con el Padre, es decir, su Hijo.
+Antes, pues, no existía para nosotros porque no lo conocíamos. Por esto su discípulo Juan, explicándonos quien es el Hijo de Dios que estaba junto al Padre antes de que el mundo fuese formado, y que por su mediación todo fue creado, dice: «Al principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios. Él estaba al principio en Dios. Todas las cosas fueron hechas por Él, y sin Él, no se hizo nada de cuanto ha sido hecho» (Jn 1, 1-3). De esta forma demuestra claramente Juan que todas las cosas han sido creadas por medio de este Verbo, el cual desde el principio estaba con el Padre, es decir, su Hijo.
 
 ## [44](#c44). El Hijo de Dios conversa con Abraham
 {:#c44}
 
-Dice también Moisés que el Hijo de Dios se acercó a Abraham para conversar con él, y que «Dios se apareció junto al encinar de Mambré, al mediodía. Y alzando la vista vio a tres hombres de pie frente a él, se postró en tierra diciendo: Si realmente he hallado gracia a tus ojos» (Gn [18, 1]({{ "biblia-straubinger/genesis#c18-v1" | relative_url }})-3). Y a continuación lo que él dijo al Señor y el Señor a él. Ahora bien, dos de los tres eran ángeles, pero el tercero era el Hijo de Dios.
+Dice también Moisés que el Hijo de Dios se acercó a Abraham para conversar con Él, y que «Dios se apareció junto al encinar de Mambré, al mediodía. Y alzando la vista vio a tres hombres de pie frente a él, se postró en tierra diciendo: Si realmente he hallado gracia a tus ojos» (Gn [18, 1]({{ "biblia-straubinger/genesis#c18-v1" | relative_url }})-3). Y a continuación lo que él dijo al Señor y el Señor a él. Ahora bien, dos de los tres eran ángeles, pero el tercero era el Hijo de Dios.
 
-Con él también habló Abraham, suplicándole por los habitantes de Sodoma, para que no fuesen exterminados si al menos se encontraban allí diez justos. Mientras discurrían así sobre esto, los dos ángeles que bajaron a Sodoma fueron recibidos por Lot. A este respecto dice la Escritura: «El Señor hizo llover azufre y fuego provenientes del Señor, desde lo alto del cielo, sobre Sodoma y Gomorra» (Gn [19, 24]({{ "biblia-straubinger/genesis#c19-v24" | relative_url }})). Quiere decir que el Hijo, aquel mismo que conversaba con Abraham, siendo Señor, había recibido el poder de castigar a los habitantes de Sodoma «del Señor desde lo alto del cielo», del Padre, que es Señor del universo.
+Con Él también habló Abraham, suplicándole por los habitantes de Sodoma, para que no fuesen exterminados si al menos se encontraban allí diez justos. Mientras discurrían así sobre esto, los dos ángeles que bajaron a Sodoma fueron recibidos por Lot. A este respecto dice la Escritura: «El Señor hizo llover azufre y fuego provenientes del Señor, desde lo alto del cielo, sobre Sodoma y Gomorra» (Gn [19, 24]({{ "biblia-straubinger/genesis#c19-v24" | relative_url }})). Quiere decir que el Hijo, aquel mismo que conversaba con Abraham, siendo Señor, había recibido el poder de castigar a los habitantes de Sodoma «del Señor desde lo alto del cielo», del Padre, que es Señor del universo.
 
 Abraham, pues, era profeta, y vio cuánto había de suceder en el futuro. Sobre todo cómo el Hijo de Dios, bajo humanas formas, conversaría con los hombres, comería con ellos, y luego ejercitaría el oficio de juez, por el hecho de haber recibido del Padre, Señor del universo, la autoridad para castigar a los habitantes de Sodoma.
 
 ## [45](#c45). Jacob contempla el Verbo
 {:#c45}
 
-También Jacob, cuando viajó a Mesopotamia, vio al Hijo de Dios en sueños, de pie en lo alto de la escalera. Es decir, en el madero que estaba fijo de la tierra al cielo, pues por este madero los que creen en él ascienden al cielo, porque su pasión es nuestra ascensión. Todas las visiones de este género significan al Hijo de Dios que conversa con los hombres y está en medio de ellos.
+También Jacob, cuando viajó a Mesopotamia, vio al Hijo de Dios en sueños, de pie en lo alto de la escalera. Es decir, en el madero que estaba fijo de la tierra al cielo, pues por este madero los que creen en Él ascienden al cielo, porque su pasión es nuestra ascensión. Todas las visiones de este género significan al Hijo de Dios que conversa con los hombres y está en medio de ellos.
 
-Ciertamente, no es el Padre del universo, invisible al mundo y creador de todo, quien dice: «El cielo es mi trono, y la tierra el estrado de mis pies; ¿qué casa vais a edificarme o qué lugar para mi descanso?» (Is 66,1-2; Hch [7, 49]({{ "biblia-straubinger/hechos#c7-v49" | relative_url }})), y, «¿quién sostiene la tierra en un puño y el cielo en la palma de la mano?» (Is 40,12). No era ciertamente él el que estaba de pie en un pequeño espacio y conversaba con Abraham, sino el Verbo de Dios que, siempre presente en medio del género humano, nos daba a conocer anticipadamente lo que había de suceder e instruía a los hombres sobre las cosas de Dios.
+Ciertamente, no es el Padre del universo, invisible al mundo y creador de todo, quien dice: «El cielo es mi trono, y la tierra el estrado de mis pies; ¿qué casa vais a edificarme o qué lugar para mi descanso?» (Is 66,1-2; Hch [7, 49]({{ "biblia-straubinger/hechos#c7-v49" | relative_url }})), y, «¿quién sostiene la tierra en un puño y el cielo en la palma de la mano?» (Is 40,12). No era ciertamente Él el que estaba de pie en un pequeño espacio y conversaba con Abraham, sino el Verbo de Dios que, siempre presente en medio del género humano, nos daba a conocer anticipadamente lo que había de suceder e instruía a los hombres sobre las cosas de Dios.
 
 ## [46](#c46). El Hijo de Dios conversa con Moisés
 {:#c46}
 
 Fue también el Hijo de Dios quien, en la zarza ardiente, conversó con Moisés y dijo: «He visto los sufrimientos de mi pueblo en Egipto y he bajado para liberarlo» (Ex 3,7-8). Él subía y bajaba para liberar a los oprimidos arrancándonos del poder de los egipcios, es decir, de toda clase de idolatría e impiedad; salvándonos del mar Rojo. Es decir, liberándonos de las turbulencias homicidas de los gentiles, y de las aguas amargas de sus blasfemias.
 
-Estos acontecimientos eran continua repetición de lo que a nosotros se refiere, en el sentido que el Verbo de Dios mostraba entonces anticipadamente en tipo las cosas futuras, mientras ahora nos arranca de veras de la servidumbre cruel de los gentiles. En el desierto hizo brotar con abundancia un río de agua (él mismo) de una roca, y produjo doce fuentes (esto es, la doctrina de los doce apóstoles).
+Estos acontecimientos eran continua repetición de lo que a nosotros se refiere, en el sentido que el Verbo de Dios mostraba entonces anticipadamente en tipo las cosas futuras, mientras ahora nos arranca de veras de la servidumbre cruel de los gentiles. En el desierto hizo brotar con abundancia un río de agua (Él mismo) de una roca, y produjo doce fuentes (esto es, la doctrina de los doce apóstoles).
 
-A los recalcitrantes e incrédulos los hizo el Hijo de Dios morir y desaparecer en el desierto. Y a los que creían en él, hechos niños por la malicia, los introdujo en la herencia de los Padres que recibió y distribuyó no Moisés sino Jesús; todavía más, nos ha liberado de Amalec extendiendo sus manos, y nos condujo e hizo subir al reino del Padre.
+A los recalcitrantes e incrédulos los hizo el Hijo de Dios morir y desaparecer en el desierto. Y a los que creían en Él, hechos niños por la malicia, los introdujo en la herencia de los Padres que recibió y distribuyó no Moisés sino Jesús; todavía más, nos ha liberado de Amalec extendiendo sus manos, y nos condujo e hizo subir al reino del Padre.
 
 ## [47](#c47). La unción del Verbo
 {:#c47}
@@ -429,64 +429,64 @@ Desde el momento que David dice «el Señor me ha dicho», es preciso afirmar qu
 ## [50](#c50). Testimonio de los profetas sobre la preexistencia de Cristo
 {:#c50}
 
-Oportunamente, pues, Cristo afirma por medio de David lo que el Padre le dice a él. Y por medio de los profetas dice él mismo, a su propia cuenta, las demás cosas, como lo que dice Isaías: «Y ahora así habla el Señor, el que me plasmó para servidor suyo desde el seno materno para hacer que Jacob vuelva a él, y que Israel se le una. Yo seré glorificado a los ojos del Señor, y mi Dios será mi fuerza. Él me ha dicho: Gran cosa será para ti ser llamado siervo mío, para levantar y restablecer las tribus de Jacob y hacer volver a los preservados de Israel; te he puesto como luz de las gentes para que mi salvación alcance hasta los confines de la tierra» (Is 49,5-6).
+Oportunamente, pues, Cristo afirma por medio de David lo que el Padre le dice a Él. Y por medio de los profetas dice Él mismo, a su propia cuenta, las demás cosas, como lo que dice Isaías: «Y ahora así habla el Señor, el que me plasmó para servidor suyo desde el seno materno para hacer que Jacob vuelva a Él, y que Israel se le una. Yo seré glorificado a los ojos del Señor, y mi Dios será mi fuerza. Él me ha dicho: Gran cosa será para ti ser llamado siervo mío, para levantar y restablecer las tribus de Jacob y hacer volver a los preservados de Israel; te he puesto como luz de las gentes para que mi salvación alcance hasta los confines de la tierra» (Is 49,5-6).
 
 ## [51](#c51). El Hijo, siervo del Padre
 {:#c51}
 
-Del coloquio del Padre con el Hijo, y del hecho que aún antes de su nacimiento el Padre se hizo visible a los hombres, se deduce la preexistencia del Hijo de Dios. También se manifiesta aún antes de nacer, el que había de ser hombre nacido de hombres, el que Dios mismo había de plasmar del seno (es decir, que había de nacer del Espíritu de Dios) el que es Señor de todos los hombres y Salvador de los que creen en él, de los judíos y de todos los hombres.
+Del coloquio del Padre con el Hijo, y del hecho que aún antes de su nacimiento el Padre se hizo visible a los hombres, se deduce la preexistencia del Hijo de Dios. También se manifiesta aún antes de nacer, el que había de ser hombre nacido de hombres, el que Dios mismo había de plasmar del seno (es decir, que había de nacer del Espíritu de Dios) el que es Señor de todos los hombres y Salvador de los que creen en Él, de los judíos y de todos los hombres.
 
 Israel, de hecho, es el nombre del pueblo judío en lengua hebrea, nombre que le proviene del patriarca Jacob, que fue el primero en ser llamado Israel. Y denomina gentiles a todos los hombres. El Hijo de Dios se llama a sí mismo «siervo del Padre», a causa de su obediencia al Padre, ya que todo hijo, aun entre los hombres, es siervo de su padre.
 
 ## [52](#c52). La preexistencia de Cristo, a la luz de la Escritura
 {:#c52}
 
-Que Cristo, Hijo de Dios, existente antes del mundo, estaba con el Padre y junto al Padre, al mismo tiempo cercano a los hombres y en íntima unión con ellos, es algo posible para el rey del universo, porque el Padre le ha sometido todas las cosas, y salvador de aquellos que creen en él. Tal es el mensaje de semejantes textos de la escritura.
+Que Cristo, Hijo de Dios, existente antes del mundo, esté con el Padre y junto al Padre, y al mismo tiempo, cercano a los hombres y en íntima unión con ellos, es algo posible para el rey del universo, porque el Padre le ha sometido todas las cosas, y lo ha constituido salvador de aquellos que creen en Él. Tal es el mensaje de semejantes textos de la escritura.
 
 No es nuestra intención, ni está dentro de nuestras posibilidades, hacer unas concordancias de todos los textos bíblicos. Pero con la ayuda de los pasos ya citados podrás comprender también los otros que hablan de la misma manera, mas los interpretarás a condición de que creas en Cristo y le pidas a Dios sabiduría e inteligencia para comprender cuanto fue dicho por los profetas.
 
 ## [53](#c53). El signo profético que anuncia al Cristo mesías y Jesús salvador
 {:#c53}
 
-Que este Cristo, que estaba junto al Padre, por ser el Verbo del Padre, haya debido encarnarse, hacerse hombre, someterse a la generación y al nacimiento de una Virgen y vivir entre los hombres, operando asimismo el Padre del universo su encarnación, es lo que expresa Isaías: «Pues el Señor mismo va a daros una señal; he aquí que una virgen concebirá y dará a luz a un hijo que llamaréis Emmanuel; comerá mantequilla y miel y antes de conocer o distinguir el mal, escoge el bien, porque antes que este niño conozca el bien o el mal, rechazará el mal para escoger el bien» (Is 7,14-16).
+Que este Cristo, que estaba junto al Padre, por ser el Verbo del Padre, haya debido encarnarse, hacerse hombre, someterse a la generación y al nacimiento de una Virgen y vivir entre los hombres, operando asimismo el Padre del universo su encarnación, es lo que expresa Isaías: «Pues el Señor mismo va a daros una señal; he aquí que una virgen concebirá y dará a luz a un hijo que llamaréis Emmanuel; comerá mantequilla y miel, y antes de conocer o distinguir el mal, escoge el bien, porque antes que este niño conozca el bien o el mal, rechazará el mal para escoger el bien» (Is 7, 14-16).
 
-Indicó que nacería de una Virgen, y significó que sería verdadero hombre por el hecho de comer y por llamarle «el infante», y hasta por imponerle su nombre. Ya que éste es un extravío aún del que ha nacido. En hebreo tiene un doble nombre: Mesías-Cristo y Jesús-Salvador. Estos dos nombres indican las obras que había de realizar.
+Indicó que nacería de una Virgen, y significó que sería verdadero hombre por el hecho de comer y por llamarle «niño», y hasta por imponerle su nombre, como es propio a todos los nacidos. En hebreo tiene un doble nombre: Mesías-Cristo y Jesús-Salvador. Estos dos nombres indican las obras que había de realizar.
 
-En efecto, el Hijo ha recibido el nombre de mesías porque el Padre, por su medio, y teniendo en cuenta su venida como hombre, le ha ungido y dispuesto todas las cosas en él, tras su unción por el Espíritu. Es lo que afirma refiriéndose a sí mismo en Isaías: «El Espíritu del Señor está sobre mí, por cuenta que me ha ungido para llevar la buena noticia a los pobres» (Is 61,1).
+En efecto, el Hijo ha recibido el nombre de mesías porque el Padre, por su medio, y teniendo en cuenta su venida como hombre, le ha ungido y dispuesto todas las cosas en Él, tras su unción por el Espíritu. Es lo que afirma refiriéndose a sí mismo en Isaías: «El Espíritu del Señor está sobre mí, por cuenta que me ha ungido para llevar la buena noticia a los pobres» (Is 61,1).
 
-Y ha recibido el nombre de salvador porque es causa de salvación para todos los que, desde entonces, fueron liberados por él de toda enfermedad y de la muerte; para los que habían de creer en él después de ellos es también dador de salvación eterna. He aquí el por qué es llamado Cristo el Salvador.
+Y ha recibido el nombre de salvador porque es causa de salvación para todos los que, desde entonces, fueron liberados por Él de toda enfermedad y de la muerte; para los que habían de creer en Él después de ellos es también dador de salvación eterna. He aquí el por qué es llamado Cristo el Salvador.
 
 ## [54](#c54). Profecía del Emmanuel: el Dios con nosotros
 {:#c54}
 
-Emmanuel se traduce por «Dios con nosotros», o como expresión de buen deseo formulada por el profeta «Dios esté con nosotros». De este modo, él es la interpretación y la revelación de la buena nueva. Por eso dice: «He aquí que una virgen concebirá y dará a luz a un hijo» (Is 7,14). Y éste, que es Dios, tiene el destino de estar con nosotros.
+Emmanuel se traduce por «Dios con nosotros», o como expresión de buen deseo formulada por el profeta «Dios esté con nosotros». De este modo, Él es la interpretación y la revelación de la buena nueva. Por eso dice: «He aquí que una virgen concebirá y dará a luz a un hijo» (Is 7,14). Y éste, que es Dios, tiene el destino de estar con nosotros.
 
 Al mismo tiempo, maravillado por tal acontecimiento, anuncia lo que ha de suceder, es decir, que «Dios estará con nosotros». Y también, en torno a su nacimiento, el mismo profeta dice en otra parte: «Antes de que engendre la que está en dolores y antes de que lleguen los dolores de parto, dio a luz un niño» (Is 66,7). Así dio a conocer lo inesperado e inopinado de su nacimiento de la Virgen. El mismo profeta dijo aún: «Un hijo nos ha nacido y un niño nos han dado, y recibió por nombre Admirable Consejero y Dios fuerte» (Is 9,6).
 
 ## [55](#c55). Profecía del admirable consejero
 {:#c55}
 
-Cristo es llamado también por la Escritura como «admirable consejero», tanto del Padre como nuestro. Del Padre, por el hecho de que el Padre hizo con él todas las cosas, según se dice en el primer libro de Moisés, titulado Génesis: «Y dijo Dios: hagamos al hombre a imagen nuestra y a semejanza» (Gn [1, 26]({{ "biblia-straubinger/genesis#c1-v26" | relative_url }})). Aquí visiblemente habla el Padre al Hijo, como a admirable consejero del Padre.
+Cristo es llamado también por la Escritura como «admirable consejero», tanto del Padre como nuestro. Del Padre, por el hecho de que el Padre hizo con Él todas las cosas, según se dice en el primer libro de Moisés, titulado Génesis: «Y dijo Dios: hagamos al hombre a imagen nuestra y a semejanza» (Gn [1, 26]({{ "biblia-straubinger/genesis#c1-v26" | relative_url }})). Aquí visiblemente habla el Padre al Hijo, como a admirable consejero del Padre.
 
 Pero Cristo es también consejero nuestro, que habla y no obliga, como Dios, aunque sea «Dios fuerte». Nos aconseja renunciar a la ignorancia y recibir la gnosis, apartarnos del error para encaminar hacia la verdad, rechazar la corrupción para poseer la incorruptibilidad.
 
 ## [56](#c56). La paz y su dominio no tendrán límites
 {:#c56}
 
-Isaías dice de nuevo: «Querrán haber sido consumidos por el fuego, porque un niño nos ha nacido, un hijo se nos ha dado; en cuyos hombros estuvo el poder y es llamado con el nombre de "ángel del gran consejo". Y traerá la paz entre los príncipes y aun paz y salvación para él. Grande es su dominio y la paz no tendrá límites sobre el trono de David y su reino, para sostenerlo y consolidarlo con la justicia y el derecho, desde ahora y por siempre» (Is 9,5-7).
+Isaías dice de nuevo: «Querrán haber sido consumidos por el fuego, porque un niño nos ha nacido, un hijo se nos ha dado; en cuyos hombros estuvo el poder y es llamado con el nombre de "ángel del gran consejo". Y traerá la paz entre los príncipes y aun paz y salvación para Él. Grande es su dominio y la paz no tendrá límites sobre el trono de David y su reino, para sostenerlo y consolidarlo con la justicia y el derecho, desde ahora y por siempre» (Is 9,5-7).
 
-En estos términos es anunciado el nacimiento del Hijo de Dios y la eternidad de su reino. Pero las palabras, «querrán haber sido consumidos por el fuego» (Is 9,5), están dichas dirigiéndose a quienes no creen en el Emmanuel e hicieron contra él todo lo que hicieron. Pues dirán en el día del juicio: «¡Ojalá hubiésemos sido abrasados antes del nacimiento del Hijo de Dios que no haber creído en él luego que nació!». Porque aquellos que han muerto antes de la manifestación de Cristo tienen esperanza de obtener la salvación en el juicio del Resucitado.
+En estos términos es anunciado el nacimiento del Hijo de Dios y la eternidad de su reino. Pero las palabras, «querrán haber sido consumidos por el fuego» (Is 9,5), están dichas dirigiéndose a quienes no creen en el Emmanuel e hicieron contra Él todo lo que hicieron. Pues dirán en el día del juicio: «¡Ojalá hubiésemos sido abrasados antes del nacimiento del Hijo de Dios que no haber creído en Él luego que nació!». Porque aquellos que han muerto antes de la manifestación de Cristo tienen esperanza de obtener la salvación en el juicio del Resucitado.
 
-A esta categoría pertenecen los que temieron a Dios y han muerto en la justicia y han poseído el Espíritu de Dios, como los patriarcas, los profetas y los justos. Mas para aquellos que después de la manifestación de Cristo no han creído en él será inexorable la vindicación en el juicio. En cuanto a aquello, «En cuyos hombros estuvo el poder» (Is 9,6), se designa alegóricamente la cruz, en la que tenía clavados los brazos; porque la cruz que era y es oprobio para él (y para nosotros, a causa de él) esa misma cruz es, dice, su poder, a saber, el signo de su realeza. Lo llama «ángel del gran consejo» de aquel Padre que él nos ha revelado.
+A esta categoría pertenecen los que temieron a Dios y han muerto en la justicia y han poseído el Espíritu de Dios, como los patriarcas, los profetas y los justos. Mas para aquellos que después de la manifestación de Cristo no han creído en Él será inexorable la vindicación en el juicio. En cuanto a aquello, «En cuyos hombros estuvo el poder» (Is 9,6), se designa alegóricamente la cruz, en la que tenía clavados los brazos; porque la cruz que era y es oprobio para Él (y para nosotros, a causa de Él) esa misma cruz es, dice, su poder, a saber, el signo de su realeza. Lo llama «ángel del gran consejo» de aquel Padre que Él nos ha revelado.
 
 ## [57](#c57). El esperado de las naciones
 {:#c57}
 
-Por todo lo que fue dicho y expuesto con la ayuda de los profetas, está claro que el Hijo de Dios debía nacer, de qué manera había de nacer y que se daría a conocer como Cristo. Incluso fue predicho en qué país y entre qué hombres debía nacer y darse a conocer. Así lo dio a entender Moisés en el Génesis: «No le faltará un príncipe a Judá, ni un jefe de su estirpe, hasta que venga aquel a quien le está reservado; y él será el esperado de las gentes; lavará en el vino su vestimenta y en la sangre de la uva su manto» (Gn [49, 10]({{ "biblia-straubinger/genesis#c49-v10" | relative_url }})-11). Pero Judá, hijo de Jacob, es el antepasado de los judíos, de quien éstos han tomado su nombres.
+Por todo lo que fue dicho y expuesto con la ayuda de los profetas, está claro que el Hijo de Dios debía nacer, de qué manera había de nacer y que se daría a conocer como Cristo. Incluso fue predicho en qué país y entre qué hombres debía nacer y darse a conocer. Así lo dio a entender Moisés en el Génesis: «No le faltará un príncipe a Judá, ni un jefe de su estirpe, hasta que venga aquel a quien le está reservado; y Él será el esperado de las gentes; lavará en el vino su vestimenta y en la sangre de la uva su manto» (Gn [49, 10]({{ "biblia-straubinger/genesis#c49-v10" | relative_url }})-11). Pero Judá, hijo de Jacob, es el antepasado de los judíos, de quien éstos han tomado su nombres.
 
-Hasta la venida de Cristo, a los judíos no les faltó ni príncipe, ni jefe. Pero después de su venida, le fueron quitadas las flechas de la aljaba, el país de los judíos fue sometido por los Romanos y no volvió a tener un príncipe o un rey propio. Ya que había venido aquel a quien esta reservado el reino del cielo; aquel que lavó «su vestimenta en el vino» y con «sangre de la uva su manto». Su vestimenta igual que el manto, son quienes creen en él, a los cuales también él purificó, con su sangre; y su sangre dícese «sangre de la uva», porque así como no es producto del hombre la sangre de la uva, sino de Dios que hace que se alegren aquellos que la beben, de igual forma su cuerpo y su sangre no son obra del hombre sino de Dios.
+Hasta la venida de Cristo, a los judíos no les faltó ni príncipe, ni jefe. Pero después de su venida, le fueron quitadas las flechas de la aljaba, el país de los judíos fue sometido por los Romanos y no volvió a tener un príncipe o un rey propio. Ya que había venido aquel a quien esta reservado el reino del cielo; aquel que lavó «su vestimenta en el vino» y con «sangre de la uva su manto». Su vestimenta igual que el manto, son quienes creen en Él, a los cuales también Él purificó, con su sangre; y su sangre dícese «sangre de la uva», porque así como no es producto del hombre la sangre de la uva, sino de Dios que hace que se alegren aquellos que la beben, de igual forma su cuerpo y su sangre no son obra del hombre sino de Dios.
 
-El Señor mismo dio el signo de la Virgen (es decir, el Emmanuel, nacido de la Virgen), y alegra los ánimos de aquellos que lo beben (es decir, de aquellos que reciben su Espíritu, alegría eterna). Por eso es también el «esperado de las gentes», para aquellos que esperan en él. También nosotros esperamos de él la restauración del reino.
+El Señor mismo dio el signo de la Virgen (es decir, el Emmanuel, nacido de la Virgen), y alegra los ánimos de aquellos que lo beben (es decir, de aquellos que reciben su Espíritu, alegría eterna). Por eso es también el «esperado de las gentes», para aquellos que esperan en Él. También nosotros esperamos de Él la restauración del reino.
 
 ## [58](#c58). La estrella de Jacob
 {:#c58}
@@ -498,7 +498,7 @@ Por otra parte, esta estrella apareció, cuando su nacimiento, a los magos, que 
 ## [59](#c59). El vástago de Jesé
 {:#c59}
 
-El mismo Isaías dice aún más: «Saldrá un vástago del tronco de Jesé y de su raíz brotará una flor. Sobre él se posará el Espíritu de Dios, espíritu de sabiduría y de inteligencia, espíritu de consejo y de fortaleza, espíritu de conocimiento y de piedad. Lo llenará el espíritu de temor de Dios. No juzgará por sola opinión ni acusará por solos rumores, sino que juzgará la causa del humilde y tendrá piedad de los humildes de la tierra. Castigará a la tierra con la palabra de su boca, ejecutará al impío con el soplo de sus labios. La justicia será cinturón de sus lomos, y la lealtad cinturón de sus flancos. Pacerá el lobo con el cordero, el leopardo con el cabrito, el novillo y el león pacerán juntos... El niño meterá la mano en la boca del áspid y en el escondrijo de los viboreznos y no le harán daño... La raíz de Jesé es aquel que se yergue para ejercer el poder sobre las naciones, y éstas a él le buscarán; y su resurrección será gloriosa» (Is 11,1-10).
+El mismo Isaías dice aún más: «Saldrá un vástago del tronco de Jesé y de su raíz brotará una flor. Sobre Él se posará el Espíritu de Dios, espíritu de sabiduría y de inteligencia, espíritu de consejo y de fortaleza, espíritu de conocimiento y de piedad. Lo llenará el espíritu de temor de Dios. No juzgará por sola opinión ni acusará por solos rumores, sino que juzgará la causa del humilde y tendrá piedad de los humildes de la tierra. Castigará a la tierra con la palabra de su boca, ejecutará al impío con el soplo de sus labios. La justicia será cinturón de sus lomos, y la lealtad cinturón de sus flancos. Pacerá el lobo con el cordero, el leopardo con el cabrito, el novillo y el león pacerán juntos... El niño meterá la mano en la boca del áspid y en el escondrijo de los viboreznos y no le harán daño... La raíz de Jesé es aquel que se yergue para ejercer el poder sobre las naciones, y éstas a Él le buscarán; y su resurrección será gloriosa» (Is 11,1-10).
 
 Con estas palabras se quiere decir que nacerá de aquella estirpe que desciende de David y de Abraham. Efectivamente, Jesé descendía de Abraham y era padre de David. De este modo la Virgen, que concibió a Cristo, era el vástago. Por esto Moisés hacía sus prodigios ante el faraón, sirviéndose de un bastón. Entre los hombres el bastón es signo de poder. Llama flor a su cuerpo, que floreció bajo la acción del Espíritu, como antes hemos indicado.
 
@@ -516,9 +516,9 @@ En cuanto al entendimiento, la concordia y la paz entre los animales de especies
 
 Y esto porque los justos, que han sido parangonados a los novillos, y a los corderos, y a los cabritos y a los niños tiernos, no recibirán daño por parte de ninguno de cuantos, en época anterior, se habían convertido (hombres y mujeres) a causa de su codicia, por forma y costumbres, en bestias feroces, hasta el punto que algunos de ellos se asemejaban a lobos o a leones, y despojaban los bienes de los más débiles y hacían guerra a sus semejantes; y las mujeres eran como leopardos y víboras, cuando recurriendo a venenos mortales llegaban a dar muerte a los propios amantes, o arrastrados por su pasión.
 
-Reunidos en un solo nombre, lograrán tener costumbres de justos, por la gracia de Dios, cambiando su naturaleza salvaje y feroz. Esto es lo que ha ocurrido ya, pues los que antes eran crudelísimos hasta no retroceder ante ningún acto impío, una vez instruidos sobre Cristo y creído en él, han dado fe todo a una y han cambiado hasta no retroceder ante ningún exceso de justicia.
+Reunidos en un solo nombre, lograrán tener costumbres de justos, por la gracia de Dios, cambiando su naturaleza salvaje y feroz. Esto es lo que ha ocurrido ya, pues los que antes eran crudelísimos hasta no retroceder ante ningún acto impío, una vez instruidos sobre Cristo y creído en Él, han dado fe todo a una y han cambiado hasta no retroceder ante ningún exceso de justicia.
 
-Tanta es la mudanza que la fe en Cristo, Hijo de Dios, opera entre cuantos en él creen. Y si dice «se levantó para enseñorear sobre los gentiles» (Is 11,10), es porque, una vez muerto, resucitará y será confesado y creído Hijo de Dios, rey. Por eso dice: «Y su resurrección será gloriosa» (Is 11,10), esto es, magnificencia, porque en el momento en que fue glorificado como Dios, es cuando resucitó.
+Tanta es la mudanza que la fe en Cristo, Hijo de Dios, opera entre cuantos en Él creen. Y si dice «se levantó para enseñorear sobre los gentiles» (Is 11,10), es porque, una vez muerto, resucitará y será confesado y creído Hijo de Dios, rey. Por eso dice: «Y su resurrección será gloriosa» (Is 11,10), esto es, magnificencia, porque en el momento en que fue glorificado como Dios, es cuando resucitó.
 
 ## [62](#c62). La tienda de David y el cuerpo de Cristo
 {:#c62}
@@ -567,7 +567,7 @@ Y acerca de la resurrección de los muertos, dice: «Así resucitarán los muert
 ## [68](#c68). La pasión de Cristo
 {:#c68}
 
-Isaías dice que había de ser despreciado, torturado y finalmente matado: «He aquí que mi Hijo comprenderá: será exaltado y glorificado sobremanera. Como muchos se espantarán de ti, así sin gloria será tu rostro a los ojos de los hombres; muchos pueblos se asombrarán y los reyes cerrarán la boca porque contemplarán algo inenarrable y comprenderán algo inaudito. Señor ¿quién creyó nuestro anuncio? ¿A quién se reveló el brazo del Señor? Lo hemos narrado ante él, como a un niño, como a una raíz en tierra árida; no tenía figura ni gloria. Lo hemos visto sin aspecto y sin belleza. Su aspecto era despreciable, más abatido que los demás hombres. Hombre de dolores acostumbrado a sufrimientos; porque volvía su rostro hacia otra parte era despreciado y tenido a menos. Él cargó con nuestros pecados y sufre por amor a nosotros; lo hemos creído víctima del dolor, de los golpes y torturas. Fue traspasado por nuestros delitos, maltratado por nuestros pecados. El castigo que nos da la paz cayó sobre él, y sus cicatrices nos curaron» (Is 52,13-53, 5).
+Isaías dice que había de ser despreciado, torturado y finalmente matado: «He aquí que mi Hijo comprenderá: será exaltado y glorificado sobremanera. Como muchos se espantarán de ti, así sin gloria será tu rostro a los ojos de los hombres; muchos pueblos se asombrarán y los reyes cerrarán la boca porque contemplarán algo inenarrable y comprenderán algo inaudito. Señor ¿quién creyó nuestro anuncio? ¿A quién se reveló el brazo del Señor? Lo hemos narrado ante Él, como a un niño, como a una raíz en tierra árida; no tenía figura ni gloria. Lo hemos visto sin aspecto y sin belleza. Su aspecto era despreciable, más abatido que los demás hombres. Hombre de dolores acostumbrado a sufrimientos; porque volvía su rostro hacia otra parte era despreciado y tenido a menos. Él cargó con nuestros pecados y sufre por amor a nosotros; lo hemos creído víctima del dolor, de los golpes y torturas. Fue traspasado por nuestros delitos, maltratado por nuestros pecados. El castigo que nos da la paz cayó sobre Él, y sus cicatrices nos curaron» (Is 52,13-53, 5).
 
 David anunció con estas palabras sus torturas: «Yo fui torturado» (Sal [38, 9]({{ "biblia-straubinger/salmos#c38-v9" | relative_url }})). Sin embargo, David nunca fue torturado sino Cristo cuando ordenaron que fuese crucificado. Una vez más, el Verbo dice en Isaías: «Ofrecí la espalda a los golpes y las mejillas a las bofetadas; no me tapé el rostro ante ultrajes ni salivazos» (Is 50,6). El profeta Jeremías repite lo mismo en estos términos: «Presentará la mejilla al que lo hiere y será colmado de oprobios» (Lm 3,30). Todo esto lo sufrió Cristo.
 
@@ -578,7 +578,7 @@ Isaías continúa así: «Merced a sus llagas hemos sido curados todos. Errábam
 
 Mas al decir el profeta «en la humillación fue eliminado su juicio» (Is 53,8), se refiere a su humilde aspecto exterior. Según su aspecto sin honra fue pronunciada la sentencia; y proferida la sentencia conduce a algunos a la salvación, a otros a las penas de la perdición. Hay, efectivamente, lo tomado por uno a cuestas, y lo que quitan a otro.
 
-Así es la sentencia. Por algunos ha sido sufrida, y estos la toman sobre sí mismo como propia condena; para otros, ha sido eliminada, y se salvan. Han cargado sobre sí la sentencia quienes lo crucificaron, y habiéndose portado así no creen en él; de tal suerte, la sentencia recibida por ellos los condenará a la perdición entre los tormentos. La sentencia ha sido eliminada para quienes en él creen, y no están ya sujetos a ella, es decir a la sentencia de condenación. La sentencia de condenación, acompañada de fuego, será de exterminio para los incrédulos, al fin de este mundo.
+Así es la sentencia. Por algunos ha sido sufrida, y estos la toman sobre sí mismo como propia condena; para otros, ha sido eliminada, y se salvan. Han cargado sobre sí la sentencia quienes lo crucificaron, y habiéndose portado así no creen en Él; de tal suerte, la sentencia recibida por ellos los condenará a la perdición entre los tormentos. La sentencia ha sido eliminada para quienes en Él creen, y no están ya sujetos a ella, es decir a la sentencia de condenación. La sentencia de condenación, acompañada de fuego, será de exterminio para los incrédulos, al fin de este mundo.
 
 ## [70](#c70). La generación inenarrable
 {:#c70}
@@ -599,23 +599,23 @@ En efecto, como la sombra de los cuerpos erguidos se proyecta al suelo y es holl
 ## [72](#c72). La muerte del justo
 {:#c72}
 
-El mismo profeta, a propósito de la pasión de Cristo, dice lo siguiente: «He aquí como el justo ha perecido y nadie hace caso; los hombres justos son quitados de en medio y nadie se entera, pues el justo es llevado en presencia de la injusticia. Su sepultura será paz: él ha sido preservado» (Is 57,1-4). ¿Qué otro hay perfectamente justo fuera del Hijo de Dios, que hace del todo justos a quienes en él creen, los cuales, a semejanza de él, son perseguidos y muertos?
+El mismo profeta, a propósito de la pasión de Cristo, dice lo siguiente: «He aquí como el justo ha perecido y nadie hace caso; los hombres justos son quitados de en medio y nadie se entera, pues el justo es llevado en presencia de la injusticia. Su sepultura será paz: Él ha sido preservado» (Is 57, 1-4). ¿Qué otro hay perfectamente justo fuera del Hijo de Dios, que hace del todo justos a quienes en Él creen, los cuales, a semejanza de Él, son perseguidos y muertos?
 
-Cuando Isaías dice «su sepultura será paz», da a conocer como murió por nuestra salvación, que está en la paz de la salvación; y anuncia que por su muerte quienes antes eran enemigos y adversarios unos de otros, no bien crean juntos en él, tendrán paz entre sí, dando y recibiendo señales de amistad por su común fe en él. Es exactamente lo que ocurre.
+Cuando Isaías dice «su sepultura será paz», da a conocer como murió por nuestra salvación, que está en la paz de la salvación; y anuncia que por su muerte quienes antes eran enemigos y adversarios unos de otros, no bien crean juntos en Él, tendrán paz entre sí, dando y recibiendo señales de amistad por su común fe en Él. Es exactamente lo que ocurre.
 
 Las palabras «ha sido preservado» se refieren a la resurrección de entre los muertos, porque después de la sepultura nadie le vio muerto. Que una vez muerto y resucitado Cristo, debía permanecer inmortal. Lo dice el profeta en estos términos: «Pidió la vida y tú le has concedido además la longevidad por los siglos de los siglos» (Sal [20, 5]({{ "biblia-straubinger/salmos#c20-v5" | relative_url }})). ¿Por qué dijo «pidió la vida», cuando debía morir? En efecto, anuncia su resurrección de entre los muertos, y que resucitado de entre los muertos es inmortal. Ya que recibió la vida para resucitar, y la «longevidad por los siglos de los siglos» para ser incorruptible.
 
 ## [73](#c73). La muerte y resurrección según David
 {:#c73}
 
-Dice de nuevo David, a propósito de la muerte y de la resurrección de Cristo: «Yo me acosté y me dormí; me desperté porque el Señor me acogió» (Sal [3, 6]({{ "biblia-straubinger/salmos#c3-v6" | relative_url }})). David no decía esto de sí mismo, porque muerto él no resucitó. Sino el Espíritu de Cristo, que habló también de él en otros profetas, dice también ahora por medio de David: «Yo me acosté y dormí; me desperté porque el Señor me acogió». Llama sueño a la muerte, porque resucitó.
+Dice de nuevo David, a propósito de la muerte y de la resurrección de Cristo: «Yo me acosté y me dormí; me desperté porque el Señor me acogió» (Sal [3, 6]({{ "biblia-straubinger/salmos#c3-v6" | relative_url }})). David no decía esto de sí mismo, porque muerto él no resucitó. Sino el Espíritu de Cristo, que habló también de Él en otros profetas, dice también ahora por medio de David: «Yo me acosté y dormí; me desperté porque el Señor me acogió». Llama sueño a la muerte, porque resucitó.
 
 ## [74](#c74). Herodes y Pilato
 {:#c74}
 
 Sobre la pasión de Cristo, David dice: «¿Por qué se agitan los gentiles y los pueblos planean fracasos? Se alían los reyes de la tierra y los príncipes conspiran contra el Señor y su ungido» (Sal [2, 1]({{ "biblia-straubinger/salmos#c2-v1" | relative_url }})-2; Hch [4, 24]({{ "biblia-straubinger/hechos#c4-v24" | relative_url }})-28). De hecho, Herodes, rey de los judíos, y Poncio Pilato, procurador del césar, se reunieron y lo condenaron a ser crucificado.
 
-Herodes temía perder el reinado, como si él fuese a ser un rey terreno, y Pilato fue obligado, contra su voluntad, por Herodes y por los judíos que lo rodeaban, a condenarlo a muerte, por el hecho de que no hacerlo se interpretaría como ir en contra del césar dejando en libertad a un hombre al que se dio el título de rey.
+Herodes temía perder el reinado, como si Él fuese a ser un rey terreno, y Pilato fue obligado, contra su voluntad, por Herodes y por los judíos que lo rodeaban, a condenarlo a muerte, por el hecho de que no hacerlo se interpretaría como ir en contra del césar dejando en libertad a un hombre al que se dio el título de rey.
 
 ## [75](#c75). El anuncio de la pasión
 {:#c75}
@@ -629,14 +629,14 @@ Como se ve, el profeta afirma abiertamente que debía sufrir todo esto y que és
 
 Zacarías se expresa así: «Alzate, espada, contra mi pastor, contra el hombre, mi compañero; hiere al pastor y se dispersarán las ovejas del rebaño» (Za 13,7; Mt 26,31; Lc 14,27). Y esto sucedió cuando Jesús fue capturado por los judíos.
 
-Entonces, todos los discípulos lo abandonaron por miedo a perecer con él, porque ellos no creyeron firmemente en él hasta que no le vieron resucitado de entre los muertos.
+Entonces, todos los discípulos lo abandonaron por miedo a perecer con Él, porque ellos no creyeron firmemente en Él hasta que no le vieron resucitado de entre los muertos.
 
 ## [77](#c77). Jesús, motivo de reconciliación entre Pilato y Herodes
 {:#c77}
 
-Se dice también en los doce profetas: «Prisionero le presentaron al rey como tributo» (Os 10,6). Poncio Pilato era procurador de Judea y alimentaba entonces un profundo rencor en contra de Herodes, rey de los judíos.
+Se dice también en los doce profetas: «Prisionero le presentaron al rey como tributo» (Os 10, 6). Poncio Pilato era procurador de Judea y alimentaba entonces un profundo rencor en contra de Herodes, rey de los judíos.
 
-Precisamente en esta situación Pilato remitió a Cristo, a quien se lo había enviado, atado a Herodes con el ruego de que le interrogase para confirmar lo que quería hacer con él. De este modo, Cristo se convirtió en un buen pretexto para reconciliarse con el rey.
+Precisamente en esta situación Pilato remitió a Cristo, atado, a Herodes con el ruego de que le interrogase para confirmar lo que quería hacer con Él. De este modo, Cristo se convirtió en un buen pretexto para reconciliarse con el rey.
 
 ## [78](#c78). La bajada a los infiernos
 {:#c78}
@@ -662,11 +662,11 @@ En efecto, cuando crucificaron a Jesús, se repartieron los soldados sus vestido
 ## [81](#c81). Judas, la venta de Cristo y la compra del campo de alfarero
 {:#c81}
 
-El profeta Jeremías añade: «Tomaron las treinta monedas de plata, el precio de uno que fue tasado según la tasa de los hijos de Israel, y pagaron con ellas el Campo del Alfarero, como me lo había mandado el Señor» (Mt 27,9).
+El profeta Jeremías añade: «Tomaron las treinta monedas de plata, el precio de uno que fue tasado según la tasa de los hijos de Israel, y pagaron con ellas el Campo del Alfarero, como me lo había mandado el Señor» (Mt 27, 9-10).
 
-En efecto, Judas, uno de los discípulos de Jesús, habiéndose comprometido con los judíos y habiendo sellado con ellos un pacto (de hecho, sabía que le querían matar), y porque había sido reprendido por él, aceptó los treinta denarios del país y le entregó a Cristo.
+En efecto, Judas, uno de los discípulos de Jesús, habiéndose comprometido con los judíos y habiendo sellado con ellos un pacto (de hecho, sabía que le querían matar), y porque había sido reprendido por Él, aceptó los treinta denarios del país y les entregó a Cristo.
 
-A continuación, movido por los remordimientos de lo que había hecho, tiró el dinero a los pies de los jefes de los judíos y se ahorcó. Pero éstos no consideraron conveniente devolver el dinero al Tesoro, porque era precio de sangre, y con él compraron el campo perteneciente a un alfarero para enterrar allí a los extranjeros.
+A continuación, movido por los remordimientos de lo que había hecho, tiró el dinero a los pies de los jefes de los judíos y se ahorcó. Pero éstos no consideraron conveniente devolver el dinero al Tesoro, porque era precio de sangre, y con él compraron el campo perteneciente a un alfarero para enterrar allí a los extranjeros (Mt 27, 3-7).
 
 ## [82](#c82). Profecías sobre el vinagre mezclado con hiel
 {:#c82}
@@ -690,14 +690,14 @@ Al igual que el Verbo se encarnó visiblemente, también se hizo visible cuando 
 ## [85](#c85). El juicio final
 {:#c85}
 
-Resucitado y subido al cielo, aguarda a la diestra del Padre el momento por él fijado para juzgar a todos sus enemigos que a él habían de ser sometidos. Los enemigos son todos los que fueron hallados en rebelión: ángeles, arcángeles, principados, tronos, que menosprecian la verdad.
+Resucitado y subido al cielo, aguarda a la diestra del Padre el momento por Él fijado para juzgar a todos sus enemigos que a Él habían de ser sometidos. Los enemigos son todos los que fueron hallados en rebelión: ángeles, arcángeles, principados, tronos, que menosprecian la verdad.
 
 David afirma aún: «Dijo el Señor a mi Señor: Siéntate a mi derecha, hasta que ponga a tus enemigos a tus pies» (Sal [109, 1]({{ "biblia-straubinger/salmos#c109-v1" | relative_url }})). Aún más, David dice que subió al lugar de donde había bajado: «Él sube de los últimos confines del cielo y su reposo alcanza el otro extremo del cielo». Señala después el juicio al decir: «Ninguno se sustraerá a su ardor» (Sal [18, 7]({{ "biblia-straubinger/salmos#c18-v7" | relative_url }})).
 
 ## [86](#c86). El testimonio de los apóstoles
 {:#c86}
 
-Ahora bien, si los profetas han vaticinado que el Hijo de Dios debía manifestarse sobre la tierra y han predicho el lugar, la manera y la forma de su manifestación sobre la tierra, y si en el Señor se han cumplido todas estas predicciones, nuestra fe en él está bien fundada, es auténtica la tradición de la predicación (es decir, el testimonio de los apóstoles).
+Ahora bien, si los profetas han vaticinado que el Hijo de Dios debía manifestarse sobre la tierra y han predicho el lugar, la manera y la forma de su manifestación sobre la tierra, y si en el Señor se han cumplido todas estas predicciones, nuestra fe en Él está bien fundada, es auténtica la tradición de la predicación (es decir, el testimonio de los apóstoles).
 
 Los apóstoles, enviados por el Señor, han predicado por el mundo entero que el Hijo de Dios había venido para sufrir la pasión, la había soportado para destruir la muerte y dar vida al cuerpo, y que dando fin a la hostilidad hacia Dios (es decir, a la iniquidad), hemos de obtener su paz cumpliendo lo que es de su agrado.
 
@@ -710,16 +710,16 @@ No es con la locuacidad de la ley, por tanto, como se salva el género humano, s
 
 Cuando le preguntaron al Señor: «¿Qué mandamiento es el primero de todos?», el Señor respondió: «Amarás al Señor tu Dios con todo tu corazón, con toda tu fuerza; y el segundo es similar a éste: Amarás al prójimo como a ti mismo. De estos dos mandamientos penden la ley y los profetas» (Mc [12, 30]({{ "biblia-straubinger/marcos#c12-v30" | relative_url }}); Mt 22,37).
 
-Así pues, con la fe en él ha crecido nuestro amor por Dios y por el prójimo, haciéndonos piadosos, justos y buenos. Es por esto por lo que ha enviado con eficacia «una palabra concisa sobre la tierra», en el mundo.
+Así pues, con la fe en Él ha crecido nuestro amor por Dios y por el prójimo, haciéndonos piadosos, justos y buenos. Es por esto por lo que ha enviado con eficacia «una palabra concisa sobre la tierra», en el mundo.
 
 ## [88](#c88). Salvados por el hombre-Dios
 {:#c88}
 
-Que después de la ascensión había de ser elevado sobre todas las creaturas, y que nadie había de ser parangonado o comparado a él, lo dice Isaías: «¿Quién es juzgado? Que comparezca. ¿Quién es justificado? Que se acerque al Hijo del Señor. Ay de vosotros que os consumís como un vestido y la polilla os roerá. El hombre será humillado y abatido, y sólo el Señor será exaltado con aquellos que serán enaltecidos» (Is 50,8-9).
+Que después de la ascensión había de ser elevado sobre todas las creaturas, y que nadie había de ser parangonado o comparado a Él, lo dice Isaías: «¿Quién es juzgado? Que comparezca. ¿Quién es justificado? Que se acerque al Hijo del Señor. Ay de vosotros que os consumís como un vestido y la polilla os roerá. El hombre será humillado y abatido, y sólo el Señor será exaltado con aquellos que serán enaltecidos» (Is 50, 8-9).
 
 Isaías afirma que los que le sirvieron a Dios serán, al final, salvados por medio de su nombre: «Los que me sirven recibirán un nombre nuevo que será bendito en toda la tierra y ellos bendecirán al Dios verdadero» (Is 65,15-16).
 
-Esta bendición debía él realizarla personalmente y él mismo debía salvarnos por su propia sangre, según lo dio a conocer Isaías cuando dijo: «No un intercesor ni un ángel, sino el Señor en persona los salvó, porque los ama y tiene cuidado de ellos. Él mismo los redimió» (Is 63,9).
+Esta bendición debía Él realizarla personalmente y Él mismo debía salvarnos por su propia sangre, según lo dio a conocer Isaías cuando dijo: «No un intercesor ni un ángel, sino el Señor en persona los salvó, porque los ama y tiene cuidado de ellos. Él mismo los redimió» (Is 63, 9).
 
 ## [89](#c89). El Espíritu sobre la faz de la tierra
 {:#c89}
@@ -738,7 +738,7 @@ Nuestra vocación, pues, acontece «en la novedad del Espíritu y no en la letra
 
 Estas promesas habían de ser una herencia en el tiempo de la vocación de los gentiles, para quienes fue también inaugurada la nueva Alianza. Así lo recuerda Isaías en estos términos: «Dice el Dios de Israel: En aquel día el hombre pondrá su esperanza en su Creador, y sus ojos contemplarán al Santo de Israel; y ya no pondrán su esperanza en los altares de los ídolos, ni en las obras de sus manos, que fabricaron sus dedos» (Is 17,6-8).
 
-Manifiestamente, estas palabras están dirigidas a aquellos que abandonan a los ídolos y creen en Dios, nuestro Creador, gracias al Santo de Israel. El «Santo de Israel» es Cristo. Él se manifestó a los hombres y en él tenemos fija nuestra mirada. Y ya no ponemos nuestra esperanza en los altares ni en las obras de nuestras manos.
+Manifiestamente, estas palabras están dirigidas a aquellos que abandonan a los ídolos y creen en Dios, nuestro Creador, gracias al Santo de Israel. El «Santo de Israel» es Cristo. Él se manifestó a los hombres y en Él tenemos fija nuestra mirada. Y ya no ponemos nuestra esperanza en los altares ni en las obras de nuestras manos.
 
 ## [92](#c92). Manifestado a los que no le buscaban
 {:#c92}
@@ -766,7 +766,7 @@ Moisés dice en el Deuteronomio que los Gentiles estarán a la cabeza y el puebl
 
 Y esto porque abandonaron al Dios verdadero, adoraron a falsos dioses, mataron a los profetas de Dios y profetizaron por medio de Baal, que era un ídolo de los cananeos; rechazaron al verdadero Hijo de Dios al escoger a Barrabás, un bandido detenido por flagrante homicidio, al abjurar del rey eterno y reconocer como rey al césar que es perecedero. Por eso Dios decidió entregar su heredad a los gentiles y a aquellos que no eran ciudadanos de la ciudad de Dios y desconocían quién es Dios.
 
-Ahora bien, dado que por esta llamada se nos ha dado la vida y Dios ha restaurado en nosotros la fe de Abraham en él, no debemos volver atrás, es decir, a la antigua legislación. Porque hemos acogido al Señor de la ley, el Hijo de Dios, y por medio de la fe en él aprendemos a «amar a Dios con todo el corazón y al prójimo como a nosotros mismos». Pues el amor a Dios excluye todo pecado y el amor al prójimo no causa mal a nadie.
+Ahora bien, dado que por esta llamada se nos ha dado la vida y Dios ha restaurado en nosotros la fe de Abraham en Él, no debemos volver atrás, es decir, a la antigua legislación. Porque hemos acogido al Señor de la ley, el Hijo de Dios, y por medio de la fe en Él aprendemos a «amar a Dios con todo el corazón y al prójimo como a nosotros mismos». Pues el amor a Dios excluye todo pecado y el amor al prójimo no causa mal a nadie.
 
 ## [96](#c96). La superación de la ley
 {:#c96}
@@ -777,16 +777,16 @@ La ley, en efecto, no afirmará más «no cometer adulterio» a aquel que ni siq
 
 Ya no mandará, pues, guardar un día de descanso al que todos los días observa el sábado, es decir, al que rinde culto a Dios en el templo de Dios que es el cuerpo del hombre y practica siempre la justicia. «Prefiero misericordia», dice, al tiempo que continúa: «Prefiero el conocimiento de Dios a los holocaustos».
 
-Pero el impío que inmola un ternero es como si matase a un perro, y cuando ofrece flor de harina es como si ofreciese sangre de cerdo» (Is 66,3). Y «todo el que invocare el nombre del Señor se salvará» (Hch [2, 21]({{ "biblia-straubinger/hechos#c2-v21" | relative_url }}); Rm [10, 13]({{ "biblia-straubinger/romanos#c10-v13" | relative_url }}); Jl 2,32), y «ningún otro nombre se nos ha dado bajo el cielo por el cual los hombres se salven» (Hch [4, 12]({{ "biblia-straubinger/hechos#c4-v12" | relative_url }})) si no es el nombre de Dios, Jesucristo, Hijo de Dios, al que obedecen todos los demonios, los espíritus malvados y todas las potencias rebeldes.
+Pero el impío que inmola un ternero es como si matase a un perro, y cuando ofrece flor de harina es como si ofreciese sangre de cerdo» (Is 66, 3). Y «todo el que invocare el nombre del Señor se salvará» (Hch [2, 21]({{ "biblia-straubinger/hechos#c2-v21" | relative_url }}); Rm [10, 13]({{ "biblia-straubinger/romanos#c10-v13" | relative_url }}); Jl [2, 32]({{ "biblia-straubinger/joel#c2-v32" | relative_url }})), y «ningún otro nombre se nos ha dado bajo el cielo por el cual los hombres se salven» (Hch [4, 12]({{ "biblia-straubinger/hechos#c4-v12" | relative_url }})) si no es el nombre de Dios, Jesucristo, Hijo de Dios, al que obedecen todos los demonios, los espíritus malvados y todas las potencias rebeldes.
 
 ## [97](#c97). La salvación en Jesucristo
 {:#c97}
 
-Por la invocación del nombre de Jesucristo, crucificado bajo Poncio Pilato, Satanás fue alejado definitivamente de entre los hombres. Allí donde haya alguien que creyendo en él y haciendo su voluntad le recuerde e invoque, Jesús se hace presente y atiende las súplicas de quien le invoca con corazón puro. De este modo, habiendo obtenido la salvación, nosotros permanecemos en constante acción de gracias a Dios, nuestro Salvador, el que por su magna e insondable Sabiduría, nos salva y proclama la salvación desde lo alto de los cielos, salvación que es la venida visible de nuestro Señor, es decir, su vida humana, salvación que por nuestras propias posibilidades no podíamos conseguir. Pero «lo que es imposible para los hombres es posible para Dios» (Lc 18,27).
+Por la invocación del nombre de Jesucristo, crucificado bajo Poncio Pilato, Satanás fue alejado definitivamente de entre los hombres. Allí donde haya alguien que creyendo en Él y haciendo su voluntad le recuerde e invoque, Jesús se hace presente y atiende las súplicas de quien le invoca con corazón puro. De este modo, habiendo obtenido la salvación, nosotros permanecemos en constante acción de gracias a Dios, nuestro Salvador, el que por su magna e insondable Sabiduría, nos salva y proclama la salvación desde lo alto de los cielos, salvación que es la venida visible de nuestro Señor, es decir, su vida humana, salvación que por nuestras propias posibilidades no podíamos conseguir. Pero «lo que es imposible para los hombres es posible para Dios» (Lc 18,27).
 
-A este respecto, Jeremías dice: «¿Quién subió al cielo y se apoderó de ella y la hizo descender de las nubes? ¿Quién atravesó los mares y la descubrió y la trajo con preferencia al oro más puro? No hay quien haya encontrado su camino ni quien conozca su sendero. Pero el que sabe todas las cosas, la conoce con su sabiduría, el que cimentó la tierra para siempre y la pobló de animales cuadrúpedos, el que manda a la luz y ésta se expande, el que la llama y ella le obedece temblando; los astros se levantan para sus vigilias y se complacen. Él los llama y contestan: Henos aquí; y lucen alegremente en honor del que los hizo. Este es nuestro Dios; ningún otro cuenta a su lado para nada. Él descubrió todos los caminos con su sabiduría y se lo comunicó a Jacob, su siervo, y a Israel, su amado. Y después de esto se hizo ver en la tierra y converso con los hombres. Éste es el libro de los mandamientos de Dios y de la ley perdurable, para siempre. Los que la guardan alcanzarán la vida; los que la abandonan morirán».
+A este respecto, Jeremías dice: «¿Quién subió al cielo y se apoderó de ella y la hizo descender de las nubes? ¿Quién atravesó los mares y la descubrió y la trajo con preferencia al oro más puro? No hay quien haya encontrado su camino ni quien conozca su sendero. Pero el que sabe todas las cosas, la conoce con su sabiduría, el que cimentó la tierra para siempre y la pobló de animales cuadrúpedos, el que manda a la luz y ésta se expande, el que la llama y ella le obedece temblando; los astros se levantan para sus vigilias y se complacen. Él los llama y contestan: "Henos aquí"; y lucen alegremente en honor del que los hizo. Este es nuestro Dios; ningún otro cuenta a su lado para nada. Él descubrió todos los caminos con su sabiduría y se lo comunicó a Jacob, su siervo, y a Israel, su amado. Y después de esto se hizo ver en la tierra y conversó con los hombres. Éste es el libro de los mandamientos de Dios y de la ley perdurable, para siempre. Los que la guardan alcanzarán la vida; los que la abandonan morirán» (Ba [3, 29]({{ "biblia-straubinger/baruc#c3-v29" | relative_url }})-[4, 1]({{ "biblia-straubinger/baruc#c4-v1" | relative_url }})).
 
-Llama así Jeremías Jacob e Israel al Hijo de Dios, que ha recibido del Padre dominio sobre nuestra vida y que, después de haber recibido la vida, hace que descienda sobre nosotros, que estábamos alejados de él, cuando se manifestó sobre la tierra y converso con los hombres mezclando y uniendo el Espíritu de Dios Padre con el cuerpo plasmado por Dios para que el hombre fuese a imagen y semejanza de Dios.
+Así Jeremías llama Jacob e Israel al Hijo de Dios, que ha recibido del Padre dominio sobre nuestra vida y que, después de haber recibido la vida, hace que descienda sobre nosotros, que estábamos alejados de Él, cuando se manifestó sobre la tierra y converso con los hombres mezclando y uniendo el Espíritu de Dios Padre con el cuerpo plasmado por Dios para que el hombre fuese a imagen y semejanza de Dios.
 
 ## [98](#c98). A modo de conclusión
 {:#c98}
@@ -800,7 +800,7 @@ Por tanto, que ninguno piense que existe otro Dios Padre distinto de nuestro Cre
 
 En realidad, todos estos son impíos y blasfeman contra su Creador y Padre ,como ya hemos demostrado en la Exposición y Refutación de la Falsa Gnosis. Otros, todavía desprecian la venida del Hijo de Dios y la economía de su encarnación trasmitida por los apóstoles y vaticinada por los profetas para la restauración de la humanidad, como concisamente hemos demostrado.
 
-También a estas personas hay que contarlas entre los incrédulos. Otros todavía no acogen los dones del Espíritu Santo y rechazan el carisma profético, por cuyo rocío el hombre produce frutos de vida divina. De estos dice Isaías: «Serán como un terebinto sin hojas y como un jardín sin agua» (Is 1,30). Estos no son de utilidad alguna para Dios, pues no producen frutos.
+También a estas personas hay que contarlas entre los incrédulos. Otros todavía no acogen los dones del Espíritu Santo y rechazan el carisma profético, por cuyo rocío el hombre produce frutos de vida divina. De estos dice Isaías: «Serán como un terebinto sin hojas y como un jardín sin agua» (Is 1, 30). Estos no son de utilidad alguna para Dios, pues no producen frutos.
 
 ## [100](#c100). Hay que mantenerse lejos del error
 {:#c100}

@@ -12,7 +12,7 @@ Tras una breve introducción histórica ([1, 1](#c1-v1)-14) trae esta profecía 
 
 No hay duda de que el autor es aquel Baruc que conocemos como amanuense de Jeremías quien le dictó sus profecías y luego, hallándose preso, le encargó las leyera delante el pueblo, como lo hizo también más tarde ante los príncipes (Jeremías cap. [36](jeremias#c36)).
 
-Después de la caída de Jerusalén Baruc acompañó a Jeremías a Egipto (Jeremías [43](jeremias#c43)); más tarde, en 582, lo encontramos en Babilonia entre los israelitas cautivos, a los cuales en presencia del rey Jeconías leyó su libro (Baruc [1, 3](baruc#c1-v3)). Regresó a Jerusalén con una suma de dinero y vasos destinados para el culto del Templo.
+Después de la caída de Jerusalén, Baruc acompañó a Jeremías a Egipto (Jeremías [43](jeremias#c43)); más tarde, en 582, lo encontramos en Babilonia entre los israelitas cautivos, a los cuales en presencia del rey Jeconías leyó su libro (Baruc [1, 3](baruc#c1-v3)). Regresó a Jerusalén con una suma de dinero y vasos destinados para el culto del Templo.
 
 La autoridad canónica del libro que algunos intentaron negar, está asegurada por la Tradición y por la solemne decisión del Concilio Tridentino.
 
@@ -154,7 +154,7 @@ El texto hebreo se ha perdido. Por eso seguimos la Vulgata.
 [2, 18](#c2-v18) sino el alma que está afligida por causa de la grandeza del mal que ha cometido, y que anda encorvada y macilenta y con los ojos caídos. El alma hambrienta, esa es la que te tributa gloria, oh Señor, y (reconoce) tu justicia.
 {:#c2-v18}
 
-[2, 19](#c2-v19) Pues no apoyados en la justicia de nuestros padres y de nuestros reyes, derramamos nuestras plegarias y pedimos misericordia ante tu acatamiento, oh Señor, Dios nuestro,
+[2, 19](#c2-v19) Pues no apoyados en la justicia de nuestros padres y de nuestros reyes, derramamos nuestras plegarias y pedimos misericordia ante tu rostro, oh Señor, Dios nuestro,
 {:#c2-v19}
 
 [2, 20](#c2-v20) sino porque has descargado sobre nosotros tu indignación y furor, según habías anunciado por medio de tus siervos los profetas, diciendo:
@@ -221,7 +221,7 @@ El texto hebreo se ha perdido. Por eso seguimos la Vulgata.
 [3, 4](#c3-v4) [[\*\*]](#nt-c3-v4) Oh Señor todopoderoso, Dios de Israel, escucha ahora la oración de los muertos de Israel, y de los hijos de aquellos que pecaron ante Ti, y no quisieron escuchar la voz del Señor, su Dios, por lo cual se ha pegado a nosotros el mal.
 {:#c3-v4}
 
-[3, 5](#c3-v5) No te acuerdes de las iniquidades de nuestros padres; acuérdate, si, en este tiempo, de tu poder y de tu nombre.
+[3, 5](#c3-v5) No te acuerdes de las iniquidades de nuestros padres; acuérdate, sí, en este tiempo, de tu poder y de tu nombre.
 {:#c3-v5}
 
 [3, 6](#c3-v6) Porque Tú eres el Señor, Dios nuestro; y nosotros, oh Señor, te tributaremos alabanza.
@@ -738,12 +738,14 @@ El texto hebreo se ha perdido. Por eso seguimos la Vulgata.
 [2, 11](#c2-v11)
 {:#nt-c2-v11}
 
-> «Este recurso a la misericordia de Dios y a su propio honor, es frecuente en los profetas y se lee asimismo en la oración de Daniel [9, 19](daniel#c9-v19) y en Éxodo [32, 11](exodo#c32-v11)» (Nácar-Colunga). Véase en el v. [14](#c2-v14) otro recurso, de no menor fuerza: el amor que Dios se tiene a sí mismo.
+> «Este recurso a la misericordia de Dios y a su propio honor, es frecuente en los profetas y se lee asimismo en la oración de Daniel [9, 19](daniel#c9-v19) y en Éxodo [32, 11](exodo#c32-v11)» (Nácar-Colunga).
+
+Véase en el v. [14](#c2-v14) otro recurso, de no menor fuerza: el amor que Dios se tiene a sí mismo.
 
 [2, 15](#c2-v15) El Señor es Dios de Israel, por lo cual los israelitas se consideran hijos suyos que llevan su nombre y son objeto privilegiado de su poder y misericordia. Cf. Éxodo [4, 22](exodo#c4-v22); [19, 5](exodo#c19-v5) s.; Deuteronomio [26, 15](deuteronomio#c26-v15); Isaías [63, 15](isaias#c63-v15) y la oración del Eclesiástico (Eclesiástico [36](eclesiastico#c36)).
 {:#nt-c2-v15}
 
-[2, 17](#c2-v17) Ese mismo pensamiento aparece en otros pasajes del Antiguo Testamento (Salmo [6, 6](salmos#c6-v6) y nota; [87, 11](salmos#c87-v11) ss.; [113B, 17](salmos#c113B-v17); Eclesiástico [17, 26](eclesiastico#c17-v26); Isaías [38, 18](isaias#c38-v18) ss.). Por eso las esperanzas del Antiguo Testamento se concentran más que en la salvación del alma sola, en la resurrección de los cuerpos la cual traerá el Mesías (Job [19, 25](job#c19-v25) s. y nota).
+[2, 17](#c2-v17) Ese mismo pensamiento aparece en otros pasajes del Antiguo Testamento (Salmo [6, 6](salmos#c6-v6) y nota; [87, 11](salmos#c87-v11) ss.; [113B, 17](salmos#c113B-v17); Eclesiástico [17, 26](eclesiastico#c17-v26); Isaías [38, 18](isaias#c38-v18) ss.). Por eso las esperanzas del Antiguo Testamento se concentran, más que en la salvación del alma sola, en la resurrección de los cuerpos la cual traerá el Mesías (Job [19, 25](job#c19-v25) s. y nota).
 {:#nt-c2-v17}
 
 [2, 21](#c2-v21) ss. Véase Jeremías [27, 8](jeremias#c27-v8) ss. El cautiverio y la sumisión al rey de Babilonia son las condiciones de la restauración del pueblo judío. Cf. [1, 11](#c1-v11) y nota.
@@ -770,7 +772,7 @@ Esta profecía va más allá de la restauración después del destierro, la cual
 
 **Se ha pegado a nosotros el mal**: El profeta usa esta expresión gráfica otra vez (la primera en [1, 20](#c1-v20)), para señalar lo inevitable e inseparable que era el mal para los judíos. Eran casi una misma cosa, ellos y el mal.
 
-[3, 9](#c3-v9) **Escucha, ¡oh Israel!**: Este apostrofe, que empieza como el famoso «*Schma Israel*» (Deuteronomio [6, 4](deuteronomio#c6-v4)), es la respuesta suavísima del Padre Celestial a la sincera confesión precedente y contiene uno de los mis sublimes elogios de la Sabiduría.
+[3, 9](#c3-v9) **Escucha, ¡oh Israel!**: Este apóstrofe, que empieza como el famoso «*Schma Israel*» (Deuteronomio [6, 4](deuteronomio#c6-v4)), es la respuesta suavísima del Padre Celestial a la sincera confesión precedente y contiene uno de los más sublimes elogios de la Sabiduría.
 {:#nt-c3-v9}
 
 [3, 12](#c3-v12) La razón que aquí da el mismo Dios del origen de todos los males, coincide con lo que Israel ha confesado en el v. [4](#c3-v4), y se aplica igualmente a todos los tiempos. Así como la Sabiduría que viene de Dios, trae consigo todos los bienes (Sabiduría [7, 11](sabiduria#c7-v11)), la falta de ella es causa de todos los males.
@@ -789,7 +791,7 @@ Esta profecía va más allá de la restauración después del destierro, la cual
 
 **La prudencia que procede de la tierra**: ¿No parece esta una expresión de San Pablo? Cf. Gálatas [1, 11](galatas#c1-v11) s.; 1 Corintios caps. [1](1-corintios#c1)-[3](1-corintios#c3). David opone elocuentemente esta sabiduría humana a la que viene de Dios (Salmo [118, 85](salmos#c118-v85) y nota).
 
-[3, 24](#c3-v24) **La casa de Dios**: el admirable universo, que David celebra en los Salmos 8; 18 y 103.
+[3, 24](#c3-v24) **La casa de Dios**: el admirable universo, que David celebra en los Salmos [8](salmos#c8); [18](salmos#c18) y [103](salmos#c103).
 {:#nt-c3-v24}
 
 [3, 26](#c3-v26) Tampoco los **gigantes** antediluvianos eran sabios. De lo contrario no habrían perecido en el diluvio. Véase [6, 1](#c6-v1) ss.; Job [22, 15](job#c22-v15); Sabiduría [14, 6](sabiduria#c14-v6); Eclesiástico [16, 8](eclesiastico#c16-v8).

@@ -348,7 +348,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [4, 10](#c4-v10) ¿Mas cómo le fue imputada? ¿Antes de la circuncisión o después de ella? No después de la circuncisión, sino antes.
 {:#c4-v10}
 
-[4, 11](#c4-v11) Y recibió el signo de la circuncisión como sello de la justicia de la fe que obtuvo, siendo aún incircunciso, para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos se les imputase la justicia;
+[4, 11](#c4-v11) Y recibió el signo de la circuncisión como sello de la justicia de la fe, la cual obtuvo siendo aún incircunciso, para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos se les imputase la justicia;
 {:#c4-v11}
 
 [4, 12](#c4-v12) como asimismo padre de los circuncisos, de aquellos que no solamente han recibido la circuncisión, sino que también siguen los pasos de la fe que nuestro padre Abrahán tenía siendo aún incircunciso [[\*\*]](#nt-c4-v12).
