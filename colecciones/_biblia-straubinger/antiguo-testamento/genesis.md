@@ -192,19 +192,19 @@ title: Génesis
 
 #### Tentación y caída
 
-[3, 1](#c3-v1) [[\*\*]](#nt-c3-v1) La serpiente, que era el más astuto de todos los animales del campo que Yahvé Dios había hecho, dijo a la mujer: «¿Cómo es que Dios ha mandado "No comáis de ningún árbol del jardín"?»
+[3, 1](#c3-v1) [[\*\*]](#nt-c3-v1) La serpiente, que era el más astuto de todos los animales del campo que Yahvé Dios había hecho, dijo a la mujer: «¿Cómo es que Dios ha mandado: "No comáis de ningún árbol del jardín"?»
 {:#c3-v1}
 
-[3, 2](#c3-v2) [[\*\*]](#nt-c3-v2) Respondió la mujer a la Serpiente: "Podemos comer del fruto de los árboles del jardín;
+[3, 2](#c3-v2) [[\*\*]](#nt-c3-v2) Respondió la mujer a la Serpiente: «Podemos comer del fruto de los árboles del jardín;
 {:#c3-v2}
 
-[3, 3](#c3-v3) mas del fruto del árbol que está en medio del jardín, ha dicho Dios: «No comáis de él, ni lo toquéis, no sea que muráis».
+[3, 3](#c3-v3) mas del fruto del árbol que está en medio del jardín, ha dicho Dios: "No comáis de él, ni lo toquéis, no sea que muráis"».
 {:#c3-v3}
 
-[3, 4](#c3-v4) [[\*\*]](#nt-c3-v4) Replicó la serpiente a la mujer: "De ninguna manera moriréis;
+[3, 4](#c3-v4) [[\*\*]](#nt-c3-v4) Replicó la serpiente a la mujer: «De ninguna manera moriréis;
 {:#c3-v4}
 
-[3, 5](#c3-v5) pues bien sabe Dios que el día en que comiereis de él, se os abrirán los ojos y seréis como Dios, conocedores del bien y del mal".
+[3, 5](#c3-v5) pues bien sabe Dios que el día en que comiereis de él, se os abrirán los ojos y seréis como Dios, conocedores del bien y del mal».
 {:#c3-v5}
 
 [3, 6](#c3-v6) [[\*\*]](#nt-c3-v6) Y como viese la mujer que el árbol era bueno para comida y una delicia para los ojos, y que el árbol era apetecible para alcanzar sabiduría, tomó de su fruto y comió y dio también a su marido (que estaba) con ella, y él comió también.
@@ -233,22 +233,22 @@ title: Génesis
 [3, 13](#c3-v13) Dijo luego Yahvé Dios a la mujer: «¿Qué es lo que has hecho?» Y contestó la mujer: «La serpiente me engañó, y comí.»
 {:#c3-v13}
 
-[3, 14](#c3-v14) [[\*\*]](#nt-c3-v14) Entonces dijo Yahvé Dios a la serpiente: "Por haber hecho esto, serás maldita como ninguna otra bestia doméstica o salvaje. Sobre tu vientre caminarás, y polvo comerás todos los días de tu vida.
+[3, 14](#c3-v14) [[\*\*]](#nt-c3-v14) Entonces dijo Yahvé Dios a la serpiente: «Por haber hecho esto, serás maldita como ninguna otra bestia doméstica o salvaje. Sobre tu vientre caminarás, y polvo comerás todos los días de tu vida.
 {:#c3-v14}
 
-[3, 15](#c3-v15) [[\*\*]](#nt-c3-v15) Y pondré enemistad entre ti y la mujer, y entre tu linaje y su linaje: éste te aplastará la cabeza, y tú le aplastarás el calcañar."
+[3, 15](#c3-v15) [[\*\*]](#nt-c3-v15) Y pondré enemistad entre ti y la mujer, y entre tu linaje y su linaje: éste te aplastará la cabeza, y tú le aplastarás el calcañar.»
 {:#c3-v15}
 
 [3, 16](#c3-v16) [[\*\*]](#nt-c3-v16) Después dijo a la mujer: «Multiplicaré tus dolores y tus preñeces; con dolor darás hijos a luz; te sentirás atraída por tu marido, pero él te dominará.»
 {:#c3-v16}
 
-[3, 17](#c3-v17) A Adán le dijo: "Por haber escuchado la voz de tu mujer y comido del árbol del que Yo te había prohibido comer, será maldita la tierra por tu causa; con doloroso trabajo te alimentarás de ella todos los días de tu vida;
+[3, 17](#c3-v17) A Adán le dijo: «Por haber escuchado la voz de tu mujer y comido del árbol del que Yo te había prohibido comer, será maldita la tierra por tu causa; con doloroso trabajo te alimentarás de ella todos los días de tu vida;
 {:#c3-v17}
 
 [3, 18](#c3-v18) te producirá espinas y abrojos, y comerás de las hierbas del campo.
 {:#c3-v18}
 
-[3, 19](#c3-v19) [[\*\*]](#nt-c3-v19) Con el sudor de tu rostro comerás el pan, hasta que vuelvas a la tierra; pues de ella fuiste tomado. Polvo eres y al polvo volverás."
+[3, 19](#c3-v19) [[\*\*]](#nt-c3-v19) Con el sudor de tu rostro comerás el pan, hasta que vuelvas a la tierra; pues de ella fuiste tomado. Polvo eres y al polvo volverás.»
 {:#c3-v19}
 
 #### Destierro del paraíso
@@ -680,10 +680,10 @@ title: Génesis
 [8, 20](#c8-v20) Después erigió Noé un altar a Yahvé, y tomando de todos los animales puros, y de todas las aves puras, ofreció holocaustos en el altar.
 {:#c8-v20}
 
-[8, 21](#c8-v21) [[\*\*]](#nt-c8-v21) Al aspirar Yahvé el agradable olor dijo en su corazón: "No volveré a maldecir la tierra por causa del hombre, porque los deseos del corazón humano son malos desde su niñez, ni volveré a exterminar a todos los seres vivientes, como he hecho.
+[8, 21](#c8-v21) [[\*\*]](#nt-c8-v21) Al aspirar Yahvé el agradable olor dijo en su corazón: «No volveré a maldecir la tierra por causa del hombre, porque los deseos del corazón humano son malos desde su niñez, ni volveré a exterminar a todos los seres vivientes, como he hecho.
 {:#c8-v21}
 
-[8, 22](#c8-v22) Mientras dure la tierra, no cesarán (de sucederse) sementera y siega, frío y calor, verano e invierno, día y noche.
+[8, 22](#c8-v22) Mientras dure la tierra, no cesarán (de sucederse) sementera y siega, frío y calor, verano e invierno, día y noche».
 {:#c8-v22}
 
 ### Génesis [9](#c9) {#c9}

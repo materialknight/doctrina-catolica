@@ -501,7 +501,7 @@ En cuanto a la jerarquía, su sagrada misión consiste ante todo en transmitir f
 
 San Pablo insiste en el carácter esencialmente sobrenatural de la función de los *presbíteros* (2 Timoteo [2, 4](2-timoteo#c2-v4) y nota), y Pío XI quiso extenderlo aun a las actividades de la Acción Católica, que son consideradas como participación en el apostolado jerárquico, al alejarlas de toda intervención de orden meramente político o temporal.
 
-[3, 16](#c3-v16) El v. [16](#c3-v16) parece ser una estrofa de un himno cristiano que resume en versos el misterio de Cristo, llamándolo **misterio de la piedad** (fe) digno de toda veneración.
+[3, 16](#c3-v16) El v. [16](#c3-v16) parece ser una estrofa de un himno cristiano que resume en versos el misterio de Cristo, llamándolo «**misterio de la piedad**» (fe) digno de toda veneración.
 {:#nt-c3-v16}
 
 **Manifestado en carne**: véase Juan [1, 14](juan#c1-v14).
