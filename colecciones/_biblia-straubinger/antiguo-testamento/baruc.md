@@ -18,8 +18,6 @@ La autoridad canónica del libro que algunos intentaron negar, está asegurada p
 
 El texto hebreo se ha perdido. Por eso seguimos la Vulgata.
 
-
-
 ## Baruc [1](#c1) {#c1}
 
 [1, 1](#c1-v1) Estas son las palabras del libro que escribió Baruc, hijo de Nerías, hijo de Maasías, hijo de Sedecías, hijo de Sedeí, hijo de Helcías, en Babilonia.
@@ -862,7 +860,7 @@ Esta profecía va más allá de la restauración después del destierro, la cual
 
 > «Eterno es un epíteto poético que recuerda que estos montes existen desde los tiempos más remotos, desde la creación. Cf. Génesis [49, 26](genesis#c49-v26); Deuteronomio [33, 15](deuteronomio#c33-v15), etc.» (Fillion). Véase Salmo [67, 16](salmos#c67-v16) y nota.
 
-[5, 9](#c5-v9) Véase nota 4 [?].
+[5, 9](#c5-v9) Véase nota al v. [4](#c5-v4).
 {:#nt-c5-v9}
 
 > «Las palabras del profeta, rebasando el hecho histórico del retorno a la patria, anuncian la gloria esplendorosa de la edad mesiánica» (Bover-Cantera).
