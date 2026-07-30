@@ -4988,23 +4988,21 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 
 ## Comentarios de Mons. Straubinger
 
-[1, 1](#c1-v1) **Al principio**, es decir, cuando no existía aún nada de lo que se encierra en las palabras «cielo y tierra».
+[1, 1](#c1-v1) **Al principio**, es decir, cuando no existía aún nada de lo que se encierra en las palabras «cielo y tierra». Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): «En el principio era el Verbo». De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo «el principio» y dice que «por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él» (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama «el principio» en Juan [8, 25](juan#c8-v25) (*Vulgata*).
 {:#nt-c1-v1}
-
-Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): «En el principio era el Verbo». De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo «el principio» y dice que «por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él» (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama «el principio» en Juan [8, 25](juan#c8-v25) (*Vulgata*).
 
 **Creó**: de la nada; no de alguna materia preexistente, como se lee en las cosmogonías paganas. El verbo hebreo *bará* se usa específicamente para señalar la actividad divina y la creación *ex nihilo*.
 
 > «Hacer una cosa cuando no existía nada, es producir de la nada, es crear en el sentido filosófico de la palabra.» (Ceuppens)
 
-**Dios**, en hebreo *Elohim*, es un plural que viene de *El* o *Eloah* (= el Fuerte). Sale en el Antiguo Testamento más de 2, 500 veces y tiene los siguientes significados:
+**Dios**, en hebreo «*Elohim*», es un plural que viene de «*El*» o «*Eloah*» (= el Fuerte). Sale en el Antiguo Testamento más de 2, 500 veces y tiene los siguientes significados:
 
 1. Dios,
 2. los falsos dioses (Éxodo [12, 12](exodo#c12-v12)),
 3. los vicarios de Dios: los ángeles, príncipes, jueces (Salmo [96, 7](salmos#c96-v7) comparar con Hebreos [1, 6](hebreos#c1-v6); Salmo [81, 6](salmos#c81-v6) comparar con Juan [10, 34](juan#c10-v34); cf. 1 Samuel [28, 13](1-samuel#c28-v13)).
 {:.lower-alpha}
 
-*Elohim* lleva por regla general los atributos y verbos en singular, como en este versículo (cf. también el versículo [26](#c1-v26)), lo que prueba claramente que no se trata como dicen los racionalistas, de un resto de politeísmo. Al contrario, el politeísmo es una depravación del monoteísmo primitivo, cuyas huellas se han conservado, fuera de la Biblia, hasta nuestros días, en algunos pueblos «salvajes» que viven muy retirados y sin mayor contacto con los otros. Los investigadores modernos, sobre todo la escuela antropológica del P. W. Schmidt, han descubierto en aquellos pueblos la creencia de un Dios supremo, creador de todas las cosas, muy justo y muy bueno, legislador y juez de los hombres. No hay, pues, duda, de que el politeísmo es un producto de la apostasía de la religión primitiva.
+«*Elohim*» lleva por regla general los atributos y verbos en singular, como en este versículo (cf. también el versículo [26](#c1-v26)), lo que prueba claramente que no se trata como dicen los racionalistas, de un resto de politeísmo. Al contrario, el politeísmo es una depravación del monoteísmo primitivo, cuyas huellas se han conservado, fuera de la Biblia, hasta nuestros días, en algunos pueblos «salvajes» que viven muy retirados y sin mayor contacto con los otros. Los investigadores modernos, sobre todo la escuela antropológica del P. W. Schmidt, han descubierto en aquellos pueblos la creencia de un Dios supremo, creador de todas las cosas, muy justo y muy bueno, legislador y juez de los hombres. No hay, pues, duda, de que el politeísmo es un producto de la apostasía de la religión primitiva.
 
 **El cielo**, incluso los ángeles (cf. El pasaje de Colosenses [1, 16](colosenses#c1-v16), citado más arriba) y **la tierra**: el orbe entero, sin excluir nada. Orígenes y San Agustín entienden por «cielo» las cosas espirituales, por «tierra» las materiales.
 

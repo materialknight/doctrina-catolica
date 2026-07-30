@@ -5,6 +5,10 @@ li {
    font-size: 1rem;
 }
 
+a {
+   /* font-weight: bold; */
+}
+
 blockquote {
    font-style: normal;
    letter-spacing: normal;

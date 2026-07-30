@@ -99,7 +99,7 @@ title: Epístola de Bernabé
 
 ### Huyamos de toda maldad, porque se acerca el fin de los tiempos
 
-[4, 1](#c4-v1) Así, pues, es preciso que, escudriñando muy despacio lo presente, inquiramos las cosas que pueden salvarnos. Huyamos, por ende, de modo absoluto de todas las obras dc la iniquidad, a fin de que jamás las obras de la iniquidad se apoderen de nosotros y aborrezcamos el extravío del tiempo presente, a fin de ser amados en el por venir.
+[4, 1](#c4-v1) Así, pues, es preciso que, escudriñando muy despacio lo presente, inquiramos las cosas que pueden salvarnos. Huyamos, por ende, de modo absoluto de todas las obras de la iniquidad, a fin de que jamás las obras de la iniquidad se apoderen de nosotros y aborrezcamos el extravío del tiempo presente, a fin de ser amados en el por venir.
 {:#c4-v1}
 
 [4, 2](#c4-v2) No demos suelta a nuestra propia alma, de suerte que tenga poder para correr juntamente con los pecadores y los malvados, no sea que nos asemejemos a ellos.

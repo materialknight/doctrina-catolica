@@ -992,10 +992,10 @@ La falsa **libertad** consiste en querer obrar a impulsos de nuestra voluntad pr
 [4, 16](#c4-v16) De ahí que el mismo apóstol nos enseñe que en su debilidad está su fortaleza ([10, 10](#c10-v10); 1 Corintios [1, 25](1-corintios#c1-v25)-27; [12, 10](1-corintios#c12-v10)).
 {:#nt-c4-v16}
 
-[4, 18](#c4-v18) ¡He aquí algo que puede ser definitivo para curarnos de todo amor efímero! Dios quiere lo que es y no parece: la Eucaristía. El hombre, a la inversa, quiere lo que parece y no es (cf. Mateo [15, 8](mateo#c15-v8)). Por eso busca tanto las obras exteriores, sin comprender que Dios no las necesita y que ellas valen solo en proporción del amor que las inspira. Como por desgracia no es normal que tengamos siempre ese amor en nosotros, debemos previamente preparar el espíritu por la meditación y la oración, que aumentan la fe y la caridad (4, 7 y nota). Entonces todo lo que hagamos inspirados por ese amor tendrá la certeza de ser agradable a Dios. De ahí la lección fundamental de los Proverbios ([4, 23](proverbios#c4-v23)): «Sobre toda cosa guardada, guarda tu corazón». Porque del estado de este depende el valor de todo lo que hagamos.
+[4, 18](#c4-v18) ¡He aquí algo que puede ser definitivo para curarnos de todo amor efímero! Dios quiere lo que es y no parece: la Eucaristía. El hombre, a la inversa, quiere lo que parece y no es (cf. Mateo [15, 8](mateo#c15-v8)). Por eso busca tanto las obras exteriores, sin comprender que Dios no las necesita y que ellas valen solo en proporción del amor que las inspira. Como por desgracia no es normal que tengamos siempre ese amor en nosotros, debemos previamente preparar el espíritu por la meditación y la oración, que aumentan la fe y la caridad ([4, 7](#c4-v7) y nota). Entonces todo lo que hagamos inspirados por ese amor tendrá la certeza de ser agradable a Dios. De ahí la lección fundamental de los Proverbios ([4, 23](proverbios#c4-v23)): «Sobre toda cosa guardada, guarda tu corazón». Porque del estado de este depende el valor de todo lo que hagamos.
 {:#nt-c4-v18}
 
-Sobre la *fugacidad* de lo visible, cf. 1 Corintios [7, 31](1-corintios#c7-v31) y nota.
+Sobre la *fugacidad de lo visible*, cf. 1 Corintios [7, 31](1-corintios#c7-v31) y nota.
 
 [5, 1](#c5-v1) **Esta tienda de nuestra mansión terrestre**: el cuerpo. Nuestra verdadera habitación es el cielo (v. [2](#c5-v2); Filipenses [3, 20](filipenses#c3-v20)).
 {:#nt-c5-v1}

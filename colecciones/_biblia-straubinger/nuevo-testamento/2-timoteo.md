@@ -360,7 +360,7 @@ Acerca del éxito obtenido ya entonces por esos «hombres de mentira», anota sa
 
 > «Es verdad que la fuerza sigue siendo la dominadora indiscutida de la naturaleza irracional de las almas paganas de hoy, semejantes a las que desde su tiempo llamaba el apóstol S. Pablo: sin corazón y despiadadas hacia los pobres y los débiles (2 Timoteo [3, 3](2-timoteo#c3-v3))».
 
-[3, 5](#c3-v5) Lo que hace más peligrosos a los falsos profetas es precisamente esta característica de que no se presentan como defensores del mal «sino con piel de oveja» (Mateo [7, 15](mateo#c7-v15); 1 Timoteo [4, 3](1-timoteo#c4-v3)). S. Pablo enseña que ya está obrando ese «misterio de iniquidad» (2 Tesalonicenses [2, 7](2-tesalonicenses#c2-v7)) que solo aparecerá sin disimulo cuando se presente triunfante el Anticristo. Cf. 2 Tesalonicenses [2, 8](2-tesalonicenses#c2-v8); Ap. 13.
+[3, 5](#c3-v5) Lo que hace más peligrosos a los falsos profetas es precisamente esta característica de que no se presentan como defensores del mal «sino con piel de oveja» (Mateo [7, 15](mateo#c7-v15); 1 Timoteo [4, 3](1-timoteo#c4-v3)). S. Pablo enseña que ya está obrando ese «misterio de iniquidad» (2 Tesalonicenses [2, 7](2-tesalonicenses#c2-v7)) que solo aparecerá sin disimulo cuando se presente triunfante el Anticristo. Cf. 2 Tesalonicenses [2, 8](2-tesalonicenses#c2-v8); Apocalipsis [13](apocalipsis#c13).
 {:#nt-c3-v5}
 
 [3, 6](#c3-v6) El apóstol vuelve sobre este tema en Tito [1, 11](tito#c1-v11). Véase Mateo [23, 14](mateo#c23-v14), donde Jesucristo dice lo mismo de los fariseos.

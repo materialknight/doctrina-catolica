@@ -1404,7 +1404,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 [12, 6](#c12-v6) Cuando Herodes estaba ya a punto de presentarlo, en aquella misma noche Pedro dormía en medio de dos soldados, atado con dos cadenas, y ante las puertas estaban guardias que custodiaban la cárcel.
 {:#c12-v6}
 
-[12, 7](#c12-v7) Y he aquí que sobrevino un ángel del Señor y una luz, resplandeció en el aposento, y golpeando el costado de Pedro lo despertó, diciendo: «Levántate presto». Y se le cayeron las cadenas de las manos [[\*\*]](#nt-c12-v7).
+[12, 7](#c12-v7) Y he aquí que sobrevino un ángel del Señor, y una luz resplandeció en el aposento, y golpeando el costado de Pedro lo despertó, diciendo: «Levántate presto». Y se le cayeron las cadenas de las manos [[\*\*]](#nt-c12-v7).
 {:#c12-v7}
 
 [12, 8](#c12-v8) Díjole entonces el ángel: «Cíñete y cálzate tus sandalias»; y lo hizo así. Díjole asimismo: «Ponte la capa y sígueme».
