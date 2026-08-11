@@ -15,7 +15,7 @@ San Mateo fue el primero en escribir la Buena Nueva en forma de libro, entre los
 El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido, porque en Él se han cumplido los vaticinios de los Profetas. Para sus lectores inmediatos no había mejor prueba que esta, y también nosotros experimentamos, al leer su Evangelio, la fuerza avasalladora de esa comprobación.
 
 
-## I. Infancia de jesucristo
+## I. Infancia de Jesucristo
 
 ### Mateo [1](#c1) {#c1}
 
