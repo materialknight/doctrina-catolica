@@ -1,0 +1,197 @@
+This file is to test the script ./link-bible.sh. Run that script while passing this file as the argument. Changes to this file must not be saved. Once you verify the script works, undo the changes.
+
+Gn 1,1
+Gn. 3, 16
+Gen 12,3
+Gén. 22, 18
+Génesis 1, 27
+
+Éx 20,13
+Éxodo 3,14
+
+Le 19,18
+Lev. 19, 18
+Levítico 19,18
+
+Nm 6,24
+Núm. 6, 24
+Números 6,24
+
+Dt 6,4
+Deuteronomio 6, 5
+
+Jos 1,9
+Josué 24,15
+
+Jc 6,12
+Jue. 5,31
+Jueces 2,10
+
+1 Sa 16,7
+1 Sam. 16, 7
+1 Samuel 17,47
+I Rey. 8,27
+I Reyes 18,21
+
+2 Sa 7,12
+2 Sam. 22,2
+2 Samuel 22,3
+II Rey. 2,11
+II Reyes 19,35
+
+1 Cr 29,11
+1 Cró. 29, 11
+1 Crónicas 16,8
+I Paralipómenos 29,11
+
+Esd 7,10
+Esdras 7,10
+Neh. 8,8
+Nehemías 9,6
+
+Tob. 12,8
+Tobías 4,7
+Jdt 8,25
+Judit 13,18
+Est. 4,14
+Ester 8,17
+
+1 Mac. 2,61
+1 Macabeos 2,61
+I Mac. 3,18
+II Macabeos 7,9
+
+Jb 19,25
+Job 19,25
+Sal 23,1
+Salmos 23,4
+Samos 22,2
+Pro. 3,5
+Proverbios 3,6
+
+Ec. 3,1
+Qo. 12,13
+Eclesiastés 1,2
+Qohelet 3,11
+Cantar 2,1
+Cantares 8,6
+Cantar de los Cantares 4,7
+Sab. 2,23
+Sabiduría 11,24
+Eclo. 2,1
+Sir. 24,1
+Eclesiástico 24,1
+Sirácides 2,10
+Sirácida 24,23
+
+Is. 7,14
+Isaías 53,5
+Jer. 31,31
+Jeremías 1,5
+Lam. 3,22
+Lamentaciones 3,23
+Bar. 3,9
+Baruc 3,12
+Ez. 36,26
+Ezequiel 37,14
+Dan. 7,13
+Daniel 7,14
+
+Os. 6,6
+Oseas 11,1
+Jl. 2,28
+Joe. 3,1
+Joel 2,17
+Am. 5,24
+Amós 8,11
+Abd. 1
+Abdías 1
+
+Jon. 2,3
+Jonás 3,10
+Miq. 5,1
+Miqueas 6,8
+Nah. 1,7
+Nahúm 1,7
+Hab. 2,4
+Habacuc 2,20
+Sof. 3,17
+Sofonías 3,17
+Ag. 2,8
+Hag. 2,9
+Ageo 2,10
+Zac. 9,9
+Zacarías 12,10
+Mal. 3,1
+Malaquías 3,1
+
+Mt 5,3
+Mateo 5,44
+Mr. 1,15
+Mc. 10,45
+Marc. 8,34
+Marcos 16,15
+Lc. 6,36
+Lu. 15,20
+Lucas 23,34
+Jn. 3,16
+Juan 14,6
+Hch. 2,38
+He. 4,12
+Hechos 1,8
+
+Ro. 3,23
+Rom. 8,28
+Romanos 12,2
+1 Co. 13,4
+1 Corintios 13,13
+I Corintios 15,3
+2 Co. 5,17
+2 Corintios 5,21
+II Corintios 12,9
+Gál. 2,20
+Gal. 5,22
+Gálatas 5,22
+Ef. 2,8
+Efesios 4,11
+Flp. 4,13
+Fil. 2,5
+Filipenses 2,8
+Col. 1,15
+Colosenses 3,12
+
+1 Tes. 4,16
+I Tesalonicenses 5,16
+2 Tes. 2,13
+II Tesalonicenses 3,5
+1 Tim. 4,12
+1 Timoteo 6,12
+II Tim. 3,16
+2 Timoteo 4,7
+Tit. 2,11
+Tito 3,5
+Flm. 1
+Filemón 1
+Heb. 4,12
+Hebreos 11,1
+St. 2,17
+Sant. 1,5
+Stgo. 2,14
+Santiago 2,26
+1 Pe. 2,9
+I Pedro 3,15
+2 Pe. 1,4
+II Pedro 3,8
+1 Jn. 4,8
+1 Juan 4,19
+2 Jn. 1
+II Jn. 1
+3 Jn. 1
+III Juan 1
+Jud. 3
+Judas 3
+Ap. 21,4
+Apoc. 21,1
+Rev. 22,20
+Apocalipsis 22,21
+Revelación 1,8
