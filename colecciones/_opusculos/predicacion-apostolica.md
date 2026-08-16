@@ -31,7 +31,7 @@ Como el hombre es un ser viviente compuesto de alma y cuerpo, así es necesario 
 
 La piedad se empaña y pierde su candor cuando se contamina con la impureza del cuerpo. Se rompe, se mancha y se desintegra cuando el error entra en el alma. Y se mantendrá en su belleza y en su justa proporción cuando la verdad habita constantemente en el alma y la santidad en el cuerpo. Pero ¿para qué sirve conocer la verdad de palabra si se profana el cuerpo y se realizan acciones degradantes? ¿De qué sirve la santidad del cuerpo si la verdad no anida en el alma?
 
-Ambos, pues, se alegran de estar juntos, están aliados y luchan mano a mano para llevar al hombre a la presencia de Dios. Por eso dice el Espíritu Santo por medio de David: «Dichoso el hombre que no ha caminado en el consejo de los impíos» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})). Es decir, en el consejo de los pueblos que no conocen a Dios. De hecho, impíos son aquellos que no veneran a Aquél que es, por naturaleza, Dios. De ahí que el Verbo dice a Moisés: «Yo soy el que soy» (Ex 3,14).
+Ambos, pues, se alegran de estar juntos, están aliados y luchan mano a mano para llevar al hombre a la presencia de Dios. Por eso dice el Espíritu Santo por medio de David: «Dichoso el hombre que no ha caminado en el consejo de los impíos» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})). Es decir, en el consejo de los pueblos que no conocen a Dios. De hecho, impíos son aquellos que no veneran a Aquél que es, por naturaleza, Dios. De ahí que el Verbo dice a Moisés: «Yo soy el que soy» (Ex [3, 14]({{ "biblia-straubinger/exodo#c3-v14" | relative_url }})).
 
 De esta forma, los que no veneran a Aquél que verdaderamente es, son impíos, como dice la Escritura: «El que no se ha parado en el camino de los pecadores» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})). Y son pecadores los que poseen el conocimiento de Dios y no guardan sus mandamientos. Es decir, los que le desprecian, como dice la Escritura: «Que tampoco se sienta en la cátedra de los cínicos» (Sal [1, 1]({{ "biblia-straubinger/salmos#c1-v1" | relative_url }})).
 
@@ -40,7 +40,7 @@ Cínicos son los que con doctrinas falsas y perversas no sólo se corrompen a s�
 ## [3](#c3). La Regla de Fe: fundamento de la verdad y de la salvación
 {:#c3}
 
-Así pues, por temor a cosa semejante, nosotros debemos mantener inalterada la Regla de la Fe, y cumplir los mandamientos de Dios creyendo en Él, temiéndole como a Señor y amándole como a Padre. Por tanto, un comportamiento de este estilo es una conquista de la fe, pues, como dice Isaías: «Si no creéis no comprenderéis» (Is 7,9); la fe nos es concedida por la verdad, pues la fe se fundamenta en la verdad. De hecho, nosotros creemos lo que realmente es y como es; y creyendo lo que realmente es y como siempre es, mantendremos firme nuestra adhesión.
+Así pues, por temor a cosa semejante, nosotros debemos mantener inalterada la Regla de la Fe, y cumplir los mandamientos de Dios creyendo en Él, temiéndole como a Señor y amándole como a Padre. Por tanto, un comportamiento de este estilo es una conquista de la fe, pues, como dice Isaías: «Si no creéis no comprenderéis» (Is [7, 9]({{ "biblia-straubinger/isaias#c7-v9" | relative_url }})); la fe nos es concedida por la verdad, pues la fe se fundamenta en la verdad. De hecho, nosotros creemos lo que realmente es y como es; y creyendo lo que realmente es y como siempre es, mantendremos firme nuestra adhesión.
 
 Ahora bien, puesto que la fe sostiene nuestra salvación, es necesario prestarle mucha atención para lograr una auténtica inteligencia de la realidad. La fe es la que nos procura todo eso como nos han transmitido los presbíteros, discípulos de los apóstoles.
 
@@ -85,18 +85,18 @@ Dios es el Dios de todos, de los judíos, de los gentiles y de los creyentes. Pe
 
 Para todos, sin excepción, es dador de alimento y manjar, rey y juez, porque nadie escapará a su juicio, ni judío, ni gentil ni ningún creyente que haya pecado y ni siquiera un ángel. Aquellos que en el presente se nieguen a creer en su bondad, experimentarán en el juicio su poder, como dice el santo apóstol: «No reconociendo que la bondad de Dios te está empujando a la enmienda, antes por el contrario, con la dureza y la impenitencia de tu corazón te estás almacenando la ira para el día de la ira cuando se revelará el justo juicio de Dios que pagará a cada uno según sus obras» (Rm [2, 4]({{ "biblia-straubinger/romanos#c2-v4" | relative_url }})-6).
 
-Éste es Aquel que en la ley es llamado «el Dios de Abraham, el Dios de Isaac y el Dios de Jacob, Dios de vivos» (Ex 3,6). De este Dios es indescriptible su trascendencia y magnitud.
+Éste es Aquel que en la ley es llamado «el Dios de Abraham, el Dios de Isaac y el Dios de Jacob, Dios de vivos» (Ex [3, 6]({{ "biblia-straubinger/exodo#c3-v6" | relative_url }})). De este Dios es indescriptible su trascendencia y magnitud.
 
 ## [9](#c9). Los siete cielos, los dones del Espíritu y el culto angélico
 {:#c9}
 
 Este mundo hálláse rodeado de siete cielos, en los cuales habitan innumerables potencias, ángeles y arcángeles, que aseguran un culto a Dios todopoderoso y creador del universo. No porque tenga necesidad de ellos, sino para que no estén al menos sin hacer nada e inútiles y malditos.
 
-Por eso es múltiple la presencia interior del Espíritu de Dios, y el profeta Isaías la enumera en siete formas de ministerio, que han descansado en el Hijo de Dios, a saber, el Verbo en su venida humana. En efecto, dice: «Sobre Él se posará el Espíritu de Dios, espíritu de sabiduría e inteligencia, espíritu de consejo y de fortaleza, espíritu de ciencia y de piedad; le conquistará el espíritu del temor de Dios» (Is 11,2-3).
+Por eso es múltiple la presencia interior del Espíritu de Dios, y el profeta Isaías la enumera en siete formas de ministerio, que han descansado en el Hijo de Dios, a saber, el Verbo en su venida humana. En efecto, dice: «Sobre Él se posará el Espíritu de Dios, espíritu de sabiduría e inteligencia, espíritu de consejo y de fortaleza, espíritu de ciencia y de piedad; le conquistará el espíritu del temor de Dios» (Is [11, 2]({{ "biblia-straubinger/isaias#c11-v2" | relative_url }})-3).
 
 El primer cielo, a partir de lo alto (que contiene a los restantes), es la sabiduría; el segundo es la inteligencia; el tercero es el consejo; el cuarto, en línea descendente, es la fortaleza; el quinto es la ciencia; el sexto es la piedad; el séptimo, que corresponde a nuestro firmamento, está repleto del temor de este Espíritu que ilumina a los cielos.
 
-De ahí tomó Moisés el modelo del candelabro de los siete brazos, que arde ininterrumpidamente en el santuario. De hecho, organizó el culto según este esquema celeste con lo que le había significado el Verbo: «Te ajustarás al modelo que te fue mostrado en la montaña» (Ex 25,40).
+De ahí tomó Moisés el modelo del candelabro de los siete brazos, que arde ininterrumpidamente en el santuario. De hecho, organizó el culto según este esquema celeste con lo que le había significado el Verbo: «Te ajustarás al modelo que te fue mostrado en la montaña» (Ex [25, 40]({{ "biblia-straubinger/exodo#c25-v40" | relative_url }})).
 
 ## [10](#c10). La glorificación del Padre, por el Hijo y por el Espíritu Santo
 {:#c10}
@@ -186,7 +186,7 @@ De hecho, los cananeos, los jeteos, los fereceos, los jeveos, los amorreos, los 
 
 Igual que la maldición siguió su camino, la bendición continuó en la posteridad del que había sido bendecido, cada uno según su orden. En primer lugar fue bendecido Sem con estas palabras: «Bendito el Señor Dios de Sem. Sea Cam su siervo» (Gn [9, 26]({{ "biblia-straubinger/genesis#c9-v26" | relative_url }})).
 
-De esta bendición resultó que Dios, Señor del universo, llegó a ser para Sem objeto privilegiado de su piedad; la bendición se desarrolló hasta alcanzar a Abraham, que, en la posteridad de Sem, llega a la décima generación según el orden genealógico descendente. Y es ésta la razón por la que el Padre, Dios del universo, se complace en ser llamado «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex 3,6; Mt 22,32; Mc [12, 26]({{ "biblia-straubinger/marcos#c12-v26" | relative_url }}); Lc 20,37), porque la bendición de Sem llegó hasta Abrahán.
+De esta bendición resultó que Dios, Señor del universo, llegó a ser para Sem objeto privilegiado de su piedad; la bendición se desarrolló hasta alcanzar a Abraham, que, en la posteridad de Sem, llega a la décima generación según el orden genealógico descendente. Y es ésta la razón por la que el Padre, Dios del universo, se complace en ser llamado «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex [3, 6]({{ "biblia-straubinger/exodo#c3-v6" | relative_url }}); Mt [22, 32]({{ "biblia-straubinger/mateo#c22-v32" | relative_url }}); Mc [12, 26]({{ "biblia-straubinger/marcos#c12-v26" | relative_url }}); Lc [20, 37]({{ "biblia-straubinger/lucas#c20-v37" | relative_url }})), porque la bendición de Sem llegó hasta Abrahán.
 
 La bendición de Jafet fue formulada del siguiente modo: «Que Dios dilate a Jafet y habite en la casa de Sem, y Cam sea su siervo» (Gn [9, 27]({{ "biblia-straubinger/genesis#c9-v27" | relative_url }})). Esta bendición floreció al final de este período, cuando el Señor se manifestó a las naciones por su llamamiento (pues Dios dilató su llamamiento hasta ellas) y «a toda la tierra alcanzó su pregón y sus palabras han llegado hasta los límites del orbe» (Sal [18, 5]({{ "biblia-straubinger/salmos#c18-v5" | relative_url }})).
 
@@ -219,7 +219,7 @@ Para que Abraham conociese la grandeza y esplendor de su descendencia, Dios le h
 
 Era Abraham incircunciso cuando recibió este testimonio, y para que la grandeza de su fe fuera reconocida con un signo, le dio la circunsición «como sello de la justicia de la fe de la incircuncisión» (Rm [4, 11]({{ "biblia-straubinger/romanos#c4-v11" | relative_url }})). Después de esto, según la promesa de Dios, de la estéril Sara le nació un hijo, Isaac, que circuncidó según el pacto que Dios había estipulado con él. De Isaac nació Jacob.
 
-De esta manera, la inicial bendición de Sem llegó hasta Abraham, y de Abraham pasó a Isaac, y de Isaac a Jacob, gracias a la asignación de la herencia hecha por el Espíritu. Por esto a Dios se le denomina «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex 3,6; Mt 22,32). Jacob, a su vez, engendró doce hijos, de los cuales tomaron el nombre las doce tribus de Israel.
+De esta manera, la inicial bendición de Sem llegó hasta Abraham, y de Abraham pasó a Isaac, y de Isaac a Jacob, gracias a la asignación de la herencia hecha por el Espíritu. Por esto a Dios se le denomina «Dios de Abraham, Dios de Isaac y Dios de Jacob» (Ex [3, 6]({{ "biblia-straubinger/exodo#c3-v6" | relative_url }}); Mt [22, 32]({{ "biblia-straubinger/mateo#c22-v32" | relative_url }})). Jacob, a su vez, engendró doce hijos, de los cuales tomaron el nombre las doce tribus de Israel.
 
 ## [25](#c25). El misterio de la Pascua
 {:#c25}
@@ -280,7 +280,7 @@ Unió el Verbo al hombre con Dios, y obró la comunión entre Dios y el hombre, 
 
 Y porque, envueltos todos en la creación originaria de Adán, hemos sido vinculados a la muerte, por causa de su desobediencia, era conveniente y justo que, por obra de la obediencia de quien se hizo hombre por nosotros, fueran rotas las cadenas de la muerte. Y porque la muerte reinaba sobre la carne, era preciso que fuera abolida por medio de la carne, y que el hombre fuera liberado de su opresión.
 
-«El Verbo se hizo carne» (Jn 1,14) para destruir por medio de la carne el pecado que por obra de la carne había adquirido el poder, el derecho de propiedad y dominio; y para que no existiese más entre nosotros. Por esta razón nuestro Señor tomó una corporeidad idéntica a la de la primera creatura para luchar en favor de los primogénitos y vencer en Adán a quien en Adán nos había herido.
+«El Verbo se hizo carne» (Jn [1, 14]({{ "biblia-straubinger/juan#c1-v14" | relative_url }})) para destruir por medio de la carne el pecado que por obra de la carne había adquirido el poder, el derecho de propiedad y dominio; y para que no existiese más entre nosotros. Por esta razón nuestro Señor tomó una corporeidad idéntica a la de la primera creatura para luchar en favor de los primogénitos y vencer en Adán a quien en Adán nos había herido.
 
 ## [32](#c32). Adán y Cristo
 {:#c32}
@@ -299,7 +299,7 @@ Y que Eva fuese recapitulada en María, a fin de que una Virgen, venida a ser ab
 ## [34](#c34). La crucifixión cósmica
 {:#c34}
 
-El Verbo, preanunciando por medio del profeta Isaías los acontecimientos futuros (son profetas porque anuncian lo que va a suceder), se expresa así: «Yo no me rebelo ni contradigo. He ofrecido mis espaldas a los azotes y mis mejillas a las bofetadas; no hurtaré mi rostro a la afrenta de los esputos» (Is 50,5-6).
+El Verbo, preanunciando por medio del profeta Isaías los acontecimientos futuros (son profetas porque anuncian lo que va a suceder), se expresa así: «Yo no me rebelo ni contradigo. He ofrecido mis espaldas a los azotes y mis mejillas a las bofetadas; no hurtaré mi rostro a la afrenta de los esputos» (Is [50, 5]({{ "biblia-straubinger/isaias#c50-v5" | relative_url }})-6).
 
 Así pues, por la obediencia a que se sometió hasta la muerte, pendiente del madero, destruyó la desobediencia antigua cometida en el árbol. Y como el Verbo mismo omnipotente de Dios, en su condición invisible, está entre nosotros extendido por todo este universo visible y abraza su largura y su anchura y su altura y su hondura (pues por medio del Verbo de Dios fueron dispuestas y gobernadas aquí todas las cosas), la crucifixión visible del Hijo de Dios tuvo también lugar en esas dimensiones, anticipadas invisiblemente en la forma de cruz trazada por Él en el universo.
 
@@ -329,7 +329,7 @@ En tales condiciones, pues, realizaba Dios magníficamente nuestra salvación, m
 
 Dios Padre, por su inmensa misericordia, envió a su Verbo creador, el cual, venido para salvarnos, estuvo en los mismos lugares, en la misma situación y en los ambientes donde nosotros hemos perdido la vida. Y rompió las cadenas que nos tenían prisioneros. Apareció su luz e hizo desaparecer las tinieblas de la prisión y santificó nuestro nacimiento y abolió la muerte, desligando aquellos mismos lazos en que nos habían encadenado.
 
-Dios manifestó la resurrección haciéndose Él en persona primogénito de los muertos. Levantó en su persona al hombre caído por tierra, al ser elevado a Él a las alturas del cielo hasta la diestra de la gloria del Padre, como había Dios prometido por medio del profeta al decir: «Levantaré la tienda de David, caída en la tierra» (Am 9,11). Es decir, el cuerpo que proviene de David.
+Dios manifestó la resurrección haciéndose Él en persona primogénito de los muertos. Levantó en su persona al hombre caído por tierra, al ser elevado a Él a las alturas del cielo hasta la diestra de la gloria del Padre, como había Dios prometido por medio del profeta al decir: «Levantaré la tienda de David, caída en la tierra» (Am [9, 11]({{ "biblia-straubinger/amos#c9-v11" | relative_url }})). Es decir, el cuerpo que proviene de David.
 
 Nuestro Señor Jesucristo cumplió realmente esto actuando gloriosamente nuestra salvación, a fin de resucitarnos de veras y presentarnos libres al Padre. Y si alguien no acepta su nacimiento de una virgen, ¿cómo va a admitir su resurrección de entre los muertos? Porque nada tiene de milagroso, extraño e inesperado, que resucite de entre los muertos el que no nació; ni siquiera podemos hablar de resurrección para el que vino a la existencia sin nacimiento.
 
@@ -345,7 +345,7 @@ Según eso, los que niegan al hombre la redención y no creen que Dios le resuci
 ## [40](#c40). La continua llamada del Verbo
 {:#c40}
 
-Así pues, el Verbo de Dios ostenta el primado sobre todas las cosas, porque es verdadero hombre y «admirable consejero y Dios fuerte» (Is 9,6), que llama de nuevo con la resurrección al hombre a la comunión con Dios para que por medio de la comunión con Él participemos en la incorruptibilidad.
+Así pues, el Verbo de Dios ostenta el primado sobre todas las cosas, porque es verdadero hombre y «admirable consejero y Dios fuerte» (Is [9, 6]({{ "biblia-straubinger/isaias#c9-v6" | relative_url }})), que llama de nuevo con la resurrección al hombre a la comunión con Dios para que por medio de la comunión con Él participemos en la incorruptibilidad.
 
 El que es anunciado por Moisés y por los profetas del Dios altísimo y omnipotente, Padre del universo y origen de todo, vino a Judea, engendrado por Dios por medio del Espíritu Santo, y nacido de la Virgen María, que era de la estirpe de David y de Abraham. Así vino Jesús, el Ungido de Dios, el que se reveló a sí mismo como el que había sido predicho por los profetas.
 
@@ -372,7 +372,7 @@ A Dios se le debe creer todo, porque es veraz en todo. Y creer que un hijo exist
 
 El profeta Jeremías lo testimonió cuando dice: «Antes de  la estrella matutina te he engendrado, y antes del sol es tu nombre». Es decir, antes de la creación del mundo y antes de las estrellas creadas con el mundo. Y también cuando dijo: «Dichoso aquel que existía antes de ser hombre». Pues para Dios, el Hijo fue el principio antes de la creación del mundo, pero para nosotros no existe más que desde ahora (es decir, desde cuando se ha manifestado).
 
-Antes, pues, no existía para nosotros porque no lo conocíamos. Por esto su discípulo Juan, explicándonos quien es el Hijo de Dios que estaba junto al Padre antes de que el mundo fuese formado, y que por su mediación todo fue creado, dice: «Al principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios. Él estaba al principio en Dios. Todas las cosas fueron hechas por Él, y sin Él, no se hizo nada de cuanto ha sido hecho» (Jn 1, 1-3). De esta forma demuestra claramente Juan que todas las cosas han sido creadas por medio de este Verbo, el cual desde el principio estaba con el Padre, es decir, su Hijo.
+Antes, pues, no existía para nosotros porque no lo conocíamos. Por esto su discípulo Juan, explicándonos quien es el Hijo de Dios que estaba junto al Padre antes de que el mundo fuese formado, y que por su mediación todo fue creado, dice: «Al principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios. Él estaba al principio en Dios. Todas las cosas fueron hechas por Él, y sin Él, no se hizo nada de cuanto ha sido hecho» (Jn [1, 1]({{ "biblia-straubinger/juan#c1-v1" | relative_url }})-3). De esta forma demuestra claramente Juan que todas las cosas han sido creadas por medio de este Verbo, el cual desde el principio estaba con el Padre, es decir, su Hijo.
 
 ## [44](#c44). El Hijo de Dios conversa con Abraham
 {:#c44}
@@ -388,12 +388,12 @@ Abraham, pues, era profeta, y vio cuánto había de suceder en el futuro. Sobre 
 
 También Jacob, cuando viajó a Mesopotamia, vio al Hijo de Dios en sueños, de pie en lo alto de la escalera. Es decir, en el madero que estaba fijo de la tierra al cielo, pues por este madero los que creen en Él ascienden al cielo, porque su pasión es nuestra ascensión. Todas las visiones de este género significan al Hijo de Dios que conversa con los hombres y está en medio de ellos.
 
-Ciertamente, no es el Padre del universo, invisible al mundo y creador de todo, quien dice: «El cielo es mi trono, y la tierra el estrado de mis pies; ¿qué casa vais a edificarme o qué lugar para mi descanso?» (Is 66,1-2; Hch [7, 49]({{ "biblia-straubinger/hechos#c7-v49" | relative_url }})), y, «¿quién sostiene la tierra en un puño y el cielo en la palma de la mano?» (Is 40,12). No era ciertamente Él el que estaba de pie en un pequeño espacio y conversaba con Abraham, sino el Verbo de Dios que, siempre presente en medio del género humano, nos daba a conocer anticipadamente lo que había de suceder e instruía a los hombres sobre las cosas de Dios.
+Ciertamente, no es el Padre del universo, invisible al mundo y creador de todo, quien dice: «El cielo es mi trono, y la tierra el estrado de mis pies; ¿qué casa vais a edificarme o qué lugar para mi descanso?» (Is [66, 1]({{ "biblia-straubinger/isaias#c66-v1" | relative_url }})-2; Hch [7, 49]({{ "biblia-straubinger/hechos#c7-v49" | relative_url }})), y, «¿quién sostiene la tierra en un puño y el cielo en la palma de la mano?» (Is [40, 12]({{ "biblia-straubinger/isaias#c40-v12" | relative_url }})). No era ciertamente Él el que estaba de pie en un pequeño espacio y conversaba con Abraham, sino el Verbo de Dios que, siempre presente en medio del género humano, nos daba a conocer anticipadamente lo que había de suceder e instruía a los hombres sobre las cosas de Dios.
 
 ## [46](#c46). El Hijo de Dios conversa con Moisés
 {:#c46}
 
-Fue también el Hijo de Dios quien, en la zarza ardiente, conversó con Moisés y dijo: «He visto los sufrimientos de mi pueblo en Egipto y he bajado para liberarlo» (Ex 3,7-8). Él subía y bajaba para liberar a los oprimidos arrancándonos del poder de los egipcios, es decir, de toda clase de idolatría e impiedad; salvándonos del mar Rojo. Es decir, liberándonos de las turbulencias homicidas de los gentiles, y de las aguas amargas de sus blasfemias.
+Fue también el Hijo de Dios quien, en la zarza ardiente, conversó con Moisés y dijo: «He visto los sufrimientos de mi pueblo en Egipto y he bajado para liberarlo» (Ex [3, 7]({{ "biblia-straubinger/exodo#c3-v7" | relative_url }})-8). Él subía y bajaba para liberar a los oprimidos arrancándonos del poder de los egipcios, es decir, de toda clase de idolatría e impiedad; salvándonos del mar Rojo. Es decir, liberándonos de las turbulencias homicidas de los gentiles, y de las aguas amargas de sus blasfemias.
 
 Estos acontecimientos eran continua repetición de lo que a nosotros se refiere, en el sentido que el Verbo de Dios mostraba entonces anticipadamente en tipo las cosas futuras, mientras ahora nos arranca de veras de la servidumbre cruel de los gentiles. En el desierto hizo brotar con abundancia un río de agua (Él mismo) de una roca, y produjo doce fuentes (esto es, la doctrina de los doce apóstoles).
 
@@ -418,7 +418,7 @@ Mediante estas palabras, anunció David que el Hijo de Dios vino primero a la ex
 ## [49](#c49). El Hijo de Dios, rey universal
 {:#c49}
 
-El profeta Isaías, a su vez, afirma: «Así dice el Señor Dios al ungido, mi Señor, a quien yo he tomado de la diestra para que le obedezcan las naciones» (Is 45,1). En cuanto a la afirmación de que el Hijo de Dios es llamado ungido y «rey de las naciones» (es decir, de todos los hombres), David repite que Él es y es llamado Hijo de Dios y rey de todos con estas palabras: «El Señor me ha dicho: tú eres mi Hijo, yo te he engendrado hoy. Pídeme y te daré en herencia las naciones; te daré en propiedad los confines de la tierra» (Sal [2, 7]({{ "biblia-straubinger/salmos#c2-v7" | relative_url }})-8).
+El profeta Isaías, a su vez, afirma: «Así dice el Señor Dios al ungido, mi Señor, a quien yo he tomado de la diestra para que le obedezcan las naciones» (Is [45, 1]({{ "biblia-straubinger/isaias#c45-v1" | relative_url }})). En cuanto a la afirmación de que el Hijo de Dios es llamado ungido y «rey de las naciones» (es decir, de todos los hombres), David repite que Él es y es llamado Hijo de Dios y rey de todos con estas palabras: «El Señor me ha dicho: tú eres mi Hijo, yo te he engendrado hoy. Pídeme y te daré en herencia las naciones; te daré en propiedad los confines de la tierra» (Sal [2, 7]({{ "biblia-straubinger/salmos#c2-v7" | relative_url }})-8).
 
 Estas palabras no fueron pronunciadas refiriéndose a David, porque éste no gobernó todas las naciones. Ni toda la tierra, sino solamente a los judíos. Es evidente, pues, que la promesa hecha al ungido de reinar sobre toda la tierra se refiere al Hijo de Dios, al que el mismo David reconoce como su Señor cuando escribe: «Dice el Señor a mi Señor: siéntate a mi derecha» (Sal [109, 1]({{ "biblia-straubinger/salmos#c109-v1" | relative_url }})), como hace poco hemos referido.
 
@@ -429,7 +429,7 @@ Desde el momento que David dice «el Señor me ha dicho», es preciso afirmar qu
 ## [50](#c50). Testimonio de los profetas sobre la preexistencia de Cristo
 {:#c50}
 
-Oportunamente, pues, Cristo afirma por medio de David lo que el Padre le dice a Él. Y por medio de los profetas dice Él mismo, a su propia cuenta, las demás cosas, como lo que dice Isaías: «Y ahora así habla el Señor, el que me plasmó para servidor suyo desde el seno materno para hacer que Jacob vuelva a Él, y que Israel se le una. Yo seré glorificado a los ojos del Señor, y mi Dios será mi fuerza. Él me ha dicho: Gran cosa será para ti ser llamado siervo mío, para levantar y restablecer las tribus de Jacob y hacer volver a los preservados de Israel; te he puesto como luz de las gentes para que mi salvación alcance hasta los confines de la tierra» (Is 49,5-6).
+Oportunamente, pues, Cristo afirma por medio de David lo que el Padre le dice a Él. Y por medio de los profetas dice Él mismo, a su propia cuenta, las demás cosas, como lo que dice Isaías: «Y ahora así habla el Señor, el que me plasmó para servidor suyo desde el seno materno para hacer que Jacob vuelva a Él, y que Israel se le una. Yo seré glorificado a los ojos del Señor, y mi Dios será mi fuerza. Él me ha dicho: Gran cosa será para ti ser llamado siervo mío, para levantar y restablecer las tribus de Jacob y hacer volver a los preservados de Israel; te he puesto como luz de las gentes para que mi salvación alcance hasta los confines de la tierra» (Is [49, 5]({{ "biblia-straubinger/isaias#c49-v5" | relative_url }})-6).
 
 ## [51](#c51). El Hijo, siervo del Padre
 {:#c51}
@@ -448,20 +448,20 @@ No es nuestra intención, ni está dentro de nuestras posibilidades, hacer unas 
 ## [53](#c53). El signo profético que anuncia al Cristo mesías y Jesús salvador
 {:#c53}
 
-Que este Cristo, que estaba junto al Padre, por ser el Verbo del Padre, haya debido encarnarse, hacerse hombre, someterse a la generación y al nacimiento de una Virgen y vivir entre los hombres, operando asimismo el Padre del universo su encarnación, es lo que expresa Isaías: «Pues el Señor mismo va a daros una señal; he aquí que una virgen concebirá y dará a luz a un hijo que llamaréis Emmanuel; comerá mantequilla y miel, y antes de conocer o distinguir el mal, escoge el bien, porque antes que este niño conozca el bien o el mal, rechazará el mal para escoger el bien» (Is 7, 14-16).
+Que este Cristo, que estaba junto al Padre, por ser el Verbo del Padre, haya debido encarnarse, hacerse hombre, someterse a la generación y al nacimiento de una Virgen y vivir entre los hombres, operando asimismo el Padre del universo su encarnación, es lo que expresa Isaías: «Pues el Señor mismo va a daros una señal; he aquí que una virgen concebirá y dará a luz a un hijo que llamaréis Emmanuel; comerá mantequilla y miel, y antes de conocer o distinguir el mal, escoge el bien, porque antes que este niño conozca el bien o el mal, rechazará el mal para escoger el bien» (Is [7, 14]({{ "biblia-straubinger/isaias#c7-v14" | relative_url }})-16).
 
 Indicó que nacería de una Virgen, y significó que sería verdadero hombre por el hecho de comer y por llamarle «niño», y hasta por imponerle su nombre, como es propio a todos los nacidos. En hebreo tiene un doble nombre: Mesías-Cristo y Jesús-Salvador. Estos dos nombres indican las obras que había de realizar.
 
-En efecto, el Hijo ha recibido el nombre de mesías porque el Padre, por su medio, y teniendo en cuenta su venida como hombre, le ha ungido y dispuesto todas las cosas en Él, tras su unción por el Espíritu. Es lo que afirma refiriéndose a sí mismo en Isaías: «El Espíritu del Señor está sobre mí, por cuenta que me ha ungido para llevar la buena noticia a los pobres» (Is 61,1).
+En efecto, el Hijo ha recibido el nombre de mesías porque el Padre, por su medio, y teniendo en cuenta su venida como hombre, le ha ungido y dispuesto todas las cosas en Él, tras su unción por el Espíritu. Es lo que afirma refiriéndose a sí mismo en Isaías: «El Espíritu del Señor está sobre mí, por cuenta que me ha ungido para llevar la buena noticia a los pobres» (Is [61, 1]({{ "biblia-straubinger/isaias#c61-v1" | relative_url }})).
 
 Y ha recibido el nombre de salvador porque es causa de salvación para todos los que, desde entonces, fueron liberados por Él de toda enfermedad y de la muerte; para los que habían de creer en Él después de ellos es también dador de salvación eterna. He aquí el por qué es llamado Cristo el Salvador.
 
 ## [54](#c54). Profecía del Emmanuel: el Dios con nosotros
 {:#c54}
 
-Emmanuel se traduce por «Dios con nosotros», o como expresión de buen deseo formulada por el profeta «Dios esté con nosotros». De este modo, Él es la interpretación y la revelación de la buena nueva. Por eso dice: «He aquí que una virgen concebirá y dará a luz a un hijo» (Is 7,14). Y éste, que es Dios, tiene el destino de estar con nosotros.
+Emmanuel se traduce por «Dios con nosotros», o como expresión de buen deseo formulada por el profeta «Dios esté con nosotros». De este modo, Él es la interpretación y la revelación de la buena nueva. Por eso dice: «He aquí que una virgen concebirá y dará a luz a un hijo» (Is [7, 14]({{ "biblia-straubinger/isaias#c7-v14" | relative_url }})). Y éste, que es Dios, tiene el destino de estar con nosotros.
 
-Al mismo tiempo, maravillado por tal acontecimiento, anuncia lo que ha de suceder, es decir, que «Dios estará con nosotros». Y también, en torno a su nacimiento, el mismo profeta dice en otra parte: «Antes de que engendre la que está en dolores y antes de que lleguen los dolores de parto, dio a luz un niño» (Is 66,7). Así dio a conocer lo inesperado e inopinado de su nacimiento de la Virgen. El mismo profeta dijo aún: «Un hijo nos ha nacido y un niño nos han dado, y recibió por nombre Admirable Consejero y Dios fuerte» (Is 9,6).
+Al mismo tiempo, maravillado por tal acontecimiento, anuncia lo que ha de suceder, es decir, que «Dios estará con nosotros». Y también, en torno a su nacimiento, el mismo profeta dice en otra parte: «Antes de que engendre la que está en dolores y antes de que lleguen los dolores de parto, dio a luz un niño» (Is [66, 7]({{ "biblia-straubinger/isaias#c66-v7" | relative_url }})). Así dio a conocer lo inesperado e inopinado de su nacimiento de la Virgen. El mismo profeta dijo aún: «Un hijo nos ha nacido y un niño nos han dado, y recibió por nombre Admirable Consejero y Dios fuerte» (Is [9, 6]({{ "biblia-straubinger/isaias#c9-v6" | relative_url }})).
 
 ## [55](#c55). Profecía del admirable consejero
 {:#c55}
@@ -473,11 +473,11 @@ Pero Cristo es también consejero nuestro, que habla y no obliga, como Dios, aun
 ## [56](#c56). La paz y su dominio no tendrán límites
 {:#c56}
 
-Isaías dice de nuevo: «Querrán haber sido consumidos por el fuego, porque un niño nos ha nacido, un hijo se nos ha dado; en cuyos hombros estuvo el poder y es llamado con el nombre de "ángel del gran consejo". Y traerá la paz entre los príncipes y aun paz y salvación para Él. Grande es su dominio y la paz no tendrá límites sobre el trono de David y su reino, para sostenerlo y consolidarlo con la justicia y el derecho, desde ahora y por siempre» (Is 9,5-7).
+Isaías dice de nuevo: «Querrán haber sido consumidos por el fuego, porque un niño nos ha nacido, un hijo se nos ha dado; en cuyos hombros estuvo el poder y es llamado con el nombre de "ángel del gran consejo". Y traerá la paz entre los príncipes y aun paz y salvación para Él. Grande es su dominio y la paz no tendrá límites sobre el trono de David y su reino, para sostenerlo y consolidarlo con la justicia y el derecho, desde ahora y por siempre» (Is [9, 5]({{ "biblia-straubinger/isaias#c9-v5" | relative_url }})-7).
 
-En estos términos es anunciado el nacimiento del Hijo de Dios y la eternidad de su reino. Pero las palabras, «querrán haber sido consumidos por el fuego» (Is 9,5), están dichas dirigiéndose a quienes no creen en el Emmanuel e hicieron contra Él todo lo que hicieron. Pues dirán en el día del juicio: «¡Ojalá hubiésemos sido abrasados antes del nacimiento del Hijo de Dios que no haber creído en Él luego que nació!». Porque aquellos que han muerto antes de la manifestación de Cristo tienen esperanza de obtener la salvación en el juicio del Resucitado.
+En estos términos es anunciado el nacimiento del Hijo de Dios y la eternidad de su reino. Pero las palabras, «querrán haber sido consumidos por el fuego» (Is [9, 5]({{ "biblia-straubinger/isaias#c9-v5" | relative_url }})), están dichas dirigiéndose a quienes no creen en el Emmanuel e hicieron contra Él todo lo que hicieron. Pues dirán en el día del juicio: «¡Ojalá hubiésemos sido abrasados antes del nacimiento del Hijo de Dios que no haber creído en Él luego que nació!». Porque aquellos que han muerto antes de la manifestación de Cristo tienen esperanza de obtener la salvación en el juicio del Resucitado.
 
-A esta categoría pertenecen los que temieron a Dios y han muerto en la justicia y han poseído el Espíritu de Dios, como los patriarcas, los profetas y los justos. Mas para aquellos que después de la manifestación de Cristo no han creído en Él será inexorable la vindicación en el juicio. En cuanto a aquello, «En cuyos hombros estuvo el poder» (Is 9,6), se designa alegóricamente la cruz, en la que tenía clavados los brazos; porque la cruz que era y es oprobio para Él (y para nosotros, a causa de Él) esa misma cruz es, dice, su poder, a saber, el signo de su realeza. Lo llama «ángel del gran consejo» de aquel Padre que Él nos ha revelado.
+A esta categoría pertenecen los que temieron a Dios y han muerto en la justicia y han poseído el Espíritu de Dios, como los patriarcas, los profetas y los justos. Mas para aquellos que después de la manifestación de Cristo no han creído en Él será inexorable la vindicación en el juicio. En cuanto a aquello, «En cuyos hombros estuvo el poder» (Is [9, 6]({{ "biblia-straubinger/isaias#c9-v6" | relative_url }})), se designa alegóricamente la cruz, en la que tenía clavados los brazos; porque la cruz que era y es oprobio para Él (y para nosotros, a causa de Él) esa misma cruz es, dice, su poder, a saber, el signo de su realeza. Lo llama «ángel del gran consejo» de aquel Padre que Él nos ha revelado.
 
 ## [57](#c57). El esperado de las naciones
 {:#c57}
@@ -491,23 +491,23 @@ El Señor mismo dio el signo de la Virgen (es decir, el Emmanuel, nacido de la V
 ## [58](#c58). La estrella de Jacob
 {:#c58}
 
-Moisés, cuando escribe «Se levantará una estrella de Jacob y un jefe surgirá de Israel» (Nm 24,17), anuncia explícitamente que la economía de su encarnación se realizará entre los hebreos y que Aquel que descendiendo del cielo nacerá de Jacob y de la estirpe judía se ha sometido a esta economía. Porque una estrella apareció en el cielo y si se llama jefe a un rey es porque éste es el rey de todos los salvados.
+Moisés, cuando escribe «Se levantará una estrella de Jacob y un jefe surgirá de Israel» (Nm [24, 17]({{ "biblia-straubinger/numeros#c24-v17" | relative_url }})), anuncia explícitamente que la economía de su encarnación se realizará entre los hebreos y que Aquel que descendiendo del cielo nacerá de Jacob y de la estirpe judía se ha sometido a esta economía. Porque una estrella apareció en el cielo y si se llama jefe a un rey es porque éste es el rey de todos los salvados.
 
 Por otra parte, esta estrella apareció, cuando su nacimiento, a los magos, que habitan en Oriente y por su medio tuvieron conocimiento del nacimiento de Cristo. Guiados por la estrella vinieron a Judea, hasta que la estrella llegó a Belén, donde había nacido Cristo, y entrada en la casa donde estaba acostado el niño envuelto en pañales, se detuvo encima de su cabeza, indicándoles a los magos al Hijo de Dios, Cristo.
 
 ## [59](#c59). El vástago de Jesé
 {:#c59}
 
-El mismo Isaías dice aún más: «Saldrá un vástago del tronco de Jesé y de su raíz brotará una flor. Sobre Él se posará el Espíritu de Dios, espíritu de sabiduría y de inteligencia, espíritu de consejo y de fortaleza, espíritu de conocimiento y de piedad. Lo llenará el espíritu de temor de Dios. No juzgará por sola opinión ni acusará por solos rumores, sino que juzgará la causa del humilde y tendrá piedad de los humildes de la tierra. Castigará a la tierra con la palabra de su boca, ejecutará al impío con el soplo de sus labios. La justicia será cinturón de sus lomos, y la lealtad cinturón de sus flancos. Pacerá el lobo con el cordero, el leopardo con el cabrito, el novillo y el león pacerán juntos... El niño meterá la mano en la boca del áspid y en el escondrijo de los viboreznos y no le harán daño... La raíz de Jesé es aquel que se yergue para ejercer el poder sobre las naciones, y éstas a Él le buscarán; y su resurrección será gloriosa» (Is 11,1-10).
+El mismo Isaías dice aún más: «Saldrá un vástago del tronco de Jesé y de su raíz brotará una flor. Sobre Él se posará el Espíritu de Dios, espíritu de sabiduría y de inteligencia, espíritu de consejo y de fortaleza, espíritu de conocimiento y de piedad. Lo llenará el espíritu de temor de Dios. No juzgará por sola opinión ni acusará por solos rumores, sino que juzgará la causa del humilde y tendrá piedad de los humildes de la tierra. Castigará a la tierra con la palabra de su boca, ejecutará al impío con el soplo de sus labios. La justicia será cinturón de sus lomos, y la lealtad cinturón de sus flancos. Pacerá el lobo con el cordero, el leopardo con el cabrito, el novillo y el león pacerán juntos... El niño meterá la mano en la boca del áspid y en el escondrijo de los viboreznos y no le harán daño... La raíz de Jesé es aquel que se yergue para ejercer el poder sobre las naciones, y éstas a Él le buscarán; y su resurrección será gloriosa» (Is [11, 1]({{ "biblia-straubinger/isaias#c11-v1" | relative_url }})-10).
 
 Con estas palabras se quiere decir que nacerá de aquella estirpe que desciende de David y de Abraham. Efectivamente, Jesé descendía de Abraham y era padre de David. De este modo la Virgen, que concibió a Cristo, era el vástago. Por esto Moisés hacía sus prodigios ante el faraón, sirviéndose de un bastón. Entre los hombres el bastón es signo de poder. Llama flor a su cuerpo, que floreció bajo la acción del Espíritu, como antes hemos indicado.
 
 ## [60](#c60). El justo juez
 {:#c60}
 
-En cuanto a «no juzgará por sola opinión, ni acusará por solos rumores, sino que juzgará la causa del humilde y tendrá piedad del humilde de la tierra» (Is 11,3-4), da a entender Isaías con mayor firmeza su divinidad. Pues juzgar imparcialmente y sin acepción de personas, sin honrar al ilustre y otorgando al pobre lo que merece en equidad e igualdad es conforme a la suprema y celeste justicia de Dios.
+En cuanto a «no juzgará por sola opinión, ni acusará por solos rumores, sino que juzgará la causa del humilde y tendrá piedad del humilde de la tierra» (Is [11, 3]({{ "biblia-straubinger/isaias#c11-v3" | relative_url }})-4), da a entender Isaías con mayor firmeza su divinidad. Pues juzgar imparcialmente y sin acepción de personas, sin honrar al ilustre y otorgando al pobre lo que merece en equidad e igualdad es conforme a la suprema y celeste justicia de Dios.
 
-Dios, en efecto, no se deja influir por nadie, y sólo compadece al justo. Y el hacer misericordia es propio y peculiar de aquel Dios que puede asimismo salvar en virtud de su misericordia. Y «herirá la tierra con una palabra y destruirá al impío con la sola palabra» (Is 11,4) es propio de Dios que hace todas las cosas con su Verbo. Cuando dice: «La justicia será el cinturón de sus lomos y la verdad cinturón de sus flancos» (Is 11,5), anuncia su forma externa humana y su verdadera y suprema justicia.
+Dios, en efecto, no se deja influir por nadie, y sólo compadece al justo. Y el hacer misericordia es propio y peculiar de aquel Dios que puede asimismo salvar en virtud de su misericordia. Y «herirá la tierra con una palabra y destruirá al impío con la sola palabra» (Is [11, 4]({{ "biblia-straubinger/isaias#c11-v4" | relative_url }})) es propio de Dios que hace todas las cosas con su Verbo. Cuando dice: «La justicia será el cinturón de sus lomos y la verdad cinturón de sus flancos» (Is [11, 5]({{ "biblia-straubinger/isaias#c11-v5" | relative_url }})), anuncia su forma externa humana y su verdadera y suprema justicia.
 
 ## [61](#c61). La concordia y la paz universal
 {:#c61}
@@ -518,19 +518,19 @@ Y esto porque los justos, que han sido parangonados a los novillos, y a los cord
 
 Reunidos en un solo nombre, lograrán tener costumbres de justos, por la gracia de Dios, cambiando su naturaleza salvaje y feroz. Esto es lo que ha ocurrido ya, pues los que antes eran crudelísimos hasta no retroceder ante ningún acto impío, una vez instruidos sobre Cristo y creído en Él, han dado fe todo a una y han cambiado hasta no retroceder ante ningún exceso de justicia.
 
-Tanta es la mudanza que la fe en Cristo, Hijo de Dios, opera entre cuantos en Él creen. Y si dice «se levantó para enseñorear sobre los gentiles» (Is 11,10), es porque, una vez muerto, resucitará y será confesado y creído Hijo de Dios, rey. Por eso dice: «Y su resurrección será gloriosa» (Is 11,10), esto es, magnificencia, porque en el momento en que fue glorificado como Dios, es cuando resucitó.
+Tanta es la mudanza que la fe en Cristo, Hijo de Dios, opera entre cuantos en Él creen. Y si dice «se levantó para enseñorear sobre los gentiles» (Is [11, 10]({{ "biblia-straubinger/isaias#c11-v10" | relative_url }})), es porque, una vez muerto, resucitará y será confesado y creído Hijo de Dios, rey. Por eso dice: «Y su resurrección será gloriosa» (Is [11, 10]({{ "biblia-straubinger/isaias#c11-v10" | relative_url }})), esto es, magnificencia, porque en el momento en que fue glorificado como Dios, es cuando resucitó.
 
 ## [62](#c62). La tienda de David y el cuerpo de Cristo
 {:#c62}
 
-Por eso el profeta dice: «En aquel día levantaré la tienda de David, caída en tierra» (Am 9,11), afirmando claramente que el cuerpo de Cristo, nacido de David, como hemos dicho, después de la muerte es resucitado de entre los muertos. Llama tienda a su cuerpo.
+Por eso el profeta dice: «En aquel día levantaré la tienda de David, caída en tierra» (Am [9, 11]({{ "biblia-straubinger/amos#c9-v11" | relative_url }})), afirmando claramente que el cuerpo de Cristo, nacido de David, como hemos dicho, después de la muerte es resucitado de entre los muertos. Llama tienda a su cuerpo.
 
 En efecto, por estas palabras dijo también que Cristo (el cual según la carne desciende de David) será Hijo de Dios, y después de su muerte resucitará y será hombre por el aspecto externo, pero Dios por el poder; será juez del universo y el único justo y Redentor. Todo ello se encuentra en la Escritura.
 
 ## [63](#c63). Belén: patria de David
 {:#c63}
 
-A su vez, el profeta Miqueas indicó también el lugar del nacimiento de Cristo. A saber, en Belén de Judá. Se expresa así: «Y tú, Belén de Judá, no eres insignificante entre los jefes de Judá, pues de ti saldrá un jefe que será pastor de mi pueblo, Israel» (Mi 5,1).
+A su vez, el profeta Miqueas indicó también el lugar del nacimiento de Cristo. A saber, en Belén de Judá. Se expresa así: «Y tú, Belén de Judá, no eres insignificante entre los jefes de Judá, pues de ti saldrá un jefe que será pastor de mi pueblo, Israel» (Mi [5, 1]({{ "biblia-straubinger/miqueas#c5-v1" | relative_url }})).
 
 Pero Belén es también el pueblo de David, de suerte que Cristo es de la posteridad de David, no sólo por la Virgen que le dio a luz, sino también por ser nacido en Belén, patria de David.
 
@@ -544,7 +544,7 @@ Mas no hay ninguno, entre los hijos de David, que haya reinado hasta la eternida
 ## [65](#c65). La entrada en Jerusalén
 {:#c65}
 
-Cómo hizo su entrada en Jerusalén, la capital de Israel, donde estaba su residencia y el templo de Dios, díjolo Isaías: «Decid a la Hija de Sión: he aquí viene a ti tu rey, dulce, sentado en un asno, sobre un borrico, hijo de asna» (Is 62,11).
+Cómo hizo su entrada en Jerusalén, la capital de Israel, donde estaba su residencia y el templo de Dios, díjolo Isaías: «Decid a la Hija de Sión: he aquí viene a ti tu rey, dulce, sentado en un asno, sobre un borrico, hijo de asna» (Is [62, 11]({{ "biblia-straubinger/isaias#c62-v11" | relative_url }})).
 
 Jesús entró en Jerusalén sentado sobre un pollino de asna, y la muchedumbre alfombraba el camino con sus mantos para que pasase por encima. «Hija de Sión» es el nombre dado a Jerusalén.
 
@@ -558,39 +558,39 @@ Y predijeron también que, una vez hecho hombre, había de curar a los que curó
 ## [67](#c67). Los milagros de Jesús
 {:#c67}
 
-Trataremos ahora de las curaciones. Dice Isaías: «Él soportó nuestras dolencias y aguantó nuestros dolores» (Is 53,4; Mt 8,17). Es decir, soportará y aguantará. A veces, el Espíritu de Dios narra en los profetas como pasados, acontecimientos que han de suceder en el futuro. Esto acontece porque en Dios lo que es establecido, determinado y destinado a existir ya es considerado como existente y el Espíritu se expresa teniendo en cuenta el tiempo en que se realiza la profecía.
+Trataremos ahora de las curaciones. Dice Isaías: «Él soportó nuestras dolencias y aguantó nuestros dolores» (Is [53, 4]({{ "biblia-straubinger/isaias#c53-v4" | relative_url }}); Mt [8, 17]({{ "biblia-straubinger/mateo#c8-v17" | relative_url }})). Es decir, soportará y aguantará. A veces, el Espíritu de Dios narra en los profetas como pasados, acontecimientos que han de suceder en el futuro. Esto acontece porque en Dios lo que es establecido, determinado y destinado a existir ya es considerado como existente y el Espíritu se expresa teniendo en cuenta el tiempo en que se realiza la profecía.
 
-En estos términos recuerda Isaías los distintos modos de curaciones: «En aquel día oirán los sordos las palabras del libro; y en las tinieblas y oscuridad verán los ojos de los ciegos» (Is 29,18). Y todavía: «Fortaleceos, manos débiles, rodillas vacilantes y débiles; animaos, pusilánimes, tomad fuerzas, no temáis; mirad, nuestro Dios hace justicia, vendrá a salvarnos. Entonces se abrirán los ojos de los ciegos y oirán los oídos de los sordos; entonces el cojo saltará como un ciervo y se soltará la lengua del mudo» (Is 35,3-6).
+En estos términos recuerda Isaías los distintos modos de curaciones: «En aquel día oirán los sordos las palabras del libro; y en las tinieblas y oscuridad verán los ojos de los ciegos» (Is [29, 18]({{ "biblia-straubinger/isaias#c29-v18" | relative_url }})). Y todavía: «Fortaleceos, manos débiles, rodillas vacilantes y débiles; animaos, pusilánimes, tomad fuerzas, no temáis; mirad, nuestro Dios hace justicia, vendrá a salvarnos. Entonces se abrirán los ojos de los ciegos y oirán los oídos de los sordos; entonces el cojo saltará como un ciervo y se soltará la lengua del mudo» (Is [35, 3]({{ "biblia-straubinger/isaias#c35-v3" | relative_url }})-6).
 
-Y acerca de la resurrección de los muertos, dice: «Así resucitarán los muertos y se levantarán los que están en los sepulcros» (Is 26,19). Cuando esto se cumpla, se creerá que es Hijo de Dios.
+Y acerca de la resurrección de los muertos, dice: «Así resucitarán los muertos y se levantarán los que están en los sepulcros» (Is [26, 19]({{ "biblia-straubinger/isaias#c26-v19" | relative_url }})). Cuando esto se cumpla, se creerá que es Hijo de Dios.
 
 ## [68](#c68). La pasión de Cristo
 {:#c68}
 
-Isaías dice que había de ser despreciado, torturado y finalmente matado: «He aquí que mi Hijo comprenderá: será exaltado y glorificado sobremanera. Como muchos se espantarán de ti, así sin gloria será tu rostro a los ojos de los hombres; muchos pueblos se asombrarán y los reyes cerrarán la boca porque contemplarán algo inenarrable y comprenderán algo inaudito. Señor ¿quién creyó nuestro anuncio? ¿A quién se reveló el brazo del Señor? Lo hemos narrado ante Él, como a un niño, como a una raíz en tierra árida; no tenía figura ni gloria. Lo hemos visto sin aspecto y sin belleza. Su aspecto era despreciable, más abatido que los demás hombres. Hombre de dolores acostumbrado a sufrimientos; porque volvía su rostro hacia otra parte era despreciado y tenido a menos. Él cargó con nuestros pecados y sufre por amor a nosotros; lo hemos creído víctima del dolor, de los golpes y torturas. Fue traspasado por nuestros delitos, maltratado por nuestros pecados. El castigo que nos da la paz cayó sobre Él, y sus cicatrices nos curaron» (Is 52,13-53, 5).
+Isaías dice que había de ser despreciado, torturado y finalmente matado: «He aquí que mi Hijo comprenderá: será exaltado y glorificado sobremanera. Como muchos se espantarán de ti, así sin gloria será tu rostro a los ojos de los hombres; muchos pueblos se asombrarán y los reyes cerrarán la boca porque contemplarán algo inenarrable y comprenderán algo inaudito. Señor ¿quién creyó nuestro anuncio? ¿A quién se reveló el brazo del Señor? Lo hemos narrado ante Él, como a un niño, como a una raíz en tierra árida; no tenía figura ni gloria. Lo hemos visto sin aspecto y sin belleza. Su aspecto era despreciable, más abatido que los demás hombres. Hombre de dolores acostumbrado a sufrimientos; porque volvía su rostro hacia otra parte era despreciado y tenido a menos. Él cargó con nuestros pecados y sufre por amor a nosotros; lo hemos creído víctima del dolor, de los golpes y torturas. Fue traspasado por nuestros delitos, maltratado por nuestros pecados. El castigo que nos da la paz cayó sobre Él, y sus cicatrices nos curaron» (Is [52, 13]({{ "biblia-straubinger/isaias#c52-v13" | relative_url }})-53, 5).
 
-David anunció con estas palabras sus torturas: «Yo fui torturado» (Sal [38, 9]({{ "biblia-straubinger/salmos#c38-v9" | relative_url }})). Sin embargo, David nunca fue torturado sino Cristo cuando ordenaron que fuese crucificado. Una vez más, el Verbo dice en Isaías: «Ofrecí la espalda a los golpes y las mejillas a las bofetadas; no me tapé el rostro ante ultrajes ni salivazos» (Is 50,6). El profeta Jeremías repite lo mismo en estos términos: «Presentará la mejilla al que lo hiere y será colmado de oprobios» (Lm 3,30). Todo esto lo sufrió Cristo.
+David anunció con estas palabras sus torturas: «Yo fui torturado» (Sal [38, 9]({{ "biblia-straubinger/salmos#c38-v9" | relative_url }})). Sin embargo, David nunca fue torturado sino Cristo cuando ordenaron que fuese crucificado. Una vez más, el Verbo dice en Isaías: «Ofrecí la espalda a los golpes y las mejillas a las bofetadas; no me tapé el rostro ante ultrajes ni salivazos» (Is [50, 6]({{ "biblia-straubinger/isaias#c50-v6" | relative_url }})). El profeta Jeremías repite lo mismo en estos términos: «Presentará la mejilla al que lo hiere y será colmado de oprobios» (Lm [3, 30]({{ "biblia-straubinger/lamentaciones#c3-v30" | relative_url }})). Todo esto lo sufrió Cristo.
 
 ## [69](#c69). La pasión y su sentencia
 {:#c69}
 
-Isaías continúa así: «Merced a sus llagas hemos sido curados todos. Errábamos como un rebaño, cada uno iba por su camino y el Señor lo consignó por nuestros pecados» (Is 53,5-6.7). Está claro que por voluntad del Padre le han sucedido estas cosas en favor de nuestra salvación. Y luego prosigue: «A pesar de sus padecimientos no abrió la boca; como oveja fue llevado al matadero; como un cordero ante el esquilador está sin voz» (Is 53,7). De esta forma, anuncia que acepta libremente la muerte.
+Isaías continúa así: «Merced a sus llagas hemos sido curados todos. Errábamos como un rebaño, cada uno iba por su camino y el Señor lo consignó por nuestros pecados» (Is [53, 5]({{ "biblia-straubinger/isaias#c53-v5" | relative_url }})-6.7). Está claro que por voluntad del Padre le han sucedido estas cosas en favor de nuestra salvación. Y luego prosigue: «A pesar de sus padecimientos no abrió la boca; como oveja fue llevado al matadero; como un cordero ante el esquilador está sin voz» (Is [53, 7]({{ "biblia-straubinger/isaias#c53-v7" | relative_url }})). De esta forma, anuncia que acepta libremente la muerte.
 
-Mas al decir el profeta «en la humillación fue eliminado su juicio» (Is 53,8), se refiere a su humilde aspecto exterior. Según su aspecto sin honra fue pronunciada la sentencia; y proferida la sentencia conduce a algunos a la salvación, a otros a las penas de la perdición. Hay, efectivamente, lo tomado por uno a cuestas, y lo que quitan a otro.
+Mas al decir el profeta «en la humillación fue eliminado su juicio» (Is [53, 8]({{ "biblia-straubinger/isaias#c53-v8" | relative_url }})), se refiere a su humilde aspecto exterior. Según su aspecto sin honra fue pronunciada la sentencia; y proferida la sentencia conduce a algunos a la salvación, a otros a las penas de la perdición. Hay, efectivamente, lo tomado por uno a cuestas, y lo que quitan a otro.
 
 Así es la sentencia. Por algunos ha sido sufrida, y estos la toman sobre sí mismo como propia condena; para otros, ha sido eliminada, y se salvan. Han cargado sobre sí la sentencia quienes lo crucificaron, y habiéndose portado así no creen en Él; de tal suerte, la sentencia recibida por ellos los condenará a la perdición entre los tormentos. La sentencia ha sido eliminada para quienes en Él creen, y no están ya sujetos a ella, es decir a la sentencia de condenación. La sentencia de condenación, acompañada de fuego, será de exterminio para los incrédulos, al fin de este mundo.
 
 ## [70](#c70). La generación inenarrable
 {:#c70}
 
-A continuación, pregunta Isaías: «¿Quién narrará su nacimiento?» (Is 53,8). Esto lo dijo para ponernos en guardia con el fin de que no le tengamos como a un hombre insignificante y de poca importancia, por razón de sus adversarios y de los dolores de su pasión. Aquel que ha sufrido todo esto cuenta en su haber con un origen inefable. Porque por nacimiento se entiende su origen, o sea, su Padre inefable e indescriptible.
+A continuación, pregunta Isaías: «¿Quién narrará su nacimiento?» (Is [53, 8]({{ "biblia-straubinger/isaias#c53-v8" | relative_url }})). Esto lo dijo para ponernos en guardia con el fin de que no le tengamos como a un hombre insignificante y de poca importancia, por razón de sus adversarios y de los dolores de su pasión. Aquel que ha sufrido todo esto cuenta en su haber con un origen inefable. Porque por nacimiento se entiende su origen, o sea, su Padre inefable e indescriptible.
 
 Reconoce, pues, que este es el origen de Aquel que ha soportado esta pasión y no lo tengas a menos por la pasión que ha sufrido por ti intencionadamente. Mas, por su origen, guárdale temor.
 
 ## [71](#c71). La vida, a la sombra de su cuerpo
 {:#c71}
 
-Dice en otra parte Jeremías: «El Espíritu de nuestro rostro es el Señor Cristo; cómo fue apresado en sus redes, aquel de quien hemos dicho: A su sombra viviremos entre las naciones» (Lm 4,20).
+Dice en otra parte Jeremías: «El Espíritu de nuestro rostro es el Señor Cristo; cómo fue apresado en sus redes, aquel de quien hemos dicho: A su sombra viviremos entre las naciones» (Lm [4, 20]({{ "biblia-straubinger/lamentaciones#c4-v20" | relative_url }})).
 
 La Escritura dice que Cristo, aun siendo Espíritu de Dios, debía hacerse hombre sometido al sufrimiento, y revela en cierto modo sorpresa y sobresalto ante la pasión que debía sufrir Aquel «a cuya sombra hemos dicho que íbamos a vivir». Sombra significa su cuerpo, pues así como la sombra viene producida por un cuerpo, así el cuerpo de Cristo fue producido por su Espíritu. Mas la voz sombra significa asimismo la humillación de su cuerpo y la facilidad de ser humillado.
 
@@ -599,7 +599,7 @@ En efecto, como la sombra de los cuerpos erguidos se proyecta al suelo y es holl
 ## [72](#c72). La muerte del justo
 {:#c72}
 
-El mismo profeta, a propósito de la pasión de Cristo, dice lo siguiente: «He aquí como el justo ha perecido y nadie hace caso; los hombres justos son quitados de en medio y nadie se entera, pues el justo es llevado en presencia de la injusticia. Su sepultura será paz: Él ha sido preservado» (Is 57, 1-4). ¿Qué otro hay perfectamente justo fuera del Hijo de Dios, que hace del todo justos a quienes en Él creen, los cuales, a semejanza de Él, son perseguidos y muertos?
+El mismo profeta, a propósito de la pasión de Cristo, dice lo siguiente: «He aquí como el justo ha perecido y nadie hace caso; los hombres justos son quitados de en medio y nadie se entera, pues el justo es llevado en presencia de la injusticia. Su sepultura será paz: Él ha sido preservado» (Is [57, 1]({{ "biblia-straubinger/isaias#c57-v1" | relative_url }})-4). ¿Qué otro hay perfectamente justo fuera del Hijo de Dios, que hace del todo justos a quienes en Él creen, los cuales, a semejanza de Él, son perseguidos y muertos?
 
 Cuando Isaías dice «su sepultura será paz», da a conocer como murió por nuestra salvación, que está en la paz de la salvación; y anuncia que por su muerte quienes antes eran enemigos y adversarios unos de otros, no bien crean juntos en Él, tendrán paz entre sí, dando y recibiendo señales de amistad por su común fe en Él. Es exactamente lo que ocurre.
 
@@ -627,14 +627,14 @@ Como se ve, el profeta afirma abiertamente que debía sufrir todo esto y que és
 ## [76](#c76). La captura de Jesús
 {:#c76}
 
-Zacarías se expresa así: «Alzate, espada, contra mi pastor, contra el hombre, mi compañero; hiere al pastor y se dispersarán las ovejas del rebaño» (Za 13,7; Mt 26,31; Lc 14,27). Y esto sucedió cuando Jesús fue capturado por los judíos.
+Zacarías se expresa así: «Alzate, espada, contra mi pastor, contra el hombre, mi compañero; hiere al pastor y se dispersarán las ovejas del rebaño» (Za [13, 7]({{ "biblia-straubinger/zacarias#c13-v7" | relative_url }}); Mt [26, 31]({{ "biblia-straubinger/mateo#c26-v31" | relative_url }}); Lc [14, 27]({{ "biblia-straubinger/lucas#c14-v27" | relative_url }})). Y esto sucedió cuando Jesús fue capturado por los judíos.
 
 Entonces, todos los discípulos lo abandonaron por miedo a perecer con Él, porque ellos no creyeron firmemente en Él hasta que no le vieron resucitado de entre los muertos.
 
 ## [77](#c77). Jesús, motivo de reconciliación entre Pilato y Herodes
 {:#c77}
 
-Se dice también en los doce profetas: «Prisionero le presentaron al rey como tributo» (Os 10, 6). Poncio Pilato era procurador de Judea y alimentaba entonces un profundo rencor en contra de Herodes, rey de los judíos.
+Se dice también en los doce profetas: «Prisionero le presentaron al rey como tributo» (Os [10, 6]({{ "biblia-straubinger/oseas#c10-v6" | relative_url }})). Poncio Pilato era procurador de Judea y alimentaba entonces un profundo rencor en contra de Herodes, rey de los judíos.
 
 Precisamente en esta situación Pilato remitió a Cristo, atado, a Herodes con el ruego de que le interrogase para confirmar lo que quería hacer con Él. De este modo, Cristo se convirtió en un buen pretexto para reconciliarse con el rey.
 
@@ -648,30 +648,30 @@ Aquí se revelan también las razones de su muerte, porque su descenso a los inf
 ## [79](#c79). Profecías sobre la cruz
 {:#c79}
 
-De nuevo en torno a su cruz, Isaías dice: «Extendí las manos todo el día hacia un pueblo indócil y rebelde» (Is 65,2). Así prefiguraba la cruz. Y todavía más claramente David: «Perros de caza me rodearon, una multitud de malvados me ha cercado; me han taladrado mis manos y mis pies» (Sal [21, 17]({{ "biblia-straubinger/salmos#c21-v17" | relative_url }})). Y nuevamente: «Mi corazón se hizo como cera líquida en medio de mis entrañas; han descoyuntado mis huesos» (Sal [21, 15]({{ "biblia-straubinger/salmos#c21-v15" | relative_url }})). Y sigue diciendo: «Perdona a mi alma la espada y enclava mis carnes, pues una muchedumbre de malvados se levantó contra mí».
+De nuevo en torno a su cruz, Isaías dice: «Extendí las manos todo el día hacia un pueblo indócil y rebelde» (Is [65, 2]({{ "biblia-straubinger/isaias#c65-v2" | relative_url }})). Así prefiguraba la cruz. Y todavía más claramente David: «Perros de caza me rodearon, una multitud de malvados me ha cercado; me han taladrado mis manos y mis pies» (Sal [21, 17]({{ "biblia-straubinger/salmos#c21-v17" | relative_url }})). Y nuevamente: «Mi corazón se hizo como cera líquida en medio de mis entrañas; han descoyuntado mis huesos» (Sal [21, 15]({{ "biblia-straubinger/salmos#c21-v15" | relative_url }})). Y sigue diciendo: «Perdona a mi alma la espada y enclava mis carnes, pues una muchedumbre de malvados se levantó contra mí».
 
-En estos pasajes, se muestra e indica en modo luminoso su crucifixión. Moisés dice la misma cosa a su pueblo: «Y tu vida colgará delante de tus ojos, y temerás día y noche, y no creerás en tu vida» (Dt 28,66).
+En estos pasajes, se muestra e indica en modo luminoso su crucifixión. Moisés dice la misma cosa a su pueblo: «Y tu vida colgará delante de tus ojos, y temerás día y noche, y no creerás en tu vida» (Dt [28, 66]({{ "biblia-straubinger/deuteronomio#c28-v66" | relative_url }})).
 
 ## [80](#c80). Profecías sobre los vestidos
 {:#c80}
 
 Nuevamente dijo David: «Ellos me miraron fijamente. Se dividieron mi vestido y echaron a suertes mi túnica» (Sal [21, 19]({{ "biblia-straubinger/salmos#c21-v19" | relative_url }})).
 
-En efecto, cuando crucificaron a Jesús, se repartieron los soldados sus vestidos según su costumbre, como recuerda Juan: «El vestido se lo dividieron luego de haberlo desgarrado; mas en cuanto a la túnica, como estaba tejida desde arriba y sin costura, la echaron a suertes para ver quién se la llevaba» (Jn 19,23-24).
+En efecto, cuando crucificaron a Jesús, se repartieron los soldados sus vestidos según su costumbre, como recuerda Juan: «El vestido se lo dividieron luego de haberlo desgarrado; mas en cuanto a la túnica, como estaba tejida desde arriba y sin costura, la echaron a suertes para ver quién se la llevaba» (Jn [19, 23]({{ "biblia-straubinger/juan#c19-v23" | relative_url }})-24).
 
 ## [81](#c81). Judas, la venta de Cristo y la compra del campo de alfarero
 {:#c81}
 
-El profeta Jeremías añade: «Tomaron las treinta monedas de plata, el precio de uno que fue tasado según la tasa de los hijos de Israel, y pagaron con ellas el Campo del Alfarero, como me lo había mandado el Señor» (Mt 27, 9-10).
+El profeta Jeremías añade: «Tomaron las treinta monedas de plata, el precio de uno que fue tasado según la tasa de los hijos de Israel, y pagaron con ellas el Campo del Alfarero, como me lo había mandado el Señor» (Mt [27, 9]({{ "biblia-straubinger/mateo#c27-v9" | relative_url }})-10).
 
 En efecto, Judas, uno de los discípulos de Jesús, habiéndose comprometido con los judíos y habiendo sellado con ellos un pacto (de hecho, sabía que le querían matar), y porque había sido reprendido por Él, aceptó los treinta denarios del país y les entregó a Cristo.
 
-A continuación, movido por los remordimientos de lo que había hecho, tiró el dinero a los pies de los jefes de los judíos y se ahorcó. Pero éstos no consideraron conveniente devolver el dinero al Tesoro, porque era precio de sangre, y con él compraron el campo perteneciente a un alfarero para enterrar allí a los extranjeros (Mt 27, 3-7).
+A continuación, movido por los remordimientos de lo que había hecho, tiró el dinero a los pies de los jefes de los judíos y se ahorcó. Pero éstos no consideraron conveniente devolver el dinero al Tesoro, porque era precio de sangre, y con él compraron el campo perteneciente a un alfarero para enterrar allí a los extranjeros (Mt [27, 3]({{ "biblia-straubinger/mateo#c27-v3" | relative_url }})-7).
 
 ## [82](#c82). Profecías sobre el vinagre mezclado con hiel
 {:#c82}
 
-Una vez crucificado, al pedir de beber, le dieron vinagre mezclado con hiel. Y esto mismo lo había dicho David: «Me dieron por alimento hiel, y en mi sed me dieron a beber vinagre» (Sal [68, 22]({{ "biblia-straubinger/salmos#c68-v22" | relative_url }}); Mt 27,34; Jn 19,28).
+Una vez crucificado, al pedir de beber, le dieron vinagre mezclado con hiel. Y esto mismo lo había dicho David: «Me dieron por alimento hiel, y en mi sed me dieron a beber vinagre» (Sal [68, 22]({{ "biblia-straubinger/salmos#c68-v22" | relative_url }}); Mt [27, 34]({{ "biblia-straubinger/mateo#c27-v34" | relative_url }}); Jn [19, 28]({{ "biblia-straubinger/juan#c19-v28" | relative_url }})).
 
 ## [83](#c83). La ascensión de Jesús
 {:#c83}
@@ -701,30 +701,30 @@ Ahora bien, si los profetas han vaticinado que el Hijo de Dios debía manifestar
 
 Los apóstoles, enviados por el Señor, han predicado por el mundo entero que el Hijo de Dios había venido para sufrir la pasión, la había soportado para destruir la muerte y dar vida al cuerpo, y que dando fin a la hostilidad hacia Dios (es decir, a la iniquidad), hemos de obtener su paz cumpliendo lo que es de su agrado.
 
-Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos son los pies de los mensajeros que anuncian la buena nueva de la paz, que pregonan la alegre noticia del bien!» (Is 52,7; Rm [10, 15]({{ "biblia-straubinger/romanos#c10-v15" | relative_url }})). Isaías dice que estos mensajeros vendrían de Judea y de Jerusalén para anunciarnos la palabra de Dios, que para nosotros es también ley: «Pues de Sión saldrá la ley, y de Jerusalén la palabra del Señor» (Is 2,3). David afirma que habían de predicar por toda la tierra: «A toda la tierra alcanza su pregón y hasta los límites del orbe su palabra» (Sal [18, 5]({{ "biblia-straubinger/salmos#c18-v5" | relative_url }})).
+Así nos ha sido dado a conocer por los profetas cuando dicen: «¡Qué hermosos son los pies de los mensajeros que anuncian la buena nueva de la paz, que pregonan la alegre noticia del bien!» (Is [52, 7]({{ "biblia-straubinger/isaias#c52-v7" | relative_url }}); Rm [10, 15]({{ "biblia-straubinger/romanos#c10-v15" | relative_url }})). Isaías dice que estos mensajeros vendrían de Judea y de Jerusalén para anunciarnos la palabra de Dios, que para nosotros es también ley: «Pues de Sión saldrá la ley, y de Jerusalén la palabra del Señor» (Is [2, 3]({{ "biblia-straubinger/isaias#c2-v3" | relative_url }})). David afirma que habían de predicar por toda la tierra: «A toda la tierra alcanza su pregón y hasta los límites del orbe su palabra» (Sal [18, 5]({{ "biblia-straubinger/salmos#c18-v5" | relative_url }})).
 
 ## [87](#c87). El primado del amor
 {:#c87}
 
-No es con la locuacidad de la ley, por tanto, como se salva el género humano, sino con la brevedad y precisión de la fe y de la caridad. Isaías dice: «Una palabra concisa y breve en la justicia, porque Dios enviará una palabra concisa, con eficacia, sobre toda la tierra» (Is 10,23; Rm [9, 28]({{ "biblia-straubinger/romanos#c9-v28" | relative_url }})). De ahí que Pablo afirme: «El amor es la plenitud de la ley» (Rm [13, 10]({{ "biblia-straubinger/romanos#c13-v10" | relative_url }})). Pues el que ama a Dios cumple la ley.
+No es con la locuacidad de la ley, por tanto, como se salva el género humano, sino con la brevedad y precisión de la fe y de la caridad. Isaías dice: «Una palabra concisa y breve en la justicia, porque Dios enviará una palabra concisa, con eficacia, sobre toda la tierra» (Is [10, 23]({{ "biblia-straubinger/isaias#c10-v23" | relative_url }}); Rm [9, 28]({{ "biblia-straubinger/romanos#c9-v28" | relative_url }})). De ahí que Pablo afirme: «El amor es la plenitud de la ley» (Rm [13, 10]({{ "biblia-straubinger/romanos#c13-v10" | relative_url }})). Pues el que ama a Dios cumple la ley.
 
-Cuando le preguntaron al Señor: «¿Qué mandamiento es el primero de todos?», el Señor respondió: «Amarás al Señor tu Dios con todo tu corazón, con toda tu fuerza; y el segundo es similar a éste: Amarás al prójimo como a ti mismo. De estos dos mandamientos penden la ley y los profetas» (Mc [12, 30]({{ "biblia-straubinger/marcos#c12-v30" | relative_url }}); Mt 22,37).
+Cuando le preguntaron al Señor: «¿Qué mandamiento es el primero de todos?», el Señor respondió: «Amarás al Señor tu Dios con todo tu corazón, con toda tu fuerza; y el segundo es similar a éste: Amarás al prójimo como a ti mismo. De estos dos mandamientos penden la ley y los profetas» (Mc [12, 30]({{ "biblia-straubinger/marcos#c12-v30" | relative_url }}); Mt [22, 37]({{ "biblia-straubinger/mateo#c22-v37" | relative_url }})).
 
 Así pues, con la fe en Él ha crecido nuestro amor por Dios y por el prójimo, haciéndonos piadosos, justos y buenos. Es por esto por lo que ha enviado con eficacia «una palabra concisa sobre la tierra», en el mundo.
 
 ## [88](#c88). Salvados por el hombre-Dios
 {:#c88}
 
-Que después de la ascensión había de ser elevado sobre todas las creaturas, y que nadie había de ser parangonado o comparado a Él, lo dice Isaías: «¿Quién es juzgado? Que comparezca. ¿Quién es justificado? Que se acerque al Hijo del Señor. Ay de vosotros que os consumís como un vestido y la polilla os roerá. El hombre será humillado y abatido, y sólo el Señor será exaltado con aquellos que serán enaltecidos» (Is 50, 8-9).
+Que después de la ascensión había de ser elevado sobre todas las creaturas, y que nadie había de ser parangonado o comparado a Él, lo dice Isaías: «¿Quién es juzgado? Que comparezca. ¿Quién es justificado? Que se acerque al Hijo del Señor. Ay de vosotros que os consumís como un vestido y la polilla os roerá. El hombre será humillado y abatido, y sólo el Señor será exaltado con aquellos que serán enaltecidos» (Is [50, 8]({{ "biblia-straubinger/isaias#c50-v8" | relative_url }})-9).
 
-Isaías afirma que los que le sirvieron a Dios serán, al final, salvados por medio de su nombre: «Los que me sirven recibirán un nombre nuevo que será bendito en toda la tierra y ellos bendecirán al Dios verdadero» (Is 65,15-16).
+Isaías afirma que los que le sirvieron a Dios serán, al final, salvados por medio de su nombre: «Los que me sirven recibirán un nombre nuevo que será bendito en toda la tierra y ellos bendecirán al Dios verdadero» (Is [65, 15]({{ "biblia-straubinger/isaias#c65-v15" | relative_url }})-16).
 
-Esta bendición debía Él realizarla personalmente y Él mismo debía salvarnos por su propia sangre, según lo dio a conocer Isaías cuando dijo: «No un intercesor ni un ángel, sino el Señor en persona los salvó, porque los ama y tiene cuidado de ellos. Él mismo los redimió» (Is 63, 9).
+Esta bendición debía Él realizarla personalmente y Él mismo debía salvarnos por su propia sangre, según lo dio a conocer Isaías cuando dijo: «No un intercesor ni un ángel, sino el Señor en persona los salvó, porque los ama y tiene cuidado de ellos. Él mismo los redimió» (Is [63, 9]({{ "biblia-straubinger/isaias#c63-v9" | relative_url }})).
 
 ## [89](#c89). El Espíritu sobre la faz de la tierra
 {:#c89}
 
-A los que fueron así liberados, Dios no quiere llevarlos de nuevo a la legislación de Moisés (pues la ley se cumplió en Cristo), sino salvarlos mediante la fe y el amor hacia el Hijo de Dios en la renovación de la Palabra, como lo dio a entender Isaías cuando exclamó: «No recordéis lo de antaño, no penséis en lo antiguo; mirad que renuevo a quien va a germinar ahora, y vosotros le conoceréis. Abriré un camino en el desierto, y en la región árida ríos para dar de beber a mi nación y a mi pueblo elegido, que adquirí para contar mis hazañas» (Is 43,18-20).
+A los que fueron así liberados, Dios no quiere llevarlos de nuevo a la legislación de Moisés (pues la ley se cumplió en Cristo), sino salvarlos mediante la fe y el amor hacia el Hijo de Dios en la renovación de la Palabra, como lo dio a entender Isaías cuando exclamó: «No recordéis lo de antaño, no penséis en lo antiguo; mirad que renuevo a quien va a germinar ahora, y vosotros le conoceréis. Abriré un camino en el desierto, y en la región árida ríos para dar de beber a mi nación y a mi pueblo elegido, que adquirí para contar mis hazañas» (Is [43, 18]({{ "biblia-straubinger/isaias#c43-v18" | relative_url }})-20).
 
 Desierto y yermo era antes la vocación de los gentiles, pues el Verbo no había pasado entre ellos, ni les había dado a beber el Espíritu Santo. El Verbo dispuso el nuevo camino de la piedad y de la justicia, e hizo brotar ríos en abundancia, diseminando el Espíritu Santo sobre la tierra, según había prometido mediante los profetas, que extendería al fin, en los últimos tiempos, el Espíritu sobre la faz de la tierra.
 
@@ -736,33 +736,33 @@ Nuestra vocación, pues, acontece «en la novedad del Espíritu y no en la letra
 ## [91](#c91). La apertura de la nueva Alianza
 {:#c91}
 
-Estas promesas habían de ser una herencia en el tiempo de la vocación de los gentiles, para quienes fue también inaugurada la nueva Alianza. Así lo recuerda Isaías en estos términos: «Dice el Dios de Israel: En aquel día el hombre pondrá su esperanza en su Creador, y sus ojos contemplarán al Santo de Israel; y ya no pondrán su esperanza en los altares de los ídolos, ni en las obras de sus manos, que fabricaron sus dedos» (Is 17,6-8).
+Estas promesas habían de ser una herencia en el tiempo de la vocación de los gentiles, para quienes fue también inaugurada la nueva Alianza. Así lo recuerda Isaías en estos términos: «Dice el Dios de Israel: En aquel día el hombre pondrá su esperanza en su Creador, y sus ojos contemplarán al Santo de Israel; y ya no pondrán su esperanza en los altares de los ídolos, ni en las obras de sus manos, que fabricaron sus dedos» (Is [17, 6]({{ "biblia-straubinger/isaias#c17-v6" | relative_url }})-8).
 
 Manifiestamente, estas palabras están dirigidas a aquellos que abandonan a los ídolos y creen en Dios, nuestro Creador, gracias al Santo de Israel. El «Santo de Israel» es Cristo. Él se manifestó a los hombres y en Él tenemos fija nuestra mirada. Y ya no ponemos nuestra esperanza en los altares ni en las obras de nuestras manos.
 
 ## [92](#c92). Manifestado a los que no le buscaban
 {:#c92}
 
-Que debía manifestarse en medio de nosotros (porque el Hijo de Dios se haría hijo del hombre), y que nosotros habíamos de encontrar al que desconocíamos, lo afirma el mismo Verbo en Isaías: «Me he manifestado a los que no me buscaban; he sido hallado por los que no preguntaban por mi. Dije: Aquí estoy ante un pueblo que no había invocado mi nombre» (Is 65,1; Rm [10, 20]({{ "biblia-straubinger/romanos#c10-v20" | relative_url }})).
+Que debía manifestarse en medio de nosotros (porque el Hijo de Dios se haría hijo del hombre), y que nosotros habíamos de encontrar al que desconocíamos, lo afirma el mismo Verbo en Isaías: «Me he manifestado a los que no me buscaban; he sido hallado por los que no preguntaban por mi. Dije: Aquí estoy ante un pueblo que no había invocado mi nombre» (Is [65, 1]({{ "biblia-straubinger/isaias#c65-v1" | relative_url }}); Rm [10, 20]({{ "biblia-straubinger/romanos#c10-v20" | relative_url }})).
 
 ## [93](#c93). Profecías sobre el pueblo de Dios
 {:#c93}
 
-Que este pueblo estaba llamado a ser un pueblo santo, lo vaticinó Oseas, uno de los doce profetas: «Al no-pueblo mío lo llamaré pueblo mío, y la no-amada será amada. Donde se diga no-mi-pueblo, allí se llamarán hijos del Dios viviente» (Os 2,25; Rm [9, 25]({{ "biblia-straubinger/romanos#c9-v25" | relative_url }})-26). También Juan Bautista vuelve a decir lo mismo: «Dios puede hacer surgir de estas piedras hijos de Abraham» (Mt 3,9).
+Que este pueblo estaba llamado a ser un pueblo santo, lo vaticinó Oseas, uno de los doce profetas: «Al no-pueblo mío lo llamaré pueblo mío, y la no-amada será amada. Donde se diga no-mi-pueblo, allí se llamarán hijos del Dios viviente» (Os [2, 25]({{ "biblia-straubinger/oseas#c2-v25" | relative_url }}); Rm [9, 25]({{ "biblia-straubinger/romanos#c9-v25" | relative_url }})-26). También Juan Bautista vuelve a decir lo mismo: «Dios puede hacer surgir de estas piedras hijos de Abraham» (Mt [3, 9]({{ "biblia-straubinger/mateo#c3-v9" | relative_url }})).
 
-En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm [3, 28]({{ "biblia-straubinger/romanos#c3-v28" | relative_url }}); [4, 3]({{ "biblia-straubinger/romanos#c4-v3" | relative_url }}); Ga [3, 6]({{ "biblia-straubinger/galatas#c3-v6" | relative_url }}); St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez 11,19-20; 36,26-27).
+En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm [3, 28]({{ "biblia-straubinger/romanos#c3-v28" | relative_url }}); [4, 3]({{ "biblia-straubinger/romanos#c4-v3" | relative_url }}); Ga [3, 6]({{ "biblia-straubinger/galatas#c3-v6" | relative_url }}); St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez [11, 19]({{ "biblia-straubinger/ezequiel#c11-v19" | relative_url }})-20; 36,26-27).
 
 ## [94](#c94). La Iglesia y la Sinagoga
 {:#c94}
 
-De ahí que por la nueva llamada se realiza un cambio de corazones entre los gentiles por medio del Verbo de Dios que se encarnó y puso su tienda en medio de los hombres, como dice Juan, su discípulo: «Su Verbo se hizo carne y habitó entre nosotros» (Jn 1,14).
+De ahí que por la nueva llamada se realiza un cambio de corazones entre los gentiles por medio del Verbo de Dios que se encarnó y puso su tienda en medio de los hombres, como dice Juan, su discípulo: «Su Verbo se hizo carne y habitó entre nosotros» (Jn [1, 14]({{ "biblia-straubinger/juan#c1-v14" | relative_url }})).
 
-Por tanto, la Iglesia engendra un gran número de frutos (es decir, de salvados), porque ya no es un intercesor (Moisés) ni un mensajero (Elías) quienes nos salvan, sino el Señor en persona, que da más hijos a la Iglesia que a la sinagoga del pasado, como predijo Isaías con estos términos: «Regocíjate, estéril, que no dabas a luz». Estéril es, pues, la Iglesia que antes no había dado hijo alguno a Dios, como también recuerda Isaías: «Grita y salta, tú que no has tenido los dolores porque los hijos de la abandonada son más numerosos que los hijos de la que tenía marido» (Is 54,1; Gál [4, 27]({{ "biblia-straubinger/galatas#c4-v27" | relative_url }})). Y eso que la antigua Sinagoga tenía por marido la ley.
+Por tanto, la Iglesia engendra un gran número de frutos (es decir, de salvados), porque ya no es un intercesor (Moisés) ni un mensajero (Elías) quienes nos salvan, sino el Señor en persona, que da más hijos a la Iglesia que a la sinagoga del pasado, como predijo Isaías con estos términos: «Regocíjate, estéril, que no dabas a luz». Estéril es, pues, la Iglesia que antes no había dado hijo alguno a Dios, como también recuerda Isaías: «Grita y salta, tú que no has tenido los dolores porque los hijos de la abandonada son más numerosos que los hijos de la que tenía marido» (Is [54, 1]({{ "biblia-straubinger/isaias#c54-v1" | relative_url }}); Gál [4, 27]({{ "biblia-straubinger/galatas#c4-v27" | relative_url }})). Y eso que la antigua Sinagoga tenía por marido la ley.
 
 ## [95](#c95). La incorporación de los gentiles
 {:#c95}
 
-Moisés dice en el Deuteronomio que los Gentiles estarán a la cabeza y el pueblo incrédulo a la zaga. Y poco después: «Habéis provocado mi celo con vuestros no-dioses, me habéis irritado con vuestros ídolos; yo provocaré vuestro celo con uno que no es pueblo y os irritaré con un pueblo insensato» (Dt 32,21).
+Moisés dice en el Deuteronomio que los Gentiles estarán a la cabeza y el pueblo incrédulo a la zaga. Y poco después: «Habéis provocado mi celo con vuestros no-dioses, me habéis irritado con vuestros ídolos; yo provocaré vuestro celo con uno que no es pueblo y os irritaré con un pueblo insensato» (Dt [32, 21]({{ "biblia-straubinger/deuteronomio#c32-v21" | relative_url }})).
 
 Y esto porque abandonaron al Dios verdadero, adoraron a falsos dioses, mataron a los profetas de Dios y profetizaron por medio de Baal, que era un ídolo de los cananeos; rechazaron al verdadero Hijo de Dios al escoger a Barrabás, un bandido detenido por flagrante homicidio, al abjurar del rey eterno y reconocer como rey al césar que es perecedero. Por eso Dios decidió entregar su heredad a los gentiles y a aquellos que no eran ciudadanos de la ciudad de Dios y desconocían quién es Dios.
 
@@ -777,12 +777,12 @@ La ley, en efecto, no afirmará más «no cometer adulterio» a aquel que ni siq
 
 Ya no mandará, pues, guardar un día de descanso al que todos los días observa el sábado, es decir, al que rinde culto a Dios en el templo de Dios que es el cuerpo del hombre y practica siempre la justicia. «Prefiero misericordia», dice, al tiempo que continúa: «Prefiero el conocimiento de Dios a los holocaustos».
 
-Pero el impío que inmola un ternero es como si matase a un perro, y cuando ofrece flor de harina es como si ofreciese sangre de cerdo» (Is 66, 3). Y «todo el que invocare el nombre del Señor se salvará» (Hch [2, 21]({{ "biblia-straubinger/hechos#c2-v21" | relative_url }}); Rm [10, 13]({{ "biblia-straubinger/romanos#c10-v13" | relative_url }}); Jl [2, 32]({{ "biblia-straubinger/joel#c2-v32" | relative_url }})), y «ningún otro nombre se nos ha dado bajo el cielo por el cual los hombres se salven» (Hch [4, 12]({{ "biblia-straubinger/hechos#c4-v12" | relative_url }})) si no es el nombre de Dios, Jesucristo, Hijo de Dios, al que obedecen todos los demonios, los espíritus malvados y todas las potencias rebeldes.
+Pero el impío que inmola un ternero es como si matase a un perro, y cuando ofrece flor de harina es como si ofreciese sangre de cerdo» (Is [66, 3]({{ "biblia-straubinger/isaias#c66-v3" | relative_url }})). Y «todo el que invocare el nombre del Señor se salvará» (Hch [2, 21]({{ "biblia-straubinger/hechos#c2-v21" | relative_url }}); Rm [10, 13]({{ "biblia-straubinger/romanos#c10-v13" | relative_url }}); Jl [2, 32]({{ "biblia-straubinger/joel#c2-v32" | relative_url }})), y «ningún otro nombre se nos ha dado bajo el cielo por el cual los hombres se salven» (Hch [4, 12]({{ "biblia-straubinger/hechos#c4-v12" | relative_url }})) si no es el nombre de Dios, Jesucristo, Hijo de Dios, al que obedecen todos los demonios, los espíritus malvados y todas las potencias rebeldes.
 
 ## [97](#c97). La salvación en Jesucristo
 {:#c97}
 
-Por la invocación del nombre de Jesucristo, crucificado bajo Poncio Pilato, Satanás fue alejado definitivamente de entre los hombres. Allí donde haya alguien que creyendo en Él y haciendo su voluntad le recuerde e invoque, Jesús se hace presente y atiende las súplicas de quien le invoca con corazón puro. De este modo, habiendo obtenido la salvación, nosotros permanecemos en constante acción de gracias a Dios, nuestro Salvador, el que por su magna e insondable Sabiduría, nos salva y proclama la salvación desde lo alto de los cielos, salvación que es la venida visible de nuestro Señor, es decir, su vida humana, salvación que por nuestras propias posibilidades no podíamos conseguir. Pero «lo que es imposible para los hombres es posible para Dios» (Lc 18,27).
+Por la invocación del nombre de Jesucristo, crucificado bajo Poncio Pilato, Satanás fue alejado definitivamente de entre los hombres. Allí donde haya alguien que creyendo en Él y haciendo su voluntad le recuerde e invoque, Jesús se hace presente y atiende las súplicas de quien le invoca con corazón puro. De este modo, habiendo obtenido la salvación, nosotros permanecemos en constante acción de gracias a Dios, nuestro Salvador, el que por su magna e insondable Sabiduría, nos salva y proclama la salvación desde lo alto de los cielos, salvación que es la venida visible de nuestro Señor, es decir, su vida humana, salvación que por nuestras propias posibilidades no podíamos conseguir. Pero «lo que es imposible para los hombres es posible para Dios» (Lc [18, 27]({{ "biblia-straubinger/lucas#c18-v27" | relative_url }})).
 
 A este respecto, Jeremías dice: «¿Quién subió al cielo y se apoderó de ella y la hizo descender de las nubes? ¿Quién atravesó los mares y la descubrió y la trajo con preferencia al oro más puro? No hay quien haya encontrado su camino ni quien conozca su sendero. Pero el que sabe todas las cosas, la conoce con su sabiduría, el que cimentó la tierra para siempre y la pobló de animales cuadrúpedos, el que manda a la luz y ésta se expande, el que la llama y ella le obedece temblando; los astros se levantan para sus vigilias y se complacen. Él los llama y contestan: "Henos aquí"; y lucen alegremente en honor del que los hizo. Este es nuestro Dios; ningún otro cuenta a su lado para nada. Él descubrió todos los caminos con su sabiduría y se lo comunicó a Jacob, su siervo, y a Israel, su amado. Y después de esto se hizo ver en la tierra y conversó con los hombres. Éste es el libro de los mandamientos de Dios y de la ley perdurable, para siempre. Los que la guardan alcanzarán la vida; los que la abandonan morirán» (Ba [3, 29]({{ "biblia-straubinger/baruc#c3-v29" | relative_url }})-[4, 1]({{ "biblia-straubinger/baruc#c4-v1" | relative_url }})).
 
@@ -800,7 +800,7 @@ Por tanto, que ninguno piense que existe otro Dios Padre distinto de nuestro Cre
 
 En realidad, todos estos son impíos y blasfeman contra su Creador y Padre ,como ya hemos demostrado en la Exposición y Refutación de la Falsa Gnosis. Otros, todavía desprecian la venida del Hijo de Dios y la economía de su encarnación trasmitida por los apóstoles y vaticinada por los profetas para la restauración de la humanidad, como concisamente hemos demostrado.
 
-También a estas personas hay que contarlas entre los incrédulos. Otros todavía no acogen los dones del Espíritu Santo y rechazan el carisma profético, por cuyo rocío el hombre produce frutos de vida divina. De estos dice Isaías: «Serán como un terebinto sin hojas y como un jardín sin agua» (Is 1, 30). Estos no son de utilidad alguna para Dios, pues no producen frutos.
+También a estas personas hay que contarlas entre los incrédulos. Otros todavía no acogen los dones del Espíritu Santo y rechazan el carisma profético, por cuyo rocío el hombre produce frutos de vida divina. De estos dice Isaías: «Serán como un terebinto sin hojas y como un jardín sin agua» (Is [1, 30]({{ "biblia-straubinger/isaias#c1-v30" | relative_url }})). Estos no son de utilidad alguna para Dios, pues no producen frutos.
 
 ## [100](#c100). Hay que mantenerse lejos del error
 {:#c100}

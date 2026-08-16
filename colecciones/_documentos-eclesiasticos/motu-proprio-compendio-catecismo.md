@@ -29,7 +29,7 @@ Entrego, por tanto, con confianza este *Compendio*, ante todo a la Iglesia enter
 
 Pero este *Compendio*, por su brevedad, claridad e integridad, se dirige asimismo a toda persona que, viviendo en un mundo dispersivo y lleno de los más variados mensajes, quiera conocer el Camino de la Vida y la Verdad, entregado por Dios a la Iglesia de su Hijo.
 
-Leyendo este valioso instrumento que es el *Compendio*, gracias especialmente a la intercesión de María Santísima, Madre de Cristo y de la Iglesia, puedan todos reconocer y acoger cada vez mejor la inagotable belleza, unicidad y actualidad del Don por excelencia que Dios ha hecho a la humanidad: Su Hijo único, Jesucristo, que es «el Camino, la Verdad y la Vida» (Jn 14, 6).
+Leyendo este valioso instrumento que es el *Compendio*, gracias especialmente a la intercesión de María Santísima, Madre de Cristo y de la Iglesia, puedan todos reconocer y acoger cada vez mejor la inagotable belleza, unicidad y actualidad del Don por excelencia que Dios ha hecho a la humanidad: Su Hijo único, Jesucristo, que es «el Camino, la Verdad y la Vida» (Jn [14, 6]({{ "biblia-straubinger/juan#c14-v6" | relative_url }})).
 
 *Dado en Roma, junto a San Pedro, el 28 de Junio de 2005, víspera de la Solemnidad de los Santos Apóstoles Pedro y Pablo, año primero de mi Pontificado*.
 

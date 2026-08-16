@@ -2,6 +2,13 @@
 
 # Este script transforma referencias bíblicas en hipervínculos.
 
+# Posible funcionalidad futura: Opciones para indicar si la numeración de los caps. y vv. de los Salmos, Joel, y Eclesiástico (y quizá Jeremías) es según los LXX, la Vulgata o el texto masorético. Los enlaces a esos libros, al menos por ahora, deben crearse manualmente.
+
+# Scripts sed sin usar:
+# -e 's/\b(Sa?l\.?|Salmos?) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/salmos#c\2-v\3" | relative_url }})/g' \
+# -e 's/\b(Jl\.?|Joe\.?|Joel) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/joel#c\2-v\3" | relative_url }})/g' \
+# -e 's/\b(Eclo\.?|Sir?\.?|Eclesiástico|Sirácides|Sirácida) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/eclesiastico#c\2-v\3" | relative_url }})/g' \
+
 sed --in-place --regexp-extended \
    -e 's/\b(Gn\.?|G[ée]n\.?|Génesis) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/genesis#c\2-v\3" | relative_url }})/g' \
    \
@@ -47,8 +54,6 @@ sed --in-place --regexp-extended \
    \
    -e 's/\b(Jb\.?|Job) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/job#c\2-v\3" | relative_url }})/g' \
    \
-   -e 's/\b(Sa?l\.?|Salmos?) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/salmos#c\2-v\3" | relative_url }})/g' \
-   \
    -e 's/\b(Pro?\.?|Proverbios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/proverbios#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Ec\.?|Qo\.?|Eclesiastés|[QC]oh[ée]let) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/eclesiastes#c\2-v\3" | relative_url }})/g' \
@@ -56,8 +61,6 @@ sed --in-place --regexp-extended \
    -e 's/\b(Can\.?|Ca?nt\.?|Ct\.?|Cantar|Cantares|Cantar de los Cantares) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/cantar-de-los-cantares#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Sa?b\.?|Sabiduría) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/sabiduria#c\2-v\3" | relative_url }})/g' \
-   \
-   -e 's/\b(Eclo\.?|Sir?\.?|Eclesiástico|Sirácides|Sirácida) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/eclesiastico#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Isa?\.?|Isaías) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/isaias#c\2-v\3" | relative_url }})/g' \
    \
@@ -72,8 +75,6 @@ sed --in-place --regexp-extended \
    -e 's/\b(Da?n\.?|Daniel) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/daniel#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Os\.?|Oseas) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/oseas#c\2-v\3" | relative_url }})/g' \
-   \
-   -e 's/\b(Jl\.?|Joe\.?|Joel) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/joel#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Am\.?|Amós) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/amos#c\2-v\3" | relative_url }})/g' \
    \

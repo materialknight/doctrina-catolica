@@ -21,11 +21,11 @@ layout: default
    {%- include components/font-options.html -%}
 
    <div id="btn-container">
-      {%- include components/btn-font-options.html -%}
-
       {%- unless page.url contains "index" -%}
-      {%- include components/btn-toc.html -%}
+         {%- include components/btn-toc.html -%}
       {%- endunless -%}
+
+      {%- include components/btn-font-options.html -%}
    </div>
 
    <div class="post-content">

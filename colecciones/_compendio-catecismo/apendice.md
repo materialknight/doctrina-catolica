@@ -1288,7 +1288,7 @@ Orémus:
 Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente.
 Amarás al prójimo como a ti mismo.
 
-### Regla de Oro (Mt 7, 12)
+### Regla de Oro (Mt [7, 12]({{ "biblia-straubinger/mateo#c7-v12" | relative_url }}))
 
 Tratad a los demás como queráis que ellos os traten a vosotros.
 

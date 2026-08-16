@@ -108,7 +108,7 @@ title: Carta del apóstol san Pablo a los Filipenses
 
 ### La imitación de Cristo
 
-[2, 1](#c2-v1) Si tenéis, pues, (para mí) alguna consolación en Cristo algún consuelo de caridad, alguna comunicación de Espíritu, alguna ternura y misericordia [[\*\*]](#nt-c2-v1),
+[2, 1](#c2-v1) Si tenéis, pues, (para mí) alguna consolación en Cristo, algún consuelo de caridad, alguna comunicación de Espíritu, alguna ternura y misericordia [[\*\*]](#nt-c2-v1),
 {:#c2-v1}
 
 [2, 2](#c2-v2) poned el colmo a mi gozo, siendo de un mismo sentir, teniendo un mismo amor, un mismo espíritu, un mismo pensamiento.

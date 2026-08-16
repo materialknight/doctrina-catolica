@@ -8,7 +8,7 @@ title: Doctrina de los Doce Apóstoles
 
 Esta obra es un manual eclesiástico, escrito originalmente en griego *koiné* (= popular) por un autor anónimo, entre los años 65-80 d.C., es decir: antes que algunos libros del Nuevo Testamento como el Evangelio de Juan y el Apocalipsis.
 
-El Catecismo la cita en latín como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή» (*didajé* = doctrina, instrucción o enseñanza), cuyo significado recuerda al término hebreo «תורה» (*torá* = doctrina, instrucción, enseñanza o ley, especialmente la dada por Dios en el Pentateuco), pues efectivamente esta obra sintetiza la **doctrina** cristiana, que es la **ley** del amor (Romanos [13, 8]({{ "biblia-straubinger/romanos#c13-v8" | relative_url }})-10) dada por Dios hecho hombre (Isaías 54, 13) en el Nuevo Pacto (Jeremías 31, 31-33).
+El Catecismo la cita en latín como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή» (*didajé* = doctrina, instrucción o enseñanza), cuyo significado recuerda al término hebreo «תורה» (*torá* = doctrina, instrucción, enseñanza o ley, especialmente la dada por Dios en el Pentateuco), pues efectivamente esta obra sintetiza la **doctrina** cristiana, que es la **ley** del amor (Romanos [13, 8]({{ "biblia-straubinger/romanos#c13-v8" | relative_url }})-10) dada por Dios hecho hombre (Isaías [54, 13]({{ "biblia-straubinger/isaias#c54-v13" | relative_url }})) en el Nuevo Pacto (Jeremías [31, 31]({{ "biblia-straubinger/jeremias#c31-v31" | relative_url }})-33).
 
 También la *Didajé* es el testimonio más antiguo de la fidelidad con que la Iglesia Católica ha conservado el Depósito de la Fe (2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14) hasta nuestros días.
 
@@ -385,16 +385,16 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [1, 2](#c1-v2) Antes de ser conocidos como «cristianos» (Hechos [11, 26]({{ "biblia-straubinger/hechos#c11-v26" | relative_url }})), la fe de los seguidores de Jesús se llamaba simplemente «El Camino» (Hechos [9, 2]({{ "biblia-straubinger/hechos#c9-v2" | relative_url }}), cp. Hechos [19, 9]({{ "biblia-straubinger/hechos#c19-v9" | relative_url }}) y [23]({{ "biblia-straubinger/hechos#c19-v23" | relative_url }}); [22, 4]({{ "biblia-straubinger/hechos#c22-v4" | relative_url }}); [24, 14]({{ "biblia-straubinger/hechos#c24-v14" | relative_url }}) y [22]({{ "biblia-straubinger/hechos#c24-v22" | relative_url }})), y los judíos conocían a «los del Camino» como «la secta de los nazarenos» (Hechos [24, 5]({{ "biblia-straubinger/hechos#c24-v5" | relative_url }})).
 {:#nt-c1-v2}
 
-«Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo 22, 34-40 y Marcos [12, 28]({{ "biblia-straubinger/marcos#c12-v28" | relative_url }})-31).
+«Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo [22, 34]({{ "biblia-straubinger/mateo#c22-v34" | relative_url }})-40 y Marcos [12, 28]({{ "biblia-straubinger/marcos#c12-v28" | relative_url }})-31).
 {:#nt-c1-v2b}
 
-Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas a otro lo que no quieras que te hagan a ti» (cp. Tobías 4, 15). Pero en los Evangelios, Jesús nos dará «La Regla de Oro»: «Haz a otros lo que quieras que te hagan a ti» (cp. Mateo 7, 12 y Lucas 6, 31).
+Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas a otro lo que no quieras que te hagan a ti» (cp. Tobías [4, 15]({{ "biblia-straubinger/tobias#c4-v15" | relative_url }})). Pero en los Evangelios, Jesús nos dará «La Regla de Oro»: «Haz a otros lo que quieras que te hagan a ti» (cp. Mateo [7, 12]({{ "biblia-straubinger/mateo#c7-v12" | relative_url }}) y Lucas [6, 31]({{ "biblia-straubinger/lucas#c6-v31" | relative_url }})).
 {:#nt-c1-v2c}
 
-[1, 3](#c1-v3) Compárese este y los siguentes 2 versículos con Mateo 5, 38-48 y Lucas 6, 27-36.
+[1, 3](#c1-v3) Compárese este y los siguentes 2 versículos con Mateo [5, 38]({{ "biblia-straubinger/mateo#c5-v38" | relative_url }})-48 y Lucas [6, 27]({{ "biblia-straubinger/lucas#c6-v27" | relative_url }})-36.
 {:#nt-c1-v3}
 
-[4, 5](#c4-v5) Cp. Eclesiástico 4, 31.
+[4, 5](#c4-v5) Cp. Eclesiástico [4, 31]({{ "biblia-straubinger/eclesiastico#c4-v31" | relative_url }}).
 {:#nt-c4-v5}
 
 [4, 14](#c4-v14) Este versículo se explica en todo el Capítulo [14](#c14).
@@ -409,19 +409,19 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 [8, 1](#c8-v1) En esta obra, como en Mateo 6, «los hipócritas» son el Israel según la carne que rechazó a Jesús.
 {:#nt-c8-v1}
 
-[8, 2](#c8-v2) Cp. Mateo 6, 5-15.
+[8, 2](#c8-v2) Cp. Mateo [6, 5]({{ "biblia-straubinger/mateo#c6-v5" | relative_url }})-15.
 {:#nt-c8-v2}
 
-[8, 3](#c8-v3) Aquí, como en Lucas 11, 2, queda claro que el Padrenuestro no era solo un modelo.
+[8, 3](#c8-v3) Aquí, como en Lucas [11, 2]({{ "biblia-straubinger/lucas#c11-v2" | relative_url }}), queda claro que el Padrenuestro no era solo un modelo.
 {:#nt-c8-v3}
 
-[9, 1](#c9-v1) «Eucaristía» es una transliteración del griego «εὐχαριστία», que significa «acción de gracias», y se llama así porque Jesús la instituyó dando gracias al Padre (Mateo 26, 26-28, Marcos [14, 22]({{ "biblia-straubinger/marcos#c14-v22" | relative_url }})-24, Lucas 22, 17-19).
+[9, 1](#c9-v1) «Eucaristía» es una transliteración del griego «εὐχαριστία», que significa «acción de gracias», y se llama así porque Jesús la instituyó dando gracias al Padre (Mateo [26, 26]({{ "biblia-straubinger/mateo#c26-v26" | relative_url }})-28, Marcos [14, 22]({{ "biblia-straubinger/marcos#c14-v22" | relative_url }})-24, Lucas [22, 17]({{ "biblia-straubinger/lucas#c22-v17" | relative_url }})-19).
 {:#nt-c9-v1}
 
-[9, 5](#c9-v5) Cp. Mateo 7, 6.
+[9, 5](#c9-v5) Cp. Mateo [7, 6]({{ "biblia-straubinger/mateo#c7-v6" | relative_url }}).
 {:#nt-c9-v5}
 
-[10, 6](#c10-v6) «Hosanna» es la transliteración de una expresión hebrea que significa «sálvanos ya». El Domingo de Ramos, cuando Jesús entra en Jerusalén, la multitud lo recibe tendiendo ramas en su camino, y aclamando: «¡*Hosanna* al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo 21, 8-9), y unos muchachos lo aclaman *en el Templo* (Mateo 21, 15). Todo eso da cumplimiento al Salmo [118, 25]({{ "biblia-straubinger/salmos#c117-v25" | relative_url }})-27:
+[10, 6](#c10-v6) «Hosanna» es la transliteración de una expresión hebrea que significa «sálvanos ya». El Domingo de Ramos, cuando Jesús entra en Jerusalén, la multitud lo recibe tendiendo ramas en su camino, y aclamando: «¡*Hosanna* al Hijo de David! ¡Bendito el que viene en el nombre del Señor!» (Mateo [21, 8]({{ "biblia-straubinger/mateo#c21-v8" | relative_url }})-9), y unos muchachos lo aclaman *en el Templo* (Mateo [21, 15]({{ "biblia-straubinger/mateo#c21-v15" | relative_url }})). Todo eso da cumplimiento al Salmo [118, 25]({{ "biblia-straubinger/salmos#c117-v25" | relative_url }})-27:
 {:#nt-c10-v6}
 
 > 25 ¡Danos, oh Señor, la salvación; danos, oh Señor, la victoria!<br>
@@ -435,10 +435,10 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 > 27 Jehová es Dios, y nos ha dado luz; atad víctimas con cuerdas a los cuernos del altar.
 {:#nt-c10-v6d}
 
-«Maranathá» es la transliteración de una expresión aramea que puede significar diferentes cosas dependiendo de cómo se separe: «Marán athá» significa «Nuestro Señor viene», y «Marana tha» significa «Ven, Señor Nuestro». Cp. Apocalipsis 22, 20.
+«Maranathá» es la transliteración de una expresión aramea que puede significar diferentes cosas dependiendo de cómo se separe: «Marán athá» significa «Nuestro Señor viene», y «Marana tha» significa «Ven, Señor Nuestro». Cp. Apocalipsis [22, 20]({{ "biblia-straubinger/apocalipsis#c22-v20" | relative_url }}).
 {:#nt-c10-v6e}
 
-«Amén» es una palabra hebrea que significa «verdad», «ciertamente» o «así sea». Cp. Apocalipsis 3, 14, donde Jesús es llamado «El Amén», es decir: «La Verdad».
+«Amén» es una palabra hebrea que significa «verdad», «ciertamente» o «así sea». Cp. Apocalipsis [3, 14]({{ "biblia-straubinger/apocalipsis#c3-v14" | relative_url }}), donde Jesús es llamado «El Amén», es decir: «La Verdad».
 {:#nt-c10-v6f}
 
 [11, 3](#c11-v3) «Apóstol» viene del griego «ἀπόστολος», y significa «enviado», y en este caso, no se refiere solo a uno de Los Doce, sino a cualquier misionero.
@@ -447,7 +447,7 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 *Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})).
 {:#nt-c11-v3b}
 
-[11, 7](#c11-v7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo 12, 22-37 y Marcos [3, 20]({{ "biblia-straubinger/marcos#c3-v20" | relative_url }})-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
+[11, 7](#c11-v7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo [12, 22]({{ "biblia-straubinger/mateo#c12-v22" | relative_url }})-37 y Marcos [3, 20]({{ "biblia-straubinger/marcos#c3-v20" | relative_url }})-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
 {:#nt-c11-v7}
 
 Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues podríamos llegar a estorbar al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar públicamente al profeta mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
@@ -460,20 +460,20 @@ Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientra
 2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses [5, 19]({{ "biblia-straubinger/1-tesalonicenses#c5-v19" | relative_url }})-21).
 {:#nt-c11-v8b}
 
-[13, 3](#c13-v3) Cp. Números 18, 12-13, Deuteronomio 18, 3-4, y Ezequiel 44, 30.
+[13, 3](#c13-v3) Cp. Números [18, 12]({{ "biblia-straubinger/numeros#c18-v12" | relative_url }})-13, Deuteronomio [18, 3]({{ "biblia-straubinger/deuteronomio#c18-v3" | relative_url }})-4, y Ezequiel [44, 30]({{ "biblia-straubinger/ezequiel#c44-v30" | relative_url }}).
 {:#nt-c13-v3}
 
-[14, 2](#c14-v2) Cp. Mateo 5, 23-24.
+[14, 2](#c14-v2) Cp. Mateo [5, 23]({{ "biblia-straubinger/mateo#c5-v23" | relative_url }})-24.
 {:#nt-c14-v2}
 
-[14, 3](#c14-v3) Esta cita es una paráfrasis de Malaquías 1, 11.
+[14, 3](#c14-v3) Esta cita es una paráfrasis de Malaquías [1, 11]({{ "biblia-straubinger/malaquias#c1-v11" | relative_url }}).
 {:#nt-c14-v3}
 
 [16, 5](#c16-v5) Sobre la «prueba de fuego», cp. 1 Corintios [3, 11]({{ "biblia-straubinger/1-corintios#c3-v11" | relative_url }})-17; y sobre el «Depósito de la Fé», véase 1 Timoteo [6, 20]({{ "biblia-straubinger/1-timoteo#c6-v20" | relative_url }}) y 2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14.
 {:#nt-c16-v5}
 
-[16, 7](#c16-v7) Esta cita es una paráfrasis de Zacarías 14, 5. Cp. 1 Tesalonicenses [3, 13]({{ "biblia-straubinger/1-tesalonicenses#c3-v13" | relative_url }}) y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
+[16, 7](#c16-v7) Esta cita es una paráfrasis de Zacarías [14, 5]({{ "biblia-straubinger/zacarias#c14-v5" | relative_url }}). Cp. 1 Tesalonicenses [3, 13]({{ "biblia-straubinger/1-tesalonicenses#c3-v13" | relative_url }}) y Judas [14]({{ "biblia-straubinger/judas#v14" | relative_url }})-15.
 {:#nt-c16-v7}
 
-[16, 8](#c16-v8) Esta cita es de Daniel 7, 13, y se repite en Mateo 26, 64 y Marcos [14, 62]({{ "biblia-straubinger/marcos#c14-v62" | relative_url }}).
+[16, 8](#c16-v8) Esta cita es de Daniel [7, 13]({{ "biblia-straubinger/daniel#c7-v13" | relative_url }}), y se repite en Mateo [26, 64]({{ "biblia-straubinger/mateo#c26-v64" | relative_url }}) y Marcos [14, 62]({{ "biblia-straubinger/marcos#c14-v62" | relative_url }}).
 {:#nt-c16-v8}

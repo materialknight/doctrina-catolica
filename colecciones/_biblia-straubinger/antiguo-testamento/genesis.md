@@ -156,10 +156,10 @@ title: Génesis
 [2, 15](#c2-v15) [[\*\*]](#nt-c2-v15) Tomó, pues, Yahvé Dios al hombre y lo llevó al jardín de Edén, para que lo labrara y lo cuidase.
 {:#c2-v15}
 
-[2, 16](#c2-v16) [[\*\*]](#nt-c2-v16) Y mandó Yahvé Dios al hombre, diciendo: "De cualquier árbol del jardín puedes comer,
+[2, 16](#c2-v16) [[\*\*]](#nt-c2-v16) Y mandó Yahvé Dios al hombre, diciendo: «De cualquier árbol del jardín puedes comer,
 {:#c2-v16}
 
-[2, 17](#c2-v17) mas del árbol del conocimiento del bien y del mal, no comerás; porque el día en que comieres de él, morirás sin remedio".
+[2, 17](#c2-v17) mas del árbol del conocimiento del bien y del mal, no comerás; porque el día en que comieres de él, morirás sin remedio».
 {:#c2-v17}
 
 #### Creación de la mujer
@@ -5187,7 +5187,7 @@ Sin embargo, se mantiene la fe en su existencia. San Justino, San Agustín, Sant
 [2, 15](#c2-v15) **Para que lo labrara**: Aún antes de su caída, Adán tenía que cultivar la tierra. Le era preciso trabajar, no para procurarse alimento con el sudor de su frente, como después del pecado, sino para ejercitar su inteligencia y sus fuerzas, de tal manera que no se cansase, pero que no estuviese tampoco sin hacer nada (San Juan Crisóstomo. Homilías sobre el Génesis).
 {:#nt-c2-v15}
 
-[2, 16](#c2-v16) s. He aquí la primera prohibición que Dios impuso a los hombres. De hecho Adán era señor de toda la tierra ([1, 28](#c1-v28)), gozaba del privilegio de estar exento de enfermedades y de la muerte y vivía en íntima amistad con su Creador, que le había elegido para fundar y difundir el Reino de Dios sobre la tierra; pues todas las obras de Dios respecto del hombre, desde el primer día de la existencia del género humano hasta el fin de los tiempos, tienen por objeto el establecimiento y desarrollo de Su Reino. Su omnipotencia le permitiría hacerlo sin nosotros, pero su infinita bondad desea nuestra colaboración, para que seamos partícipes de un destino inefablemente dichoso. Cf. 2 Pedro [1, 4](2-pedro#c1-v4); 1 Juan [3, 1](1-juan#c3-v1). Si este Reino fracasó aparentemente tan pronto fue por culpa de los primeros padres; y si hasta el presente sufre violencia (Mateo [11, 12](mateo#c11-v12)), la culpa la tenemos nosotros.
+[2, 16](#c2-v16) s. He aquí la primera prohibición que Dios impuso a los hombres. De hecho Adán era señor de toda la tierra ([1, 28](#c1-v28)), gozaba del privilegio de estar exento de enfermedades y de la muerte, y vivía en íntima amistad con su Creador, que le había elegido para fundar y difundir el Reino de Dios sobre la tierra; pues todas las obras de Dios respecto del hombre, desde el primer día de la existencia del género humano hasta el fin de los tiempos, tienen por objeto el establecimiento y desarrollo de Su Reino. Su omnipotencia le permitiría hacerlo sin nosotros, pero su infinita bondad desea nuestra colaboración, para que seamos partícipes de un destino inefablemente dichoso. Cf. 2 Pedro [1, 4](2-pedro#c1-v4); 1 Juan [3, 1](1-juan#c3-v1). Si este Reino fracasó aparentemente tan pronto fue por culpa de los primeros padres; y si hasta el presente sufre violencia (Mateo [11, 12](mateo#c11-v12)), la culpa la tenemos nosotros.
 {:#nt-c2-v16}
 
 En los versículos que siguen, narra el autor sagrado la historia del primer revés del Reino de Dios sobre la tierra, a causa de la desobediencia de los protoparentes, los que dieron más crédito a la serpiente que a su Padre y Creador. (Cf. Sabiduría [2, 24](sabiduria#c2-v24) y nota).
