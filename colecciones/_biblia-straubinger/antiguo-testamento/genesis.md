@@ -4991,7 +4991,7 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [1, 1](#c1-v1) **Al principio**, es decir, cuando no existía aún nada de lo que se encierra en las palabras «cielo y tierra». Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): «En el principio era el Verbo». De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo «el principio» y dice que «por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él» (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama «el principio» en Juan [8, 25](juan#c8-v25) (*Vulgata*).
 {:#nt-c1-v1}
 
-**Creó**: de la nada; no de alguna materia preexistente, como se lee en las cosmogonías paganas. El verbo hebreo *bará* se usa específicamente para señalar la actividad divina y la creación *ex nihilo*.
+**Creó**: de la nada; no de alguna materia preexistente, como se lee en las cosmogonías paganas. El verbo hebreo «*bará*» se usa específicamente para señalar la actividad divina y la creación *ex nihilo*.
 
 > «Hacer una cosa cuando no existía nada, es producir de la nada, es crear en el sentido filosófico de la palabra.» (Ceuppens)
 
@@ -5873,7 +5873,7 @@ No fue un **sueño** natural, sino un éxtasis o arrobamiento, durante el cual D
 
 **¿No he visto?** etc.: Texto oscuro, al cual se dan muy diversas traducciones y explicaciones. Agar parece admirarse de haber visto al Ángel de Dios sin perder la vida. Era opinión común que nadie podía ver a Dios o a su Ángel sin morir (cf. [32, 30](#c32-v30); Éxodo [33, 20](exodo#c33-v20); Jueces [13, 21](jueces#c13-v21) ss.).
 
-[16, 14](#c16-v14) El **Viviente** es, en la Sagrada Escritura, nombre de Dios. Cf. Josué [3, 10](josue#c3-v10); 2 Reyes [19, 4](2-reyes#c19-v4) y 16; Salmos [4, 3](salmos#c4-v3); [83, 3](salmos#c83-v3): Oseas [1, 10](oseas#c1-v10); Mateo [26, 63](mateo#c26-v63).
+[16, 14](#c16-v14) El **Viviente** es, en la Sagrada Escritura, nombre de Dios. Cf. Josué [3, 10](josue#c3-v10); 2 Reyes [19, 4](2-reyes#c19-v4) y [16](2-reyes#c19-v16); Salmos [4, 3](salmos#c4-v3); [83, 3](salmos#c83-v3): Oseas [1, 10](oseas#c1-v10); Mateo [26, 63](mateo#c26-v63).
 {:#nt-c16-v14}
 
 [16, 15](#c16-v15) Sobre el carácter espiritual de las relaciones entre Sara y Agar habla San Pablo en la Epístola a los Gálatas. Agar, la esclava, es figura y tipo del Antiguo Testamento, cuya característica es la servidumbre y sumisión a la Ley; Sara, en cambio, es el tipo del Nuevo Testamento y de la «Jerusalén de arriba». Por eso, aunque parece estéril, es más fecunda, por ser madre del hijo de la promesa (Isaac), en tanto que Agar, aunque fecunda según la carne, es estéril para el Reino de Dios, y su hijo Ismael no obtendrá bendiciones espirituales (Gálatas [4, 22](galatas#c4-v22) ss.). Cf. [17, 20](#c17-v20).

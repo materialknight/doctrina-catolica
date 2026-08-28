@@ -310,7 +310,7 @@ title: Primera carta del apóstol san Juan
 [5, 6](#c5-v6) El mismo es el que vino a través de agua y de sangre: Jesucristo; no en el agua solamente, sino en el agua y en la sangre; y el Espíritu es el que da testimonio, por cuanto el Espíritu es la verdad [[\*\*]](#nt-c5-v6).
 {:#c5-v6}
 
-[5, 7](#c5-v7) Porque tres son los que dan testimonio [en el cielo; el Padre, el Verbo y el Espíritu Santo, y estos tres son uno [[\*\*]](#nt-c5-v7).
+[5, 7](#c5-v7) Porque tres son los que dan testimonio [en el cielo: el Padre, el Verbo y el Espíritu Santo, y estos tres son uno [[\*\*]](#nt-c5-v7).
 {:#c5-v7}
 
 [5, 8](#c5-v8) Y tres son los que dan testimonio en la tierra]: el Espíritu, y el agua, y la sangre; y los tres concuerdan.
@@ -654,7 +654,7 @@ Fillion estima poco probable que haya en este v. una referencia a Juan [19, 34](
 
 > «El 13 de enero de 1897 la Sagrada Congregación de la Inquisición había declarado, en un decreto confirmado el 15 por León XIII, que no se podía negar ni poner en duda que 1 Juan [5, 7](1-juan#c5-v7) sea auténtico. Muchos autores explicaron que el decreto no tenía más valor que un valor disciplinario que prohibía tachar caprichosamente de la Biblia el texto controvertido.
 >
-> El 2 de junio de 1927 el Santo Oficio aseguraba que el decreto solo había sido dado para oponerse "a la audacia de los doctores privados que se atribuyen el derecho de rechazar la autenticidad del comma johanneum o en último análisis al menos ponerlo en duda, pero que en manera alguna quería impedir a los escritores católicos que investigasen más ampliamente la cuestión y que, ponderados los argumentos con la moderación y templanza que la gravedad del asunto requiere, se inclinaran a la sentencia contraria a la autenticidad con tal que mostrasen estar dispuestos a atenerse al juicio de la Iglesia a la cual fue confiado por Jesucristo no solo el don de interpretar las Sagradas Letras sino también de custodiarlas fielmente".» (Ench. Bibl. 120 s.; Denz. 2198)
+> El 2 de junio de 1927 el Santo Oficio aseguraba que el decreto solo había sido dado para oponerse "a la audacia de los doctores privados que se atribuyen el derecho de rechazar la autenticidad del *comma johanneum* o en último análisis al menos ponerlo en duda, pero que en manera alguna quería impedir a los escritores católicos que investigasen más ampliamente la cuestión y que, ponderados los argumentos con la moderación y templanza que la gravedad del asunto requiere, se inclinaran a la sentencia contraria a la autenticidad con tal que mostrasen estar dispuestos a atenerse al juicio de la Iglesia a la cual fue confiado por Jesucristo no solo el don de interpretar las Sagradas Letras sino también de custodiarlas fielmente".» (Ench. Bibl. 120 s.; Denz. 2198)
 
 Desde otro punto de vista es de observar que el testimonio de las tres divinas Personas está implícitamente comprendido en el del agua y de la sangre y del Espíritu, pues, como vimos en la nota del v. [6](#c5-v6) en la primera dio testimonio el Padre y en la segunda el mismo Hijo (cf. Juan [8, 18](juan#c8-v18)), después de cuya Muerte y Ascensión el que da testimonio es el Espíritu (cf. Juan [7, 39](juan#c7-v39)).
 

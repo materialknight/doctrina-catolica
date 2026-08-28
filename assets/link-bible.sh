@@ -7,7 +7,7 @@
 # Scripts sed sin usar:
 # -e 's/\b(Sa?l\.?|Salmos?) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/salmos#c\2-v\3" | relative_url }})/g' \
 # -e 's/\b(Jl\.?|Joe\.?|Joel) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/joel#c\2-v\3" | relative_url }})/g' \
-# -e 's/\b(Eclo\.?|Sir?\.?|Eclesiástico|Sirácides|Sirácida) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/eclesiastico#c\2-v\3" | relative_url }})/g' \
+# -e 's/\b(Eclo\.?|Ecclo\.?|Sir?\.?|Eclesiástico|Sirácides|Sirácida) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/eclesiastico#c\2-v\3" | relative_url }})/g' \
 
 sed --in-place --regexp-extended \
    -e 's/\b(Gn\.?|G[ée]n\.?|Génesis) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/genesis#c\2-v\3" | relative_url }})/g' \

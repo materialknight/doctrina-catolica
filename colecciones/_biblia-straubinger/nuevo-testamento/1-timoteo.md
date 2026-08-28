@@ -471,7 +471,7 @@ La prohibición aquí dada se refiere en primer lugar a la predicación. Por eso
 [2, 15](#c2-v15) La vocación de la mujer es la *maternidad* que también puede extenderse, en sentido espiritual, a las almas que se entregan al apostolado o al servicio de los que sufren. Cf. Ezequiel [3, 19](ezequiel#c3-v19) y nota.
 {:#nt-c2-v15}
 
-[3, 1](#c3-v1) S. Agustín, comentando este pasaje, hace notar que S. Pablo dice obra y no honra, porque la Escritura acentúa especialmente la humildad que hemos de guardar en todo alto cargo. Cf. Eclesiástico [3, 20](eclesiastico#c3-v20); [7, 4](eclesiastico#c7-v4); [31, 8](eclesiastico#c31-v8); Lucas [22, 24](lucas#c22-v24)-27; Filipenses [2, 7](filipenses#c2-v7) s. y notas.
+[3, 1](#c3-v1) S. Agustín, comentando este pasaje, hace notar que S. Pablo dice «**obra**» y no «honra», porque la Escritura acentúa especialmente la humildad que hemos de guardar en todo alto cargo. Cf. Eclesiástico [3, 20](eclesiastico#c3-v20); [7, 4](eclesiastico#c7-v4); [31, 8](eclesiastico#c31-v8); Lucas [22, 24](lucas#c22-v24)-27; Filipenses [2, 7](filipenses#c2-v7) s. y notas.
 {:#nt-c3-v1}
 
 [3, 2](#c3-v2) En la antigüedad cristiana no había aún precepto de celibato para los obispos y presbíteros, sino que se ordenaban también casados; mas estaban excluidos de la ordenación los casados en segundas nupcias. Esto quiere expresar el término «**marido de una sola mujer**». Cf. Tito [1, 7](tito#c1-v7); 1 Corintios [7, 25](1-corintios#c7-v25)-40.

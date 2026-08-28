@@ -6,7 +6,7 @@ title: Eclesiástico o Ben Sirá
 
 ## Introducción
 
-El nombre de este libro: "El Eclesiástico", es debido al constante uso que de él se hacía en la Iglesia, especialmente en la instrucción del pueblo y de los catecúmenos que iban a ser bautizados. Basta este nombre para mostrarnos el aprecio que la Iglesia tenía de su utilidad como arsenal de doctrina y de piedad; y para darnos idea de lo familiarizados que estaban los fieles en los tiempos de fe, con el conocimiento de este divino tesoro de sabiduría. El nombre de "Libro de Jesús, hijo de Sirac", o "Sabiduría de Sirac", le viene de su autor Jesús (Josué), descendiente de un cierto Sirac ([50, 29](book#c50-v29)) que vivía en Palestina al comienzo del siglo II a. C.
+El nombre de este libro: «El Eclesiástico», es debido al constante uso que de él se hacía en la Iglesia, especialmente en la instrucción del pueblo y de los catecúmenos que iban a ser bautizados. Basta este nombre para mostrarnos el aprecio que la Iglesia tenía de su utilidad como arsenal de doctrina y de piedad; y para darnos idea de lo familiarizados que estaban los fieles en los tiempos de fe, con el conocimiento de este divino tesoro de sabiduría. El nombre de «Libro de Jesús, hijo de Sirac», o «Sabiduría de Sirac», le viene de su autor Jesús (Josué), descendiente de un cierto Sirac ([50, 29](book#c50-v29)) que vivía en Palestina al comienzo del siglo II a. C.
 
 El libro fue escrito por los años 200-170 a. C.
 
@@ -14,31 +14,31 @@ El autor se sirvió de la lengua hebrea, de la cual el libro fue traducido al gr
 
 San Jerónimo conocía todavía el texto hebreo, pero poco después este se perdió. Recién en nuestros días, en 1896-1900, fue hallado en una sinagoga de El Cairo un manuscrito que contiene más de la mitad del texto hebreo. Ello muestra, por otra parte, que este Libro deuterocanónico, aunque no forma parte del canon judío, fue tenido siempre en grande estima por Israel, cuyos maestros lo citan hasta hoy como fuente de suma autoridad. Las diferencias textuales de las versiones antiguas son muy numerosas y hemos procurado señalarlas brevemente en lo posible.
 
-El objeto del Eclesiástico es enseñar la sabiduría, es decir, las reglas para hallar la felicidad en la vida de amistad con Dios. De ahí que se le ha llamado "tratado de ética a lo divino", es decir, expuesto no en forma sistemática sino con esa pedagogía sobrenatural que San Pablo llama "mostrar el espíritu y la virtud" de Dios (1 Corintios [2, 4](1-corintios#c2-v4)), siendo de notar que la palabra "moral" (del latín mores: costumbres), tan usada posteriormente, no figura en la Sagrada Escritura. Para ilustrar su doctrina, recorre finalmente el autor en los caps. 44-50 la historia del pueblo escogido, presentándonos con elogio los varones sabios y justos desde Abrahán hasta Simón, hijo de Onías. Termina con una oración y una maravillosa exhortación para que todos aprendan y aprovechen de la sabiduría que a todos se brinda gratuitamente para saciar la sed del corazón.
+El objeto del Eclesiástico es enseñar la sabiduría, es decir, las reglas para hallar la felicidad en la vida de amistad con Dios. De ahí que se le ha llamado «tratado de ética a lo divino», es decir, expuesto no en forma sistemática sino con esa pedagogía sobrenatural que San Pablo llama «mostrar el espíritu y la virtud» de Dios (1 Corintios [2, 4](1-corintios#c2-v4)), siendo de notar que la palabra «moral» (del latín «*mores*»: costumbres), tan usada posteriormente, no figura en la Sagrada Escritura. Para ilustrar su doctrina, recorre finalmente el autor en los caps. 44-50 la historia del pueblo escogido, presentándonos con elogio los varones sabios y justos desde Abrahán hasta Simón, hijo de Onías. Termina con una oración y una maravillosa exhortación para que todos aprendan y aprovechen de la sabiduría que a todos se brinda gratuitamente para saciar la sed del corazón.
 
 El libro no está compuesto según un plan lógico, por lo cual su división no puede hacerse rigurosamente. Ello no obstante, señalamos aproximativamente como útil orientación para el lector, las diez secciones que propone Peten:
 
-I) 1, 1-4, 11: Elogio de la Sabiduría; deberes para con Dios, para con los padres, para con el prójimo, para con los pobres y oprimidos.
+I) [1, 1](#c1-v1)-[4, 11](#c4-v11): Elogio de la Sabiduría; deberes para con Dios, para con los padres, para con el prójimo, para con los pobres y oprimidos.
 
-II) 4, 12-6, 17: Ventajas de la sabiduría; prudencia y sinceridad en el obrar. La amistad.
+II) [4, 12](#c4-v12)-[6, 17](#c6-v17): Ventajas de la sabiduría; prudencia y sinceridad en el obrar. La amistad.
 
-III) 6, 18-14, 21: Ventajas de la sabiduría. Contra la ambición. Reglas de conducta acerca de varias categorías de hombres. Confianza en Dios. Hombres de los que hay que desconfiar. Contra la avaricia.
+III) [6, 18](#c6-v18)-[14, 21](#c14-v21): Ventajas de la sabiduría. Contra la ambición. Reglas de conducta acerca de varias categorías de hombres. Confianza en Dios. Hombres de los que hay que desconfiar. Contra la avaricia.
 
-IV) 14, 22-16, 23: Frutos de la sabiduría. El pecado y su castigo.
+IV) [14, 22](#c14-v22)-[16, 23](#c16-v23): Frutos de la sabiduría. El pecado y su castigo.
 
-V) 16, 24-23, 38: Himno al Creador. Templanza en el hablar y disciplina de la lengua. Diferencia entre el necio y el sabio.
+V) [16, 24](#c16-v24)-[23, 38](#c23-v38): Himno al Creador. Templanza en el hablar y disciplina de la lengua. Diferencia entre el necio y el sabio.
 
-VI) 24, 1-33, 19: Himno a la Sabiduría. Las mujeres. Honestidad en los negocios. Educación de los hijos. Salud y templanza. El temor de Dios.
+VI) [24, 1](#c24-v1)-[33, 19](#c33-v19): Himno a la Sabiduría. Las mujeres. Honestidad en los negocios. Educación de los hijos. Salud y templanza. El temor de Dios.
 
-VII) 33, 20-36, 19: Los esclavos. La superstición. Culto falso y verdadero. Oración por la salvación de Israel.
+VII) [33, 20](#c33-v20)-[36, 19](#c36-v19): Los esclavos. La superstición. Culto falso y verdadero. Oración por la salvación de Israel.
 
-VIII) 36, 20-39, 15: Elección de los mejores. Templanza. Relaciones con el médico. Culto de los muertos. Estudio de la Sabiduría.
+VIII) [36, 20](#c36-v20)-[39, 15](#c39-v15): Elección de los mejores. Templanza. Relaciones con el médico. Culto de los muertos. Estudio de la Sabiduría.
 
-IX) 39, 16-43, 37: Loa de la Divina Providencia. La vida humana, sus penas y alegrías. Castigos de los impíos. Verdadera y falsa vergüenza. Himno a Dios Creador.
+IX) [39, 16](#c39-v16)-[43, 37](#c43-v37): Loa de la Divina Providencia. La vida humana, sus penas y alegrías. Castigos de los impíos. Verdadera y falsa vergüenza. Himno a Dios Creador.
 
-X) 44, 1-50, 23: Elogio de los Padres.
+X) [44, 1](#c44-v1)-[50, 23](#c50-v23): Elogio de los Padres.
 
-Sigue un apéndice que comprende dos partes: a) la oración de gratitud del autor ([51, 1](book#c51-v1)-17); b) un poema alfabético de invitación a la busca de la sabiduría ([51, 18](book#c51-v18)-38).
+Sigue un apéndice que comprende dos partes: a) la oración de gratitud del autor ([51, 1](#c51-v1)-17); b) un poema alfabético de invitación a la busca de la sabiduría ([51, 18](#c51-v18)-38).
 
 No hay palabras con qué expresar el bien que pueden hacernos, para la prosperidad de nuestra vida, estas enseñanzas cuya inspirada omnisciencia prevé todos los casos y resuelve todas las dificultades que nos puedan ocurrir.
 
@@ -46,13 +46,13 @@ Junto a estos libros sapienciales, palidece y aparece superficial y a menudo vac
 
 El Sabio va escrutando, como en un laboratorio, todos los problemas de la vida humana, y ofreciéndonos su solución. ¿Puede haber favor más grande? Porque no se trata de esas soluciones de la pura razón, o de la ciencia positiva que cada época y cada autor han ido proponiendo, o imponiendo orgullosamente, como definitivas conquistas de la filosofía... hasta que llegaba otro que las destruyese y las negase para proclamar las suyas, tan relativas o deleznables como aquellas.
 
-No; el laboratorio del moralista que aquí nos alecciona, está iluminado por un foco nuevo. Los pensadores de hoy lo llamarían intuición. Para los felices creyentes (Lucas [1, 45](lucas#c1-v45)) hay un nombre más claro, un nombre divino: el Espíritu Santo, que habló por los profetas, "qui locutus est per Prophetas".
+No; el laboratorio del moralista que aquí nos alecciona, está iluminado por un foco nuevo. Los pensadores de hoy lo llamarían intuición. Para los felices creyentes (Lucas [1, 45](lucas#c1-v45)) hay un nombre más claro, un nombre divino: el Espíritu Santo, que habló por los profetas, «*qui locutus est per Prophetas*».
 
-La intuición, que ahora se propone como una fuga ante el fracaso del racionalismo, ¿qué es, que puede ser, sino un modo disimulado de admitir que Dios obra en nosotros, por encima de nosotros y sin necesidad de nosotros, así como no nos necesitó para crearnos. ¿O acaso esa intuición —reconocida superior al raciocinio porque este muchas veces es falaz y deformado por las pasiones— no sería sino un instinto puramente humano y biológico? En tal caso, habremos de reconocer a los animales como los modelos del hombre en sabiduría... (y a fe que bien podrían ser nuestros maestros en cuanto se refiere a la ordenación de sus apetitos, que en el hombre están en rebeldía). Si nuestro ideal en cuanto a espíritu se contenta con tal instinto de intuición es que los "post-cristianos" de hoy están muy por debajo de la intuición del pagano Sócrates que al menos reconocía en su interior el soplo de un "demonio", en griego: espíritu, como agente de sus inspiraciones.
+La intuición, que ahora se propone como una fuga ante el fracaso del racionalismo, ¿qué es, que puede ser, sino un modo disimulado de admitir que Dios obra en nosotros, por encima de nosotros y sin necesidad de nosotros, así como no nos necesitó para crearnos. ¿O acaso esa intuición —reconocida superior al raciocinio porque este muchas veces es falaz y deformado por las pasiones— no sería sino un instinto puramente humano y biológico? En tal caso, habremos de reconocer a los animales como los modelos del hombre en sabiduría... (y a fe que bien podrían ser nuestros maestros en cuanto se refiere a la ordenación de sus apetitos, que en el hombre están en rebeldía). Si nuestro ideal en cuanto a espíritu se contenta con tal instinto de intuición es que los «post-cristianos» de hoy están muy por debajo de la intuición del pagano Sócrates que al menos reconocía en su interior el soplo de un «demonio», en griego: espíritu, como agente de sus inspiraciones.
 
-En vano David nos lo advertía hace tres mil años, hablando por su boca el mismo Dios: "Yo te daré la inteligencia. Yo te enseñaré el camino que debes seguir... no queráis haceros semejantes al caballo y al mulo, los cuales no tienen entendimiento" (Salmo [31, 8](salmos#c31-v8) s.). En vano, decimos, porque los hombres no aceptaron ese magisterio de nuestro Creador, y prefirieron el de las bestias, como lo expresa también otro Salmo de los hijos de Coré, diciendo: "El hombre, constituido en honor, no lo entendió. Se ha igualado a los insensatos jumentos y se ha hecho como uno de ellos" (Salmos [48, 13](salmos#c48-v13) y [21](salmos#c48-v21)).
+En vano David nos lo advertía hace tres mil años, hablando por su boca el mismo Dios: «Yo te daré la inteligencia. Yo te enseñaré el camino que debes seguir... no queráis haceros semejantes al caballo y al mulo, los cuales no tienen entendimiento» (Salmo [31, 8](salmos#c31-v8) s.). En vano, decimos, porque los hombres no aceptaron ese magisterio de nuestro Creador, y prefirieron el de las bestias, como lo expresa también otro Salmo de los hijos de Coré, diciendo: «El hombre, constituido en honor, no lo entendió. Se ha igualado a los insensatos jumentos y se ha hecho como uno de ellos» (Salmos [48, 13](salmos#c48-v13) y [21](salmos#c48-v21)).
 
-Estas reflexiones pueden servirnos como claroscuro para apreciar mejor, frente a nuestra triste indigencia propia, el tesoro de verdad, de enseñanzas, de soluciones infalibles, que la bondad de Nuestro Padre Dios pone en nuestras manos con este Libro, tan poco leído y meditado en los tiempos modernos. Agreguemos que esta sabiduría práctica del Eclesiástico, no es como un tónico o néctar de excepción, reservado solo para los que aspiran a lo exquisito. Es un alimento cotidiano, al que hemos de recurrir sistemáticamente los que vivimos "en este siglo malo" (Gálatas [1, 4](galatas#c1-v4)), los que creemos que San Juan no miente al decir que "el mundo todo está poseído del maligno" (1 Juan [5, 19](1-juan#c5-v19)). Jesús confirma esto en forma tremendamente absoluta, diciendo que a ese Espíritu Santo, que "enseña toda verdad" (Juan [16, 13](juan#c16-v13)) porque es "el Espíritu de la Verdad" (ibíd. 14, 17), "el mundo no lo puede recibir porque no lo ve, ni lo conoce" (ibíd.).
+Estas reflexiones pueden servirnos como claroscuro para apreciar mejor, frente a nuestra triste indigencia propia, el tesoro de verdad, de enseñanzas, de soluciones infalibles, que la bondad de Nuestro Padre Dios pone en nuestras manos con este Libro, tan poco leído y meditado en los tiempos modernos. Agreguemos que esta sabiduría práctica del Eclesiástico, no es como un tónico o néctar de excepción, reservado solo para los que aspiran a lo exquisito. Es un alimento cotidiano, al que hemos de recurrir sistemáticamente los que vivimos «en este siglo malo» (Gálatas [1, 4](galatas#c1-v4)), los que creemos que San Juan no miente al decir que «el mundo todo está poseído del maligno» (1 Juan [5, 19](1-juan#c5-v19)). Jesús confirma esto en forma tremendamente absoluta, diciendo que a ese Espíritu Santo, que «enseña toda verdad» (Juan [16, 13](juan#c16-v13)) porque es «el Espíritu de la Verdad» (ibíd. [14, 17](juan#c14-v17)), «el mundo no lo puede recibir porque no lo ve, ni lo conoce» (ibíd.).
 
 Siendo el Eclesiástico uno de los libros deuterocanónicos, nos hemos servido del texto (corregido) de nuestra edición de la Vulgata, añadiendo en las notas las variantes más importantes del griego y hebreo.
 
@@ -380,13 +380,13 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [2](#c5-v2){:#c5-v2} Cuando seas poderoso, no sigas los deseos de tu corazón;
 
-[3](#c5-v3){:#c5-v3} ni andes diciendo: "Gran poder es el mío, ¿quién me sujetará por causa de mis acciones?" Pues Dios segurísimamente tomará venganza.
+[3](#c5-v3){:#c5-v3} ni andes diciendo: «Gran poder es el mío, ¿quién me sujetará por causa de mis acciones?» Pues Dios segurísimamente tomará venganza.
 
-[4](#c5-v4){:#c5-v4} Tampoco digas: "Yo pequé, ¿y qué mal me ha venido? Porque el Altísimo, aunque paciente, da el pago merecido.
+[4](#c5-v4){:#c5-v4} Tampoco digas: «Yo pequé, ¿y qué mal me ha venido?» Porque el Altísimo, aunque paciente, da el pago merecido.
 
 [5](#c5-v5){:#c5-v5} [[56]](#n-56){:#rn-56} Del pecado perdonado no quieras estar sin temor; ni añadas pecados a pecados.
 
-[6](#c5-v6){:#c5-v6} [[57]](#n-57){:#rn-57} No digas: "¡Oh, la misericordia del Señor es grande! El me perdonará la multitud de mis pecados".
+[6](#c5-v6){:#c5-v6} [[57]](#n-57){:#rn-57} No digas: «¡Oh, la misericordia del Señor es grande! El me perdonará la multitud de mis pecados».
 
 [7](#c5-v7){:#c5-v7} [[58]](#n-58){:#rn-58} Porque tan pronto como ejerce su misericordia, ejerce su indignación, y tiene fijos sus ojos sobre el pecador.
 
@@ -522,7 +522,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [10](#c7-v10){:#c7-v10} ni descuides el hacer oración, y dar limosna.
 
-[11](#c7-v11){:#c7-v11} [[82]](#n-82){:#rn-82} No digas: "Dios tendrá miramiento a mis muchas ofrendas, y ofreciendo yo mis dones al Dios altísimo, los aceptará."
+[11](#c7-v11){:#c7-v11} [[82]](#n-82){:#rn-82} No digas: «Dios tendrá miramiento a mis muchas ofrendas, y ofreciendo yo mis dones al Dios altísimo, los aceptará.»
 
 [12](#c7-v12){:#c7-v12} No te burles del hombre que tiene angustiado su corazón; porque hay quien humilla y exalta: Dios que todo lo ve.
 
@@ -830,9 +830,9 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [24](#c11-v24){:#c11-v24} La bendición de Dios se apresura a recompensar al justo, y en breve tiempo le hace crecer y fructificar.
 
-[25](#c11-v25){:#c11-v25} No digas: "¿Qué me queda ya que hacer? ¿Y qué bienes me vendrán en lo venidero?"
+[25](#c11-v25){:#c11-v25} No digas: «¿Qué me queda ya que hacer? ¿Y qué bienes me vendrán en lo venidero?»
 
-[26](#c11-v26){:#c11-v26} [[146]](#n-146){:#rn-146} Tampoco digas: "Yo me basto a mí mismo; ¿y qué mal puedo temer para en adelante?"
+[26](#c11-v26){:#c11-v26} [[146]](#n-146){:#rn-146} Tampoco digas: «Yo me basto a mí mismo; ¿y qué mal puedo temer para en adelante?»
 
 [27](#c11-v27){:#c11-v27} En los días buenos no te olvides de los días malos, y en el día malo acuérdate del día bueno.
 
@@ -916,7 +916,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [6](#c13-v6){:#c13-v6} Mientras tienes algo, se sentará a tu mesa, hasta que te haya consumido tu hacienda; pero no se compadecerá de ti.
 
-[7](#c13-v7){:#c13-v7} Si te ha menester, te engañará, y con semblante risueño te dará esperanzas, prometiéndote mil bienes, y te dirá: "¿Qué es lo que has menester?"
+[7](#c13-v7){:#c13-v7} Si te ha menester, te engañará, y con semblante risueño te dará esperanzas, prometiéndote mil bienes, y te dirá: «¿Qué es lo que has menester?»
 
 [8](#c13-v8){:#c13-v8} [[159]](#n-159){:#rn-159} Te confundirá con sus convites; hasta que te apure dos o tres veces, y a la postre se burlará de ti; y después, al verte, te volverá las espaldas y moverá sobre ti su cabeza.
 
@@ -964,7 +964,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [28](#c13-v28){:#c13-v28} Habla el rico, y todos callan, y ensalzan su dicho hasta las nubes.
 
-[29](#c13-v29){:#c13-v29} Habla el pobre, y dicen: "¿Quién es ese?" Y si da un paso en falso, lo vuelcan por tierra.
+[29](#c13-v29){:#c13-v29} Habla el pobre, y dicen: «¿Quién es ese?» Y si da un paso en falso, lo vuelcan por tierra.
 
 ### Del buen uso de las riquezas
 
@@ -1066,9 +1066,9 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [10](#c15-v10){:#c15-v10} porque de Dios es la sabiduría, y con la sabiduría anda acompañada la alabanza de Dios; rebosará en los labios del hombre fiel, y el Señor se la infundirá.
 
-[11](#c15-v11){:#c15-v11} [[188]](#n-188){:#rn-188} No digas: "Por Dios ella me falta." No hagas lo que Él aborrece.
+[11](#c15-v11){:#c15-v11} [[188]](#n-188){:#rn-188} No digas: «Por Dios ella me falta.» No hagas lo que Él aborrece.
 
-[12](#c15-v12){:#c15-v12} [[189]](#n-189){:#rn-189} Tampoco digas: "Él me ha inducido al error", pues no necesita Él de los impíos.
+[12](#c15-v12){:#c15-v12} [[189]](#n-189){:#rn-189} Tampoco digas: «Él me ha inducido al error», pues no necesita Él de los impíos.
 
 [13](#c15-v13){:#c15-v13} [[190]](#n-190){:#rn-190} Aborrece el Señor toda maldad, la cual no puede ser amada de aquellos que le temen.
 
@@ -1128,9 +1128,9 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [15](#c16-v15){:#c16-v15} [[200]](#n-200){:#rn-200} Todo acto de misericordia prepara el lugar a cada uno según el mérito de sus obras, y según su prudente conducta durante la peregrinación.
 
-[16](#c16-v16){:#c16-v16} [[201]](#n-201){:#rn-201} No digas: "Yo me esconderé de Dios; ¿y desde allá arriba quién pensará en mí?
+[16](#c16-v16){:#c16-v16} [[201]](#n-201){:#rn-201} No digas: «Yo me esconderé de Dios; ¿y desde allá arriba quién pensará en mí?
 
-[17](#c16-v17){:#c16-v17} Nadie me reconocerá en medio de tan gran muchedumbre; porque, ¿qué es mi persona entre tanta infinidad de creaturas?"
+[17](#c16-v17){:#c16-v17} Nadie me reconocerá en medio de tan gran muchedumbre; porque, ¿qué es mi persona entre tanta infinidad de creaturas?»
 
 [18](#c16-v18){:#c16-v18} He aquí que el cielo, y los altísimos cielos, el abismo y la tierra toda y cuanto en ellos se contiene, temblarán a una mirada suya.
 
@@ -1186,7 +1186,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [10](#c17-v10){:#c17-v10} Asentó con ellos una alianza eterna, e les hizo conocer su justicia y sus preceptos.
 
-[11](#c17-v11){:#c17-v11} Vieron con los propios ojos la grandeza de su gloria, y la majestad de su voz les hirió los oídos, y les dijo: "Guardaos de toda suerte de iniquidad."
+[11](#c17-v11){:#c17-v11} Vieron con los propios ojos la grandeza de su gloria, y la majestad de su voz les hirió los oídos, y les dijo: «Guardaos de toda suerte de iniquidad.»
 
 [12](#c17-v12){:#c17-v12} [[215]](#n-215){:#rn-215} Y mandó a cada uno de ellos el amor a su prójimo.
 
@@ -1648,9 +1648,9 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [24](#c23-v24){:#c23-v24} Al hombre fornicario todo pan le es dulce; y no cesará de pecar hasta el fin.
 
-[25](#c23-v25){:#c23-v25} Todo hombre que deshonra su tálamo conyugal, como quien tiene en poco su alma, suele decir: "¿Quién hay que me vea?
+[25](#c23-v25){:#c23-v25} Todo hombre que deshonra su tálamo conyugal, como quien tiene en poco su alma, suele decir: «¿Quién hay que me vea?
 
-[26](#c23-v26){:#c23-v26} Rodeado estoy de tinieblas, y las paredes me encubren, y nadie me atisba: ¿a quién tengo que temer? el Altísimo no se acordará de mis delitos."
+[26](#c23-v26){:#c23-v26} Rodeado estoy de tinieblas, y las paredes me encubren, y nadie me atisba: ¿a quién tengo que temer? el Altísimo no se acordará de mis delitos.»
 
 [27](#c23-v27){:#c23-v27} Mas él no reflexiona que el ojo de Dios está viendo todas las cosas; porque semejante temor humano, temor no más que de los hombres, expele de él el temor de Dios.
 
@@ -1706,7 +1706,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [12](#c24-v12){:#c24-v12} [[318]](#n-318){:#rn-318} Entonces dio Él sus órdenes, y me habló el Creador de todas las cosas; y El que a mí me dio el ser, reposó en mi tabernáculo,
 
-[13](#c24-v13){:#c24-v13} y me dijo: "Habita en Jacob, y sea Israel tu herencia, y arráigate en medio de mis escogidos."
+[13](#c24-v13){:#c24-v13} y me dijo: «Habita en Jacob, y sea Israel tu herencia, y arráigate en medio de mis escogidos.»
 
 ### Habita en el pueblo escogido
 
@@ -1770,7 +1770,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [41](#c24-v41){:#c24-v41} [[333]](#n-333){:#rn-333} Yo como canal de agua inmensa, derivada del río, y como acequia sacada del río, y como un acueducto, salí del paraíso.
 
-[42](#c24-v42){:#c24-v42} Yo dije: "Regaré los plantíos de mi huerto, y hartaré de agua los frutales de mi prado."
+[42](#c24-v42){:#c24-v42} Yo dije: «Regaré los plantíos de mi huerto, y hartaré de agua los frutales de mi prado.»
 
 [43](#c24-v43){:#c24-v43} Y he aquí que mi canal ha salido de madre, y mi río se iguala a un mar.
 
@@ -2146,9 +2146,9 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [32](#c29-v32){:#c29-v32} Alguien da hospedaje y de comer y beber a ingratos; y tras esto oirá cosas que le amarguen.
 
-[33](#c29-v33){:#c29-v33} [[398]](#n-398){:#rn-398} "Vamos, huésped, pon la mesa, y da de comer a los otros lo que tienes a mano."
+[33](#c29-v33){:#c29-v33} [[398]](#n-398){:#rn-398} «Vamos, huésped, pon la mesa, y da de comer a los otros lo que tienes a mano.»
 
-[34](#c29-v34){:#c29-v34} "Vete afuera, haz lugar a otro más honorable que tú; necesito mi casa; he de alojar a un hermano mío."
+[34](#c29-v34){:#c29-v34} «Vete afuera, haz lugar a otro más honorable que tú; necesito mi casa; he de alojar a un hermano mío.»
 
 [35](#c29-v35){:#c29-v35} Para un hombre sensato estas cosas son pesadas: la increpación del patrón de la casa, y los improperios del prestamista.
 
@@ -2244,7 +2244,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [12](#c31-v12){:#c31-v12} [[415]](#n-415){:#rn-415} ¿Te sentaste en una espléndida mesa? No seas tú el primero en abrir tu boca.
 
-[13](#c31-v13){:#c31-v13} Tampoco digas: "¡Oh, cuántas viandas hay en ella!"
+[13](#c31-v13){:#c31-v13} Tampoco digas: «¡Oh, cuántas viandas hay en ella!»
 
 [14](#c31-v14){:#c31-v14} Mira que es mala cosa el ojo maligno.
 
@@ -2604,7 +2604,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [11](#c36-v11){:#c36-v11} Devorados sean por el fuego de la ira aquellos que escapan; y hallen su perdición los que tanto maltratan a tu pueblo.
 
-[12](#c36-v12){:#c36-v12} Quebranta las cabezas de los príncipes enemigos, los cuales dicen: "No hay otro fuera de nosotros."
+[12](#c36-v12){:#c36-v12} Quebranta las cabezas de los príncipes enemigos, los cuales dicen: «No hay otro fuera de nosotros.»
 
 [13](#c36-v13){:#c36-v13} [[484]](#n-484){:#rn-484} Reúne todas las tribus de Jacob; para que conozcan que no hay más Dios que Tú, y publiquen tu grandeza, y sean herencia tuya, como lo fueron desde el principio.
 
@@ -2666,7 +2666,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [10](#c37-v10){:#c37-v10} no sea que él fije en el suelo una estaca, y te diga:
 
-[11](#c37-v11){:#c37-v11} "Bueno es tu camino", y se esté enfrente para ver lo que te acontece.
+[11](#c37-v11){:#c37-v11} «Bueno es tu camino», y se esté enfrente para ver lo que te acontece.
 
 [12](#c37-v12){:#c37-v12} [[497]](#n-497){:#rn-497} Vete a tratar de santidad con un hombre sin religión, y de justicia con un injusto, y con una mujer de otra que le da celos; de guerra con el cobarde, de cosas de tráfico con el negociante, de la venta con el comprador, con el hombre envidioso del agradecimiento,
 
@@ -2768,7 +2768,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [22](#c38-v22){:#c38-v22} [[515]](#n-515){:#rn-515} No te olvides de ellas; porque de allá no se vuelve; no ayudarás en nada a él, y te harás daño a ti mismo.
 
-[23](#c38-v23){:#c38-v23} [[516]](#n-516){:#rn-516} "Considera lo que ha sido de mí; porque lo mismo será de ti: ayer por mí, hoy por ti."
+[23](#c38-v23){:#c38-v23} [[516]](#n-516){:#rn-516} «Considera lo que ha sido de mí; porque lo mismo será de ti: ayer por mí, hoy por ti.»
 
 [24](#c38-v24){:#c38-v24} [[517]](#n-517){:#rn-517} El descanso del difunto tranquilice en ti la memoria de él; y consuélate en orden a él en la salida de su espíritu.
 
@@ -3469,7 +3469,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [18](#c48-v18){:#c48-v18} Algunos de estos hicieron lo que era del agrado de Dios; otros, empero, cometieron muchos pecados.
 
-### Ezequías
+### Ezequías e Isaías
 
 [19](#c48-v19){:#c48-v19} [[652]](#n-652){:#rn-652} Ezequías fortificó su ciudad, y condujo el agua al centro de ella; excavó a fuerza del hierro la peña, e hizo en ella una cisterna para el agua.
 
@@ -3483,11 +3483,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [24](#c48-v24){:#c48-v24} Disipó el campamento de los asirios, y el Ángel del Señor los exterminó,
 
-[25](#c48-v25){:#c48-v25} porque Ezequías hizo lo que agradó a Dios, y siguió con firmeza las sendas de David su padre.
-
-### Isaías
-
-### Así se lo había recomendado Isaías, profeta grande y fiel delante del Señor.
+[25](#c48-v25){:#c48-v25} porque Ezequías hizo lo que agradó a Dios, y siguió con firmeza las sendas de David su padre. Así se lo había recomendado Isaías, profeta grande y fiel delante del Señor.
 
 [26](#c48-v26){:#c48-v26} [[654]](#n-654){:#rn-654} En su tiempo volvió atrás el sol, y él prolongó su vida al rey.
 
