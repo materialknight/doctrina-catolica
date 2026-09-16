@@ -1253,7 +1253,7 @@ En vez de «**Libia**» (África) leen algunos «Lidia» (provincia del Asia Men
 [6, 15](#c6-v15) **Tus santos**: el pueblo de Dios, santificado por la Alianza. Cf. Éxodo [19, 6](exodo#c19-v6).
 {:#nt-c6-v15}
 
-**Que humillas a los que presumen de sí mismos**: Dios —dice el apóstol Santiago— resiste a los soberbios y da su gracia a los humildes (Santiago [4, 6](santiago#c4-v6)); la Virgen lo confirma en el Magníficat (Lucas [1, 51](lucas#c1-v51) s.), y Jesucristo lo pone como regla en su reino (Lucas [18, 14](lucas#c18-v14)).
+**Que humillas a los que presumen de sí mismos**: Dios —dice el apóstol Santiago— resiste a los soberbios y da su gracia a los humildes (Santiago [4, 6](santiago#c4-v6)); la Virgen lo confirma en el *Magníficat* (Lucas [1, 51](lucas#c1-v51) s.), y Jesucristo lo pone como regla en su reino (Lucas [18, 14](lucas#c18-v14)).
 
 [7, 3](#c7-v3) **Dotain**: hoy día «Tell Dotan», a 16 kilómetros al norte de la ciudad de Samaria. Véase Génesis [37, 17](genesis#c37-v17) ss.
 {:#nt-c7-v3}

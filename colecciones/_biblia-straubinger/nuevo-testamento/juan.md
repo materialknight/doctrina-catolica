@@ -1447,7 +1447,7 @@ Su lenguaje es de lo más alto que nos ha legado la Escritura Sagrada, como ya l
 
 [25](#c14-v25){:#c14-v25} "Os he dicho estas cosas durante mi permanencia con vosotros.
 
-[26](#c14-v26){:#c14-v26} Pero el intercesor, el Espíritu Santo, que el Padre enviará en mi nombre, Él os lo enseñará todo, y os recordará todo lo que Yo os he dicho [[255]](#n-255){:#rn-255}.
+[26](#c14-v26){:#c14-v26} Pero el intercesor, el Espíritu Santo, que el Padre enviará en mi Nombre, Él os lo enseñará todo, y os recordará todo lo que Yo os he dicho [[255]](#n-255){:#rn-255}.
 
 [27](#c14-v27){:#c14-v27} Os dejo la paz, os doy la paz mía; no os doy Yo como da el mundo. No se turbe vuestro corazón, ni se amedrente.
 
@@ -1758,7 +1758,7 @@ Su lenguaje es de lo más alto que nos ha legado la Escritura Sagrada, como ya l
 
 [3](#c19-v3){:#c19-v3} Y acercándose a Él, decían: "¡Salve, rey de los judíos!" y le daban bofetadas.
 
-#### Ecce Homo
+#### *Ecce Homo*
 
 [4](#c19-v4){:#c19-v4} Pilato salió otra vez afuera, y les dijo: "Os lo traigo fuera, para que sepáis que yo no encuentro contra Él ningún cargo".
 

@@ -5019,7 +5019,7 @@ Los que en el versículo primero incluyen la creación de los ángeles ven aquí
 
 > «En los albores de la Creación, junto a la masa caótica de materia pasiva e incapaz de producir algo por sí misma, el autor sagrado coloca, en contraste admirable, la presencia benigna del Espíritu de Dios, que todo lo vivifica. Y junto a los umbrales del Nuevo Testamento, el libro de la Sabiduría nos habla de una Sabiduría que en algunos capítulos se identifica con Dios.» Cf. Sabiduría [1, 5](sabiduria#c1-v5) s.
 
-El Espíritu Santo actúa a lo largo de todo el Testamento Antiguo, siempre moviéndose sobre el caos del mundo y formando el Reino de Dios sobre la tierra. Si los hombres no lo reconocieron, es porque el misterio del Espíritu no se reveló de una vez, sino poco a poco hasta descorrer Dios la plenitud de sus secretos por medio del Verbo hecho carne. Si combinamos esta verdad con lo dicho en [1, 1](#c1-v1) y nota, y especialmente con Juan [1, 3](juan#c1-v3) donde el Apóstol dice que por Cristo «fueron hechas todas las cosas», vislumbramos ya en los primeros versículos de la Biblia el misterio de la Trinidad y la eterna preocupación de Dios Trino por nuestra salvación.
+El Espíritu Santo actúa a lo largo de todo el Testamento Antiguo, siempre moviéndose sobre el caos del mundo y formando el Reino de Dios sobre la tierra. Si los hombres no lo reconocieron, es porque el misterio del Espíritu no se reveló de una vez, sino poco a poco hasta descorrer Dios la plenitud de sus secretos por medio del Verbo hecho carne. Si combinamos esta verdad con lo dicho en [1, 1](#c1-v1) y nota, y especialmente con Juan [1, 3](juan#c1-v3) donde el Apóstol dice que por Cristo «fueron hechas todas las cosas», vislumbramos ya en los primeros versículos de la Biblia el misterio de la Trinidad y la eterna preocupación del Dios Trino por nuestra salvación.
 
 > «Se insinúa aquí —dice San Buenaventura— la Trinidad entera: el Padre con el nombre de **Dios Creador**, el Hijo con el nombre de **Principio**, y el Espíritu Santo con el **Espíritu de Dios**.» (Breviloquio)
 
@@ -5070,7 +5070,7 @@ Son de admirar estas luces que Dios nos hace ver desde el Antiguo Testamento sob
 [1, 22](#c1-v22) Dios bendice los animales, pero no las plantas, porque, según interpretan algunos, los animales son capaces de percibir la bendición. Mejor sería decir que Dios bendijo todas las cosas creadas, incluso las plantas, aunque Moisés no lo relata expresamente.
 {:#nt-c1-v22}
 
-[1, 24](#c1-v24) **Produzca**, porque la tierra es la materia (prima) de la cual Dios se sirve para crear los animales (cf. v. [1, 25](#c1-v25) y [2, 19](#c2-v19)). Los autores católicos no concuerdan en la interpretación; unos dicen que Dios creó los animales directamente; otros, en forma mediata; otros opinan que el hagiógrafo prescinde de expresarse sobre este punto y se limita a afirmar la causalidad en todo lo que se refiere a la vida. No se debe mezclar la Biblia con teorías modernas.
+[1, 24](#c1-v24) **Produzca**: porque la tierra es la materia (prima) de la cual Dios se sirve para crear los animales (cf. v. [1, 25](#c1-v25) y [2, 19](#c2-v19)). Los autores católicos no concuerdan en la interpretación; unos dicen que Dios creó los animales directamente; otros, en forma mediata; otros opinan que el hagiógrafo prescinde de expresarse sobre este punto y se limita a afirmar la causalidad en todo lo que se refiere a la vida. No se debe mezclar la Biblia con teorías modernas.
 {:#nt-c1-v24}
 
 [1, 26](#c1-v26)
@@ -5085,7 +5085,7 @@ La creación del hombre difiere de las otras creaciones en tres puntos:
 3. el hombre es constituido señor de toda la creación visible.
 {:.lower-alpha}
 
-**Al hombre**: en hebreo sin artículo, lo cual quiere decir que ha de entenderse en sentido colectivo.
+**Al hombre**: en hebreo está sin artículo, lo cual quiere decir que ha de entenderse en sentido colectivo.
 
 **Imagen y semejanza**: San Basilio, San Jerónimo y otros Padres distinguen entre imagen y semejanza. Esta se referiría a los dones sobrenaturales, aquélla a los naturales. Los modernos, p. ej., Hummelauer, se inclinan a ver en la unión de ambos términos una expresión enfática, que significaría imagen perfecta. ¿En qué consiste la semejanza del hombre con Dios? No en el cuerpo, sino en el espíritu, que es un soplo de Dios ([2, 7](#c2-v7)), una centella del Espíritu divino.
 
@@ -5096,12 +5096,12 @@ En el Nuevo Testamento se restauró esta grandiosa idea de la semejanza del homb
 [1, 27](#c1-v27) Tenemos en este versículo la primera prueba de la poesía hebrea, cuya característica es el paralelismo de los hemistiquios. Es de notar que toda la narración muestra cierto ritmo poético.
 {:#nt-c1-v27}
 
-**Varón y mujer**, es decir, varón y mujer aparte, dos individuos, no un individuo con dos sexos (cf. Mateo [19, 4](mateo#c19-v4)). Tampoco creó varios géneros humanos, como San Pablo explica en el discurso del Areópago. (Hechos 17,26).
+**Varón y mujer**: es decir, varón y mujer aparte, dos individuos, no un individuo con dos sexos (cf. Mateo [19, 4](mateo#c19-v4)). Tampoco creó varios géneros humanos, como San Pablo explica en el discurso del Areópago. (Hechos [17, 26](hechos#c17-v26)).
 
 [1, 28](#c1-v28) Dios aparece en todo este capítulo como Rey del universo, por el hecho mismo de la Creación. Los libros todos del Antiguo Testamento, especialmente los Salmos, celebran tal reinado (Salmos [28](salmos#c28); [47](salmos#c47); [92](salmos#c92); [94](salmos#c94); [103](salmos#c103); [104](salmos#c104); [144](salmos#c144); Tobías [13, 1](tobias#c13-v1)-6; Ester [13, 9](ester#c13-v9)-14; Isaías [37, 16](isaias#c37-v16); etcétera). Dentro del Reino de Dios, el hombre ocupa un lugar preferido y es también rey, porque a él le entregó Dios el señorío sobre la creación visible, pero tal privilegio se trocó en duro trabajo a causa de la caída del hombre, por lo cual todas las cosas creadas, hasta las inanimadas aguardan «con ardiente anhelo» la libertad de la «servidumbre de la corrupción» (Romanos [8, 19](romanos#c8-v19) y [21](romanos#c8-v21) y notas).
 {:#nt-c1-v28}
 
-[1, 31](#c1-v31) Sobre el *carácter histórico* de los acontecimientos narrados en este capítulo se han escrito muchísimos artículos y libros, principalmente con el fin de establecer la concordancia de las Ciencias naturales con la Biblia, sin que se haya logrado probarla.
+[1, 31](#c1-v31) Sobre el *carácter histórico* de los acontecimientos narrados en este capítulo se han escrito muchísimos artículos y libros, principalmente con el fin de establecer la concordancia de las ciencias naturales con la Biblia, sin que se haya logrado probarla.
 {:#nt-c1-v31}
 
 > «Poco servicio hacían a la Biblia los autores del siglo pasado, que querían concordar los trascendentales relatos del Génesis con las teoría de La Place. Era comparar lo incomparable; era no tener idea de lo que es la Biblia.» (Celada)
@@ -5120,7 +5120,7 @@ Todas estas cuestiones están relacionados con lo que se llama «el género lite
 
 Ricciotti trae argumentos contundentes que prueban la importancia que tuvo la memoria entre los pueblos antiguos. La Comisión Bíblica, en una Respuesta dada el 27 de junio de 1906, admite que Moisés para componer su obra se haya servido de fuentes, sacando de ellas algunas cosas a la letra y otras compendiadas. Nada dice de la composición de esas posibles fuentes, ni de la forma de su transmisión en los tiempos anteriores a Moisés.
 
-[2, 1](#c2-v1) **El ornato**, en hebreo *sabaot* (ejército). El «ejército del cielo» son las estrellas. Cf. Deuteronomio [4, 19](deuteronomio#c4-v19); [17, 3](deuteronomio#c17-v3); 2 Reyes [17, 16](2-reyes#c17-v16); [21, 3](2-reyes#c21-v3) y 5; Nehemías [9, 6](nehemias#c9-v6); Isaías [40, 20](isaias#c40-v20), etc. La misma palabra se usa en otros lugares como denominación de los ángeles. Cf. Josué [5, 14](josue#c5-v14); 1 Reyes [22, 19](1-reyes#c22-v19); 2 Crónicas [18, 18](2-cronicas#c18-v18). Sobre la creación de los ángeles véase [1, 1](#c1-v1) y nota (final). El «ornato de la tierra» son todas las cosas creadas en ella y todas sus fuerzas.
+[2, 1](#c2-v1) **El ornato**: en hebreo: «*sabaot*» (ejército). El «ejército del cielo» son las estrellas. Cf. Deuteronomio [4, 19](deuteronomio#c4-v19); [17, 3](deuteronomio#c17-v3); 2 Reyes [17, 16](2-reyes#c17-v16); [21, 3](2-reyes#c21-v3) y 5; Nehemías [9, 6](nehemias#c9-v6); Isaías [40, 20](isaias#c40-v20), etc. La misma palabra se usa en otros lugares como denominación de los ángeles. Cf. Josué [5, 14](josue#c5-v14); 1 Reyes [22, 19](1-reyes#c22-v19); 2 Crónicas [18, 18](2-cronicas#c18-v18). Sobre la creación de los ángeles véase [1, 1](#c1-v1) y nota (final). El «ornato de la tierra» son todas las cosas creadas en ella y todas sus fuerzas.
 {:#nt-c2-v1}
 
 [2, 2](#c2-v2) s. **El día séptimo**, o sea, el sábado (que originariamente significaba «siete»), recibe aquí su institución divina.
@@ -5134,14 +5134,14 @@ De este versículo se sigue que la institución del sábado o día de descanso e
 
 Algunos Santos Padres van más lejos y ven también en la historia del mundo un plan septenario: cuatro milenios antes de Cristo, dos milenios después de Cristo y un milenio de reinado de Jesucristo.
 
-Los demás pueblos antiguos no conocían el sábado; los egipcios tenían décadas de días; los babilonios daban el nombre de sábado (schabatu) el día 15 del mes (plenilunio), el cual era para ellos un día de penitencia.
+Los demás pueblos antiguos no conocían el sábado; los egipcios tenían décadas de días; los babilonios daban el nombre de sábado («*schabatu*») el día 15 del mes (plenilunio), el cual era para ellos un día de penitencia.
 
 El «séptimo día» de los cristianos es, según tradición apostólica, el domingo, el «día del Señor», porque Cristo resucitó en ese día (cf. 1 Corintios [16, 2](1-corintios#c16-v2)).
 
 [2, 4](#c2-v4) El autor sagrado vuelve al tema de la creación del hombre, la que nos narra con nuevos detalles.
 {:#nt-c2-v4}
 
-**Yahvé Dios**, en hebreo: «*Yahvé Elohim*». Sobre el nombre de *Elohim* véase [1, 1](#c1-v1) y nota.
+**Yahvé Dios**, en hebreo: «*Yahvé Elohim*». Sobre el nombre de «*Elohim*» véase [1, 1](#c1-v1) y nota.
 
 **Yahvé** significa, etimológicamente, «El que es, el Viviente, el Eterno». Cf. Éxodo [3, 14](exodo#c3-v14), donde Dios mismo se da este nombre, el cual solamente le corresponde a Él, cualquier dios pagano es un no ser, un producto de la imaginación, o a lo más, la representación de un espíritu maligno (cf. 1 Corintios [1, 5](corintios#c1-v5); Gálatas [4, 8](galatas#c4-v8)).
 
@@ -5168,14 +5168,14 @@ La expresión antropomórfica «**insufló en sus narices**» (cf. Isaías [2, 2
 [2, 11](#c2-v11) De los cuatro ríos sólo conocemos los dos últimos, el Tigris y el Éufrates, los dos grandes ríos de Mesopotamia, que desembocan en el Golfo Pérsico.
 {:#nt-c2-v11}
 
-**Havilá**: tierra desconocida, localizada por algunos en la Cólquida, en el Cáucaso. Más tarde encontramos ese mismo nombre en el norte de Arabia (Génesis [25, 18](genesis#c25-v18); 1 Samuel 15,7; cf. Génesis [10, 7](genesis#c10-v7) y 29).
+**Havilá**: tierra desconocida, localizada por algunos en la Cólquida, en el Cáucaso. Más tarde encontramos ese mismo nombre en el norte de Arabia (Génesis [25, 18](genesis#c25-v18); 1 Samuel [15, 7](1-samuel#c15-v7); cf. Génesis [10, 7](genesis#c10-v7) y 29).
 
 [2, 12](#c2-v12) **Bedelio**: resina odorífera.
 {:#nt-c2-v12}
 
-**Piedra de ónice**: Nácar-Colunga traduce «ágata». Bover-Cantera conserva el nombre hebreo *schoham*.
+**Piedra de ónice**: Nácar-Colunga traduce «ágata». Bover-Cantera conserva el nombre hebreo «*schoham*».
 
-[2, 13](#c2-v13) **Cus** o **Kusch**, en tiempos históricos nombre de Etiopía. Se cree que los cusitas (etíopes) originariamente vivieron en el Cáucaso, de donde, al emigrar hacia el sur, se llevaron el nombre de Kusch.
+[2, 13](#c2-v13) **Cus** o **Kusch**: en tiempos históricos, nombre de Etiopía. Se cree que los cusitas (etíopes) originariamente vivieron en el Cáucaso, de donde, al emigrar hacia el sur, se llevaron el nombre de «Kusch».
 {:#nt-c2-v13}
 
 **¿Dónde hay que buscar el sitio del paraíso?** Tomando como punto de partida los ríos conocidos, el Tigris y el Éufrates, que nacen en Armenia, tendríamos que identificar esta región con el país del paraíso. En tal caso el Fisón sería idéntico con el Fasis, y el Gihón con el Araxes o uno de los ríos de aquellas montañas. Heinisch busca el paraíso en Aserbeidschan, en la región de los lagos de Wan y Urmia. Otros recurren a la hipótesis de Syce, que busca el paraíso en la región del Golfo Pérsico, entre Mesopotamia y Arabia. Algunos lo buscan en la India, China, Madagascar, Abisinia, Perú, etc.
@@ -5310,11 +5310,11 @@ La nueva versión italiana explicada por el P. Vaccari, profesor del Pontificio 
 
 En vez de «**éste**» (el linaje) dice la *Vulgata* «**ésta**» (la mujer), lo que dio lugar a muchas discusiones, porque el texto hebreo y todas las versiones antiguas se oponen a esta traducción. El mismo San Jerónimo atestigua que también la primera versión latina, la Itala, traía igualmente el pronombre masculino, y no el femenino.
 
-**Le aplastarás el calcañar**: Cristo fue clavado en la Cruz, por obra de la serpiente (Satanás) y sus cooperadores, y así obtuvo Satanás una aparente victoria, mas el verdadero vencedor fue Cristo, que con la muerte de Cruz aplastó al enemigo del género humano, el cual al fin (Apocalipsis 20,10) será precipitado en el «lago de fuego y azufre.» Entretanto, «ronda como león rugiente, buscando a quien pueda devorar» (1 Pedro [2, 4](1-pedro#c2-v4); cf. Judas v. [5](judas#v5)). Así se explica la misteriosa palabra de San Pablo en 1 Corintios [6, 3](1-corintios#c6-v3):
+**Le aplastarás el calcañar**: Cristo fue clavado en la Cruz, por obra de la serpiente (Satanás) y sus cooperadores, y así obtuvo Satanás una aparente victoria, mas el verdadero vencedor fue Cristo, que con la muerte de Cruz aplastó al enemigo del género humano, el cual al fin (Apocalipsis [20, 10](apocalipsis#c20-v10)) será precipitado en el «lago de fuego y azufre.» Entretanto, «ronda como león rugiente, buscando a quien pueda devorar» (1 Pedro [2, 4](1-pedro#c2-v4); cf. Judas v. [5](judas#v5)). Así se explica la misteriosa palabra de San Pablo en 1 Corintios [6, 3](1-corintios#c6-v3):
 
 > «¿No sabéis que juzgaremos a los ángeles?»
 
-[3, 16](#c3-v16) La sumisión de la mujer al marido, que tantas veces repite San Pablo (Romanos [7, 2](romanos#c7-v2); 1 Corintios [11, 3](1-corintios#c11-v3) ss.; Efesios [5, 22](efesios#c5-v22), 24 y 33; Colosenses [3, 18](colosenses#c3-v18)) es, según estas palabras de Dios, una ley natural y divina. Hoy se tiende a olvidar esta norma primitiva, que no significa esclavitud de la mujer, sino su legítima posición dentro de la familia, ya que no puede haber dos cabezas en el mismo cuerpo.
+[3, 16](#c3-v16) La sumisión de la mujer al marido, que tantas veces repite San Pablo (Romanos [7, 2](romanos#c7-v2); 1 Corintios [11, 3](1-corintios#c11-v3) ss.; Efesios [5, 22](efesios#c5-v22), [24](efesios#c5-v24) y [33](efesios#c5-v33); Colosenses [3, 18](colosenses#c3-v18)) es, según estas palabras de Dios, una ley natural y divina. Hoy se tiende a olvidar esta norma primitiva, que no significa esclavitud de la mujer, sino su legítima posición dentro de la familia, ya que no puede haber dos cabezas en el mismo cuerpo.
 {:#nt-c3-v16}
 
 [3, 19](#c3-v19) En ese momento el hombre empezó a morir, faltándole el fruto del árbol de la vida (v. [22](#c3-v22)). Desde entonces sentimos que el hombre es polvo.
@@ -5326,10 +5326,10 @@ En vez de «**éste**» (el linaje) dice la *Vulgata* «**ésta**» (la mujer), 
 
 Esto, sin duda, es menos frecuente de lo que creemos; pues para ello debe el hombre renunciarse a sí mismo (Lucas [9, 23](lucas#c9-v23)), lo cual no es difícil si estamos convencidos de esa decadencia en que nacemos, pero es muy difícil para el que tiene esa suficiencia de sí mismo, tan en boga hoy día, pues nadie deja lo que cree bueno, en tanto que es fácil dejar lo que sabemos malo y perjudicial.
 
-[3, 20](#c3-v20) **Eva** significa literalmente: productora de vida, madre. La misma palabra encontramos, aunque con una pequeña diferencia morfológica, en el nombre de Yahvé (el que es, el viviente).
+[3, 20](#c3-v20) «**Eva**» significa literalmente: productora de vida, madre. La misma palabra encontramos, aunque con una pequeña diferencia morfológica, en el nombre de Yahvé (el que es, el viviente).
 {:#nt-c3-v20}
 
-**Adán** significa barro, polvo.
+«**Adán**» significa: barro, polvo.
 
 [3, 22](#c3-v22) ¿Han de entenderse estas palabras de Dios como una simple aserción o en sentido irónico? Son más bien expresión de la compasión del divino Padre, cuyos ojos prevén las calamidades que han de venir sobre los pobres hombres que habían aspirado a ser como Él (v. [5](#c3-v5)).
 {:#nt-c3-v22}
@@ -6280,7 +6280,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [28, 19](#c28-v19) **Betel** quiere decir «casa de Dios». La ciudad santificada ya por Abrahán ([12, 8](#c12-v8)), estaba situada al norte de Jerusalén. Para nosotros Betel es figura de nuestras iglesias, que son verdaderas casas de Dios.
 {:#nt-c28-v19}
 
-[28, 20](#c28-v20) Lo que pide el patriarca es muy poca cosa, únicamente lo necesario para vivir. ¡Y después de veinte años vuelve a Canaán, hecho rico señor, y más rico como padre! Así colma Dios con bienes a los que no se los piden. Cf. el Magnificat (Lucas [1, 53](lucas#c1-v53)).
+[28, 20](#c28-v20) Lo que pide el patriarca es muy poca cosa, únicamente lo necesario para vivir. ¡Y después de veinte años vuelve a Canaán, hecho rico señor, y más rico como padre! Así colma Dios con bienes a los que no se los piden. Cf. el *Magníficat* (Lucas [1, 53](lucas#c1-v53)).
 {:#nt-c28-v20}
 
 [29, 1](#c29-v1) **País de los hijos de Oriente**: Mesopotamia, donde habitaba su tío Labán en la ciudad de Harán.
@@ -6626,9 +6626,9 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 {:#nt-c41-v38}
 
 [41, 40](#c41-v40) También en su encumbramiento es José figura de Cristo. Salió José de la cárcel; Jesucristo del sepulcro. José fue exaltado por rey de Egipto; Jesucristo por el Rey del Universo. Llamaron a José «salvador del mundo» (v. [45](#c41-v45)); Jesucristo lo es en persona. La exaltación de José es un milagro de la Providencia de Dios, quien eleva a los humildes y huilla a los soberbios.
-
-> «Mirad a José —dice San Crisóstomo— de cautivo llegó bien pronto a ser el jefe de todo el Egipto; ésta es la ventaja de las aflicciones sufridas valerosamente; su paciencia fue inquebrantable, las pruebas no le abatieron, y Dios, después de haberle experimentado, le halló digno y le bendijo.» (Homilía *ad pop*.) Cf. el Magníficat de la Virgen (Lucas [1, 52](lucas#c1-v52)).
 {:#nt-c41-v40}
+
+> «Mirad a José —dice San Crisóstomo— de cautivo llegó bien pronto a ser el jefe de todo el Egipto; ésta es la ventaja de las aflicciones sufridas valerosamente; su paciencia fue inquebrantable, las pruebas no le abatieron, y Dios, después de haberle experimentado, le halló digno y le bendijo.» (Homilía *ad pop*.) Cf. el *Magníficat* de la Virgen (Lucas [1, 52](lucas#c1-v52)).
 
 [41, 45](#c41-v45) **Safnat Panea**: Palabra egipcia, que San Jerónimo traduce por «salvador del mundo». Otros lo interpretan: «dador de vida», o «Dios dijo: éste vive». Preferimos la traducción de San Jerónimo, ya que corresponde mejor al contexto. Los honores y las distinciones son otras tantas pruebas de la elevada posición que José ocupaba en el país del Faraón. En esto, y en su castidad, la Iglesia lo compara con el patriarca San José, esposo de María Santísima, y aplica a él los versículos [41, 55](#c41-v55); [45, 8](#c45-v8) y [49, 22](#c49-v22).
 {:#nt-c41-v45}
@@ -6819,7 +6819,7 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 
 **Schiloh**: palabra hebrea que ha experimentado las más diversas interpretaciones. San Jerónimo vierte: «El que ha de ser enviado». Otros interpretan: el «Pacífico», o «la paz», es decir, la paz mesiánica, el rey pacífico por excelencia, como lo vieron los profetas (cf. Isaías [9, 51](isaias#c9-v51); [11, 3](isaias#c11-v3) ss.; [42, 2](isaias#c42-v2) s.; Zacarías [9, 10](zacarias#c9-v10)).
 
-Algunos protestantes ven aquí, sin suficiente motivo, una alusión a la ciudad de Silo, donde por un tiempo estuvo el Arca de la Alianza. Bover-Cantera traduce: «aquel cuyo es el mando». Otros vierten: «aquél que es para él», es decir para el cetro, o «aquel cuyo es» (el cetro) (Simón-Prado, Nácar-Colunga, etc.). Todas estas traducciones, menos la que busca aquí una alusión a la ciudad de Silo, reconocen el carácter mesiánico de la profecía (inclusive los rabinos y el Targum de Onkelos, que traducen: «Hasta que venga el Mesías, al cual corresponde el reino»), y aplican este pasaje a Cristo, el vástago de la estirpe de Judá (Apocalipsis [5, 5](apocalipsis#c5-v5)), quien «reinará sobre la casa de Jacob por los siglos de los siglos, y cuyo reinado no tendrá fin» (Lucas [1, 33](lucas#c1-v33)). Cf. 2 Samuel [7, 14](2-samuel#c7-v14) ss.; Ezequiel [21, 27](ezequiel#c21-v27) y nota.
+Algunos protestantes ven aquí, sin suficiente motivo, una alusión a la ciudad de Silo, donde por un tiempo estuvo el Arca de la Alianza. Bover-Cantera traduce: «aquel cuyo es el mando». Otros vierten: «aquél que es para él», es decir para el cetro, o «aquel cuyo es» (el cetro) (Simón-Prado, Nácar-Colunga, etc.). Todas estas traducciones, menos la que busca aquí una alusión a la ciudad de Silo, reconocen el carácter mesiánico de la profecía (inclusive los rabinos y el *Tárgum* de Onkelos, que traducen: «Hasta que venga el Mesías, al cual corresponde el reino»), y aplican este pasaje a Cristo, el vástago de la estirpe de Judá (Apocalipsis [5, 5](apocalipsis#c5-v5)), quien «reinará sobre la casa de Jacob por los siglos de los siglos, y cuyo reinado no tendrá fin» (Lucas [1, 33](lucas#c1-v33)). Cf. 2 Samuel [7, 14](2-samuel#c7-v14) ss.; Ezequiel [21, 27](ezequiel#c21-v27) y nota.
 
 **A Él obedecerán las naciones**: Otro rasgo de la gran profecía acerca del Mesías al cual algún día se someterán todos los pueblos. Cf. Salmos [2, 7](salmos#c2-v7) ss.; [21, 28](salmos#c21-v28); [85, 9](salmos#c85-v9); Isaías [2, 2](isaias#c2-v2); [53, 10](isaias#c53-v10) y el triunfo de Cristo Rey en Apocalipsis [19, 11](apocalipsis#c19-v11) ss.
 

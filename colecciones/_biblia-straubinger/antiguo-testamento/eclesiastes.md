@@ -6,15 +6,13 @@ title: Eclesiastés o Cohélet
 
 ## Introducción
 
-Eclesiastés, en hebreo Kohélet, significa predicador, o sea el que habla en la Iglesia o Asamblea; nombre que corresponde por todos conceptos a su contenido, porque predica en forma de sentencias y consejos, en prosa y verso, la vanidad de las cosas creadas. Los bienes de este mundo son vanos; vanas por tanto todas las ambiciones, vana la ilusión de felicidad terrena fuera del sencillo bienestar; la verdadera felicidad consiste en temer, o sea reverenciar, a Dios nuestro Padre, y observar sus mandamientos para que en ellos hallemos la vida (Proverbios [4, 13](proverbios#c4-v13) y passim).
+**Eclesiastés**, en hebreo: «*Kohélet*», significa «predicador», o sea: el que habla en la Iglesia o Asamblea; nombre que corresponde por todos conceptos a su contenido, porque predica en forma de sentencias y consejos, en prosa y verso, la vanidad de las cosas creadas. Los bienes de este mundo son vanos; vanas por tanto todas las ambiciones, vana la ilusión de felicidad terrena fuera del sencillo bienestar; la verdadera felicidad consiste en temer, o sea reverenciar, a Dios nuestro Padre, y observar sus mandamientos para que en ellos hallemos la vida (Proverbios [4, 13](proverbios#c4-v13) y *passim*).
 
-El autor del libro habla, desde el título, como hijo de David, por lo cual las tradiciones judía y cristiana, que siempre reconocieron su canonicidad, lo atribuyeron a Salomón. Con todo la crítica y también numerosos exégetas católicos modernos se creyeron obligados a admitir que ciertos pasajes podrían ser de una época posterior a Salomón (p. ej. las referencias sobre la tiranía de los reyes, la corrupción de los magistrados, la opresión de los súbditos). Señalan, además, que el lenguaje y el estilo no son los del tiempo salomónico. Por todo lo cual opinan algunos que el Eclesiastés sufrió posteriormente una transcripción al lenguaje más moderno; otros (entre ellos Condamín, Zapletal y Simón-Prado), piensan que el autor se sirvió del nombre de "hijo de David" solo con el fin de dar más realce a la obra, y fijan la composición del Eclesiastés entre los años 300-200 a. C. Podemos admitir la posibilidad de esta fecha, puesto que el Libro Sagrado no se presenta como escrito por Salomón, sino por un autor anónimo que nos refiere dichos del sabio rey. No dice, en efecto: yo, el hijo de David, sino que pone como título: Palabras del Eclesiastés (Predicador), hijo de David, rey de Jerusalén ([1, 1](book#c1-v1)) y empieza mencionándolo en tercera persona: "Dijo el Eclesiastés" ([1, 2](book#c1-v2)), para hacerlo hablar luego en primera persona ([1, 12](book#c1-v12) ss.). Lo mismo hace en el epílogo ([12, 8](book#c12-v8) ss.), donde refiere que el Eclesiastés era sapientísimo, que compuso muchas parábolas, etc., cosas todas que sabemos son exactas respecto de Salomón (1 Reyes [4, 30](1-reyes#c4-v30)-34; Proverbios [1, 1](proverbios#c1-v1)), a quien el autor se refiere con toda evidencia (1, 12, 16, etc.), del mismo modo como los Evangelios se refieren a Cristo y nos dan sus Palabras, pudiendo la Iglesia decir con toda exactitud: "El Evangelio de Nuestro Señor Jesucristo", y afirmar que en él habla el divino Maestro, no obstante saber todos que Él no lo escribió. No hay, pues, pura ficción en el autor de este divino Libro del Eclesiastés, sino que, reconociendo su inspiración sobrenatural, debemos creer que quiere transmitirnos las palabras y sabiduría de Salomón, tal como lo hicieron con Cristo los escritores del Nuevo Testamento, aun aquellos que no lo habían escuchado directamente.
+El autor del libro habla, desde el título, como hijo de David, por lo cual las tradiciones judía y cristiana, que siempre reconocieron su canonicidad, lo atribuyeron a Salomón. Con todo, la crítica y también numerosos exégetas católicos modernos se creyeron obligados a admitir que ciertos pasajes podrían ser de una época posterior a Salomón (p. ej. las referencias sobre la tiranía de los reyes, la corrupción de los magistrados, la opresión de los súbditos). Señalan, además, que el lenguaje y el estilo no son los del tiempo salomónico. Por todo lo cual opinan algunos que el Eclesiastés sufrió posteriormente una transcripción al lenguaje más moderno; otros (entre ellos Condamín, Zapletal y Simón-Prado), piensan que el autor se sirvió del nombre de «hijo de David» solo con el fin de dar más realce a la obra, y fijan la composición del Eclesiastés entre los años 300-200 a. C. Podemos admitir la posibilidad de esta fecha, puesto que el Libro Sagrado no se presenta como escrito por Salomón, sino por un autor anónimo que nos refiere dichos del sabio rey. No dice, en efecto: «yo, el hijo de David», sino que pone como título: «Palabras del Eclesiastés (Predicador), hijo de David, rey de Jerusalén» ([1, 1](#c1-v1)) y empieza mencionándolo en tercera persona: «Dijo el Eclesiastés» ([1, 2](#c1-v2)), para hacerlo hablar luego en primera persona ([1, 12](#c1-v12) ss.). Lo mismo hace en el epílogo ([12, 8](#c12-v8) ss.), donde refiere que el Eclesiastés era sapientísimo, que compuso muchas parábolas, etc., cosas todas que sabemos son exactas respecto de Salomón (1 Reyes [4, 30](1-reyes#c4-v30)-34; Proverbios [1, 1](proverbios#c1-v1)), a quien el autor se refiere con toda evidencia ([1, 12](#c1-v12), [16](#c1-v16), etc.), del mismo modo como los Evangelios se refieren a Cristo y nos dan sus Palabras, pudiendo la Iglesia decir con toda exactitud: «El Evangelio de Nuestro Señor Jesucristo», y afirmar que en él habla el divino Maestro, no obstante saber todos que Él no lo escribió. No hay, pues, pura ficción en el autor de este divino Libro del Eclesiastés, sino que, reconociendo su inspiración sobrenatural, debemos creer que quiere transmitirnos las palabras y sabiduría de Salomón, tal como lo hicieron con Cristo los escritores del Nuevo Testamento, aun aquellos que no lo habían escuchado directamente.
 
-El Eclesiastés no es sistemático. "No le atraen las síntesis, y parece desinteresarse de las conclusiones de sus asertos, aun cuando suenen a discordantes" (Manresa). San Pablo pudo gloriarse de predicar igualmente: "no con palabras persuasivas según la sabiduría humana, sino mostrando la verdad con el Espíritu Santo y la fuerza de Dios" (1 Corintios [2, 4](1-corintios#c2-v4)). De ahí que estas sentencias, tremendas para la suficiencia humana, hayan escandalizado hasta ser tildadas de epicúreas. En realidad, la irresistible elocuencia de este Libro revulsivo, con su apariencia de pesimismo implacable, es quizá lo más poderoso que existe para quitarnos la venda que oculta, a nuestra inteligencia oscurecida por el pecado congénito, los esplendores de la vida espiritual, y remover así ese gran obstáculo con que "el padre de la mentira" (Juan [8, 44](juan#c8-v44)) pretende escondernos las Bienaventuranzas, y que el Sabio llama "la fascinación de la bagatela" (Sabiduría [4, 12](sabiduria#c4-v12)).
+El Eclesiastés no es sistemático. «No le atraen las síntesis, y parece desinteresarse de las conclusiones de sus asertos, aun cuando suenen a discordantes» (Manresa). San Pablo pudo gloriarse de predicar igualmente: «no con palabras persuasivas según la sabiduría humana, sino mostrando la verdad con el Espíritu Santo y la fuerza de Dios» (1 Corintios [2, 4](1-corintios#c2-v4)). De ahí que estas sentencias, tremendas para la suficiencia humana, hayan escandalizado hasta ser tildadas de epicúreas. En realidad, la irresistible elocuencia de este Libro revulsivo, con su apariencia de pesimismo implacable, es quizá lo más poderoso que existe para quitarnos la venda que oculta, a nuestra inteligencia oscurecida por el pecado congénito, los esplendores de la vida espiritual, y remover así ese gran obstáculo con que «el padre de la mentira» (Juan [8, 44](juan#c8-v44)) pretende escondernos las Bienaventuranzas, y que el Sabio llama «la fascinación de la bagatela» (Sabiduría [4, 12](sabiduria#c4-v12)).
 
-Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Nebiyim (Profetas) y los Ketubim (Hagiógrafos). A este tercer grupo pertenece el Eclesiastés, que era contado también entre los cinco Meghillot, o sea libros pequeños que se escribían en rollos aparte, para uso litúrgico.
-
-
+Los hebreos dividían los libros sagrados en tres grupos: La *Torah* (Ley); los *Nebiyim* (Profetas) y los *Ketubim* (Hagiógrafos). A este tercer grupo pertenece el Eclesiastés, que era contado también entre los cinco *Meghillot*, o sea: libros pequeños que se escribían en rollos aparte, para uso litúrgico.
 
 ## Eclesiastés [1](#c1) {#c1}
 
@@ -40,7 +38,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [9](#c1-v9){:#c1-v9} [[5]](#n-5){:#rn-5} Lo que fue, eso será; lo que se hizo, lo mismo se hará; nada hay de nuevo bajo el sol.
 
-[10](#c1-v10){:#c1-v10} Si hay una cosa de que dicen: "Mira, esto es nuevo", también esa existió ya en los tiempos que nos precedieron.
+[10](#c1-v10){:#c1-v10} Si hay una cosa de que dicen: «Mira, esto es nuevo», también esa existió ya en los tiempos que nos precedieron.
 
 [11](#c1-v11){:#c1-v11} No queda memoria de las cosas pasadas, ni recuerdo de las futuras entre los que han de venir.
 
@@ -54,7 +52,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [15](#c1-v15){:#c1-v15} Lo torcido no puede enderezarse, y es imposible contar las cosas que faltan.
 
-[16](#c1-v16){:#c1-v16} Dije para mí esto: "Mira cómo soy grande; soy más sabio que cuantos antes de mí fueron en Jerusalén; inmensa es la sabiduría y ciencia que mi corazón ha visto."
+[16](#c1-v16){:#c1-v16} Dije para mí esto: «Mira cómo soy grande; soy más sabio que cuantos antes de mí fueron en Jerusalén; inmensa es la sabiduría y ciencia que mi corazón ha visto.»
 
 [17](#c1-v17){:#c1-v17} Propuse en mi ánimo conocer la sabiduría, y asimismo la necedad y la insensatez; y aprendí que también esto es correr tras el viento.
 
@@ -64,9 +62,9 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 ### Vanidad de los placeres
 
-[1](#c2-v1){:#c2-v1} [[9]](#n-9){:#rn-9} Dije en mi corazón: "Ven, te probaré con la alegría; ¡goza la felicidad!" Mas he aquí que también esto es vanidad.
+[1](#c2-v1){:#c2-v1} [[9]](#n-9){:#rn-9} Dije en mi corazón: «Ven, te probaré con la alegría; ¡goza la felicidad!» Mas he aquí que también esto es vanidad.
 
-[2](#c2-v2){:#c2-v2} [[10]](#n-10){:#rn-10} A la risa le dije: "¡Qué locura!", y a la alegría: "¿De qué sirve?"
+[2](#c2-v2){:#c2-v2} [[10]](#n-10){:#rn-10} A la risa le dije: «¡Qué locura!», y a la alegría: «¿De qué sirve?»
 
 [3](#c2-v3){:#c2-v3} Resolví en mi corazón regalar mi carne con el vino, mientras mi corazón me condujese con sabiduría, y entregarme a la necedad hasta saber cuál sea la cosa más útil para los hombres, y qué deben hacer bajo el cielo en los días de su vida.
 
@@ -88,13 +86,13 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 ### El sabio y el necio tienen la misma suerte
 
-[12](#c2-v12){:#c2-v12} [[13]](#n-13){:#rn-13} Dirigí entonces mi mirada a la sabiduría, a la insensatez y a la necedad. Pues, "¿qué puede hacer el que viene en pos del rey sino lo que otros hicieron ya antes?
+[12](#c2-v12){:#c2-v12} [[13]](#n-13){:#rn-13} Dirigí entonces mi mirada a la sabiduría, a la insensatez y a la necedad. Pues, ¿qué puede hacer el que viene en pos del rey sino lo que otros hicieron ya antes?
 
 [13](#c2-v13){:#c2-v13} [[14]](#n-14){:#rn-14} Y vi que la sabiduría lleva sobre la necedad tanta ventaja, cuanto la luz sobre las tinieblas.
 
-[14](#c2-v14){:#c2-v14} [[15]](#n-15){:#rn-15} El sabio tiene sus ojos en la cabeza, mas el necio anda a oscuras". Con todo observé que es una misma la suerte de todos.
+[14](#c2-v14){:#c2-v14} [[15]](#n-15){:#rn-15} El sabio tiene sus ojos en la cabeza, mas el necio anda a oscuras. Con todo observé que es una misma la suerte de todos.
 
-[15](#c2-v15){:#c2-v15} Y dije en mi corazón: "La suerte del necio será también la mía. ¿De qué, pues, me sirve tanta sabiduría?" Por lo cual dije para mí: "¡Aun esto es vanidad!"
+[15](#c2-v15){:#c2-v15} Y dije en mi corazón: «La suerte del necio será también la mía. ¿De qué, pues, me sirve tanta sabiduría?» Por lo cual dije para mí: «¡Aun esto es vanidad!»
 
 [16](#c2-v16){:#c2-v16} Pues el recuerdo del sabio no es más durable que el del necio; pasados algunos días todos son olvidados. ¿Cómo es que el sabio muere igual que el necio?
 
@@ -156,9 +154,9 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [16](#c3-v16){:#c3-v16} [[27]](#n-27){:#rn-27} Aún más vi debajo del sol: en el sitial del derecho sentada la maldad, y en el lugar de la justicia, la iniquidad.
 
-[17](#c3-v17){:#c3-v17} Díjeme entonces en mi corazón: "Dios juzgará al justo y al injusto, porque allá hay un tiempo para cada cosa y cada obra."
+[17](#c3-v17){:#c3-v17} Díjeme entonces en mi corazón: «Dios juzgará al justo y al injusto, porque allá hay un tiempo para cada cosa y cada obra.»
 
-[18](#c3-v18){:#c3-v18} Dije además en mi corazón respecto de los hijos de los hombres: "Dios quiere probarlos y mostrarles que por sí mismos no son más que bestias."
+[18](#c3-v18){:#c3-v18} Dije además en mi corazón respecto de los hijos de los hombres: «Dios quiere probarlos y mostrarles que por sí mismos no son más que bestias.»
 
 [19](#c3-v19){:#c3-v19} Porque lo mismo que a las bestias sucede al hombre, como muere este así mueren aquellas; un mismo hálito tienen todos; y no tiene el hombre ventaja sobre la bestia, porque todo es vanidad.
 
@@ -184,11 +182,11 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [5](#c4-v5){:#c4-v5} [[32]](#n-32){:#rn-32} Cruza el necio sus manos, y come su propia carne (diciendo):
 
-[6](#c4-v6){:#c4-v6} "Más vale una sola mano llena con reposo, que las dos llenas con trabajo y correr tras el viento."
+[6](#c4-v6){:#c4-v6} «Más vale una sola mano llena con reposo, que las dos llenas con trabajo y correr tras el viento.»
 
 [7](#c4-v7){:#c4-v7} Reflexioné de nuevo y reparé en otra vanidad debajo del sol:
 
-[8](#c4-v8){:#c4-v8} [[33]](#n-33){:#rn-33} Un hombre solo, sin compañero, sin hijo ni hermano, y con todo no cesa de trabajar, ni se hartan de riquezas sus ojos. (No dice): "¿Para quién trabajo yo y me privo de los placeres?" También esto es vanidad y grave molestia.
+[8](#c4-v8){:#c4-v8} [[33]](#n-33){:#rn-33} Un hombre solo, sin compañero, sin hijo ni hermano, y con todo no cesa de trabajar, ni se hartan de riquezas sus ojos. (No dice): «¿Para quién trabajo yo y me privo de los placeres?» También esto es vanidad y grave molestia.
 
 [9](#c4-v9){:#c4-v9} Más valen dos que uno solo; porque así sacan más fruto de su trabajo.
 
@@ -310,7 +308,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [10](#c7-v10){:#c7-v10} [[58]](#n-58){:#rn-58} No seas ligero en airarte; la ira reside en el seno de los insensatos.
 
-[11](#c7-v11){:#c7-v11} [[59]](#n-59){:#rn-59} No preguntes: "¿Por qué los tiempos antiguos fueron mejores que estos?", porque no es sabiduría el preguntarlo.
+[11](#c7-v11){:#c7-v11} [[59]](#n-59){:#rn-59} No preguntes: «¿Por qué los tiempos antiguos fueron mejores que estos?», porque no es sabiduría el preguntarlo.
 
 [12](#c7-v12){:#c7-v12} [[60]](#n-60){:#rn-60} Cosa buena es la sabiduría con bienes materiales, y de gran provecho para los que ven el sol.
 
@@ -340,7 +338,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [23](#c7-v23){:#c7-v23} Pues bien sabe tu conciencia que también tú muchas veces has murmurado de otros.
 
-[24](#c7-v24){:#c7-v24} He probado todo esto por medio de la sabiduría. Me dije "Quiero ser sabio", mas la (sabiduría) está lejos de mí.
+[24](#c7-v24){:#c7-v24} He probado todo esto por medio de la sabiduría. Me dije «Quiero ser sabio», mas la (sabiduría) está lejos de mí.
 
 [25](#c7-v25){:#c7-v25} Lo que se queda lejos y es más profundo, ¿quién podrá alcanzarlo?
 
@@ -366,7 +364,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [3](#c8-v3){:#c8-v3} [[70]](#n-70){:#rn-70} No te retires a la ligera de su presencia, ni te obstines en cosa mala; porque lo que quiere, eso lo hace.
 
-[4](#c8-v4){:#c8-v4} Pues la palabra del rey es poderosa, y quién le dirá: "¿Qué es lo que haces?"
+[4](#c8-v4){:#c8-v4} Pues la palabra del rey es poderosa, y quién le dirá: «¿Qué es lo que haces?»
 
 [5](#c8-v5){:#c8-v5} [[71]](#n-71){:#rn-71} El que guarda el mandato no experimentará mal alguno; el corazón del sabio conoce el tiempo y lo que conviene.
 
@@ -436,7 +434,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [15](#c9-v15){:#c9-v15} Y se halló en ella un hombre pobre, pero sabio, que salvó a la ciudad por su sabiduría. Mas después nadie se acordó de aquel hombre pobre.
 
-[16](#c9-v16){:#c9-v16} Y dije entonces: "Vale más la sabiduría que la fortaleza", pero la sabiduría del pobre es despreciada, y no se hace caso de sus palabras.
+[16](#c9-v16){:#c9-v16} Y dije entonces: «Vale más la sabiduría que la fortaleza», pero la sabiduría del pobre es despreciada, y no se hace caso de sus palabras.
 
 [17](#c9-v17){:#c9-v17} Las palabras sosegadas de los sabios se oyen mejor que los gritos del que es príncipe entre insensatos.
 
@@ -516,7 +514,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 ### Acuérdate de tu Creador
 
-[1](#c12-v1){:#c12-v1} [[103]](#n-103){:#rn-103} Acuérdate de tu Creador en los días de tu juventud, antes que vengan los días malos y lleguen aquellos años de los cuales dirás: "¡No me gustan!"
+[1](#c12-v1){:#c12-v1} [[103]](#n-103){:#rn-103} Acuérdate de tu Creador en los días de tu juventud, antes que vengan los días malos y lleguen aquellos años de los cuales dirás: «¡No me gustan!»
 
 [2](#c12-v2){:#c12-v2} Antes que se obscurezca el sol y la luz, la luna y las estrellas, y vuelvan las nubes después de la lluvia.
 

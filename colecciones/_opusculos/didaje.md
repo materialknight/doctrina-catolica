@@ -388,7 +388,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 «Amar a Dios sobre todas las cosas, y a tu prójimo como a ti mismo» es «El Doble Mandamiento del Amor» (cp. Mateo [22, 34]({{ "biblia-straubinger/mateo#c22-v34" | relative_url }})-40 y Marcos [12, 28]({{ "biblia-straubinger/marcos#c12-v28" | relative_url }})-31).
 {:#nt-c1-v2b}
 
-Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas a otro lo que no quieras que te hagan a ti» (cp. Tobías [4, 15]({{ "biblia-straubinger/tobias#c4-v15" | relative_url }})). Pero en los Evangelios, Jesús nos dará «La Regla de Oro»: «Haz a otros lo que quieras que te hagan a ti» (cp. Mateo [7, 12]({{ "biblia-straubinger/mateo#c7-v12" | relative_url }}) y Lucas [6, 31]({{ "biblia-straubinger/lucas#c6-v31" | relative_url }})).
+Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas a otro lo que no quieras que te hagan a ti» (cp. Tobías [4, 16]({{ "biblia-straubinger/tobias#c4-v16" | relative_url }})). Pero en los Evangelios, Jesús nos dará «La Regla de Oro»: «Haz a otros lo que quieras que te hagan a ti» (cp. Mateo [7, 12]({{ "biblia-straubinger/mateo#c7-v12" | relative_url }}) y Lucas [6, 31]({{ "biblia-straubinger/lucas#c6-v31" | relative_url }})).
 {:#nt-c1-v2c}
 
 [1, 3](#c1-v3) Compárese este y los siguentes 2 versículos con Mateo [5, 38]({{ "biblia-straubinger/mateo#c5-v38" | relative_url }})-48 y Lucas [6, 27]({{ "biblia-straubinger/lucas#c6-v27" | relative_url }})-36.
@@ -441,23 +441,23 @@ El cumplimiento de esa profecía se oscurece un poco en algunas traducciones bí
 «Amén» es una palabra hebrea que significa «verdad», «ciertamente» o «así sea». Cp. Apocalipsis [3, 14]({{ "biblia-straubinger/apocalipsis#c3-v14" | relative_url }}), donde Jesús es llamado «El Amén», es decir: «La Verdad».
 {:#nt-c10-v6f}
 
-[11, 3](#c11-v3) «Apóstol» viene del griego «ἀπόστολος», y significa «enviado», y en este caso, no se refiere solo a uno de Los Doce, sino a cualquier misionero.
+[11, 3](#c11-v3) «Apóstol» viene del griego «ἀπόστολος» («*apóstolos*»), y significa «enviado», y en este caso, no se refiere solo a uno de Los Doce, sino a cualquier misionero.
 {:#nt-c11-v3}
 
 *Profeta* es el que habla por inspiración del Espíritu Santo, lo cual abarca no solo al que advierte sobre el futuro o revela lo oculto, sino también al predicador que edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})).
 {:#nt-c11-v3b}
 
-[11, 7](#c11-v7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, que consiste en negarlo y estorbarlo de forma pública, deliberada y obstinada; y es imperdonable porque la obstinación implica falta de arrepentimiento (Mateo [12, 22]({{ "biblia-straubinger/mateo#c12-v22" | relative_url }})-37 y Marcos [3, 20]({{ "biblia-straubinger/marcos#c3-v20" | relative_url }})-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
+[11, 7](#c11-v7) El pecado imperdonable es la blasfemia contra el Espíritu Santo, es decir: el endurecimiento contra Él, lo cual generalmente implica estorbar, con persecusión o calumnias, el apostolado de un profeta, a sabiendas de que viene de Dios; es el pecado imperdonable porque el endurecimiento es lo contrario del arrepentimiento (Mateo [12, 22]({{ "biblia-straubinger/mateo#c12-v22" | relative_url }})-37 y Marcos [3, 20]({{ "biblia-straubinger/marcos#c3-v20" | relative_url }})-30. Cp. 2 Timoteo [4, 14]({{ "biblia-straubinger/2-timoteo#c4-v14" | relative_url }})-16, donde Pablo pide a Dios que perdone a los que lo abandonaron pero no al que estorbó su apostolado).
 {:#nt-c11-v7}
 
-Este versículo manda que no se juzgue ni se ponga a prueba a un profeta mientras esté hablando inspirado por espíritu, pues podríamos llegar a estorbar al Espíritu Santo, blasfemando así contra Él. Por eso, en vez de confrontar públicamente al profeta mientras habla inspirado, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
+Este versículo manda que no se juzgue ni se ponga a prueba públicamente a un profeta mientras esté hablando inspirado por espíritu, para no correr el riesgo de estorbar al Espíritu Santo. En vez de eso, los siguientes versículos mandan observar cuidadosamente lo que enseña y cómo vive, para distinguir si es verdadero o falso profeta.
 {:#nt-c11-v7b}
 
 [11, 8](#c11-v8) Recordemos 2 cosas:
 {:#nt-c11-v8}
 
-1. No todo espíritu es de Dios. Por eso hay que examinarlos (1 Juan [4, 1]({{ "biblia-straubinger/1-juan#c4-v1" | relative_url }})), y por eso existe el carisma de discernimiento de espíritus (1 Corintios [12, 10]({{ "biblia-straubinger/1-corintios#c12-v10" | relative_url }})).
-2. Cuando el profeta no es dócil al Espíritu Santo, el carisma de profecía no elimina la concupiscencia y errores del profeta. Así se explica que este hable por el Espíritu Santo cuando edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }})), aunque luego quiera valerse de su carisma para beneficio personal. Por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses [5, 19]({{ "biblia-straubinger/1-tesalonicenses#c5-v19" | relative_url }})-21).
+1. No todo espíritu es de Dios, por eso hay que examinarlos (1 Juan [4, 1]({{ "biblia-straubinger/1-juan#c4-v1" | relative_url }})); para eso hay carisma de discernimiento de espíritus (1 Corintios [12, 10]({{ "biblia-straubinger/1-corintios#c12-v10" | relative_url }})).
+2. El verdadero profeta no se equivoca en el ejercicio de su don —el Espíritu Santo habla cuando aquel edifica, exhorta y consuela (1 Corintios [14, 3]({{ "biblia-straubinger/1-corintios#c14-v3" | relative_url }}))— pero fuera de él puede pecar y equivocarse, por eso Pablo nos exhorta a examinarlo todo y quedarnos con lo bueno (1 Tesalonicenses [5, 19]({{ "biblia-straubinger/1-tesalonicenses#c5-v19" | relative_url }})-21).
 {:#nt-c11-v8b}
 
 [13, 3](#c13-v3) Cp. Números [18, 12]({{ "biblia-straubinger/numeros#c18-v12" | relative_url }})-13, Deuteronomio [18, 3]({{ "biblia-straubinger/deuteronomio#c18-v3" | relative_url }})-4, y Ezequiel [44, 30]({{ "biblia-straubinger/ezequiel#c44-v30" | relative_url }}).

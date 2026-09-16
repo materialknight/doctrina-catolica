@@ -3987,7 +3987,7 @@ title: Éxodo
 [2, 2](#c2-v2) «Cuando la madre de Moisés supo que iba a ser madre, tuvo que estremecerse. Lo que antes la había llenado de júbilo ahora la llenaba de espanto, pues sabía que esta vida que sentía despertarse es su seno estaba condenada a ser destruida. Pasó nueve meses de angustias, nueve meses de esperanza que la criatura fuera una mujer... pero fue un varón. Y lo vio tan lindo que no pudo convencerse que Dios se lo había dado para que fuera matado. Creyó, creyó contra toda esperanza como Abrahán (Romanos [4, 18](romanos#c4-v18)) y al esconderlo tuvo la esperanza de que Dios lo salvara» (Hebreos [11, 23](hebreos#c11-v23)).
 {:#nt-c2-v2}
 
-[2, 10](#c2-v10) El nombre de **Moisés** es de origen egipcio y significa: «sacado del agua», o, según otros «hijo». El futuro caudillo fue instruido en todas las ciencias de los egipcios y llegó a ser poderoso en palabras y obras (Hechos [7, 22](hechos#c7-v22)). La divina Providencia dispuso así, a fin de que la educación egipcia le sirviese para salvar al pueblo hebreo. San Pablo atribuye esta obra a la fe de Moisés, diciendo:
+[2, 10](#c2-v10) El nombre de **Moisés** es de origen egipcio y significa: «sacado del agua», o según otros: «hijo». El futuro caudillo fue instruido en todas las ciencias de los egipcios y llegó a ser poderoso en palabras y obras (Hechos [7, 22](hechos#c7-v22)). La divina Providencia dispuso así, a fin de que la educación egipcia le sirviese para salvar al pueblo hebreo. San Pablo atribuye esta obra a la fe de Moisés, diciendo:
 {:#nt-c2-v10}
 
 > «Por la fe, Moisés, siendo ya grande, rehusó ser llamado hijo de la hija del Faraón, eligiendo antes padecer aflicción con el pueblo de Dios que disfrutar de las delicias pasajeras del pecado, juzgando que el oprobio de Cristo era una riqueza más grande que los tesoros de Egipto» (Hebreos [11, 24](hebreos#c11-v24)-26).
@@ -4330,7 +4330,7 @@ Moisés, quien conduce a su pueblo por el mar y el desierto hacia la tierra prom
 [15, 17](#c15-v17) Por el «**monte de tu herencia**» ha de entenderse el monte Sión, la ciudad de Jerusalén, y en sentido más amplio, todo el país de Canaán.
 {:#nt-c15-v17}
 
-[15, 20](#c15-v20) **María**: profetisa, es figura de la Virgen Santísima, tanto por el nombre como por su cooperación en la realización de los designios de Dios. En su himno sobre la salvación del pueblo israelita se puede ver una anticipación del Magníficat.
+[15, 20](#c15-v20) **María**: profetisa, es figura de la Virgen Santísima, tanto por el nombre como por su cooperación en la realización de los designios de Dios. En su himno sobre la salvación del pueblo israelita se puede ver una anticipación del *Magníficat*.
 {:#nt-c15-v20}
 
 [15, 21](#c15-v21) Es el primer versículo del cántico de Moisés (v. [1](#c15-v1)). Parece que María lo repite con el coro de las mujeres en forma de estribillo tras cada estrofa.
@@ -4499,7 +4499,7 @@ En su nota a [34, 6](#c34-v6), Nácar-Colunga da a este pasaje su más profundo 
 [20, 25](#c20-v25) Dios no ama el lujo. Su altar debía ser muy sencillo, de piedras no labradas, semejante a los altares de los patriarcas.
 {:#nt-c20-v25}
 
-[21, 2](#c21-v2) ss. Un israelita podía ser reducido a servidumbre a causa de un delito ([22, 3](book#c22-v3)), o por no pagar las deudas (Lucas [25, 39](lucas#c25-v39)), pero gozaba del privilegio de poder librarse cuando corría el séptimo año. Véase Deuteronomio [15, 12](deuteronomio#c15-v12). De los vv. [20](#c21-v20) y [21](#c21-v21) se colige, que ni siquiera el esclavo extranjero estaba abandonado. Según los vv. [26](#c21-v26) s. el esclavo recobraba la libertad también en el caso de que lo hiriera el dueño.
+[21, 2](#c21-v2) ss. Un israelita podía ser reducido a servidumbre a causa de un delito ([22, 3](#c22-v3)), o por no pagar las deudas (Lucas [25, 39](lucas#c25-v39)), pero gozaba del privilegio de poder librarse cuando corría el séptimo año. Véase Deuteronomio [15, 12](deuteronomio#c15-v12). De los vv. [20](#c21-v20) y [21](#c21-v21) se colige, que ni siquiera el esclavo extranjero estaba abandonado. Según los vv. [26](#c21-v26) s. el esclavo recobraba la libertad también en el caso de que lo hiriera el dueño.
 {:#nt-c21-v2}
 
 [21, 6](#c21-v6) **Lo llevará ante Dios**: al santuario, para dar más solemnidad a la ceremonia. El texto hebreo dice «*Elohim*», que puede también significar «dioses». De ahí la traducción: «ante los dioses», es decir, «ante los jueces», que algunos intérpretes prefieren. Cf. [22, 8](#c22-v8) s.; Salmo [81, 6](salmos#c81-v6); Juan [10, 34](juan#c10-v34), donde la palabra «*Elohim*» tiene el mismo sentido.
@@ -4854,7 +4854,7 @@ El mismo amor admiramos en San Pablo (Romanos [9, 3](romanos#c9-v3)). Pero más 
 [32, 34](#c32-v34) **El día de mi visitación**: el día de la venganza cuando llegue para castigaros.
 {:#nt-c32-v34}
 
-[33, 1](#c33-v1) ss. **Tú y el pueblo que sacaste de Egipto**: Es como si Dios se distanciara del pueblo escogido y negara ser su libertador. El Amor ofendido rehúsa conducir Él mismo a los que eran dignos de ser consumidos (v. [5](#c33-v5)). Dios iba delante de su pueblo en la columna de nube y fuego ([23, 20](book#c23-v20) ss.), pero por su infidelidad se habían hecho indignos de tal fervor. Es por eso que Moisés insiste (v. [12](#c33-v12) ss.) en que Dios siga conduciendo a su pueblo.
+[33, 1](#c33-v1) ss. **Tú y el pueblo que sacaste de Egipto**: Es como si Dios se distanciara del pueblo escogido y negara ser su libertador. El Amor ofendido rehúsa conducir Él mismo a los que eran dignos de ser consumidos (v. [5](#c33-v5)). Dios iba delante de su pueblo en la columna de nube y fuego ([23, 20](#c23-v20) ss.), pero por su infidelidad se habían hecho indignos de tal fervor. Es por eso que Moisés insiste (v. [12](#c33-v12) ss.) en que Dios siga conduciendo a su pueblo.
 {:#nt-c33-v1}
 
 [33, 7](#c33-v7) El **Tabernáculo** que Moisés coloca lejos del campamento no es idéntico con el que, según Éxodo [25, 1](exodo#c25-v1) ss., había de construirse, sino con el pabellón primitivo en que Dios solía hablar a Moisés. La separación del Tabernáculo significa un castigo para el pueblo apóstata, una especie de excomunión.
@@ -4983,7 +4983,7 @@ Vislumbramos aquí un gran misterio, que cuesta creer: Dios no concede la gracia
 [38, 26](#c38-v26) El número de 603,550 está de acuerdo al número de israelitas de veinte años para arriba; número que concuerda con el censo de Números cap. [1](numeros#c1). Cf. Números [1, 45](numeros#c1-v45) s. y nota. Cada uno tenía que pagar medio siclo. El siclo grande equivalía a 16,37 gr., el siclo ordinario a 8 gr. El talento tenía 3,000 siclos. El origen de tantas riquezas se explica por el procedimiento relatado en [12, 36](#c12-v36) y los ahorros de los israelitas durante su estadía en Egipto.
 {:#nt-c38-v26}
 
-[39, 1](#c39-v1) Sobre los *ornamentos sacerdotales* véase cap. [28, 1](book#c28-v1)-5 y [40](book#c28-v40)-43.
+[39, 1](#c39-v1) Sobre los *ornamentos sacerdotales* véase cap. [28, 1](#c28-v1)-5 y [40](#c28-v40)-43.
 {:#nt-c39-v1}
 
 [39, 8](#c39-v8) Sobre el **pectoral** véase [28, 15](#c28-v15) ss. y notas; sobre el efod, [28, 6](#c28-v6) ss. y notas.

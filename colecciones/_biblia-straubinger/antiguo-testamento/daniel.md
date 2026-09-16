@@ -8,26 +8,27 @@ title: Daniel
 
 Daniel, a quien la misma Biblia cita como prototipo de santidad (Ezequiel [14, 14](ezequiel#c14-v14) y [20](ezequiel#c14-v20)) y de sabiduría (Ezequiel [28, 3](ezequiel#c28-v3)), vivió, como Ezequiel, en Babilonia durante el cautiverio, pero no fue sacerdote que adoctrinase al pueblo como aquel, y como Jeremías en Jerusalén, sino un alto personaje en la corte de un rey pagano, como fueron José en Egipto y Ester y Mardoqueo en Persia. De ahí sin duda que la Biblia hebrea lo colocase más bien entre los hagiógrafos (aunque no siempre) y que el Talmud viese en él una figura del Mesías por su fidelidad en las persecuciones.
 
-Su libro, último de los cuatro Profetas Mayores en el orden cronológico y también por su menor extensión, reviste, sin embargo, importancia extraordinaria debido al carácter mesiánico y escatológico de sus revelaciones, "como que en él se contienen admirables y especialísimos vaticinios del estado político del mundo, y también del de la Iglesia, desde su tiempo hasta la Encarnación del Verbo eterno, y después, hasta la consumación del siglo, según el pensamiento de San Jerónimo" (Scío).
+Su libro, último de los cuatro Profetas Mayores en el orden cronológico y también por su menor extensión, reviste, sin embargo, importancia extraordinaria debido al carácter mesiánico y escatológico de sus revelaciones, «como que en él se contienen admirables y especialísimos vaticinios del estado político del mundo, y también del de la Iglesia, desde su tiempo hasta la Encarnación del Verbo eterno, y después, hasta la consumación del siglo, según el pensamiento de San Jerónimo» (Scío).
 
-Precisamente por ello, el Libro de Daniel es uno de los más misteriosos del Antiguo Testamento, el primer Apocalipsis, cuyas visiones quedarían en gran parte incomprensibles, si no tuviéramos en el Nuevo Testamento un libro paralelo, el Apocalipsis de San Juan. Es, por lo tanto, muy provechoso leer los dos juntos, para no perder una gota de su admirable doctrina. Algunas de las revelaciones solo se entenderán en los últimos tiempos, dice el mismo Daniel en 10, 14; y esos tiempos bien pueden ser los que vivimos nosotros.
+Precisamente por ello, el Libro de Daniel es uno de los más misteriosos del Antiguo Testamento, el primer Apocalipsis, cuyas visiones quedarían en gran parte incomprensibles, si no tuviéramos en el Nuevo Testamento un libro paralelo, el Apocalipsis de San Juan. Es, por lo tanto, muy provechoso leer los dos juntos, para no perder una gota de su admirable doctrina. Algunas de las revelaciones solo se entenderán en los últimos tiempos, dice el mismo Daniel en [10, 14](#c10-v14); y esos tiempos bien pueden ser los que vivimos nosotros.
 
-El Libro de Daniel se divide en dos partes principales. La primera (caps. 1-6) se refiere a acontecimientos relacionados principalmente con el Profeta y sus compañeros, menos el capítulo segundo que, como observa Nácar-Colunga, es una visión profética dentro de la parte histórica. La segunda (caps. 7-12) contiene exclusivamente visiones proféticas. "Anuncia, en cuatro visiones notables, los destinos sucesivos de los grandes imperios paganos, contemplados, sea en ellos mismos, sea en sus relaciones con el pueblo de Dios: 1°, las cuatro bestias, que simbolizan la sucesión de las monarquías paganas y el advenimiento del reino de Dios (cap. 7); 2°, el carnero y el macho cabrío (cap. 8); 3°, las setenta semanas de años (cap. 9); 4°, las calamidades que el pueblo de Yahvé deberá sufrir de parte de los paganos hasta su glorioso restablecimiento (caps. 10-12). El orden seguido en cada una de estas dos partes es el cronológico" (Fillion).
+El Libro de Daniel se divide en dos partes principales: La primera (caps. [1](#c1)-[6](#c6)) se refiere a acontecimientos relacionados principalmente con el Profeta y sus compañeros, menos el capítulo segundo que, como observa Nácar-Colunga, es una visión profética dentro de la parte histórica. La segunda (caps. [7](#c7)-[12](#c12)) contiene exclusivamente visiones proféticas. «Anuncia, en cuatro visiones notables, los destinos sucesivos de los grandes imperios paganos, contemplados, sea en ellos mismos, sea en sus relaciones con el pueblo de Dios: 1°, las cuatro bestias, que simbolizan la sucesión de las monarquías paganas y el advenimiento del reino de Dios (cap. [7](#c7)); 2°, el carnero y el macho cabrío (cap. [8](#c8)); 3°, las setenta semanas de años (cap. [9](#c9)); 4°, las calamidades que el pueblo de Yahvé deberá sufrir de parte de los paganos hasta su glorioso restablecimiento (caps. [10](#c10)-[12](#c12)). El orden seguido en cada una de estas dos partes es el cronológico» (Fillion).
 
-Un apéndice de dos capítulos (13 y 14) cierra el Libro, que está escrito, como lo fue el de Esdras, en dos idiomas entremezclados: parte en hebreo (1, 1-2, 4a; caps. 8-12) y parte en arameo (2, 4b-7, 28) y cuya traducción por los Setenta ofrece tan notables divergencias con el texto masorético que ha sido adoptada en su lugar para la Biblia griega la de Teodoción; de la que San Jerónimo tomó los fragmentos deuterocanónicos (3, 24-90 y los caps. 13-14) para su versión latina. El empleo de dos lenguas se explica por la diferencia de los temas y destinatarios. Los capítulos escritos en arameo, que en aquel tiempo era el idioma de los principales reinos orientales, se dirigen a estos (véase [2, 4](#c2-v4) y nota), mientras que los escritos en hebreo, que era el idioma sagrado de los judíos, contienen lo tocante al pueblo escogido, y en sus últimas consecuencias, a nosotros.
+Un apéndice de dos capítulos ([13](#c13) y [14](#c14)) cierra el Libro, que está escrito, como lo fue el de Esdras, en dos idiomas entremezclados: parte en hebreo ([1, 1](#c1-v1)-[2, 4](#c2-v4)a; caps. [8](#c8)-[12](#c12)) y parte en arameo ([2, 4](#c2-v4)b-[7, 28](#c7-v28)) y cuya traducción por los Setenta ofrece tan notables divergencias con el texto masorético que ha sido adoptada en su lugar para la Biblia griega la de Teodoción; de la que San Jerónimo tomó los fragmentos deuterocanónicos ([3, 24](#c3-v24)-90 y los caps. [13](#c13)-[14](#c14)) para su versión latina. El empleo de dos lenguas se explica por la diferencia de los temas y destinatarios. Los capítulos escritos en arameo, que en aquel tiempo era el idioma de los principales reinos orientales, se dirigen a estos (véase [2, 4](#c2-v4) y nota), mientras que los escritos en hebreo, que era el idioma sagrado de los judíos, contienen lo tocante al pueblo escogido, y en sus últimas consecuencias, a nosotros.
 
-Muchos se preguntan si los sucesos históricos que sirven de marco para las visiones y profecías, han de tomarse en sentido literal e histórico, o si se trata solo de tradiciones legendarias y creaciones de la fantasía del hagiógrafo, "que, bajo forma y apariencia de relato histórico o de visión profética, nos hubiera transmitido, inspirado por Dios, sus concepciones sobre la intervención de Dios en el gobierno de los imperios y el advenimiento de su Reino" (Prado). San Jerónimo aboga por el sentido literal e histórico, con algunas reservas respecto a los dos últimos capítulos, y su ejemplo han seguido, con algunas excepciones, todos los exégetas católicos, de modo que las dificultades que se oponen al carácter histórico de los relatos daniélicos, han de solucionarse en el campo de la historia y de la arqueología bíblicas, así como muchas de sus profecías iluminan los datos de la historia profana y se aclaran recíprocamente a la luz de otros vaticinios de ambos Testamentos.
+Muchos se preguntan si los sucesos históricos que sirven de marco para las visiones y profecías, han de tomarse en sentido literal e histórico, o si se trata solo de tradiciones legendarias y creaciones de la fantasía del hagiógrafo, «que, bajo forma y apariencia de relato histórico o de visión profética, nos hubiera transmitido, inspirado por Dios, sus concepciones sobre la intervención de Dios en el gobierno de los imperios y el advenimiento de su Reino» (Prado). San Jerónimo aboga por el sentido literal e histórico, con algunas reservas respecto a los dos últimos capítulos, y su ejemplo han seguido, con algunas excepciones, todos los exégetas católicos, de modo que las dificultades que se oponen al carácter histórico de los relatos daniélicos, han de solucionarse en el campo de la historia y de la arqueología bíblicas, así como muchas de sus profecías iluminan los datos de la historia profana y se aclaran recíprocamente a la luz de otros vaticinios de ambos Testamentos.
 
-También contra la autenticidad del Libro de Daniel se han levantado voces que pretenden atribuirlo en su totalidad o al menos en algunos capítulos, a un autor más reciente. Felizmente existen no pocos argumentos a favor de la autenticidad, especialmente el testimonio de Ezequiel ([14, 14](book#c14-v14) ss.; [28, 3](book#c28-v3)), del primer Libro de los Macabeos ([1, 51](book#c1-v51)) y del mismo Jesús quien habla del "profeta Daniel" (Mateo [24, 15](mateo#c24-v15)), citando un pasaje de su libro (Daniel [9, 21](daniel#c9-v21)). Poseemos, además, una referencia en el historiador judío Flavio Josefo, quien nos dice que el Sumo Sacerdote Jaddua mostró las profecías de Daniel a Alejandro Magno, lo que significa que este Libro debe ser anterior a la época del gran conquistador del siglo IV, es decir, que no puede atribuirse al período de los Macabeos, como sostienen aquellos críticos. Lo mismo se deduce de la incorporación del Libro de Daniel en la versión griega de los Setenta, la cual se hizo en el siglo III o II antes de Cristo.
+También contra la autenticidad del Libro de Daniel se han levantado voces que pretenden atribuirlo en su totalidad o al menos en algunos capítulos, a un autor más reciente. Felizmente existen no pocos argumentos a favor de la autenticidad, especialmente el testimonio de Ezequiel ([14, 14](ezequiel#c14-v14) ss.; [28, 3](ezequiel#c28-v3)), del Primer Libro de los Macabeos ([1, 51](1-macabeos#c1-v51)) y del mismo Jesús quien habla del «profeta Daniel» (Mateo [24, 15](mateo#c24-v15)), citando un pasaje de su libro (Daniel [9, 27](daniel#c9-v27)). Poseemos, además, una referencia en el historiador judío Flavio Josefo, quien nos dice que el Sumo Sacerdote Jaddua mostró las profecías de Daniel a Alejandro Magno, lo que significa que este Libro debe ser anterior a la época del gran conquistador del siglo IV, es decir, que no puede atribuirse al período de los Macabeos, como sostienen aquellos críticos. Lo mismo se deduce de la incorporación del Libro de Daniel en la versión griega de los Setenta, la cual se hizo en el siglo III o II antes de Cristo.
 
-No obstante los problemas históricos planteados en este libro divino, sus profecías fueron de amplia y profunda influencia, particularmente durante las persecuciones en el tiempo de los Macabeos. "En los relatos y en las revelaciones de Daniel, el pueblo de Yahvé poseía un documento auténtico que le prometía claramente la liberación final gracias al Mesías" (Fillion). En ellas encontraron los judíos perseguidos por el tirano Antíoco Epífanes el mejor consuelo y la seguridad de que, como dice el mismo Fillion, "los reinos paganos, por más poderosos que fuesen, no conseguirían destruirlo" y que, pasado el tiempo de los gentiles, vendrá el reino de Dios que el Profeta anuncia en términos tan magníficos (cf. [2, 44](#c2-v44); [7, 13](#c7-v13) ss.; 9, 24 ss.). Para nosotros, los cristianos, no es menor la importancia del Libro de Daniel, siendo, como es, un libro de consoladora esperanza y una llave de inapreciable valor para el Apocalipsis de San Juan. Un estudio detenido y reverente de las profecías de Daniel nos proporciona no solamente claros conceptos acerca de los acontecimientos del fin, sino también la fortaleza para mantenernos fieles hasta el día en que se cumpla nuestra "bienaventurada esperanza" (Tito [2, 13](tito#c2-v13)).
+No obstante los problemas históricos planteados en este libro divino, sus profecías fueron de amplia y profunda influencia, particularmente durante las persecuciones en el tiempo de los Macabeos.
+
+> «En los relatos y en las revelaciones de Daniel, el pueblo de Yahvé poseía un documento auténtico que le prometía claramente la liberación final gracias al Mesías» (Fillion).
+
+En ellas encontraron los judíos perseguidos por el tirano Antíoco Epífanes el mejor consuelo y la seguridad de que, como dice el mismo Fillion, «los reinos paganos, por más poderosos que fuesen, no conseguirían destruirlo» y que, pasado el tiempo de los gentiles, vendrá el reino de Dios que el Profeta anuncia en términos tan magníficos (cf. [2, 44](#c2-v44); [7, 13](#c7-v13) ss.; [9, 24](#c9-v24) ss.). Para nosotros, los cristianos, no es menor la importancia del Libro de Daniel, siendo, como es, un libro de consoladora esperanza y una llave de inapreciable valor para el Apocalipsis de San Juan. Un estudio detenido y reverente de las profecías de Daniel nos proporciona no solamente claros conceptos acerca de los acontecimientos del fin, sino también la fortaleza para mantenernos fieles hasta el día en que se cumpla nuestra «bienaventurada esperanza» (Tito [2, 13](tito#c2-v13)).
 
 En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata.
 
-
-
-
-## I. Episodios de la vida de daniel
+## I. Episodios de la vida de Daniel
 
 ### Daniel [1](#c1) {#c1}
 
@@ -53,7 +54,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [9](#c1-v9){:#c1-v9} Y Dios hizo que Daniel hallase gracia y benevolencia ante el prefecto de los eunucos.
 
-[10](#c1-v10){:#c1-v10} Dijo el prefecto de los eunucos a Daniel: "Temo al rey mi señor, el cual ha dispuesto lo que debéis comer y beber. ¿Por qué ha de ver vuestras caras más flacas que las de los jóvenes de vuestra edad? Así me haríais culpable ante el rey."
+[10](#c1-v10){:#c1-v10} Dijo el prefecto de los eunucos a Daniel: «Temo al rey mi señor, el cual ha dispuesto lo que debéis comer y beber. ¿Por qué ha de ver vuestras caras más flacas que las de los jóvenes de vuestra edad? Así me haríais culpable ante el rey.»
 
 [11](#c1-v11){:#c1-v11} [[7]](#n-7){:#rn-7} Respondió entonces Daniel a Malasar, al cual el prefecto de los eunucos había encargado el cuidado de Daniel, Ananías, Misael y Azarías:
 
@@ -87,23 +88,23 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [2](#c2-v2){:#c2-v2} [[12]](#n-12){:#rn-12} Mandó el rey llamar a los magos, los adivinos, los encantadores y los caldeos, para que manifestasen al rey sus sueños. Llegaron y se presentaron delante del rey.
 
-[3](#c2-v3){:#c2-v3} El rey les dijo: "He tenido un sueño y mi espíritu está perturbado hasta que entienda el sueño."
+[3](#c2-v3){:#c2-v3} El rey les dijo: «He tenido un sueño y mi espíritu está perturbado hasta que entienda el sueño.»
 
-[4](#c2-v4){:#c2-v4} [[13]](#n-13){:#rn-13} Respondieron entonces los caldeos al rey en siríaco: "¡Vive para siempre, oh rey! Manifiesta el sueño a tus siervos, y te daremos la interpretación".
+[4](#c2-v4){:#c2-v4} [[13]](#n-13){:#rn-13} Respondieron entonces los caldeos al rey en siríaco: «¡Vive para siempre, oh rey! Manifiesta el sueño a tus siervos, y te daremos la interpretación».
 
-[5](#c2-v5){:#c2-v5} [[14]](#n-14){:#rn-14} Replicó el rey y dijo a los caldeos: "Es cosa resuelta de mi parte: si no me manifestáis ese sueño y su interpretación, seréis hechos trozos, y vuestras casas serán convertidas en cloacas.
+[5](#c2-v5){:#c2-v5} [[14]](#n-14){:#rn-14} Replicó el rey y dijo a los caldeos: «Es cosa resuelta de mi parte: si no me manifestáis ese sueño y su interpretación, seréis hechos trozos, y vuestras casas serán convertidas en cloacas.
 
-[6](#c2-v6){:#c2-v6} Si, en cambio, me hacéis saber el sueño y su interpretación, recibiréis de mi parte dones y presentes y grandes honores; por lo tanto manifestadme el sueño y su interpretación."
+[6](#c2-v6){:#c2-v6} Si, en cambio, me hacéis saber el sueño y su interpretación, recibiréis de mi parte dones y presentes y grandes honores; por lo tanto manifestadme el sueño y su interpretación.»
 
-[7](#c2-v7){:#c2-v7} Respondieron ellos por segunda vez y dijeron: "Diga el rey el sueño a sus siervos, y daremos a conocer la interpretación."
+[7](#c2-v7){:#c2-v7} Respondieron ellos por segunda vez y dijeron: «Diga el rey el sueño a sus siervos, y daremos a conocer la interpretación.»
 
-[8](#c2-v8){:#c2-v8} Repuso el rey y dijo: "Bien sé qué queréis ganar tiempo, porque veis que (lo que os digo) es cosa resuelta de mi parte.
+[8](#c2-v8){:#c2-v8} Repuso el rey y dijo: «Bien sé qué queréis ganar tiempo, porque veis que (lo que os digo) es cosa resuelta de mi parte.
 
-[9](#c2-v9){:#c2-v9} Por lo cual si no me hacéis saber lo que he soñado, caerá sobre vosotros una misma sentencia. Queréis preparar palabras mentirosas y engañosas, para entretenerme mientras va pasando el tiempo. Por eso, decidme, el sueño, y sabré que podéis darme también la interpretación."
+[9](#c2-v9){:#c2-v9} Por lo cual si no me hacéis saber lo que he soñado, caerá sobre vosotros una misma sentencia. Queréis preparar palabras mentirosas y engañosas, para entretenerme mientras va pasando el tiempo. Por eso, decidme, el sueño, y sabré que podéis darme también la interpretación.»
 
-[10](#c2-v10){:#c2-v10} Respondieron los caldeos ante el rey y dijeron: "No hay hombre sobre la tierra que pueda indicar lo que el rey exige; como tampoco jamás rey alguno por grande y poderoso que fuese, pidió cosa semejante a ningún mago, adivino, o caldeo.
+[10](#c2-v10){:#c2-v10} Respondieron los caldeos ante el rey y dijeron: «No hay hombre sobre la tierra que pueda indicar lo que el rey exige; como tampoco jamás rey alguno por grande y poderoso que fuese, pidió cosa semejante a ningún mago, adivino, o caldeo.
 
-[11](#c2-v11){:#c2-v11} [[15]](#n-15){:#rn-15} La cosa que pide el rey es difícil, y no hay quien pueda indicarla al rey, salvo los dioses que no moran entre los mortales."
+[11](#c2-v11){:#c2-v11} [[15]](#n-15){:#rn-15} La cosa que pide el rey es difícil, y no hay quien pueda indicarla al rey, salvo los dioses que no moran entre los mortales.»
 
 [12](#c2-v12){:#c2-v12} Con esto el rey se enfureció, y llenándose de grandísima ira mandó quitar la vida a todos los sabios de Babilonia.
 
@@ -113,7 +114,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [14](#c2-v14){:#c2-v14} Entonces Daniel interpeló con toda prudencia a Arioc, capitán de la guardia real, que había salido para matar a los sabios de Babilonia.
 
-[15](#c2-v15){:#c2-v15} Tomando la palabra dijo a Arioc, capitán del rey: "¿A qué obedece esta tan severa sentencia de parte del rey?" Y Arioc explicó a Daniel el asunto.
+[15](#c2-v15){:#c2-v15} Tomando la palabra dijo a Arioc, capitán del rey: «¿A qué obedece esta tan severa sentencia de parte del rey?» Y Arioc explicó a Daniel el asunto.
 
 [16](#c2-v16){:#c2-v16} Entonces entró Daniel al rey y le pidió que le diera tiempo para indicarle la interpretación.
 
@@ -123,23 +124,23 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [19](#c2-v19){:#c2-v19} Entonces fue revelado el secreto a Daniel, en una visión nocturna; y Daniel bendijo al Dios del cielo.
 
-[20](#c2-v20){:#c2-v20} Tomando la palabra dijo Daniel: "¡Bendito sea el nombre de Dios de eternidad a eternidad; porque suya es la sabiduría y la fortaleza!
+[20](#c2-v20){:#c2-v20} Tomando la palabra dijo Daniel: «¡Bendito sea el nombre de Dios de eternidad a eternidad; porque suya es la sabiduría y la fortaleza!
 
 [21](#c2-v21){:#c2-v21} [[18]](#n-18){:#rn-18} Él cambia los tiempos y los momentos, quita reyes y los pone, da sabiduría a los sabios y ciencia a los inteligentes.
 
 [22](#c2-v22){:#c2-v22} [[19]](#n-19){:#rn-19} Él revela las cosas profundas y ocultas, conoce lo que está en tinieblas; y con Él mora la luz.
 
-[23](#c2-v23){:#c2-v23} A ti, oh Dios de mis padres, doy gracias y alabanzas, por cuanto me has dado sabiduría y fortaleza; y porque ahora me has manifestado lo que te hemos pedido, revelándonos el asunto del rey."
+[23](#c2-v23){:#c2-v23} A ti, oh Dios de mis padres, doy gracias y alabanzas, por cuanto me has dado sabiduría y fortaleza; y porque ahora me has manifestado lo que te hemos pedido, revelándonos el asunto del rey.»
 
-[24](#c2-v24){:#c2-v24} [[20]](#n-20){:#rn-20} Después de esto fue Daniel a Arioc, a quien el rey había dado la orden de matar a los sabios de Babilonia. Entró, y le dijo así: "No quites la vida a los sabios de Babilonia. Llévame a la presencia del rey, y manifestaré al rey la interpretación."
+[24](#c2-v24){:#c2-v24} [[20]](#n-20){:#rn-20} Después de esto fue Daniel a Arioc, a quien el rey había dado la orden de matar a los sabios de Babilonia. Entró, y le dijo así: «No quites la vida a los sabios de Babilonia. Llévame a la presencia del rey, y manifestaré al rey la interpretación.»
 
 #### Daniel revela al rey el sueño
 
-[25](#c2-v25){:#c2-v25} [[21]](#n-21){:#rn-21} Entonces Arioc llevó apresuradamente a Daniel a la presencia del rey, a quien dijo así: "He hallado un hombre de los cautivos de Judá, que dará a conocer al rey la interpretación."
+[25](#c2-v25){:#c2-v25} [[21]](#n-21){:#rn-21} Entonces Arioc llevó apresuradamente a Daniel a la presencia del rey, a quien dijo así: «He hallado un hombre de los cautivos de Judá, que dará a conocer al rey la interpretación.»
 
-[26](#c2-v26){:#c2-v26} Tomó el rey la palabra y dijo a Daniel, cuyo nombre era Baltasar: "¿Eres tú capaz de hacerme conocer el sueño que he visto, y su interpretación?"
+[26](#c2-v26){:#c2-v26} Tomó el rey la palabra y dijo a Daniel, cuyo nombre era Baltasar: «¿Eres tú capaz de hacerme conocer el sueño que he visto, y su interpretación?»
 
-[27](#c2-v27){:#c2-v27} [[22]](#n-22){:#rn-22} Respondió Daniel ante el rey y dijo: "El secreto (cuya interpretación) pide el rey, no se lo pueden manifestar los sabios, ni los adivinos, ni los magos, ni los astrólogos.
+[27](#c2-v27){:#c2-v27} [[22]](#n-22){:#rn-22} Respondió Daniel ante el rey y dijo: «El secreto (cuya interpretación) pide el rey, no se lo pueden manifestar los sabios, ni los adivinos, ni los magos, ni los astrólogos.
 
 [28](#c2-v28){:#c2-v28} Pero hay un Dios en el cielo que revela los secretos, y que da a conocer al rey Nabucodonosor lo que ha de suceder al fin de los días. He aquí tu sueño y las visiones que ha tenido tu cabeza en tu cama:
 
@@ -155,11 +156,11 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [34](#c2-v34){:#c2-v34} [[25]](#n-25){:#rn-25} Mientras estabas todavía mirando, se desgajó una piedra —no desprendida por mano de hombre— e hirió la imagen en los pies, que eran de hierro y de barro, y los destrozó.
 
-[35](#c2-v35){:#c2-v35} [[26]](#n-26){:#rn-26} Entonces fueron destrozados al mismo tiempo el hierro, el barro, el bronce, la plata y el oro, y fueron como el tamo de la era en verano. Se los llevó el viento, de manera que no fue hallado ningún rastro de ellos: pero la piedra que hirió la estatua se hizo una gran montaña y llenó toda la tierra.
+[35](#c2-v35){:#c2-v35} [[26]](#n-26){:#rn-26} Entonces fueron destrozados al mismo tiempo el hierro, el barro, el bronce, la plata y el oro, y fueron como el tamo de la era en verano. Se los llevó el viento, de manera que no fue hallado ningún rastro de ellos: pero la piedra que hirió la estatua se hizo una gran montaña y llenó toda la tierra.»
 
 #### La interpretación del sueño por Daniel
 
-[36](#c2-v36){:#c2-v36} Este es el sueño; y (ahora) le daremos al rey la interpretación.
+[36](#c2-v36){:#c2-v36} «Este es el sueño; y (ahora) le daremos al rey la interpretación.
 
 [37](#c2-v37){:#c2-v37} [[27]](#n-27){:#rn-27} Tú, oh rey, eres rey de reyes, a quien el Dios del cielo ha dado el imperio, el poder, la fuerza y la gloria.
 
@@ -177,13 +178,13 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [44](#c2-v44){:#c2-v44} [[28]](#n-28){:#rn-28} En los días de aquellos reyes el Dios del cielo suscitará un reino que nunca jamás será destruido, y que no pasará a otro pueblo; quebrantará y destruirá todos aquellos reinos, en tanto que él mismo subsistirá para siempre,
 
-[45](#c2-v45){:#c2-v45} [[29]](#n-29){:#rn-29} conforme viste que de la montaña se desprendió una piedra —no por mano alguna—, que desmenuzó el hierro, el bronce, el barro, la plata y el oro. El gran Dios ha mostrado al rey lo que ha de suceder en lo porvenir. El sueño es verdadero, y es fiel la interpretación."
+[45](#c2-v45){:#c2-v45} [[29]](#n-29){:#rn-29} conforme viste que de la montaña se desprendió una piedra —no por mano alguna—, que desmenuzó el hierro, el bronce, el barro, la plata y el oro. El gran Dios ha mostrado al rey lo que ha de suceder en lo porvenir. El sueño es verdadero, y es fiel la interpretación.»
 
 #### Nabucodonosor adora a Dios
 
 [46](#c2-v46){:#c2-v46} [[30]](#n-30){:#rn-30} Entonces el rey Nabucodonosor cayó sobre su rostro, postrándose delante de Daniel; y mandó ofrecerle oblaciones y perfumes.
 
-[47](#c2-v47){:#c2-v47} Y dirigió el rey la palabra a Daniel y dijo: "Vuestro Dios es realmente el Dios de los dioses, el Señor de los señores, el que revela los arcanos, puesto que tú has podido descubrir este secreto."
+[47](#c2-v47){:#c2-v47} Y dirigió el rey la palabra a Daniel y dijo: «Vuestro Dios es realmente el Dios de los dioses, el Señor de los señores, el que revela los arcanos, puesto que tú has podido descubrir este secreto.»
 
 [48](#c2-v48){:#c2-v48} Luego el rey ensalzó a Daniel, y le dio muchos y grandes presentes; y le constituyó gobernador de toda la provincia de Babilonia y jefe supremo de todos los sabios de Babilonia.
 
@@ -199,11 +200,11 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [3](#c3-v3){:#c3-v3} Se reunieron los sátrapas, los gobernadores, los generales, los altos magistrados, los tesoreros, los consejeros, los jueces y todos los intendentes de las provincias para asistir a la dedicación de la estatua levantada por el rey Nabucodonosor; y estaban en pie delante de la estatua que Nabucodonosor había erigido.
 
-[4](#c3-v4){:#c3-v4} Y gritaba un pregonero en voz alta: "A vosotros, oh pueblos, naciones y lenguas se os manda
+[4](#c3-v4){:#c3-v4} Y gritaba un pregonero en voz alta: «A vosotros, oh pueblos, naciones y lenguas se os manda
 
 [5](#c3-v5){:#c3-v5} [[33]](#n-33){:#rn-33} que al tiempo que oyereis el sonido del cuerno, de la flauta, de la cítara, del sambuco, del salterio, de la gaita y de toda suerte de instrumentos músicos, os postréis para adorar la estatua de oro que ha levantado el rey Nabucodonosor.
 
-[6](#c3-v6){:#c3-v6} [[34]](#n-34){:#rn-34} Quien no se postrare ni (la) adorare, al instante será echado en un horno de fuego ardiente."
+[6](#c3-v6){:#c3-v6} [[34]](#n-34){:#rn-34} Quien no se postrare ni (la) adorare, al instante será echado en un horno de fuego ardiente.»
 
 [7](#c3-v7){:#c3-v7} Por lo cual, al momento de oír todos los pueblos el sonido del cuerno, de la flauta, de la cítara, del sambuco, del salterio, de la gaita y de toda suerte de instrumentos músicos, se postraron todos esos pueblos, naciones y lenguas, y adoraron la estatua de oro que el rey Nabucodonosor había alzado.
 
@@ -211,25 +212,25 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [8](#c3-v8){:#c3-v8} [[35]](#n-35){:#rn-35} En ese mismo tiempo vinieron algunos caldeos y acusaron a los judíos.
 
-[9](#c3-v9){:#c3-v9} Hablaron al rey Nabucodonosor y dijeron: "¡Vive para siempre, oh rey!
+[9](#c3-v9){:#c3-v9} Hablaron al rey Nabucodonosor y dijeron: «¡Vive para siempre, oh rey!
 
 [10](#c3-v10){:#c3-v10} Tú, oh rey, has dado un decreto según el cual todo hombre que oiga el sonido del cuerno, de la flauta, de la cítara, del sambuco, del salterio, de la gaita y de toda suerte de instrumentos músicos, se postre y adore la estatua de oro;
 
 [11](#c3-v11){:#c3-v11} y que todo aquel que no se postrare para adorar, sea arrojado en un horno de fuego ardiente.
 
-[12](#c3-v12){:#c3-v12} [[36]](#n-36){:#rn-36} Pues bien, hay algunos judíos, a quienes tú has puesto al frente de la provincia de Babilonia: Sidrac, Misac y Abdénago, los cuales no te tienen respeto, oh rey; no sirven a tus dioses, ni adoran la estatua de oro por ti erigida."
+[12](#c3-v12){:#c3-v12} [[36]](#n-36){:#rn-36} Pues bien, hay algunos judíos, a quienes tú has puesto al frente de la provincia de Babilonia: Sidrac, Misac y Abdénago, los cuales no te tienen respeto, oh rey; no sirven a tus dioses, ni adoran la estatua de oro por ti erigida.»
 
 [13](#c3-v13){:#c3-v13} Entonces Nabucodonosor se llenó de rabia y furor, y mandó traer a Sidrac, Misac y Abdénago, los cuales fueron conducidos a la presencia del rey.
 
-[14](#c3-v14){:#c3-v14} Nabucodonosor tomó la palabra y les dijo: "¿Es de propósito, oh Sidrac, Misac y Abdénago que no servís a mis dioses, ni adoráis la estatua de oro que yo he alzado?
+[14](#c3-v14){:#c3-v14} Nabucodonosor tomó la palabra y les dijo: «¿Es de propósito, oh Sidrac, Misac y Abdénago que no servís a mis dioses, ni adoráis la estatua de oro que yo he alzado?
 
-[15](#c3-v15){:#c3-v15} Ahora, pues, estad dispuestos: Al momento que oigáis el sonido del cuerno, de la flauta, de la cítara, del sambuco, del salterio, de la gaita y de toda suerte de instrumentos músicos, prosternaos y adorad la estatua que yo he hecho. Si no la adoráis, al instante seréis arrojados en un horno de fuego ardiente; y ¿quién es el Dios que os librará de mi mano?"
+[15](#c3-v15){:#c3-v15} Ahora, pues, estad dispuestos: Al momento que oigáis el sonido del cuerno, de la flauta, de la cítara, del sambuco, del salterio, de la gaita y de toda suerte de instrumentos músicos, prosternaos y adorad la estatua que yo he hecho. Si no la adoráis, al instante seréis arrojados en un horno de fuego ardiente; y ¿quién es el Dios que os librará de mi mano?»
 
-[16](#c3-v16){:#c3-v16} [[37]](#n-37){:#rn-37} Respondieron Sidrac, Misac y Abdénago y dijeron al rey Nabucodonosor: "No tenemos necesidad de responderte acerca de este asunto,
+[16](#c3-v16){:#c3-v16} [[37]](#n-37){:#rn-37} Respondieron Sidrac, Misac y Abdénago y dijeron al rey Nabucodonosor: «No tenemos necesidad de responderte acerca de este asunto,
 
 [17](#c3-v17){:#c3-v17} Si nuestro Dios, a quien servimos, quiere librarnos, nos librará del horno de fuego ardiente y de tu mano, oh rey.
 
-[18](#c3-v18){:#c3-v18} [[38]](#n-38){:#rn-38} Y si no, sabe, oh rey, que nosotros no serviremos a tus dioses, ni adoraremos la estatua de oro que ha sido por ti levantada."
+[18](#c3-v18){:#c3-v18} [[38]](#n-38){:#rn-38} Y si no, sabe, oh rey, que nosotros no serviremos a tus dioses, ni adoraremos la estatua de oro que ha sido por ti levantada.»
 
 #### Los tres jóvenes son arrojados al horno
 
@@ -249,7 +250,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [25](#c3-v25){:#c3-v25} [[41]](#n-41){:#rn-41} Entonces Azarías, poniéndose en pie, oró de esta manera, y abriendo su boca en medio del fuego, dijo:
 
-[26](#c3-v26){:#c3-v26} "Bendito eres, Señor, Dios de nuestros padres; digno de alabanza es tu nombre y glorioso por los siglos.
+[26](#c3-v26){:#c3-v26} «Bendito eres, Señor, Dios de nuestros padres; digno de alabanza es tu nombre y glorioso por los siglos.
 
 [27](#c3-v27){:#c3-v27} Porque Tú eres justo en todo lo que hiciste con nosotros; y verdaderas son todas las obras tuyas, rectos tus caminos, y justos todos tus juicios.
 
@@ -287,7 +288,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [44](#c3-v44){:#c3-v44} Avergonzados queden todos cuantos hacen sufrir tribulaciones a tus siervos; queden confundidos por medio de todo tu poder y sea aniquilada su fuerza;
 
-[45](#c3-v45){:#c3-v45} y sepan que Tú eres el Señor, Dios único y glorioso en la redondez de la tierra."
+[45](#c3-v45){:#c3-v45} y sepan que Tú eres el Señor, Dios único y glorioso en la redondez de la tierra.»
 
 #### El ángel salva a los jóvenes
 
@@ -305,7 +306,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [51](#c3-v51){:#c3-v51} [[51]](#n-51){:#rn-51} Entonces aquellos tres, como si no tuviesen sino una sola boca, alabaron, y glorificaron, y bendijeron a Dios en medio del horno, diciendo:
 
-[52](#c3-v52){:#c3-v52} [[52]](#n-52){:#rn-52} Bendito eres Tú, Señor, Dios de nuestros padres, digno de ser alabado y glorificado y ensalzado por todos los siglos. Bendito sea tu santo y glorioso Nombre, digno de ser alabado y ensalzado por todos los siglos.
+[52](#c3-v52){:#c3-v52} [[52]](#n-52){:#rn-52} «Bendito eres Tú, Señor, Dios de nuestros padres, digno de ser alabado y glorificado y ensalzado por todos los siglos. Bendito sea tu santo y glorioso Nombre, digno de ser alabado y ensalzado por todos los siglos.
 
 [53](#c3-v53){:#c3-v53} [[53]](#n-53){:#rn-53} Bendito eres Tú en el Templo santo de tu gloria, y sobre todo loor, y sobre toda gloria por los siglos.
 
@@ -381,31 +382,31 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [89](#c3-v89){:#c3-v89} [[59]](#n-59){:#rn-59} Tributad gloria al Señor, porque es bueno, porque es eterna su misericordia.
 
-[90](#c3-v90){:#c3-v90} [[60]](#n-60){:#rn-60} Todos los que dais culto a Dios, bendecid al Señor, al Dios de los dioses; loadle y celebradle, porque su misericordia permanece por todos los siglos.
+[90](#c3-v90){:#c3-v90} [[60]](#n-60){:#rn-60} Todos los que dais culto a Dios, bendecid al Señor, al Dios de los dioses; loadle y celebradle, porque su misericordia permanece por todos los siglos.»
 
 #### Nabucodonosor glorifica a Dios
 
-[91](#c3-v91){:#c3-v91} Entonces el rey Nabucodonosor se asombró y levantándose apresuradamente, se dirigió a sus consejeros y dijo: "¿No fueron tres los hombres que echamos atados en medio del fuego?" Respondieron ellos y dijeron al rey: "Así es, oh rey."
+[91](#c3-v91){:#c3-v91} Entonces el rey Nabucodonosor se asombró y levantándose apresuradamente, se dirigió a sus consejeros y dijo: «¿No fueron tres los hombres que echamos atados en medio del fuego?» Respondieron ellos y dijeron al rey: «Así es, oh rey.»
 
-[92](#c3-v92){:#c3-v92} [[61]](#n-61){:#rn-61} Y él repuso, diciendo: "He aquí, que yo veo cuatro hombres sueltos, que se pasean en medio del fuego, sin que hayan padecido daño alguno, y el aspecto del cuarto es semejante a un hijo de Dios."
+[92](#c3-v92){:#c3-v92} [[61]](#n-61){:#rn-61} Y él repuso, diciendo: «He aquí, que yo veo cuatro hombres sueltos, que se pasean en medio del fuego, sin que hayan padecido daño alguno, y el aspecto del cuarto es semejante a un hijo de Dios.»
 
-[93](#c3-v93){:#c3-v93} Entonces Nabucodonosor, acercándose a la boca del horno de fuego ardiente, tomó la palabra y dijo: "¡Sidrac, Misac y Abdénago, siervos del Dios Altísimo, salid y venid!" Salieron, pues, Sidrac, Misac y Abdénago de en medio del fuego.
+[93](#c3-v93){:#c3-v93} Entonces Nabucodonosor, acercándose a la boca del horno de fuego ardiente, tomó la palabra y dijo: «¡Sidrac, Misac y Abdénago, siervos del Dios Altísimo, salid y venid!» Salieron, pues, Sidrac, Misac y Abdénago de en medio del fuego.
 
 [94](#c3-v94){:#c3-v94} Y habiéndose reunido los sátrapas, los gobernadores, los altos jefes y los consejeros del rey, vieron a esos varones sobre cuyos cuerpos el fuego no había tenido ningún poder. Ni un cabello de su cabeza se había chamuscado, sus ropas estaban intactas, ni siquiera el olor del fuego los había alcanzado.
 
-[95](#c3-v95){:#c3-v95} [[62]](#n-62){:#rn-62} Entonces Nabucodonosor tomó la palabra y dijo: "Bendito sea el Dios de Sidrac, Misac y Abdénago, que ha enviado su ángel y ha salvado a sus siervos que han confiado en Él, traspasaron la orden del rey y entregaron sus cuerpos para no servir ni adorar a dios alguno fuera del Dios suyo.
+[95](#c3-v95){:#c3-v95} [[62]](#n-62){:#rn-62} Entonces Nabucodonosor tomó la palabra y dijo: «Bendito sea el Dios de Sidrac, Misac y Abdénago, que ha enviado su ángel y ha salvado a sus siervos que han confiado en Él, traspasaron la orden del rey y entregaron sus cuerpos para no servir ni adorar a dios alguno fuera del Dios suyo.
 
-[96](#c3-v96){:#c3-v96} Publico por mi parte este decreto: Cualquier pueblo, nación o lengua que hable mal del Dios de Sidrac, Misac y Abdénago, será hecho pedazos, y sus casas serán convertidas en cloacas; por cuanto no hay ningún otro dios que pueda salvar de tal manera."
+[96](#c3-v96){:#c3-v96} Publico por mi parte este decreto: Cualquier pueblo, nación o lengua que hable mal del Dios de Sidrac, Misac y Abdénago, será hecho pedazos, y sus casas serán convertidas en cloacas; por cuanto no hay ningún otro dios que pueda salvar de tal manera.»
 
 [97](#c3-v97){:#c3-v97} Y el rey ensalzó a Sidrac, Misac y Abdénago en la provincia de Babilonia.
 
 #### Manifiesto del rey
 
-[98](#c3-v98){:#c3-v98} [[63]](#n-63){:#rn-63} "El rey Nabucodonosor a todos los pueblos, naciones y lenguas que habitan en toda la tierra: La paz os sea dada en abundancia.
+[98](#c3-v98){:#c3-v98} [[63]](#n-63){:#rn-63} «El rey Nabucodonosor a todos los pueblos, naciones y lenguas que habitan en toda la tierra: La paz os sea dada en abundancia.
 
 [99](#c3-v99){:#c3-v99} Me parece conveniente publicar las señales y las maravillas que el Dios Altísimo ha hecho conmigo.
 
-[100](#c3-v100){:#c3-v100} [[64]](#n-64){:#rn-64} ¡Cuán grandes son sus señales y cuan estupendas sus maravillas! Su reino es reino eterno y su poderío subsiste de generación en generación."
+[100](#c3-v100){:#c3-v100} [[64]](#n-64){:#rn-64} ¡Cuán grandes son sus señales y cuan estupendas sus maravillas! Su reino es reino eterno y su poderío subsiste de generación en generación.»
 
 ### Daniel [4](#c4) {#c4}
 
@@ -421,7 +422,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [5](#c4-v5){:#c4-v5} [[67]](#n-67){:#rn-67} Al fin se presentó delante de mí Daniel, cuyo nombre es Baltasar, del nombre de mi dios, y en el cual reside el espíritu de los santos dioses; y le conté mi sueño, (diciendo):
 
-[6](#c4-v6){:#c4-v6} "Baltasar, jefe de los magos, por cuanto yo sé que el espíritu de los santos dioses reside en ti, y que no hay ningún secreto que te cause dificultades, exponme las visiones de mi sueño que he visto, y su interpretación.
+[6](#c4-v6){:#c4-v6} «Baltasar, jefe de los magos, por cuanto yo sé que el espíritu de los santos dioses reside en ti, y que no hay ningún secreto que te cause dificultades, exponme las visiones de mi sueño que he visto, y su interpretación.
 
 [7](#c4-v7){:#c4-v7} (He aquí) las visiones que tenía yo en mi cabeza estando en mi cama: Miraba yo, y vi un árbol en medio de la tierra, y su altura era grande.
 
@@ -431,19 +432,19 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [10](#c4-v10){:#c4-v10} [[68]](#n-68){:#rn-68} Mientras estaba todavía mirando las visiones de mi cabeza, estando en mi cama, vi cómo un Velador y Santo descendía del cielo,
 
-[11](#c4-v11){:#c4-v11} que gritaba fuerte y dijo así: *Cortad el árbol y desmochad sus ramas, sacudid su follaje y desparramad sus frutos; huyan las bestias de debajo de él, y los pájaros de sus ramas.
+[11](#c4-v11){:#c4-v11} que gritaba fuerte y dijo así: "Cortad el árbol y desmochad sus ramas, sacudid su follaje y desparramad sus frutos; huyan las bestias de debajo de él, y los pájaros de sus ramas.
 
 [12](#c4-v12){:#c4-v12} Pero el tronco con sus raíces lo dejaréis en tierra, entre cadenas de hierro y de bronce, en medio de la hierba del campo. Sea bañado con el rocío del cielo y con las bestias sea su parte entre la hierba de la tierra.
 
 [13](#c4-v13){:#c4-v13} Sea mudado su corazón de hombre, y désele un corazón de bestia, y pasen sobre él siete tiempos.
 
-[14](#c4-v14){:#c4-v14} [[69]](#n-69){:#rn-69} De un decreto de los veladores viene esta sentencia, y es cosa que se hace por pedido de los santos, para que los vivientes conozcan que el Altísimo es dueño del reino de los hombres. Lo dará a quien mejor le parezca, y puede poner sobre él al más humilde de los hombres.*
+[14](#c4-v14){:#c4-v14} [[69]](#n-69){:#rn-69} De un decreto de los veladores viene esta sentencia, y es cosa que se hace por pedido de los santos, para que los vivientes conozcan que el Altísimo es dueño del reino de los hombres. Lo dará a quien mejor le parezca, y puede poner sobre él al más humilde de los hombres."
 
-[15](#c4-v15){:#c4-v15} Este es el sueño que vi yo, el rey Nabucodonosor; y tú, Baltasar, dime la interpretación; pues ninguno de los sabios de mi reino ha podido darme su interpretación. Tú lo puedes, porque el espíritu de los santos dioses reside en ti."
+[15](#c4-v15){:#c4-v15} Este es el sueño que vi yo, el rey Nabucodonosor; y tú, Baltasar, dime la interpretación; pues ninguno de los sabios de mi reino ha podido darme su interpretación. Tú lo puedes, porque el espíritu de los santos dioses reside en ti.»
 
 #### Interpretación del sueño
 
-[16](#c4-v16){:#c4-v16} [[70]](#n-70){:#rn-70} Entonces Daniel, cuyo nombre es Baltasar, quedó por un rato aturdido, y le conturbaron sus pensamientos, hasta que el rey tomó la palabra y dijo: "Baltasar, no te conturbe el sueño ni su interpretación." Respondió Baltasar, y dijo: "Señor mío, sea este sueño para los que te odien, y su interpretación para tus enemigos.
+[16](#c4-v16){:#c4-v16} [[70]](#n-70){:#rn-70} Entonces Daniel, cuyo nombre es Baltasar, quedó por un rato aturdido, y le conturbaron sus pensamientos, hasta que el rey tomó la palabra y dijo: «Baltasar, no te conturbe el sueño ni su interpretación.» Respondió Baltasar, y dijo: «Señor mío, sea este sueño para los que te odien, y su interpretación para tus enemigos.
 
 [17](#c4-v17){:#c4-v17} El árbol que viste, que se hizo grande y fuerte, cuya altura llegaba hasta el cielo y que se podía ver desde toda la tierra;
 
@@ -451,7 +452,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [19](#c4-v19){:#c4-v19} [[72]](#n-72){:#rn-72} (ese árbol) eres tú, oh rey, que has venido a ser grande y fuerte; pues tu grandeza ha crecido hasta llegar al cielo, y tu dominación hasta alcanzar los fines de la tierra.
 
-[20](#c4-v20){:#c4-v20} Y si el rey vio a un Velador y Santo que descendía del cielo, diciendo: *Cortad el árbol y destruidlo, pero dejad el tronco con sus raíces en la tierra entre cadenas de bronce y de hierro, en medio de la hierba del campo, y sea bañado con el rocío del cielo y tenga su parte entre las bestias del campo hasta que pasen sobre él siete tiempos*;
+[20](#c4-v20){:#c4-v20} Y si el rey vio a un Velador y Santo que descendía del cielo, diciendo: "Cortad el árbol y destruidlo, pero dejad el tronco con sus raíces en la tierra entre cadenas de bronce y de hierro, en medio de la hierba del campo, y sea bañado con el rocío del cielo y tenga su parte entre las bestias del campo hasta que pasen sobre él siete tiempos";
 
 [21](#c4-v21){:#c4-v21} esta es la interpretación, oh rey, y este es el decreto del Altísimo que ha de cumplirse en mi señor, el rey:
 
@@ -459,7 +460,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [23](#c4-v23){:#c4-v23} [[74]](#n-74){:#rn-74} Y en cuanto a la orden de dejar el tronco con las raíces del árbol, (esto significa que) te quedarás con tu reino cuando reconozcas que es el cielo el que tiene la potestad.
 
-[24](#c4-v24){:#c4-v24} [[75]](#n-75){:#rn-75} Por eso, oh rey, te sea grato mi consejo, redime tus pecados con obras de justicia, y tus iniquidades con obras de misericordia para con los pobres. Tal vez así se prolongara tu prosperidad."
+[24](#c4-v24){:#c4-v24} [[75]](#n-75){:#rn-75} Por eso, oh rey, te sea grato mi consejo, redime tus pecados con obras de justicia, y tus iniquidades con obras de misericordia para con los pobres. Tal vez así se prolongara tu prosperidad.»
 
 #### Cumplimiento de la visión
 
@@ -467,21 +468,21 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [26](#c4-v26){:#c4-v26} [[76]](#n-76){:#rn-76} Al cabo de doce meses, mientras se paseaba sobre el palacio real de Babilonia,
 
-[27](#c4-v27){:#c4-v27} el rey habló y dijo: "¿No es esta Babilonia, la grande, que yo he edificado para capital de mi reino, con la fuerza de mi poder y para la gloria de mi majestad?"
+[27](#c4-v27){:#c4-v27} el rey habló y dijo: «¿No es esta Babilonia, la grande, que yo he edificado para capital de mi reino, con la fuerza de mi poder y para la gloria de mi majestad?»
 
-[28](#c4-v28){:#c4-v28} Aún estaba la palabra en la boca del rey, cuando bajó del cielo una voz: "A ti se te anuncia, oh rey Nabucodonosor, que el reino se ha ido de ti.
+[28](#c4-v28){:#c4-v28} Aún estaba la palabra en la boca del rey, cuando bajó del cielo una voz: «A ti se te anuncia, oh rey Nabucodonosor, que el reino se ha ido de ti.
 
-[29](#c4-v29){:#c4-v29} [[77]](#n-77){:#rn-77} Te echarán de entre los hombres y habitarás con las bestias del campo; te darán de comer hierba como a los bueyes, y pasarán sobre ti siete tiempos hasta que reconozcas que el Altísimo es dueño del reino de los hombres, y lo da a quien quiere."
+[29](#c4-v29){:#c4-v29} [[77]](#n-77){:#rn-77} Te echarán de entre los hombres y habitarás con las bestias del campo; te darán de comer hierba como a los bueyes, y pasarán sobre ti siete tiempos hasta que reconozcas que el Altísimo es dueño del reino de los hombres, y lo da a quien quiere.»
 
 [30](#c4-v30){:#c4-v30} En aquella misma hora se cumplió en Nabucodonosor esta palabra: fue expulsado de entre los hombres, comía hierba como los bueyes, y su cuerpo se mojaba con el rocío del cielo, hasta que los cabellos le crecieron como (plumas) de águila, y las uñas como las de las aves.
 
-[31](#c4-v31){:#c4-v31} "Mas al cabo de los días, yo, Nabucodonosor, levanté mis ojos hacia el cielo, y recobré mi juicio. Entonces bendije al Altísimo, y alabé y glorifiqué al que vive eternamente, cuya dominación es dominación eterna y cuyo reino perdura de generación en generación.
+[31](#c4-v31){:#c4-v31} «Mas al cabo de los días, yo, Nabucodonosor, levanté mis ojos hacia el cielo, y recobré mi juicio. Entonces bendije al Altísimo, y alabé y glorifiqué al que vive eternamente, cuya dominación es dominación eterna y cuyo reino perdura de generación en generación.
 
-[32](#c4-v32){:#c4-v32} Todos los habitantes de la tierra son (para Él) una nada; Él dispone según su voluntad del ejército del cielo y de los moradores de la tierra. No hay quien pueda detener su mano, y decirle: *¿Qué es lo que haces?*
+[32](#c4-v32){:#c4-v32} Todos los habitantes de la tierra son (para Él) una nada; Él dispone según su voluntad del ejército del cielo y de los moradores de la tierra. No hay quien pueda detener su mano, y decirle: "¿Qué es lo que haces?"
 
 [33](#c4-v33){:#c4-v33} [[78]](#n-78){:#rn-78} Al mismo tiempo recobré mi juicio y me fueron devueltos, para gloria de mi reino, mi majestad y mi esplendor. Vinieron a buscarme mis consejeros y mis magnates, y fui restablecido en mi reino, y se acrecentó aún mi poderío.
 
-[34](#c4-v34){:#c4-v34} Ahora, pues, yo, Nabucodonosor, alabo y ensalzo y glorifico al Rey del cielo; pues todas sus obras son verdad, y sus caminos justicia, y Él puede humillar a quienes proceden con soberbia."
+[34](#c4-v34){:#c4-v34} Ahora, pues, yo, Nabucodonosor, alabo y ensalzo y glorifico al Rey del cielo; pues todas sus obras son verdad, y sus caminos justicia, y Él puede humillar a quienes proceden con soberbia.»
 
 ### Daniel [5](#c5) {#c5}
 
@@ -499,29 +500,29 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [6](#c5-v6){:#c5-v6} Entonces el rey mudó de color, le perturbaron sus pensamientos, se le desencajaron las coyunturas de sus caderas y se batían sus rodillas una contra otra.
 
-[7](#c5-v7){:#c5-v7} [[82]](#n-82){:#rn-82} Y gritó el rey en alta voz que hiciesen venir a los adivinos, los caldeos y los astrólogos. Luego tomando el rey la palabra dijo a los sabios de Babilonia: "El que leyere esta escritura y me indicare su interpretación, será vestido de púrpura, (llevará) un collar de oro al cuello, y será el tercero en el gobierno del reino."
+[7](#c5-v7){:#c5-v7} [[82]](#n-82){:#rn-82} Y gritó el rey en alta voz que hiciesen venir a los adivinos, los caldeos y los astrólogos. Luego tomando el rey la palabra dijo a los sabios de Babilonia: «El que leyere esta escritura y me indicare su interpretación, será vestido de púrpura, (llevará) un collar de oro al cuello, y será el tercero en el gobierno del reino.»
 
 [8](#c5-v8){:#c5-v8} Vinieron entonces todos los sabios del rey, mas no pudieron leer la escritura, ni explicar al rey su significado.
 
 [9](#c5-v9){:#c5-v9} Por eso el rey Baltasar se turbó en sumo grado, mudó de color y sus grandes estaban consternados.
 
-[10](#c5-v10){:#c5-v10} [[83]](#n-83){:#rn-83} Entonces la reina, (que oyó) las voces del rey y de sus grandes, entró en la sala del banquete. Y tomando la palabra dijo la reina: "¡Vive para siempre, oh rey! No te conturben tus pensamientos, ni se te mude el color.
+[10](#c5-v10){:#c5-v10} [[83]](#n-83){:#rn-83} Entonces la reina, (que oyó) las voces del rey y de sus grandes, entró en la sala del banquete. Y tomando la palabra dijo la reina: «¡Vive para siempre, oh rey! No te conturben tus pensamientos, ni se te mude el color.
 
 [11](#c5-v11){:#c5-v11} [[84]](#n-84){:#rn-84} Hay un hombre en tu reino, en el cual reside el espíritu de los santos dioses. Ya en los días de tu padre, se hallaron en él luz e inteligencia y una sabiduría semejante a la sabiduría de los dioses; por lo cual el rey Nabucodonosor tu padre, le constituyó jefe de los magos, de los adivinos, de los caldeos y de los astrólogos.
 
-[12](#c5-v12){:#c5-v12} Porque un espíritu superior, de ciencia e inteligencia, para interpretar sueños, descifrar enigmas, y resolver problemas difíciles se halló en él, en Daniel, a quien el rey puso por nombre Baltasar. Llámese, pues, a Daniel, y él te indicará el sentido."
+[12](#c5-v12){:#c5-v12} Porque un espíritu superior, de ciencia e inteligencia, para interpretar sueños, descifrar enigmas, y resolver problemas difíciles se halló en él, en Daniel, a quien el rey puso por nombre Baltasar. Llámese, pues, a Daniel, y él te indicará el sentido.»
 
 #### Daniel interpreta la escritura misteriosa.
 
-[13](#c5-v13){:#c5-v13} Fue Daniel llevado a la presencia del rey, el cual tomó la palabra y dijo a Daniel: "¿Eres tú Daniel, uno de los hijos de la cautividad de Judá, a quien el rey mi padre trajo de Judá?
+[13](#c5-v13){:#c5-v13} Fue Daniel llevado a la presencia del rey, el cual tomó la palabra y dijo a Daniel: «¿Eres tú Daniel, uno de los hijos de la cautividad de Judá, a quien el rey mi padre trajo de Judá?
 
 [14](#c5-v14){:#c5-v14} He oído decir de ti que el espíritu de los dioses reside en ti y que se hallan en ti luz y entendimiento y una sabiduría extraordinaria.
 
 [15](#c5-v15){:#c5-v15} Ahora han sido traídos a mi presencia los sabios y los adivinos, para leer esta escritura e indicarme su significado, pero no han podido explicarme el sentido de esta cosa.
 
-[16](#c5-v16){:#c5-v16} Pero de ti he oído decir que eres capaz de dar interpretaciones y resolver problemas difíciles. Ahora bien, si sabes leer la escritura e indicarme su interpretación, serás vestido de púrpura, (llevarás) un collar de oro al cuello, y serás el tercero en el reino."
+[16](#c5-v16){:#c5-v16} Pero de ti he oído decir que eres capaz de dar interpretaciones y resolver problemas difíciles. Ahora bien, si sabes leer la escritura e indicarme su interpretación, serás vestido de púrpura, (llevarás) un collar de oro al cuello, y serás el tercero en el reino.»
 
-[17](#c5-v17){:#c5-v17} [[85]](#n-85){:#rn-85} Entonces respondió Daniel y dijo delante del rey: "¡Sean para ti tus dones, y da a otro tus recompensas! Yo leeré al rey la escritura y le daré a conocer la interpretación.
+[17](#c5-v17){:#c5-v17} [[85]](#n-85){:#rn-85} Entonces respondió Daniel y dijo delante del rey: «¡Sean para ti tus dones, y da a otro tus recompensas! Yo leeré al rey la escritura y le daré a conocer la interpretación.
 
 [18](#c5-v18){:#c5-v18} El Dios Altísimo, oh rey, dio a Nabucodonosor, tu padre, el reino y la grandeza, la gloria y la majestad.
 
@@ -537,13 +538,13 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [24](#c5-v24){:#c5-v24} Por eso vino de su parte el extremo de la mano que trazó esta escritura.
 
-[25](#c5-v25){:#c5-v25} [[87]](#n-87){:#rn-87} He aquí la escritura trazada: Mené, Mené, Tequel, Ufarsin.
+[25](#c5-v25){:#c5-v25} [[87]](#n-87){:#rn-87} He aquí la escritura trazada: *Mené*, *Mené*, *Tequel*, *Ufarsin*.
 
-[26](#c5-v26){:#c5-v26} Y esta es su interpretación: Mené: Dios ha contado tu reino y le ha puesto término.
+[26](#c5-v26){:#c5-v26} Y esta es su interpretación: *Mené*: Dios ha contado tu reino y le ha puesto término.
 
-[27](#c5-v27){:#c5-v27} Tequel: has sido pesado en la balanza y hallado falto de peso.
+[27](#c5-v27){:#c5-v27} *Tequel*: has sido pesado en la balanza y hallado falto de peso.
 
-[28](#c5-v28){:#c5-v28} Perés: dividido ha sido tu reino y dado a los medos y persas."
+[28](#c5-v28){:#c5-v28} *Perés*: dividido ha sido tu reino y dado a los medos y persas.»
 
 [29](#c5-v29){:#c5-v29} Mandó entonces Baltasar, y vistieron a Daniel de púrpura, le pusieron al cuello un collar de oro y se pregonó que él sería el tercero en el gobierno del reino.
 
@@ -563,13 +564,13 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [4](#c6-v4){:#c6-v4} Entonces los presidentes y los sátrapas iban buscando algún pretexto contra Daniel en lo tocante a (la administración) del reino; mas no pudieron hallar ningún pretexto ni falta, porque era fiel, y no se hallaba en él ninguna negligencia ni falta.
 
-[5](#c6-v5){:#c6-v5} [[93]](#n-93){:#rn-93} Aquellos hombres se dijeron: "No encontraremos contra este Daniel ningún pretexto a menos de hallar contra él algo en lo tocante a la ley de su Dios."
+[5](#c6-v5){:#c6-v5} [[93]](#n-93){:#rn-93} Aquellos hombres se dijeron: «No encontraremos contra este Daniel ningún pretexto a menos de hallar contra él algo en lo tocante a la ley de su Dios.»
 
-[6](#c6-v6){:#c6-v6} Entonces aquellos presidentes y sátrapas llegaron alborotados al rey y le dijeron así: "Rey Darío, ¡vive para siempre!
+[6](#c6-v6){:#c6-v6} Entonces aquellos presidentes y sátrapas llegaron alborotados al rey y le dijeron así: «Rey Darío, ¡vive para siempre!
 
 [7](#c6-v7){:#c6-v7} [[94]](#n-94){:#rn-94} Todos los presidentes del reino, los gobernadores y los sátrapas, los consejeros y los magistrados han resuelto que se promulgue un edicto real y se decrete una prohibición, según la cual todo hombre que por espacio de treinta días dirigiere una petición a cualquier dios u hombre, fuera de ti, oh rey, debe ser arrojado en el foso de los leones.
 
-[8](#c6-v8){:#c6-v8} [[95]](#n-95){:#rn-95} Ahora, pues, oh rey, decreta tú la prohibición y firma el edicto, para que no pueda derogarse, conforme a la ley de los medos y persas, que es irrevocable."
+[8](#c6-v8){:#c6-v8} [[95]](#n-95){:#rn-95} Ahora, pues, oh rey, decreta tú la prohibición y firma el edicto, para que no pueda derogarse, conforme a la ley de los medos y persas, que es irrevocable.»
 
 [9](#c6-v9){:#c6-v9} Dadas estas circunstancias el rey Darío firmó el edicto y la prohibición.
 
@@ -579,17 +580,17 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [11](#c6-v11){:#c6-v11} Entonces aquellos hombres se apresuraron a acudir, y hallaron a Daniel haciendo oración e invocando a su Dios.
 
-[12](#c6-v12){:#c6-v12} Luego se llegaron al rey, y le hablaron acerca de la prohibición real (diciendo): "¿No firmaste tú una prohibición según la cual todo hombre que por espacio de treinta días dirigiere una petición a cualquier dios u hombre fuera de ti, oh rey, debe ser echado en el foso de los leones?" Respondió el rey, y dijo: "Así es, conforme a la ley de los medos y persas, que es irrevocable."
+[12](#c6-v12){:#c6-v12} Luego se llegaron al rey, y le hablaron acerca de la prohibición real (diciendo): «¿No firmaste tú una prohibición según la cual todo hombre que por espacio de treinta días dirigiere una petición a cualquier dios u hombre fuera de ti, oh rey, debe ser echado en el foso de los leones?» Respondió el rey, y dijo: «Así es, conforme a la ley de los medos y persas, que es irrevocable.»
 
-[13](#c6-v13){:#c6-v13} Entonces respondieron ellos y dijeron ante el rey: "Daniel, uno de los hijos de la cautividad de Judá, no hace caso de ti, oh rey, ni de la prohibición que tú firmaste, sino que tres veces al día hace su oración."
+[13](#c6-v13){:#c6-v13} Entonces respondieron ellos y dijeron ante el rey: «Daniel, uno de los hijos de la cautividad de Judá, no hace caso de ti, oh rey, ni de la prohibición que tú firmaste, sino que tres veces al día hace su oración.»
 
 #### Daniel en el foso de los leones
 
 [14](#c6-v14){:#c6-v14} Al oír esto quedó el rey sumamente contristado y se propuso salvar a Daniel; y hasta ponerse el sol hizo esfuerzos por librarle.
 
-[15](#c6-v15){:#c6-v15} Pero aquellos hombres vinieron alborotados al rey y le dijeron: "Has de saber, oh rey, que es ley de los medos y persas que toda prohibición y todo edicto firmado por el rey es inmutable."
+[15](#c6-v15){:#c6-v15} Pero aquellos hombres vinieron alborotados al rey y le dijeron: «Has de saber, oh rey, que es ley de los medos y persas que toda prohibición y todo edicto firmado por el rey es inmutable.»
 
-[16](#c6-v16){:#c6-v16} [[97]](#n-97){:#rn-97} Entonces el rey dio orden que trajeran a Daniel, y le echaron en el foso de los leones; y el rey dirigiéndose a Daniel le dijo: "¡Librete tu Dios, a quien tú siempre sirves!"
+[16](#c6-v16){:#c6-v16} [[97]](#n-97){:#rn-97} Entonces el rey dio orden que trajeran a Daniel, y le echaron en el foso de los leones; y el rey dirigiéndose a Daniel le dijo: «¡Librete tu Dios, a quien tú siempre sirves!»
 
 [17](#c6-v17){:#c6-v17} [[98]](#n-98){:#rn-98} Luego fue traída una piedra y puesta sobre la boca del foso; y el rey la selló con su anillo, y con el anillo de sus grandes, para que nada se mudase respecto de Daniel.
 
@@ -597,11 +598,11 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [19](#c6-v19){:#c6-v19} Al rayar el alba se levantó el rey y fue a toda prisa al foso de los leones;
 
-[20](#c6-v20){:#c6-v20} donde, arrimándose llamó a Daniel con voz dolorida; y tomando la palabra dijo el rey a Daniel: "Daniel, siervo del Dios vivo, el Dios tuyo, a quien tú sirves sin cesar, ¿ha podido librarte de los leones?"
+[20](#c6-v20){:#c6-v20} donde, arrimándose llamó a Daniel con voz dolorida; y tomando la palabra dijo el rey a Daniel: «Daniel, siervo del Dios vivo, el Dios tuyo, a quien tú sirves sin cesar, ¿ha podido librarte de los leones?»
 
-[21](#c6-v21){:#c6-v21} Entonces Daniel dijo al rey: "¡Oh rey, vive para siempre!
+[21](#c6-v21){:#c6-v21} Entonces Daniel dijo al rey: «¡Oh rey, vive para siempre!
 
-[22](#c6-v22){:#c6-v22} [[99]](#n-99){:#rn-99} Mi Dios ha enviado su ángel, y ha cerrado la boca de los leones, de modo que no me han hecho daño alguno, porque he sido hallado inocente delante de Él; y aun delante de ti, oh rey, ningún mal he hecho."
+[22](#c6-v22){:#c6-v22} [[99]](#n-99){:#rn-99} Mi Dios ha enviado su ángel, y ha cerrado la boca de los leones, de modo que no me han hecho daño alguno, porque he sido hallado inocente delante de Él; y aun delante de ti, oh rey, ningún mal he hecho.»
 
 [23](#c6-v23){:#c6-v23} Entonces el rey se alegró en gran manera, y mandó sacaran a Daniel del foso. Y sacado que fue, no se halló en él lesión alguna, porque había confiado en su Dios.
 
@@ -609,11 +610,11 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 #### Darío glorifica a Dios
 
-[25](#c6-v25){:#c6-v25} [[100]](#n-100){:#rn-100} Después el rey Darío escribió a todos, los pueblos, naciones y lenguas que habitan en toda la tierra: "¡Abunde en vosotros la paz!
+[25](#c6-v25){:#c6-v25} [[100]](#n-100){:#rn-100} Después el rey Darío escribió a todos, los pueblos, naciones y lenguas que habitan en toda la tierra: «¡Abunde en vosotros la paz!
 
 [26](#c6-v26){:#c6-v26} Yo establezco por decreto, que en todo el dominio del reino se respete y se tema al Dios de Daniel; porque Él es el Dios vivo y que subsiste eternamente, su reino nunca será destruido, y su dominación no tendrá fin.
 
-[27](#c6-v27){:#c6-v27} [[101]](#n-101){:#rn-101} Él libra y Él salva; Él hace señales y maravillas en el cielo y en la tierra. Él ha librado a Daniel de las garras de los leones."
+[27](#c6-v27){:#c6-v27} [[101]](#n-101){:#rn-101} Él libra y Él salva; Él hace señales y maravillas en el cielo y en la tierra. Él ha librado a Daniel de las garras de los leones.»
 
 [28](#c6-v28){:#c6-v28} [[102]](#n-102){:#rn-102} Y este Daniel prosperó durante el reinado de Darío y durante el reinado de Ciro el persa.
 
@@ -623,47 +624,47 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 #### La visión de las cuatro bestias
 
-[1](#c7-v1){:#c7-v1} [[103]](#n-103){:#rn-103} El año primero de Baltasar, rey de Babilonia, vio Daniel un sueño y visiones que (pasaban) por su cabeza mientras estaba en su cama. En seguida escribió el sueño en forma de un resumen.
+[1](#c7-v1){:#c7-v1} [[103]](#n-103){:#rn-103} El año primero de Baltasar, rey de Babilonia, vio Daniel un sueño y visiones que (pasaban) por su cabeza mientras estaba en su cama. En seguida escribió el sueño en forma de un resumen:
 
-[2](#c7-v2){:#c7-v2} "Yo estaba mirando durante mi visión nocturna, dice Daniel tomando la palabra, y vi cómo los cuatro vientos del cielo revolvían el Mar Grande.
+[2](#c7-v2){:#c7-v2} «Yo estaba mirando durante mi visión nocturna —dice Daniel tomando la palabra—, y vi cómo los cuatro vientos del cielo revolvían el Mar Grande.
 
 [3](#c7-v3){:#c7-v3} [[104]](#n-104){:#rn-104} Y subieron del mar cuatro grandes bestias, diferentes una de otra.
 
 [4](#c7-v4){:#c7-v4} [[105]](#n-105){:#rn-105} La primera era como león, y tenía alas de águila. Mientras estaba todavía mirando, le fueron arrancadas las alas, y fue levantada de la tierra y puesta sobre sus pies como un hombre; y se le dio un corazón de hombre.
 
-[5](#c7-v5){:#c7-v5} [[106]](#n-106){:#rn-106} Y vi otra bestia, la segunda, semejante a un oso; que se alzaba a un lado; (tenía) tres costillas en su boca, entre sus dientes, y le dijeron así: *¡Levántate y come carne en abundancia!*.
+[5](#c7-v5){:#c7-v5} [[106]](#n-106){:#rn-106} Y vi otra bestia, la segunda, semejante a un oso; que se alzaba a un lado; (tenía) tres costillas en su boca, entre sus dientes, y le dijeron así: "¡Levántate y come carne en abundancia!".
 
 [6](#c7-v6){:#c7-v6} [[107]](#n-107){:#rn-107} Después de esto seguí mirando, y vi otra, semejante a un leopardo, con cuatro alas de ave en sus espaldas. Tenía esta bestia cuatro cabezas; y le fue dado el dominio.
 
 [7](#c7-v7){:#c7-v7} [[108]](#n-108){:#rn-108} Después de esto continué mirando la visión nocturna y vi una cuarta bestia, espantosa y terrible y extraordinariamente fuerte, que tenía grandes dientes de hierro. Devoraba y desmenuzaba, y lo que sobraba lo hollaba con los pies. Era diferente de todas las bestias anteriores y tenía diez cuernos.
 
-[8](#c7-v8){:#c7-v8} [[109]](#n-109){:#rn-109} Estaba yo contemplando los cuernos, cuando divisé otro cuerno pequeño, que despuntaba entre ellos; y le fueron arrancados tres de los primeros cuernos. Y he aquí que había en este cuerno ojos como ojos de hombre y una boca que profería cosas horribles.
+[8](#c7-v8){:#c7-v8} [[109]](#n-109){:#rn-109} Estaba yo contemplando los cuernos, cuando divisé otro cuerno pequeño, que despuntaba entre ellos; y le fueron arrancados tres de los primeros cuernos. Y he aquí que había en este cuerno ojos como ojos de hombre y una boca que profería cosas horribles.»
 
 #### El Anciano de días
 
-[9](#c7-v9){:#c7-v9} [[110]](#n-110){:#rn-110} Estuve mirando hasta que fueron puestos tronos; y se sentó el Anciano de días cuyo vestido era blanco como la nieve, y el cabello de su cabeza como lana blanca. Su trono era de llamas de fuego, y las ruedas del mismo, fuego ardiente.
+[9](#c7-v9){:#c7-v9} [[110]](#n-110){:#rn-110} «Estuve mirando hasta que fueron puestos tronos; y se sentó el Anciano de días cuyo vestido era blanco como la nieve, y el cabello de su cabeza como lana blanca. Su trono era de llamas de fuego, y las ruedas del mismo, fuego ardiente.
 
 [10](#c7-v10){:#c7-v10} [[111]](#n-111){:#rn-111} Un río de fuego corría saliendo de delante de él; millares de millares le servían, y miríadas de miríadas se levantaban ante su presencia. Se sentó el tribunal y fueron abiertos los libros.
 
 [11](#c7-v11){:#c7-v11} [[112]](#n-112){:#rn-112} Miraba yo entonces a causa del ruido de las grandes palabras que hablaba el cuerno; y mientras estaba mirando fue muerta la bestia y su cuerpo destruido y entregado a las llamas del fuego,
 
-[12](#c7-v12){:#c7-v12} [[113]](#n-113){:#rn-113} A las otras bestias también les fue quitado su dominio, pero les fue prolongada la vida hasta un tiempo y un momento.
+[12](#c7-v12){:#c7-v12} [[113]](#n-113){:#rn-113} A las otras bestias también les fue quitado su dominio, pero les fue prolongada la vida hasta un tiempo y un momento.»
 
 #### El Hijo del hombre
 
-[13](#c7-v13){:#c7-v13} [[114]](#n-114){:#rn-114} Seguía yo mirando en la visión nocturna, y he aquí que vino sobre las nubes del cielo Uno parecido a un hijo de hombre, el cual llegó al Anciano de días, y le presentaron delante de Él.
+[13](#c7-v13){:#c7-v13} [[114]](#n-114){:#rn-114} «Seguía yo mirando en la visión nocturna, y he aquí que vino sobre las nubes del cielo Uno parecido a un hijo de hombre, el cual llegó al Anciano de días, y le presentaron delante de Él.
 
-[14](#c7-v14){:#c7-v14} [[115]](#n-115){:#rn-115} Y le fue dado el señorío, la gloria y el reino, y todos los pueblos y naciones y lenguas le sirvieron. Su señorío es un señorío eterno que jamás acabará, y su reino nunca será destruido.
+[14](#c7-v14){:#c7-v14} [[115]](#n-115){:#rn-115} Y le fue dado el señorío, la gloria y el reino, y todos los pueblos y naciones y lenguas le sirvieron. Su señorío es un señorío eterno que jamás acabará, y su reino nunca será destruido.»
 
 #### Interpretación de la visión
 
-[15](#c7-v15){:#c7-v15} Entonces yo, Daniel, me turbé en espíritu interiormente, y las visiones de mi cabeza me llenaron de espanto.
+[15](#c7-v15){:#c7-v15} «Entonces yo, Daniel, me turbé en espíritu interiormente, y las visiones de mi cabeza me llenaron de espanto.
 
 [16](#c7-v16){:#c7-v16} Me acerqué a uno de los asistentes y le pedí el verdadero sentido de todo esto. Él me habló y me explicó el significado de aquellas cosas (diciendo):
 
-[17](#c7-v17){:#c7-v17} *Estas grandes bestias, que son cuatro, son cuatro reyes que se levantarán en la tierra.
+[17](#c7-v17){:#c7-v17} "Estas grandes bestias, que son cuatro, son cuatro reyes que se levantarán en la tierra.
 
-[18](#c7-v18){:#c7-v18} [[116]](#n-116){:#rn-116} Mas los santos del Altísimo recibirán el reino, y poseerán el reino hasta la eternidad y por los siglos de los siglos.*
+[18](#c7-v18){:#c7-v18} [[116]](#n-116){:#rn-116} Mas los santos del Altísimo recibirán el reino, y poseerán el reino hasta la eternidad y por los siglos de los siglos."
 
 [19](#c7-v19){:#c7-v19} Quise entonces saber la verdad acerca de la cuarta bestia, que era tan diferente de todas las (demás) y extraordinariamente terrible, que tenía dientes de hierro y uñas de bronce, que devoraba y desmenuzaba y hollaba con sus pies lo que sobraba;
 
@@ -673,7 +674,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [22](#c7-v22){:#c7-v22} hasta que vino el Anciano de días y el juicio fue dado a los santos del Altísimo y llegó el tiempo en que los santos tomaron posesión del reino.
 
-[23](#c7-v23){:#c7-v23} Y dijo aquel así: *La cuarta bestia es un cuarto reino que habrá en la tierra. Este será diferente de todos los reinos, devorará toda la tierra, la hollará, y la desmenuzará.
+[23](#c7-v23){:#c7-v23} Y dijo aquel así: "La cuarta bestia es un cuarto reino que habrá en la tierra. Este será diferente de todos los reinos, devorará toda la tierra, la hollará, y la desmenuzará.
 
 [24](#c7-v24){:#c7-v24} [[118]](#n-118){:#rn-118} Los diez cuernos (significan que) de este reino surgirán diez reyes; y tras ellos se levantará otro que será diferente de los anteriores, y derribará a tres reyes.
 
@@ -681,13 +682,13 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [26](#c7-v26){:#c7-v26} [[119]](#n-119){:#rn-119} Pero se sentará el tribunal, y entonces se le quitará su dominio, a fin de destruirlo y aniquilarlo para siempre.
 
-[27](#c7-v27){:#c7-v27} [[120]](#n-120){:#rn-120} Y el reino y el imperio y la magnificencia de los reinos que hay debajo de todo el cielo, será dado al pueblo de los santos del Altísimo; su reino será un reino eterno; y todas las potestades le servirán y le obedecerán*."
+[27](#c7-v27){:#c7-v27} [[120]](#n-120){:#rn-120} Y el reino y el imperio y la magnificencia de los reinos que hay debajo de todo el cielo, será dado al pueblo de los santos del Altísimo; su reino será un reino eterno; y todas las potestades le servirán y le obedecerán".»
 
 [28](#c7-v28){:#c7-v28} Aquí terminaron sus palabras. Yo, Daniel, quedé muy conturbado por mis pensamientos y mudé de color; pero guardé estas cosas en mi corazón.
 
 ### Daniel [8](#c8) {#c8}
 
-#### Visión del carnero y del Macho cabrío
+#### Visión del carnero y del macho cabrío
 
 [1](#c8-v1){:#c8-v1} [[121]](#n-121){:#rn-121} El año tercero del reinado del rey Baltasar, yo, Daniel, tuve una visión, después de aquella que había tenido anteriormente.
 
@@ -715,21 +716,21 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [12](#c8-v12){:#c8-v12} [[129]](#n-129){:#rn-129} Un ejército le fue dado para destruir el sacrificio perpetuo a causa de los pecados; echó por tierra la verdad y lo que hizo le salió bien.
 
-[13](#c8-v13){:#c8-v13} [[130]](#n-130){:#rn-130} Y oí hablar a uno de los santos; y otro santo dijo a aquel que estaba hablando: "¿Hasta cuándo durará (lo anunciado en) la visión del sacrificio perpetuo, el pecado de la desolación y el abandono del Santuario y del ejército que serán hollados?"
+[13](#c8-v13){:#c8-v13} [[130]](#n-130){:#rn-130} Y oí hablar a uno de los santos; y otro santo dijo a aquel que estaba hablando: «¿Hasta cuándo durará (lo anunciado en) la visión del sacrificio perpetuo, el pecado de la desolación y el abandono del Santuario y del ejército que serán hollados?»
 
-[14](#c8-v14){:#c8-v14} [[131]](#n-131){:#rn-131} Y él me dijo: "Hasta dos mil trescientas tardes y mañanas; y será purificado el Santuario."
+[14](#c8-v14){:#c8-v14} [[131]](#n-131){:#rn-131} Y él me dijo: «Hasta dos mil trescientas tardes y mañanas; y será purificado el Santuario.»
 
 #### El ángel Gabriel explica la visión
 
 [15](#c8-v15){:#c8-v15} Mientras yo, Daniel, tenía esta visión, y procuraba entenderla, vi que estaba delante de mí una figura semejante a un varón.
 
-[16](#c8-v16){:#c8-v16} Y oí una voz de hombre, de en medio del Ulai, que gritaba y decía: "¡Gabriel, explícale a este la visión!"
+[16](#c8-v16){:#c8-v16} Y oí una voz de hombre, de en medio del Ulai, que gritaba y decía: «¡Gabriel, explícale a este la visión!»
 
-[17](#c8-v17){:#c8-v17} [[132]](#n-132){:#rn-132} Y él se llegó a donde yo estaba; y cuando se me acercó, me postré rostro por tierra, despavorido. Mas él me dijo: "Sábete, hijo de hombre, que la visión es para el tiempo del fin."
+[17](#c8-v17){:#c8-v17} [[132]](#n-132){:#rn-132} Y él se llegó a donde yo estaba; y cuando se me acercó, me postré rostro por tierra, despavorido. Mas él me dijo: «Sábete, hijo de hombre, que la visión es para el tiempo del fin.»
 
 [18](#c8-v18){:#c8-v18} Al hablarme quedé sin sentido, rostro en tierra, pero él me tocó, y me hizo estar en pie en el lugar donde yo estaba.
 
-[19](#c8-v19){:#c8-v19} Y me dijo: "He aquí que te voy a mostrar lo que sucederá al fin de la indignación; porque (esta visión) es para el tiempo del fin:
+[19](#c8-v19){:#c8-v19} Y me dijo: «He aquí que te voy a mostrar lo que sucederá al fin de la indignación; porque (esta visión) es para el tiempo del fin:
 
 [20](#c8-v20){:#c8-v20} El carnero que viste, que tenía dos cuernos, estos son los reyes de Media y de Persia;
 
@@ -743,7 +744,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [25](#c8-v25){:#c8-v25} [[136]](#n-136){:#rn-136} Su astucia hará prosperar el fraude en su mano y se ensoberbecerá su corazón; destruirá a muchos que viven en paz y se levantará contra el Príncipe de los príncipes; pero será quebrado sin mano (humana).
 
-[26](#c8-v26){:#c8-v26} Y la visión de las tardes y de las mañanas de la cual hablé es verdadera; pero sella tú la visión, porque es para muchos días."
+[26](#c8-v26){:#c8-v26} Y la visión de las tardes y de las mañanas de la cual hablé es verdadera; pero sella tú la visión, porque es para muchos días.»
 
 [27](#c8-v27){:#c8-v27} Yo, Daniel, perdí las fuerzas y estuve enfermo por algunos días. Después me levanté y me ocupé de los asuntos del rey. Quedé asombrado de la visión, mas no hubo quien la entendiese.
 
@@ -757,7 +758,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [3](#c9-v3){:#c9-v3} [[139]](#n-139){:#rn-139} Y volví mi rostro hacia el Señor Dios, para rogarle con oraciones y súplicas, con ayuno y saco y ceniza.
 
-[4](#c9-v4){:#c9-v4} Rogando a Yahvé, mi Dios, hice confesión y dije: "¡Ay! Señor, Dios grande y temible, que guardas la alianza y la misericordia con los que te aman y observan tus mandamientos.
+[4](#c9-v4){:#c9-v4} Rogando a Yahvé, mi Dios, hice confesión y dije: «¡Ay! Señor, Dios grande y temible, que guardas la alianza y la misericordia con los que te aman y observan tus mandamientos.
 
 [5](#c9-v5){:#c9-v5} Hemos pecado, hemos cometido iniquidad, hemos sido malos y rebeldes y nos hemos apartado de tus mandamientos y de tus leyes.
 
@@ -787,7 +788,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [18](#c9-v18){:#c9-v18} [[144]](#n-144){:#rn-144} Inclina Dios mío, tu oído y escucha; abre tus ojos y mira nuestras ruinas, y a la ciudad, sobre la cual ha sido invocado tu Nombre pues derramamos nuestros ruegos ante tu rostro, confiando, no en nuestras justicias, sino en tus grandes misericordias.
 
-[19](#c9-v19){:#c9-v19} ¡Escucha, Señor! ¡Perdona, Señor! ¡Presta atención, Señor, y obra! ¡No tardes, por amor de Ti, oh Dios mío!, porque sobre tu ciudad y tu pueblo ha sido invocado tu Nombre."
+[19](#c9-v19){:#c9-v19} ¡Escucha, Señor! ¡Perdona, Señor! ¡Presta atención, Señor, y obra! ¡No tardes, por amor de Ti, oh Dios mío!, porque sobre tu ciudad y tu pueblo ha sido invocado tu Nombre.»
 
 #### Profecía de las setenta semanas
 
@@ -795,7 +796,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [21](#c9-v21){:#c9-v21} [[146]](#n-146){:#rn-146} y mientras aún estaba profiriendo mis plegarias, aquel varón Gabriel, a quien yo había visto antes en la visión, se me acercó en rápido vuelo, a la hora de la oblación de la tarde,
 
-[22](#c9-v22){:#c9-v22} y me instruyó, y habló conmigo diciendo: "Daniel, he venido ahora para darte inteligencia.
+[22](#c9-v22){:#c9-v22} y me instruyó, y habló conmigo diciendo: «Daniel, he venido ahora para darte inteligencia.
 
 [23](#c9-v23){:#c9-v23} [[147]](#n-147){:#rn-147} Cuando te pusiste a orar salió una orden, y he venido a anunciarla; porque eres muy amado. Fija, pues, tu atención sobre la palabra y entiende la visión.
 
@@ -805,7 +806,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [26](#c9-v26){:#c9-v26} [[150]](#n-150){:#rn-150} Al cabo de las sesenta y dos semanas será muerto el Ungido y no será más. Y el pueblo de un príncipe que ha de venir, destruirá la ciudad y el Santuario; mas su fin será en una inundación; y hasta el fin habrá guerra (y) las devastaciones decretadas.
 
-[27](#c9-v27){:#c9-v27} [[151]](#n-151){:#rn-151} Él confirmará el pacto con muchos durante una semana, y a la mitad de la semana hará cesar el sacrificio y la oblación; y sobre el Santuario vendrá una abominación desoladora, hasta que la consumación decretada se derrame sobre el devastador."
+[27](#c9-v27){:#c9-v27} [[151]](#n-151){:#rn-151} Él confirmará el pacto con muchos durante una semana, y a la mitad de la semana hará cesar el sacrificio y la oblación; y sobre el Santuario vendrá una abominación desoladora, hasta que la consumación decretada se derrame sobre el devastador.»
 
 ### Daniel [10](#c10) {#c10}
 
@@ -833,43 +834,43 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [10](#c10-v10){:#c10-v10} Mas he aquí que una mano me tocó y me sacudió, poniéndome sobre mis rodillas y las palmas de mis manos.
 
-[11](#c10-v11){:#c10-v11} [[154]](#n-154){:#rn-154} Y me dijo: "Daniel, varón muy amado, atiende a las palabras que te voy a decir, y ponte en pie en el lugar donde estás, pues ahora he sido enviado a ti." Y así que me hubo dicho esto, me puse en pie temblando.
+[11](#c10-v11){:#c10-v11} [[154]](#n-154){:#rn-154} Y me dijo: «Daniel, varón muy amado, atiende a las palabras que te voy a decir, y ponte en pie en el lugar donde estás, pues ahora he sido enviado a ti.» Y así que me hubo dicho esto, me puse en pie temblando.
 
-[12](#c10-v12){:#c10-v12} [[155]](#n-155){:#rn-155} Mas él me dijo: "No temas, Daniel; pues desde el primer día en que te propusiste alcanzar la inteligencia y humillarte ante tu Dios, fueron escuchadas tus palabras, y yo he venido por causa de tus palabras.
+[12](#c10-v12){:#c10-v12} [[155]](#n-155){:#rn-155} Mas él me dijo: «No temas, Daniel; pues desde el primer día en que te propusiste alcanzar la inteligencia y humillarte ante tu Dios, fueron escuchadas tus palabras, y yo he venido por causa de tus palabras.
 
 [13](#c10-v13){:#c10-v13} [[156]](#n-156){:#rn-156} El príncipe del reino de Persia se me opuso veinte y un días; mas he aquí que Miguel, uno de los príncipes más altos, vino a ayudarme, y yo me quedé allí al lado de los reyes de Persia.
 
-[14](#c10-v14){:#c10-v14} He venido a enseñarte lo que ha de suceder a tu pueblo al fin de los tiempos; pues la visión es para tiempos (remotos)."
+[14](#c10-v14){:#c10-v14} He venido a enseñarte lo que ha de suceder a tu pueblo al fin de los tiempos; pues la visión es para tiempos (remotos).»
 
 [15](#c10-v15){:#c10-v15} Mientras me dirigía estas palabras, incliné mi rostro hacia el suelo y guardé silencio.
 
-[16](#c10-v16){:#c10-v16} [[157]](#n-157){:#rn-157} Y he aquí que uno que parecía hijo de hombre me tocó los labios; entonces abrí mi boca y hablé, y dije al que estaba delante de mí: "Señor mío, al ver esta visión me sobrecogieron angustias y perdí la fuerza.
+[16](#c10-v16){:#c10-v16} [[157]](#n-157){:#rn-157} Y he aquí que uno que parecía hijo de hombre me tocó los labios; entonces abrí mi boca y hablé, y dije al que estaba delante de mí: «Señor mío, al ver esta visión me sobrecogieron angustias y perdí la fuerza.
 
-[17](#c10-v17){:#c10-v17} ¿Cómo podrá el siervo de este mi señor hablar con este señor mío? Pues al presente no tengo fuerza alguna y hasta el aliento me falta."
+[17](#c10-v17){:#c10-v17} ¿Cómo podrá el siervo de este mi señor hablar con este señor mío? Pues al presente no tengo fuerza alguna y hasta el aliento me falta.»
 
 [18](#c10-v18){:#c10-v18} Entonces aquel que tenía semejanza de hombre volvió a tocarme y me dio fuerza,
 
-[19](#c10-v19){:#c10-v19} diciendo: "¡No temas, oh varón muy amado! ¡La paz sea contigo! ¡Ánimo, ánimo!" Y mientras me estaba hablando, recobré las fuerzas, y dije: "Habla, señor mío, pues me has dado fuerzas."
+[19](#c10-v19){:#c10-v19} diciendo: «¡No temas, oh varón muy amado! ¡La paz sea contigo! ¡Ánimo, ánimo!» Y mientras me estaba hablando, recobré las fuerzas, y dije: «Habla, señor mío, pues me has dado fuerzas.»
 
-[20](#c10-v20){:#c10-v20} [[158]](#n-158){:#rn-158} Y dijo: "¿Sabes por qué he venido a ti? Ahora volveré para luchar con el príncipe de Persia; pues al salir yo, he aquí que vino el príncipe de Grecia.
+[20](#c10-v20){:#c10-v20} [[158]](#n-158){:#rn-158} Y dijo: «¿Sabes por qué he venido a ti? Ahora volveré para luchar con el príncipe de Persia; pues al salir yo, he aquí que vino el príncipe de Grecia.
 
-[21](#c10-v21){:#c10-v21} [[159]](#n-159){:#rn-159} Pero te anunciaré lo que está escrito en la Escritura de la verdad; y no hay nadie que me ayude contra ellos, sino Miguel vuestro príncipe."
+[21](#c10-v21){:#c10-v21} [[159]](#n-159){:#rn-159} Pero te anunciaré lo que está escrito en la Escritura de la verdad; y no hay nadie que me ayude contra ellos, sino Miguel vuestro príncipe.»
 
 ### Daniel [11](#c11) {#c11}
 
 #### El rey persa vencido por el griego
 
-[1](#c11-v1){:#c11-v1} [[160]](#n-160){:#rn-160} El año primero de Darío el medo, estuve yo allí para ayudarle y fortalecerle.
+[1](#c11-v1){:#c11-v1} [[160]](#n-160){:#rn-160} «El año primero de Darío el medo, estuve yo allí para ayudarle y fortalecerle.
 
 [2](#c11-v2){:#c11-v2} [[161]](#n-161){:#rn-161} Y ahora voy a anunciarte la verdad: He aquí que habrá todavía tres reyes en Persia, y el cuarto será mucho más rico que todos los (otros), y cuando se haya hecho fuerte por medio de sus riquezas, incitará a todos contra el reino de Grecia.
 
 [3](#c11-v3){:#c11-v3} [[162]](#n-162){:#rn-162} Pero se levantará un rey poderoso, que reinará con gran poder y hará cuanto quiera.
 
-[4](#c11-v4){:#c11-v4} Mas apenas establecido, será deshecho su reino y repartido hacia los cuatro vientos del cielo, pero no entre sus descendientes, y no con el poder que él había tenido; porque quedará hecho trozos su reino, que pasará a otros y no a aquellos.
+[4](#c11-v4){:#c11-v4} Mas apenas establecido, será deshecho su reino y repartido hacia los cuatro vientos del cielo, pero no entre sus descendientes, y no con el poder que él había tenido; porque quedará hecho trozos su reino, que pasará a otros y no a aquellos.»
 
 #### Guerra entre los reyes del mediodía y del norte
 
-[5](#c11-v5){:#c11-v5} [[163]](#n-163){:#rn-163} El rey del mediodía vendrá a ser fuerte, y también uno de sus príncipes, el cual se hará más fuerte que él y dominará, y su dominio será dominio grande.
+[5](#c11-v5){:#c11-v5} [[163]](#n-163){:#rn-163} «El rey del mediodía vendrá a ser fuerte, y también uno de sus príncipes, el cual se hará más fuerte que él y dominará, y su dominio será dominio grande.
 
 [6](#c11-v6){:#c11-v6} [[164]](#n-164){:#rn-164} Al cabo de años se concertará una alianza, y la hija del rey del mediodía vendrá al rey del norte para establecer la paz, pero ella no podrá conservar la fuerza del brazo, porque ya no existirá su estirpe; pues será entregada ella, y los que la trajeron, y el padre, y el que en otros tiempos había sido su sostén.
 
@@ -899,11 +900,11 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [19](#c11-v19){:#c11-v19} Luego se dirigirá hacia las fortalezas de su propio país; pero tropezará y caerá, y no será más hallado.
 
-[20](#c11-v20){:#c11-v20} [[170]](#n-170){:#rn-170} El que le sucederá enviará un exactor a la (tierra) más magnífica del reino; pero al cabo de pocos días será quebrantado, no en contienda ni en batalla.
+[20](#c11-v20){:#c11-v20} [[170]](#n-170){:#rn-170} El que le sucederá enviará un exactor a la (tierra) más magnífica del reino; pero al cabo de pocos días será quebrantado, no en contienda ni en batalla.»
 
 #### Un rey impío en el trono
 
-[21](#c11-v21){:#c11-v21} [[171]](#n-171){:#rn-171} Surgirá en su lugar un hombre despreciable sin que se le haya dado la dignidad real. Vendrá secretamente y se apoderará del reino por medio de intrigas.
+[21](#c11-v21){:#c11-v21} [[171]](#n-171){:#rn-171} «Surgirá en su lugar un hombre despreciable sin que se le haya dado la dignidad real. Vendrá secretamente y se apoderará del reino por medio de intrigas.
 
 [22](#c11-v22){:#c11-v22} Delante de él quedarán sumergidos ejércitos (tan numerosos como) una inundación, y serán deshechos, así como también el príncipe de la Alianza.
 
@@ -921,11 +922,11 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [29](#c11-v29){:#c11-v29} [[175]](#n-175){:#rn-175} Al tiempo determinado se dirigirá de nuevo contra el mediodía, pero esta última vez no pasará lo que en la primera.
 
-[30](#c11-v30){:#c11-v30} [[176]](#n-176){:#rn-176} Pues vendrán contra él las naves de Kitim; y descorazonado regresará; se irritará contra la Alianza santa; obrará y volverá, y se entenderá con los que abandonaron la Alianza santa.
+[30](#c11-v30){:#c11-v30} [[176]](#n-176){:#rn-176} Pues vendrán contra él las naves de Kitim; y descorazonado regresará; se irritará contra la Alianza santa; obrará y volverá, y se entenderá con los que abandonaron la Alianza santa.»
 
 #### Opresión de los judíos y de su religión
 
-[31](#c11-v31){:#c11-v31} [[177]](#n-177){:#rn-177} Sus tropas vendrán y profanarán el Santuario de la Fortaleza; harán cesar el sacrificio perpetuo y pondrán allí la abominación del devastador.
+[31](#c11-v31){:#c11-v31} [[177]](#n-177){:#rn-177} «Sus tropas vendrán y profanarán el Santuario de la Fortaleza; harán cesar el sacrificio perpetuo y pondrán allí la abominación del devastador.
 
 [32](#c11-v32){:#c11-v32} [[178]](#n-178){:#rn-178} Por medio de halagos inducirá a la apostasía a los violadores de la Alianza, pero el pueblo que conoce a su Dios se mantendrá firme y activo.
 
@@ -953,29 +954,29 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [44](#c11-v44){:#c11-v44} [[184]](#n-184){:#rn-184} Pero le turbarán rumores desde el oriente y el norte; y saldrá con gran furor para destruir y exterminar a muchos.
 
-[45](#c11-v45){:#c11-v45} [[185]](#n-185){:#rn-185} Y plantará los pabellones reales entre los mares contra el glorioso y santo monte. Luego llegará a su fin; y no habrá quien le preste socorro.
+[45](#c11-v45){:#c11-v45} [[185]](#n-185){:#rn-185} Y plantará los pabellones reales entre los mares contra el glorioso y santo monte. Luego llegará a su fin; y no habrá quien le preste socorro.»
 
 ### Daniel [12](#c12) {#c12}
 
 #### Liberación del pueblo de Dios
 
-[1](#c12-v1){:#c12-v1} [[186]](#n-186){:#rn-186} En aquel tiempo se alzará Miguel, el gran príncipe y defensor de los hijos de tu pueblo; y vendrá tiempo de angustia cual nunca ha habido desde que existen naciones hasta ese tiempo. En ese tiempo será librado tu pueblo, todo aquel que se hallare inscrito en el libro.
+[1](#c12-v1){:#c12-v1} [[186]](#n-186){:#rn-186} «En aquel tiempo se alzará Miguel, el gran príncipe y defensor de los hijos de tu pueblo; y vendrá tiempo de angustia cual nunca ha habido desde que existen naciones hasta ese tiempo. En ese tiempo será librado tu pueblo, todo aquel que se hallare inscrito en el libro.
 
 [2](#c12-v2){:#c12-v2} [[187]](#n-187){:#rn-187} También muchos de los que duermen en el polvo de la tierra se despertarán, unos para vida eterna, otros para ignominia y vergüenza eterna.
 
 [3](#c12-v3){:#c12-v3} [[188]](#n-188){:#rn-188} Entonces los sabios brillarán como el resplandor del firmamento, y los que condujeron a muchos a la justicia, como las estrellas por toda la eternidad.
 
-[4](#c12-v4){:#c12-v4} [[189]](#n-189){:#rn-189} Tú, Daniel, encierra estas palabras, y sella el libro hasta el tiempo del fin. Muchos buscarán y se acrecentará el conocimiento."
+[4](#c12-v4){:#c12-v4} [[189]](#n-189){:#rn-189} Tú, Daniel, encierra estas palabras, y sella el libro hasta el tiempo del fin. Muchos buscarán y se acrecentará el conocimiento.»
 
 [5](#c12-v5){:#c12-v5} Y yo, Daniel, miré y vi otros dos que estaban en pie el uno aquende el río y el otro allende el río.
 
-[6](#c12-v6){:#c12-v6} [[190]](#n-190){:#rn-190} Y dijo (uno de los dos) al varón vestido de lino que estaba sobre las aguas del río: "¿Cuándo será el cumplimiento de estas maravillas?"
+[6](#c12-v6){:#c12-v6} [[190]](#n-190){:#rn-190} Y dijo (uno de los dos) al varón vestido de lino que estaba sobre las aguas del río: «¿Cuándo será el cumplimiento de estas maravillas?»
 
 [7](#c12-v7){:#c12-v7} [[191]](#n-191){:#rn-191} Y oí al varón vestido de lino, que estaba sobre las aguas del río, cuando levantando su diestra y su izquierda hacia el cielo juró por Aquel que vive eternamente que eso será dentro de un tiempo, (dos) tiempos y la mitad (de un tiempo) y que todas estas cosas se cumplirán cuando el poder del pueblo santo sea completamente destruido.
 
-[8](#c12-v8){:#c12-v8} [[192]](#n-192){:#rn-192} Yo oí, pero no comprendí. Dije, "Señor mío: ¿cuál será el fin de estas cosas?"
+[8](#c12-v8){:#c12-v8} [[192]](#n-192){:#rn-192} Yo oí, pero no comprendí. Dije: «Señor mío: ¿cuál será el fin de estas cosas?»
 
-[9](#c12-v9){:#c12-v9} [[193]](#n-193){:#rn-193} Y él respondió: "Anda, Daniel; pues estas palabras están cerradas y selladas hasta el tiempo del fin.
+[9](#c12-v9){:#c12-v9} [[193]](#n-193){:#rn-193} Y él respondió: «Anda, Daniel; pues estas palabras están cerradas y selladas hasta el tiempo del fin.
 
 [10](#c12-v10){:#c12-v10} [[194]](#n-194){:#rn-194} Muchos serán purificados y blanqueados y acrisolados; pero los malos seguirán haciendo el mal, y ninguno de los malvados entenderá; mas los sabios entenderán.
 
@@ -983,7 +984,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [12](#c12-v12){:#c12-v12} [[195]](#n-195){:#rn-195} ¡Bienaventurado el que espere, y llegue a mil trescientos treinta y cinco días!
 
-[13](#c12-v13){:#c12-v13} Tú, empero, marcha hacia tu fin y descansa, y te levantarás para (recibir) tu herencia al fin de los días."
+[13](#c12-v13){:#c12-v13} Tú, empero, marcha hacia tu fin y descansa, y te levantarás para (recibir) tu herencia al fin de los días.»
 
 ## III. Apéndices
 
@@ -999,7 +1000,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [4](#c13-v4){:#c13-v4} Era Joaquín muy rico, y tenía un jardín junto a su casa, al cual concurrían muchos judíos, por ser él el más ilustre de todos.
 
-[5](#c13-v5){:#c13-v5} [[197]](#n-197){:#rn-197} Aquel año fueron elegidos jueces del pueblo, dos ancianos de aquellos de quienes dijo el Señor: "Salió la iniquidad de Babilonia, de los ancianos jueces, los cuales parecían gobernar al pueblo."
+[5](#c13-v5){:#c13-v5} [[197]](#n-197){:#rn-197} Aquel año fueron elegidos jueces del pueblo, dos ancianos de aquellos de quienes dijo el Señor: «Salió la iniquidad de Babilonia, de los ancianos jueces, los cuales parecían gobernar al pueblo.»
 
 [6](#c13-v6){:#c13-v6} Frecuentaban estos la casa de Joaquín, donde acudían a ellos todos cuantos tenían algún pleito.
 
@@ -1015,7 +1016,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [12](#c13-v12){:#c13-v12} aunque buscaban cada día con mayor solicitud el poderla ver.
 
-[13](#c13-v13){:#c13-v13} [[198]](#n-198){:#rn-198} Y dijo el uno al otro: "Vámonos a casa, que ya es hora de comer." Salieron y se separaron el uno del otro.
+[13](#c13-v13){:#c13-v13} [[198]](#n-198){:#rn-198} Y dijo el uno al otro: «Vámonos a casa, que ya es hora de comer.» Salieron y se separaron el uno del otro.
 
 [14](#c13-v14){:#c13-v14} Pero volviendo cada cual otra vez, se encontraron en un mismo lugar; y preguntándose mutuamente el motivo, confesaron su pasión, y entonces, de común acuerdo, determinaron el tiempo en que podrían hallarla sola.
 
@@ -1023,19 +1024,19 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [16](#c13-v16){:#c13-v16} No había en él nadie, sino los dos viejos, que se habían escondido y la estaban acechando.
 
-[17](#c13-v17){:#c13-v17} Mandó ella a las doncellas: "Traedme el aceite y los perfumes, y cerrad las puertas del jardín; pues quiero bañarme."
+[17](#c13-v17){:#c13-v17} Mandó ella a las doncellas: «Traedme el aceite y los perfumes, y cerrad las puertas del jardín; pues quiero bañarme.»
 
 [18](#c13-v18){:#c13-v18} Hicieron como dijo, y cerraron las puertas del jardín; y salieron por una puerta excusada para traer lo que había pedido, sin saber que los viejos estaban dentro escondidos.
 
 [19](#c13-v19){:#c13-v19} Apenas se hubieron ido las criadas, se levantaron los dos viejos y corriendo hacia ella le dijeron:
 
-[20](#c13-v20){:#c13-v20} "Mira, las puertas del jardín están cerradas, nadie nos ve, y nosotros estamos enamorados de ti. Condesciende con nosotros, y cede a nuestros deseos.
+[20](#c13-v20){:#c13-v20} «Mira, las puertas del jardín están cerradas, nadie nos ve, y nosotros estamos enamorados de ti. Condesciende con nosotros, y cede a nuestros deseos.
 
-[21](#c13-v21){:#c13-v21} Porque si te resistieres a ello, testificaremos contra ti, diciendo que estaba contigo un joven, y que por eso despachaste a las doncellas."
+[21](#c13-v21){:#c13-v21} Porque si te resistieres a ello, testificaremos contra ti, diciendo que estaba contigo un joven, y que por eso despachaste a las doncellas.»
 
-[22](#c13-v22){:#c13-v22} [[199]](#n-199){:#rn-199} Entonces Susana prorrumpió en gemidos y dijo: "Estrechada me hallo por todos lados; porque si hago eso que queréis, muerte es para mí; y si no lo hago, no me libraré de vuestras manos.
+[22](#c13-v22){:#c13-v22} [[199]](#n-199){:#rn-199} Entonces Susana prorrumpió en gemidos y dijo: «Estrechada me hallo por todos lados; porque si hago eso que queréis, muerte es para mí; y si no lo hago, no me libraré de vuestras manos.
 
-[23](#c13-v23){:#c13-v23} Pero mejor es para mí caer en vuestras manos, sin haber hecho tal cosa, que pecar en la presencia del Señor."
+[23](#c13-v23){:#c13-v23} Pero mejor es para mí caer en vuestras manos, sin haber hecho tal cosa, que pecar en la presencia del Señor.»
 
 [24](#c13-v24){:#c13-v24} Y dio Susana un fuerte grito; pero gritaron también los viejos contra ella.
 
@@ -1044,12 +1045,12 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 [26](#c13-v26){:#c13-v26} Cuando los criados de la casa oyeron el grito en el jardín, corrieron allá por la puerta excusada para ver lo que era.
 
 [27](#c13-v27){:#c13-v27} Mas después que los viejos hubieron hablado, quedaron los criados sumamente avergonzados; porque nunca tal cosa se había dicho de Susana.
-#### Susana es condenada a muerte
 
+#### Susana es condenada a muerte
 
 [28](#c13-v28){:#c13-v28} Al día siguiente concurrió el pueblo a la casa de Joaquín, su marido, y vinieron también los dos viejos, llenos de perversos pensamientos contra Susana, para condenarla a muerte.
 
-[29](#c13-v29){:#c13-v29} Dijeron en presencia del pueblo: "Envíese a llamar a Susana, hija de Helcías, mujer de Joaquín." Y enviaron por ella.
+[29](#c13-v29){:#c13-v29} Dijeron en presencia del pueblo: «Envíese a llamar a Susana, hija de Helcías, mujer de Joaquín.» Y enviaron por ella.
 
 [30](#c13-v30){:#c13-v30} La cual vino con sus padres e hijos y todos sus parientes.
 
@@ -1063,7 +1064,7 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [35](#c13-v35){:#c13-v35} Ella, empero, llorando alzó sus ojos al cielo; porque su corazón estaba lleno de confianza en el Señor.
 
-[36](#c13-v36){:#c13-v36} Y dijeron los viejos: "Estándonos paseando solos en el jardín, entró esta con dos criadas; y cerró las puertas del jardín, enviando fuera a las criadas.
+[36](#c13-v36){:#c13-v36} Y dijeron los viejos: «Estándonos paseando solos en el jardín, entró esta con dos criadas; y cerró las puertas del jardín, enviando fuera a las criadas.
 
 [37](#c13-v37){:#c13-v37} Entonces se le acercó un joven que estaba escondido, y pecó con ella.
 
@@ -1071,47 +1072,47 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [39](#c13-v39){:#c13-v39} Mas al joven no pudimos prenderlo, porque era más fuerte que nosotros, y abriendo la puerta se escapó corriendo,
 
-[40](#c13-v40){:#c13-v40} pero habiendo apresado a esta, la preguntamos quién era el joven, y no nos lo quiso manifestar. De esto somos testigos."
+[40](#c13-v40){:#c13-v40} pero habiendo apresado a esta, la preguntamos quién era el joven, y no nos lo quiso manifestar. De esto somos testigos.»
 
 [41](#c13-v41){:#c13-v41} La asamblea les dio crédito, como a ancianos que eran y jueces del pueblo, y la condenaron a muerte.
 
-[42](#c13-v42){:#c13-v42} [[201]](#n-201){:#rn-201} Entonces Susana clamó en alta voz, y dijo: "Oh Dios eterno, que conoces las cosas ocultas, que sabes todas las cosas aun antes que sucedan,
+[42](#c13-v42){:#c13-v42} [[201]](#n-201){:#rn-201} Entonces Susana clamó en alta voz, y dijo: «Oh Dios eterno, que conoces las cosas ocultas, que sabes todas las cosas aun antes que sucedan,
 
-[43](#c13-v43){:#c13-v43} Tú sabes que estos han levantado contra mí testimonio falso; y he aquí que yo muero sin haber hecho nada de lo que estos han inventado maliciosamente contra mí."
+[43](#c13-v43){:#c13-v43} Tú sabes que estos han levantado contra mí testimonio falso; y he aquí que yo muero sin haber hecho nada de lo que estos han inventado maliciosamente contra mí.»
+
 #### Daniel comprueba la inocencia de Susana
-
 
 [44](#c13-v44){:#c13-v44} Y oyó el Señor su oración.
 
 [45](#c13-v45){:#c13-v45} [[202]](#n-202){:#rn-202} Pues cuando la conducían al suplicio, el Señor suscitó el santo espíritu de un tierno jovencito por nombre Daniel;
 
-[46](#c13-v46){:#c13-v46} el cual, a grandes voces, comenzó a gritar: "Inocente soy yo de la sangre de esta."
+[46](#c13-v46){:#c13-v46} el cual, a grandes voces, comenzó a gritar: «Inocente soy yo de la sangre de esta.»
 
-[47](#c13-v47){:#c13-v47} Y volviéndose hacia él toda la gente, le dijeron: "¿Qué es lo que dices?"
+[47](#c13-v47){:#c13-v47} Y volviéndose hacia él toda la gente, le dijeron: «¿Qué es lo que dices?»
 
-[48](#c13-v48){:#c13-v48} Mas él, estando de pie en medio de ellos, dijo: "¿Tan insensatos sois, oh hijos de Israel, que sin examinar y sin conocer la verdad, habéis condenado a una hija de Israel?
+[48](#c13-v48){:#c13-v48} Mas él, estando de pie en medio de ellos, dijo: «¿Tan insensatos sois, oh hijos de Israel, que sin examinar y sin conocer la verdad, habéis condenado a una hija de Israel?
 
-[49](#c13-v49){:#c13-v49} Volved al tribunal, porque estos han dicho falso testimonio contra ella."
+[49](#c13-v49){:#c13-v49} Volved al tribunal, porque estos han dicho falso testimonio contra ella.»
 
-[50](#c13-v50){:#c13-v50} Volvió el pueblo, a toda prisa; y los ancianos le dijeron (a Daniel): "Ven, y siéntate en medio de nosotros e instrúyenos; ya que te ha concedido Dios la honra de ancianía"
+[50](#c13-v50){:#c13-v50} Volvió el pueblo, a toda prisa; y los ancianos le dijeron (a Daniel): «Ven, y siéntate en medio de nosotros e instrúyenos; ya que te ha concedido Dios la honra de ancianía»
 
-[51](#c13-v51){:#c13-v51} Y dijo Daniel al pueblo: "Separad a estos lejos el uno del otro, y yo los examinaré."
+[51](#c13-v51){:#c13-v51} Y dijo Daniel al pueblo: «Separad a estos lejos el uno del otro, y yo los examinaré.»
 
-[52](#c13-v52){:#c13-v52} [[203]](#n-203){:#rn-203} Cuando estuvieron separados el uno del otro, llamó a uno de ellos y le dijo: "Envejecido en la maldad, ahora caerán sobre ti los pecados que has cometido antes,
+[52](#c13-v52){:#c13-v52} [[203]](#n-203){:#rn-203} Cuando estuvieron separados el uno del otro, llamó a uno de ellos y le dijo: «Envejecido en la maldad, ahora caerán sobre ti los pecados que has cometido antes,
 
 [53](#c13-v53){:#c13-v53} cuando pronunciabas injustas sentencias, oprimías a los inocentes y librabas a los malvados, a pesar de que el Señor tiene dicho:
 
-[54](#c13-v54){:#c13-v54} *No harás morir al inocente y justo.* Ahora bien, si la viste, di: ¿Bajo qué árbol los viste confabular entre sí?" Respondió él: "Debajo de un lentisco."
+[54](#c13-v54){:#c13-v54} "No harás morir al inocente y justo." Ahora bien, si la viste, di: ¿Bajo qué árbol los viste confabular entre sí?» Respondió él: «Debajo de un lentisco.»
 
-[55](#c13-v55){:#c13-v55} A lo cual replicó Daniel: "Ciertamente que contra tu cabeza has mentido; pues he aquí que el ángel del Señor, por sentencia que ha recibido de Él, te partirá por medio."
+[55](#c13-v55){:#c13-v55} A lo cual replicó Daniel: «Ciertamente que contra tu cabeza has mentido; pues he aquí que el ángel del Señor, por sentencia que ha recibido de Él, te partirá por medio.»
 
-[56](#c13-v56){:#c13-v56} [[204]](#n-204){:#rn-204} Y habiendo hecho retirar a este, hizo venir al otro, y le dijo: "Raza de Canaán, y no de Judá, la hermosura te fascinó, y la pasión pervirtió tu corazón.
+[56](#c13-v56){:#c13-v56} [[204]](#n-204){:#rn-204} Y habiendo hecho retirar a este, hizo venir al otro, y le dijo: «Raza de Canaán, y no de Judá, la hermosura te fascinó, y la pasión pervirtió tu corazón.
 
 [57](#c13-v57){:#c13-v57} [[205]](#n-205){:#rn-205} Así os portabais con las hijas de Israel, las cuales por miedo condescendían con vosotros; pero esta hija de Judá no sufrió vuestra maldad.
 
-[58](#c13-v58){:#c13-v58} Ahora bien, dime: ¿Bajo qué árbol los sorprendiste tratando entre sí?" Él respondió: "Debajo de una encina."
+[58](#c13-v58){:#c13-v58} Ahora bien, dime: ¿Bajo qué árbol los sorprendiste tratando entre sí?» Él respondió: «Debajo de una encina.»
 
-[59](#c13-v59){:#c13-v59} A lo que repuso Daniel: "Ciertamente que también tú mientes contra tu cabeza; pues el ángel del Señor está esperando con la espada en la mano para partirte por medio y así exterminaros."
+[59](#c13-v59){:#c13-v59} A lo que repuso Daniel: «Ciertamente que también tú mientes contra tu cabeza; pues el ángel del Señor está esperando con la espada en la mano para partirte por medio y así exterminaros.»
 
 [60](#c13-v60){:#c13-v60} Entonces toda la asamblea exclamó en alta voz, bendiciendo a Dios que salva a los que ponen en Él su esperanza.
 
@@ -1133,23 +1134,23 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [2](#c14-v2){:#c14-v2} [[209]](#n-209){:#rn-209} Había a la sazón en Babilonia un ídolo llamado Bel; y se gastaban para él cada día doce ambas de flor de harina, cuarenta ovejas y seis cántaros de vino.
 
-[3](#c14-v3){:#c14-v3} [[210]](#n-210){:#rn-210} Le tributaba culto también el rey e iba todos los días a adorarlo. Daniel, empero, adoraba a su Dios. Y el rey le dijo: "¿Por qué no adoras a Bel?"
+[3](#c14-v3){:#c14-v3} [[210]](#n-210){:#rn-210} Le tributaba culto también el rey e iba todos los días a adorarlo. Daniel, empero, adoraba a su Dios. Y el rey le dijo: «¿Por qué no adoras a Bel?»
 
-[4](#c14-v4){:#c14-v4} A lo que respondió, diciendo: "Porque no adoro a los ídolos hechos de mano, sino al Dios vivo, que creó el cielo y la tierra, y es Señor de toda carne."
+[4](#c14-v4){:#c14-v4} A lo que respondió, diciendo: «Porque no adoro a los ídolos hechos de mano, sino al Dios vivo, que creó el cielo y la tierra, y es Señor de toda carne.»
 
-[5](#c14-v5){:#c14-v5} El rey le replicó: "¿Crees tú acaso que Bel no es un dios vivo? ¿No ves cuánto come y bebe cada día?"
+[5](#c14-v5){:#c14-v5} El rey le replicó: «¿Crees tú acaso que Bel no es un dios vivo? ¿No ves cuánto come y bebe cada día?»
 
-[6](#c14-v6){:#c14-v6} A esto contestó Daniel riendo: "No te dejes engañar, oh rey; porque él por dentro es de barro, y por fuera de bronce, y nunca come."
+[6](#c14-v6){:#c14-v6} A esto contestó Daniel riendo: «No te dejes engañar, oh rey; porque él por dentro es de barro, y por fuera de bronce, y nunca come.»
 
-[7](#c14-v7){:#c14-v7} Montó el rey en cólera, y llamó a los sacerdotes del ídolo, a los cuales dijo: "Si no me decís quién come todo eso que se gasta, moriréis.
+[7](#c14-v7){:#c14-v7} Montó el rey en cólera, y llamó a los sacerdotes del ídolo, a los cuales dijo: «Si no me decís quién come todo eso que se gasta, moriréis.
 
-[8](#c14-v8){:#c14-v8} Pero si me hacéis ver que todo eso lo come Bel, morirá Daniel por haber blasfemado contra Bel." Y dijo Daniel al rey: "Sea como has dicho."
+[8](#c14-v8){:#c14-v8} Pero si me hacéis ver que todo eso lo come Bel, morirá Daniel por haber blasfemado contra Bel.» Y dijo Daniel al rey: «Sea como has dicho.»
 
 [9](#c14-v9){:#c14-v9} Eran los sacerdotes de Bel setenta, sin contar las mujeres, los párvulos y los hijos. Fue el rey con Daniel al templo de Bel,
 
-[10](#c14-v10){:#c14-v10} y dijeron los sacerdotes de Bel: "He aquí que nosotros nos salimos fuera; y tú, oh rey, haz poner las viandas y servir el vino, después cierra la puerta, y séllala con tu anillo.
+[10](#c14-v10){:#c14-v10} y dijeron los sacerdotes de Bel: «He aquí que nosotros nos salimos fuera; y tú, oh rey, haz poner las viandas y servir el vino, después cierra la puerta, y séllala con tu anillo.
 
-[11](#c14-v11){:#c14-v11} Y si mañana temprano, al entrar no hallares que todo se lo ha comido Bel, moriremos nosotros sin remedio, o morirá Daniel, que ha mentido contra nosotros."
+[11](#c14-v11){:#c14-v11} Y si mañana temprano, al entrar no hallares que todo se lo ha comido Bel, moriremos nosotros sin remedio, o morirá Daniel, que ha mentido contra nosotros.»
 
 [12](#c14-v12){:#c14-v12} Ellos no tenían miedo, pues habían hecho debajo de la mesa una comunicación secreta, y siempre entraban por allí y se lo comían (todo).
 
@@ -1161,13 +1162,13 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [15](#c14-v15){:#c14-v15} Se levantó el rey muy de mañana, y del mismo modo Daniel;
 
-[16](#c14-v16){:#c14-v16} y preguntó el rey: "¿Están intactos los sellos, Daniel?" Respondió este: "Intactos están, oh rey."
+[16](#c14-v16){:#c14-v16} y preguntó el rey: «¿Están intactos los sellos, Daniel?» Respondió este: «Intactos están, oh rey.»
 
-[17](#c14-v17){:#c14-v17} Abrió luego el rey la puerta y miró a la mesa y exclamó en alta voz: "Grande eres, oh Bel y no hay en ti engaño alguno."
+[17](#c14-v17){:#c14-v17} Abrió luego el rey la puerta y miró a la mesa y exclamó en alta voz: «Grande eres, oh Bel y no hay en ti engaño alguno.»
 
-[18](#c14-v18){:#c14-v18} Mas Daniel se rio y detuvo al rey para que no entrase dentro, y dijo: "Mira al pavimento, y ve de quién son estas pisadas."
+[18](#c14-v18){:#c14-v18} Mas Daniel se rio y detuvo al rey para que no entrase dentro, y dijo: «Mira al pavimento, y ve de quién son estas pisadas.»
 
-[19](#c14-v19){:#c14-v19} "Veo, dijo el rey, pisadas de hombres, de mujeres y de niños."
+[19](#c14-v19){:#c14-v19} «Veo, dijo el rey, pisadas de hombres, de mujeres y de niños.»
 
 [20](#c14-v20){:#c14-v20} Con esto se irritó el rey e hizo prender a los sacerdotes y a sus mujeres e hijos; y le mostraron el postigo secreto por donde entraban a comer cuanto había sobre la mesa.
 
@@ -1177,19 +1178,19 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [22](#c14-v22){:#c14-v22} [[212]](#n-212){:#rn-212} Había en aquel lugar un dragón grande al cual adoraban los babilonios.
 
-[23](#c14-v23){:#c14-v23} Y dijo el rey a Daniel: "Mira, ahora ya no podrás negar que este es un dios vivo. Adórale, pues."
+[23](#c14-v23){:#c14-v23} Y dijo el rey a Daniel: «Mira, ahora ya no podrás negar que este es un dios vivo. Adórale, pues.»
 
-[24](#c14-v24){:#c14-v24} A lo que respondió Daniel: "Yo adoro al Señor, mi Dios, porque Él es el Dios vivo; mas ese no es dios vivo.
+[24](#c14-v24){:#c14-v24} A lo que respondió Daniel: «Yo adoro al Señor, mi Dios, porque Él es el Dios vivo; mas ese no es dios vivo.
 
-[25](#c14-v25){:#c14-v25} Y tú, rey, dame permiso, y mataré al dragón sin espada ni palo."
+[25](#c14-v25){:#c14-v25} Y tú, rey, dame permiso, y mataré al dragón sin espada ni palo.»
 
-[26](#c14-v26){:#c14-v26} [[213]](#n-213){:#rn-213} A lo cual dijo el rey: "Te lo doy." Tomó Daniel pez, sebo y pelos, lo coció todo junto e hizo unas pellas, las qué arrojó en la boca del dragón, el cual reventó. Entonces dijo Daniel: "Ved aquí al que adorabais."
+[26](#c14-v26){:#c14-v26} [[213]](#n-213){:#rn-213} A lo cual dijo el rey: «Te lo doy.» Tomó Daniel pez, sebo y pelos, lo coció todo junto e hizo unas pellas, las qué arrojó en la boca del dragón, el cual reventó. Entonces dijo Daniel: «Ved aquí al que adorabais.»
 
 #### Daniel en el foso de los leones
 
-[27](#c14-v27){:#c14-v27} Cuando supieron esto los babilonios, se irritaron en extremo; y levantándose contra el rey, dijeron: "El rey se ha hecho judío: destruyó a Bel, mató al dragón y quitó la vida a los sacerdotes."
+[27](#c14-v27){:#c14-v27} Cuando supieron esto los babilonios, se irritaron en extremo; y levantándose contra el rey, dijeron: «El rey se ha hecho judío: destruyó a Bel, mató al dragón y quitó la vida a los sacerdotes.»
 
-[28](#c14-v28){:#c14-v28} Y fueron al rey y le dijeron: "Entréganos a Daniel, de lo contrario te mataremos a ti y a tu familia."
+[28](#c14-v28){:#c14-v28} Y fueron al rey y le dijeron: «Entréganos a Daniel, de lo contrario te mataremos a ti y a tu familia.»
 
 [29](#c14-v29){:#c14-v29} Viéndose el rey reciamente acometido y sin salida, les entregó a Daniel,
 
@@ -1199,25 +1200,25 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [32](#c14-v32){:#c14-v32} [[215]](#n-215){:#rn-215} Estaba a la sazón en Judea el profeta Habacuc, el cual había cocido un potaje y desmenuzado unos panes en una vasija, para ir al campo y llevarlo a los segadores.
 
-[33](#c14-v33){:#c14-v33} Y dijo el ángel del Señor a Habacuc: "Esa comida que tienes llévala a Babilonia, a Daniel que está en el foso de los leones."
+[33](#c14-v33){:#c14-v33} Y dijo el ángel del Señor a Habacuc: «Esa comida que tienes llévala a Babilonia, a Daniel que está en el foso de los leones.»
 
-[34](#c14-v34){:#c14-v34} Contestó Habacuc: "Señor, yo no he visto a Babilonia ni tengo noticia del foso."
+[34](#c14-v34){:#c14-v34} Contestó Habacuc: «Señor, yo no he visto a Babilonia ni tengo noticia del foso.»
 
 [35](#c14-v35){:#c14-v35} [[216]](#n-216){:#rn-216} Entonces el ángel del Señor le tomó por la coronilla de la cabeza y con la velocidad de su espíritu le llevó de los cabellos de su cabeza hacia Babilonia encima del foso.
 
-[36](#c14-v36){:#c14-v36} Gritó Habacuc y dijo: "Daniel, siervo de Dios, toma la comida que Dios te envía."
+[36](#c14-v36){:#c14-v36} Gritó Habacuc y dijo: «Daniel, siervo de Dios, toma la comida que Dios te envía.»
 
-[37](#c14-v37){:#c14-v37} Entonces dijo Daniel: "Tú, Señor, te has acordado de mí y no has desamparado a los que te aman."
+[37](#c14-v37){:#c14-v37} Entonces dijo Daniel: «Tú, Señor, te has acordado de mí y no has desamparado a los que te aman.»
 
 [38](#c14-v38){:#c14-v38} Y se levantó Daniel y comió. Entretanto el ángel de Señor se dio prisa para restituir a Habacuc a su lugar.
 
 [39](#c14-v39){:#c14-v39} Al día séptimo vino el rey para hacer él duelo por Daniel; y llegando al foso miró hacia dentro y vio a Daniel sentado en medio de los leones.
 
-[40](#c14-v40){:#c14-v40} [[217]](#n-217){:#rn-217} Entonces exclamó el rey en voz alta diciendo: "Grande eres Señor, Dios de Daniel."
+[40](#c14-v40){:#c14-v40} [[217]](#n-217){:#rn-217} Entonces exclamó el rey en voz alta diciendo: «Grande eres Señor, Dios de Daniel.»
 
 [41](#c14-v41){:#c14-v41} Y le hizo sacar del foso de los leones. Pero a aquellos que habían maquinado su ruina, los hizo echar en el foso y fueron al punto devorados en su presencia.
 
-[42](#c14-v42){:#c14-v42} Entonces dijo el rey: "Teman al Dios de Daniel todos los moradores del orbe; porque Él es el Salvador, el que obra prodigios y maravillas sobre la tierra y libró a Daniel del foso de los leones."
+[42](#c14-v42){:#c14-v42} Entonces dijo el rey: «Teman al Dios de Daniel todos los moradores del orbe; porque Él es el Salvador, el que obra prodigios y maravillas sobre la tierra y libró a Daniel del foso de los leones.»
 
 
 ## Comentarios de Mons. Straubinger

@@ -6,7 +6,7 @@ title: Malaquías
 
 ## Introducción
 
-Malaquías significa "Mensajero mío" (cf. [3, 1](#c3-v1) y nota), o "Ángel del Señor" (así lo llama la versión griega), y de ahí que Clemente Alejandrino, Orígenes y otros Padres, a falta de datos sobre la persona del profeta, lo tomasen por un ser celestial. Mas tal opinión no se funda en argumento real alguno; tampoco lo admiten los exégetas modernos. El Targum de Jonatán dice en cambio que Malaquías era simplemente un nombre adoptado por el mismo Esdras para escribir la profecía.
+Malaquías significa "Mensajero mío" (cf. [3, 1](#c3-v1) y nota), o "Ángel del Señor" (así lo llama la versión griega), y de ahí que Clemente Alejandrino, Orígenes y otros Padres, a falta de datos sobre la persona del profeta, lo tomasen por un ser celestial. Mas tal opinión no se funda en argumento real alguno; tampoco lo admiten los exégetas modernos. El *Tárgum* de Jonatán dice en cambio que Malaquías era simplemente un nombre adoptado por el mismo Esdras para escribir la profecía.
 
 La serie de los profetas menores se cierra con Malaquías, que vivió en tiempos de Esdras y Nehemías, casi un siglo después de los profetas Ageo y Zacarías, cuando el Templo estaba ya reedificado y se había reanudado el culto. Malaquías solo será sucedido, cuatro siglos más tarde, por el Precursor, a quien él mismo anuncia (como también la vuelta de Elías: cf. [3, 1](#c3-v1) y [4, 5](#c4-v5) s.), y a quien Jesús había de caracterizar como el último y mayor profeta del Antiguo Testamento, al decir: "La Ley y los profetas llegan hasta Juan" (Lucas [16, 16](lucas#c16-v16)).
 

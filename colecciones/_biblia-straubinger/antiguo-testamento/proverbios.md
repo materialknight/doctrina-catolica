@@ -6,15 +6,15 @@ title: Proverbios
 
 ## Introducción
 
-El Libro de los Proverbios no es un código de obligaciones, sino un tratado de felicidad. Dios no habla para ser obedecido como déspota, sino para que le creamos cuando nos entrega, por boca del más sabio de los hombres, los más altos secretos de la Sabiduría (en hebreo jokmah). Se trata de una sabiduría eminentemente práctica, que desciende a veces a los detalles, enseñándonos aun, por ejemplo, a evitar las fianzas imprudentes (cf. [6, 1](#c6-v1) y nota; 17, 18 y los pasajes concordantes que allí señalamos); a desconfiar de las fortunas improvisadas ([13, 11](book#c13-v11); [20, 21](book#c20-v21)); del crédito ([22, 7](book#c22-v7)) y de los hombres que adulan o prometen grandes cosas ([20, 19](book#c20-v19)); a no frecuentar demasiado la casa del amigo, porque es propio de la naturaleza humana que él se harte de nosotros y nos cobre aversión ([25, 17](book#c25-v17)). Otras veces nos descubre las más escondidas miserias del corazón humano (verbigracia, [28, 13](book#c28-v13); [29, 19](book#c29-v19), etc.), y no vacila en usar expresiones cuya exactitud va acompañada de un exquisito humorismo; verbigracia, el comparar la belleza en una mujer insensata, con un anillo de oro en el hocico de un cerdo ([11, 22](book#c11-v22)).
+El Libro de los Proverbios no es un código de obligaciones, sino un tratado de felicidad. Dios no habla para ser obedecido como déspota, sino para que le creamos cuando nos entrega, por boca del más sabio de los hombres, los más altos secretos de la Sabiduría (en hebreo: «*jokmah*»). Se trata de una sabiduría eminentemente práctica, que desciende a veces a los detalles, enseñándonos aun, por ejemplo, a evitar las fianzas imprudentes (cf. [6, 1](#c6-v1) y nota; [17, 18](#c17-v18) y los pasajes concordantes que allí señalamos); a desconfiar de las fortunas improvisadas ([13, 11](#c13-v11); [20, 21](#c20-v21)); del crédito ([22, 7](#c22-v7)) y de los hombres que adulan o prometen grandes cosas ([20, 19](#c20-v19)); a no frecuentar demasiado la casa del amigo, porque es propio de la naturaleza humana que él se harte de nosotros y nos cobre aversión ([25, 17](#c25-v17)). Otras veces nos descubre las más escondidas miserias del corazón humano (verbigracia, [28, 13](#c28-v13); [29, 19](#c29-v19), etc.), y no vacila en usar expresiones cuya exactitud va acompañada de un exquisito humorismo; verbigracia, el comparar la belleza en una mujer insensata, con un anillo de oro en el hocico de un cerdo ([11, 22](#c11-v22)).
 
 Casi todos los pueblos antiguos han tenido su sabiduría, distinta de la ciencia, y síntesis de la experiencia que enseña a vivir con provecho para ser feliz. Aún hoy se escriben tratados sobre el secreto del triunfo en la vida, del éxito en los negocios, etc. Son sabidurías psicológicas, humanistas, y como tales harto falibles. La sabiduría de la Sagrada Escritura es toda divina, es decir, inspirada por Dios, lo cual implica su inmenso valor. Porque no es ya solo dar fórmulas verdaderas en sí mismas, que pueden hacer del hombre el autor de su propia felicidad, a la manera estoica; sino que es como decir: si tú me crees y te atienes a mis palabras, Yo tu Dios, que soy también tu amantísimo Padre, me obligo a hacerte feliz, comprometiendo en ello toda mi omnipotencia. De ahí el carácter y el valor eminentemente religiosos de este Libro, aun cuando no habla de la vida futura sino de la presente, ni trata de sanciones o premios eternos sino temporales.
 
-El Libro de los Proverbios debe su nombre al v. [1](#c??-v1), 1, donde se dice que su contenido constituyen las "parábolas" o "proverbios" de Salomón. Sin embargo, ni el nombre de parábola, ni el de proverbio, corresponde al hebreo "maschal" (plural meschalim). La Sagrada Escritura llama maschal no solo a las parábolas o semejanzas, sino más bien a todos los poemas didácticos, y en particular a las sentencias y máximas que encierran una enseñanza. Muchas veces el maschal se acerca, por su oscuridad, al enigma.
+El Libro de los Proverbios debe su nombre al v. [1, 1](#c1-v1), donde se dice que su contenido constituyen las «parábolas» o «proverbios» de Salomón. Sin embargo, ni el nombre de parábola, ni el de proverbio, corresponde al hebreo «*maschal*» (plural: «*meschalim*»). La Sagrada Escritura llama «*maschal*» no solo a las parábolas o semejanzas, sino más bien a todos los poemas didácticos, y en particular a las sentencias y máximas que encierran una enseñanza. Muchas veces el maschal se acerca, por su oscuridad, al enigma.
 
-En el título se expresa el objeto del Libro (ver 1, 1-6). Los primeros nueve capítulos se leen como una introducción que contiene avisos y enseñanzas generales, mientras los caps. 10-22, forman un cuerpo de cortas sentencias de Salomón, que versan sobre temas variadísimos, no teniendo conexión unas con otras. A ellas se añade un apéndice que trae "las palabras de los sabios" (22, 17-24, 34). Un segundo cuerpo de sentencias salomónicas, compiladas por los varones de Ezequías, se presenta en los caps. 25-29, a los cuales se agregan tres colecciones: los proverbios de Agur ([30, 1](book#c30-v1)-22), los de la madre de Lamuel ([31, 1](book#c31-v1)-9) y el elogio de la mujer fuerte ([31, 10](book#c31-v10)-31).
+En el título se expresa el objeto del Libro (ver [1, 1](#c1-v1)-6). Los primeros nueve capítulos se leen como una introducción que contiene avisos y enseñanzas generales, mientras los caps. [10](#c10)-[22](#c22), forman un cuerpo de cortas sentencias de Salomón, que versan sobre temas variadísimos, no teniendo conexión unas con otras. A ellas se añade un apéndice que trae «las palabras de los sabios» ([22, 17](#c22-v17)-[24, 34](#c24-v34)). Un segundo cuerpo de sentencias salomónicas, compiladas por los varones de Ezequías, se presenta en los caps. [25](#c25)-[29](#c29), a los cuales se agregan tres colecciones: los proverbios de Agur ([30, 1](#c30-v1)-22), los de la madre de Lamuel ([31, 1](#c31-v1)-9) y el elogio de la mujer fuerte ([31, 10](#c31-v10)-31).
 
-El autor del Libro, con excepción de los apéndices, es, según los títulos ([1, 1](book#c1-v1); [10, 1](book#c10-v1); 25, 1), el rey Salomón, quien en sabiduría no tuvo igual (1 Reyes [5, 9](1-reyes#c5-v9) s.), atribuyéndole la Sagrada Escritura "3.000 sentencias y 1.005 canciones" (1 Reyes [4, 32](1-reyes#c4-v32)). El presente libro de los Proverbios contiene solamente 550, cuarenta de las cuales repetidas casi textualmente.
+El autor del Libro, con excepción de los apéndices, es, según los títulos ([1, 1](#c1-v1); [10, 1](#c10-v1); [25, 1](#c25-v1)), el rey Salomón, quien en sabiduría no tuvo igual (1 Reyes [5, 9](1-reyes#c5-v9) s.), atribuyéndole la Sagrada Escritura «3,000 sentencias y 1,005 canciones» (1 Reyes [4, 32](1-reyes#c4-v32)). El presente libro de los Proverbios contiene solamente 550, cuarenta de las cuales repetidas casi textualmente.
 
 Los exégetas creen que la última redacción del libro se hizo en tiempos de Esdras.
 
@@ -46,13 +46,13 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [10](#c1-v10){:#c1-v10} Hijo mío, si los malvados quieren seducirte, no les des oído;
 
-[11](#c1-v11){:#c1-v11} [[6]](#n-6){:#rn-6} si te dicen: "Ven con nosotros; pongamos asechanzas a la vida ajena, tendamos por mero antojo celadas al inocente;
+[11](#c1-v11){:#c1-v11} [[6]](#n-6){:#rn-6} si te dicen: «Ven con nosotros; pongamos asechanzas a la vida ajena, tendamos por mero antojo celadas al inocente;
 
 [12](#c1-v12){:#c1-v12} traguémoslos vivos, como el sepulcro, enteros, como los que descienden a la fosa;
 
 [13](#c1-v13){:#c1-v13} [[7]](#n-7){:#rn-7} y hallaremos preciosas riquezas, henchiremos de despojos nuestras casas.
 
-[14](#c1-v14){:#c1-v14} Echa tu suerte con nosotros; sea una sola la bolsa de todos nosotros."
+[14](#c1-v14){:#c1-v14} Echa tu suerte con nosotros; sea una sola la bolsa de todos nosotros.»
 
 [15](#c1-v15){:#c1-v15} [[8]](#n-8){:#rn-8} Hijo mío, no sigas sus caminos; aparta tu pie de sus senderos;
 
@@ -204,7 +204,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [27](#c3-v27){:#c3-v27} [[39]](#n-39){:#rn-39} No niegues un beneficio al necesitado cuando esté a tu alcance el hacerlo.
 
-[28](#c3-v28){:#c3-v28} [[40]](#n-40){:#rn-40} No digas a tu prójimo: "Vete y vuelve, mañana te daré", estando en tu poder el (atenderlo).
+[28](#c3-v28){:#c3-v28} [[40]](#n-40){:#rn-40} No digas a tu prójimo: «Vete y vuelve, mañana te daré», estando en tu poder el (atenderlo).
 
 [29](#c3-v29){:#c3-v29} [[41]](#n-41){:#rn-41} No maquines ningún mal contra tu prójimo mientras él vive tranquilamente contigo.
 
@@ -306,11 +306,11 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [11](#c5-v11){:#c5-v11} y al fin tengas que gemir, después de consumir tu carne,
 
-[12](#c5-v12){:#c5-v12} [[54]](#n-54){:#rn-54} y hayas de exclamar: "¡Cómo he podido aborrecer la instrucción, y rehusar en mi corazón la corrección!
+[12](#c5-v12){:#c5-v12} [[54]](#n-54){:#rn-54} y hayas de exclamar: «¡Cómo he podido aborrecer la instrucción, y rehusar en mi corazón la corrección!
 
 [13](#c5-v13){:#c5-v13} Desoí la voz de los que me adoctrinaban y no quise oír a mis maestros.
 
-[14](#c5-v14){:#c5-v14} Casi he llegado al colmo de los males, en medio del pueblo y de la asamblea."
+[14](#c5-v14){:#c5-v14} Casi he llegado al colmo de los males, en medio del pueblo y de la asamblea.»
 
 [15](#c5-v15){:#c5-v15} [[55]](#n-55){:#rn-55} Bebe el agua de tu aljibe y los raudales que manan de tu pozo.
 
@@ -422,7 +422,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [3](#c7-v3){:#c7-v3} Átalos a tus dedos, escríbelos en la tabla de tu corazón.
 
-[4](#c7-v4){:#c7-v4} [[70]](#n-70){:#rn-70} Di a la sabiduría: "¡Tú eres mi hermana!" y llama a la inteligencia pariente tuya,
+[4](#c7-v4){:#c7-v4} [[70]](#n-70){:#rn-70} Di a la sabiduría: «¡Tú eres mi hermana!» y llama a la inteligencia pariente tuya,
 
 [5](#c7-v5){:#c7-v5} [[71]](#n-71){:#rn-71} para que te preserve de la mujer extraña, de la ajena con sus lisonjeras palabras.
 
@@ -442,7 +442,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [13](#c7-v13){:#c7-v13} Le echa mano y le besa, y con semblante descarado le dice:
 
-[14](#c7-v14){:#c7-v14} [[73]](#n-73){:#rn-73} "Tenía que ofrecer un sacrificio pacífico, hoy he cumplido mis votos.
+[14](#c7-v14){:#c7-v14} [[73]](#n-73){:#rn-73} «Tenía que ofrecer un sacrificio pacífico, hoy he cumplido mis votos.
 
 [15](#c7-v15){:#c7-v15} Por eso he salido a tu encuentro, para buscarte, y al fin te he hallado.
 
@@ -454,7 +454,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [19](#c7-v19){:#c7-v19} [[74]](#n-74){:#rn-74} Pues el marido no está en casa, emprendió un viaje y está lejos,
 
-[20](#c7-v20){:#c7-v20} llevando consigo un talego de plata; no volverá a casa hasta el día del plenilunio."
+[20](#c7-v20){:#c7-v20} llevando consigo un talego de plata; no volverá a casa hasta el día del plenilunio.»
 
 [21](#c7-v21){:#c7-v21} Le rinde con la abundancia de sus palabras, le arrastra con los halagos de sus labios.
 
@@ -480,7 +480,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [3](#c8-v3){:#c8-v3} En las puertas, en las entradas de la ciudad, en los umbrales de las casas, hace ella oír su voz:
 
-[4](#c8-v4){:#c8-v4} "A vosotros, mortales, me dirijo, mi voz va a los hijos de los hombres.
+[4](#c8-v4){:#c8-v4} «A vosotros, mortales, me dirijo, mi voz va a los hijos de los hombres.
 
 [5](#c8-v5){:#c8-v5} Aprended, oh necios, la sabiduría, y vosotros, oh insensatos, la inteligencia.
 
@@ -494,11 +494,11 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [10](#c8-v10){:#c8-v10} [[78]](#n-78){:#rn-78} Recibid mi instrucción, y no la plata, y la sabiduría, antes que el oro escogido.
 
-[11](#c8-v11){:#c8-v11} Pues la sabiduría vale más que perlas, y todas las cosas deseables no la igualan.
+[11](#c8-v11){:#c8-v11} Pues la sabiduría vale más que perlas, y todas las cosas deseables no la igualan.»
 
 #### Preexcelencia de la sabiduría
 
-[12](#c8-v12){:#c8-v12} [[79]](#n-79){:#rn-79} Yo, la sabiduría, habito con la prudencia, y poseo el conocimiento más profundo.
+[12](#c8-v12){:#c8-v12} [[79]](#n-79){:#rn-79} «Yo, la sabiduría, habito con la prudencia, y poseo el conocimiento más profundo.
 
 [13](#c8-v13){:#c8-v13} Temer a Yahvé es detestar el mal; yo abomino la soberbia, la altivez, el mal camino y la boca perversa.
 
@@ -516,11 +516,11 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [20](#c8-v20){:#c8-v20} Yo voy por las sendas de la justicia por medio del recto camino,
 
-[21](#c8-v21){:#c8-v21} para dar bienes a mis amigos, y henchir sus tesoros.
+[21](#c8-v21){:#c8-v21} para dar bienes a mis amigos, y henchir sus tesoros.»
 
 #### Origen divino de la sabiduría
 
-[22](#c8-v22){:#c8-v22} [[82]](#n-82){:#rn-82} El Señor me poseyó al principio de sus caminos, antes de sus obras más antiguas.
+[22](#c8-v22){:#c8-v22} [[82]](#n-82){:#rn-82} «El Señor me poseyó al principio de sus caminos, antes de sus obras más antiguas.
 
 [23](#c8-v23){:#c8-v23} Desde la eternidad fui constituida, desde los orígenes, antes que existiera la tierra.
 
@@ -548,7 +548,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [35](#c8-v35){:#c8-v35} Porque quien me halla a mí, ha hallado la vida, y alcanza el favor de Yahvé.
 
-[36](#c8-v36){:#c8-v36} [[85]](#n-85){:#rn-85} El que a mí me ofende daña a su propia alma; todos los que me odian, aman la muerte.
+[36](#c8-v36){:#c8-v36} [[85]](#n-85){:#rn-85} El que a mí me ofende daña a su propia alma; todos los que me odian, aman la muerte.»
 
 ### Proverbios [9](#c9) {#c9}
 
@@ -560,11 +560,11 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [3](#c9-v3){:#c9-v3} Envió sus doncellas y clama sobre las cimas más altas de la ciudad:
 
-[4](#c9-v4){:#c9-v4} [[87]](#n-87){:#rn-87} "¡El que es simple venga aquí!" y al falto de inteligencia le dice:
+[4](#c9-v4){:#c9-v4} [[87]](#n-87){:#rn-87} «¡El que es simple venga aquí!» y al falto de inteligencia le dice:
 
-[5](#c9-v5){:#c9-v5} [[88]](#n-88){:#rn-88} "Venid, y comed de mi pan; y bebed el vino que yo he mezclado.
+[5](#c9-v5){:#c9-v5} [[88]](#n-88){:#rn-88} «Venid, y comed de mi pan; y bebed el vino que yo he mezclado.
 
-[6](#c9-v6){:#c9-v6} Dejad ya la necedad, y viviréis, y caminad por la senda de la inteligencia."
+[6](#c9-v6){:#c9-v6} Dejad ya la necedad, y viviréis, y caminad por la senda de la inteligencia.»
 
 [7](#c9-v7){:#c9-v7} [[89]](#n-89){:#rn-89} Quien reprende al escarnecedor se afrenta a sí mismo, y el que corrige al impío, se acarrea baldón.
 
@@ -586,9 +586,9 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [15](#c9-v15){:#c9-v15} para invitar a los que pasan, a los que van por su camino:
 
-[16](#c9-v16){:#c9-v16} "¡El que es simple, venga aquí!"; y al falto de inteligencia le dice:
+[16](#c9-v16){:#c9-v16} «¡El que es simple, venga aquí!»; y al falto de inteligencia le dice:
 
-[17](#c9-v17){:#c9-v17} [[92]](#n-92){:#rn-92} "Las aguas hurtadas son (más) dulces; y el pan comido clandestinamente es (más) sabroso."
+[17](#c9-v17){:#c9-v17} [[92]](#n-92){:#rn-92} «Las aguas hurtadas son (más) dulces; y el pan comido clandestinamente es (más) sabroso.»
 
 [18](#c9-v18){:#c9-v18} [[93]](#n-93){:#rn-93} Y él no advierte que allí hay muerte, y que los convidados de ella van a las profundidades del scheol.
 
@@ -1258,7 +1258,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [8](#c20-v8){:#c20-v8} El rey, sentado como juez en el trono, con su sola mirada ahuyenta todo lo malo.
 
-[9](#c20-v9){:#c20-v9} [[232]](#n-232){:#rn-232} ¿Quién podrá decir: "He purificado mi corazón, limpio estoy de mi pecado"?
+[9](#c20-v9){:#c20-v9} [[232]](#n-232){:#rn-232} ¿Quién podrá decir: «He purificado mi corazón, limpio estoy de mi pecado»?
 
 [10](#c20-v10){:#c20-v10} [[233]](#n-233){:#rn-233} Peso falso y falsa medida son dos cosas abominables ante Yahvé.
 
@@ -1268,7 +1268,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [13](#c20-v13){:#c20-v13} [[235]](#n-235){:#rn-235} Huye el sueño, para que no empobrezcas; abre tus ojos, y te saciarás de pan.
 
-[14](#c20-v14){:#c20-v14} [[236]](#n-236){:#rn-236} "Malo, malo", dice el comprador, pero después de haber comprado se gloría.
+[14](#c20-v14){:#c20-v14} [[236]](#n-236){:#rn-236} «Malo, malo», dice el comprador, pero después de haber comprado se gloría.
 
 [15](#c20-v15){:#c20-v15} Hay oro y perlas en abundancia, mas la alhaja más preciosa son los labios instruidos.
 
@@ -1284,13 +1284,13 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [21](#c20-v21){:#c20-v21} Lo que uno comenzó a adquirir apresuradamente, no tiene fin venturoso.
 
-[22](#c20-v22){:#c20-v22} [[241]](#n-241){:#rn-241} No digas: "Yo devolveré el mal"; espera en Yahvé, y Él te salvará.
+[22](#c20-v22){:#c20-v22} [[241]](#n-241){:#rn-241} No digas: «Yo devolveré el mal»; espera en Yahvé, y Él te salvará.
 
 [23](#c20-v23){:#c20-v23} Yahvé abomina las pesas falsas, y falsa balanza es cosa mala.
 
 [24](#c20-v24){:#c20-v24} [[242]](#n-242){:#rn-242} Es Yahvé quien dirige los pasos del hombre; ¿qué sabe el hombre de su destino?
 
-[25](#c20-v25){:#c20-v25} [[243]](#n-243){:#rn-243} Es un lazo para el hombre decir a la ligera: "Consagrado", sin meditar antes de hacer el voto.
+[25](#c20-v25){:#c20-v25} [[243]](#n-243){:#rn-243} Es un lazo para el hombre decir a la ligera: «Consagrado», sin meditar antes de hacer el voto.
 
 [26](#c20-v26){:#c20-v26} [[244]](#n-244){:#rn-244} El rey sabio avienta a los malhechores, y hace pasar sobre ellos la rueda.
 
@@ -1392,7 +1392,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [12](#c22-v12){:#c22-v12} Los ojos de Yahvé protegen a los sabios, pues Él desbarata los planes de los pérfidos.
 
-[13](#c22-v13){:#c22-v13} [[273]](#n-273){:#rn-273} Dice el perezoso: "Un león anda por la calle; seré devorado en medio de la plaza."
+[13](#c22-v13){:#c22-v13} [[273]](#n-273){:#rn-273} Dice el perezoso: «Un león anda por la calle; seré devorado en medio de la plaza.»
 
 [14](#c22-v14){:#c22-v14} [[274]](#n-274){:#rn-274} Fosa profunda es la boca de la extraña; quien es objeto de la ira de Yahvé cae en ella.
 
@@ -1446,7 +1446,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [6](#c23-v6){:#c23-v6} No comas pan con el envidioso; no codicies sus delicados manjares;
 
-[7](#c23-v7){:#c23-v7} [[285]](#n-285){:#rn-285} porque así como los pensamientos de su alma es él. "Come y bebe", te dice; mas su corazón no está contigo.
+[7](#c23-v7){:#c23-v7} [[285]](#n-285){:#rn-285} porque así como los pensamientos de su alma es él. «Come y bebe», te dice; mas su corazón no está contigo.
 
 [8](#c23-v8){:#c23-v8} Vomitarás el bocado que comiste, y habrás desperdiciado tus amables palabras.
 
@@ -1504,7 +1504,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [34](#c23-v34){:#c23-v34} Serás como un hombre que se acuesta en medio del mar, y duerme sobre la punta de un mástil.
 
-[35](#c23-v35){:#c23-v35} [[297]](#n-297){:#rn-297} (Dirás): "Me han apaleado, y no me duele, me han golpeado, y nada siento. Cuando me despierte volveré a tomar de nuevo."
+[35](#c23-v35){:#c23-v35} [[297]](#n-297){:#rn-297} (Dirás): «Me han apaleado, y no me duele, me han golpeado, y nada siento. Cuando me despierte volveré a tomar de nuevo.»
 
 ### Proverbios [24](#c24) {#c24}
 
@@ -1532,7 +1532,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [11](#c24-v11){:#c24-v11} [[301]](#n-301){:#rn-301} Libra a los que son llevados a la muerte; a los que andan vacilando al degolladero, sálvalos.
 
-[12](#c24-v12){:#c24-v12} [[302]](#n-302){:#rn-302} Si dijeres: "¿Cómo saberlo?" ¿Acaso no lo ve Aquel que pesa los corazones? Bien lo sabe Aquel que vela sobre tu vida; Él retribuirá a cada cual según sus obras.
+[12](#c24-v12){:#c24-v12} [[302]](#n-302){:#rn-302} Si dijeres: «¿Cómo saberlo?» ¿Acaso no lo ve Aquel que pesa los corazones? Bien lo sabe Aquel que vela sobre tu vida; Él retribuirá a cada cual según sus obras.
 
 [13](#c24-v13){:#c24-v13} [[303]](#n-303){:#rn-303} Come, hijo mío, miel, porque es buena, y el panal, que es dulce para tu paladar.
 
@@ -1558,7 +1558,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [23](#c24-v23){:#c24-v23} [[309]](#n-309){:#rn-309} También estas son sentencias de los sabios: Es cosa mala hacer acepción de personas en el juicio.
 
-[24](#c24-v24){:#c24-v24} Quien dice al delincuente: "Tú tienes razón", será maldito del pueblo y detestado de la gente.
+[24](#c24-v24){:#c24-v24} Quien dice al delincuente: «Tú tienes razón», será maldito del pueblo y detestado de la gente.
 
 [25](#c24-v25){:#c24-v25} Y aquellos que lo condenan, serán alabados, y sobre ellos vienen ricas bendiciones.
 
@@ -1568,7 +1568,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [28](#c24-v28){:#c24-v28} [[311]](#n-311){:#rn-311} No seas de ligero testigo contra tu prójimo; ¿quieres acaso engañarlo con tus labios?
 
-[29](#c24-v29){:#c24-v29} [[312]](#n-312){:#rn-312} No digas: "Como él me trató, así haré con él, le daré el pago según sus obras."
+[29](#c24-v29){:#c24-v29} [[312]](#n-312){:#rn-312} No digas: «Como él me trató, así haré con él, le daré el pago según sus obras.»
 
 [30](#c24-v30){:#c24-v30} Pasé junto al campo del perezoso, y junto a la viña del insensato;
 
@@ -1596,7 +1596,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [6](#c25-v6){:#c25-v6} No te jactes delante del rey, ni te pongas en el lugar donde están los grandes.
 
-[7](#c25-v7){:#c25-v7} [[317]](#n-317){:#rn-317} Pues mejor es que te digan: "Sube aquí"; que verte humillado ante el príncipe a quien vieron tus ojos.
+[7](#c25-v7){:#c25-v7} [[317]](#n-317){:#rn-317} Pues mejor es que te digan: «Sube aquí»; que verte humillado ante el príncipe a quien vieron tus ojos.
 
 #### Discreción y moderación
 
@@ -1674,7 +1674,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 #### Perezosos y litigiosos
 
-[13](#c26-v13){:#c26-v13} [[339]](#n-339){:#rn-339} Dice el perezoso: "Hay un león en el camino, en las calles está un león."
+[13](#c26-v13){:#c26-v13} [[339]](#n-339){:#rn-339} Dice el perezoso: «Hay un león en el camino, en las calles está un león.»
 
 [14](#c26-v14){:#c26-v14} La puerta gira sobre su quicio, y sobre su cama el haragán.
 
@@ -1686,7 +1686,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [18](#c26-v18){:#c26-v18} Como el loco que arroja llamas, saetas y muerte,
 
-[19](#c26-v19){:#c26-v19} así es el que engaña a su prójimo, y le dice luego: "Solo lo hice por broma."
+[19](#c26-v19){:#c26-v19} así es el que engaña a su prójimo, y le dice luego: «Solo lo hice por broma.»
 
 #### Chismosos y maliciosos
 
@@ -1814,7 +1814,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [23](#c28-v23){:#c28-v23} Quien a otro corrige, halla después mayor gracia que aquel que lisonjea con la lengua.
 
-[24](#c28-v24){:#c28-v24} [[373]](#n-373){:#rn-373} El que roba algo a su padre y a su madre, y dice: "No es pecado", es compañero del criminal.
+[24](#c28-v24){:#c28-v24} [[373]](#n-373){:#rn-373} El que roba algo a su padre y a su madre, y dice: «No es pecado», es compañero del criminal.
 
 [25](#c28-v25){:#c28-v25} El hombre codicioso suscita querellas, mas el que espera en Yahvé prosperará.
 
@@ -1902,7 +1902,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [8](#c30-v8){:#c30-v8} [[398]](#n-398){:#rn-398} Aparta de mí la vanidad y la mentira, y no me des ni pobreza ni riquezas; dame solamente el pan que necesito,
 
-[9](#c30-v9){:#c30-v9} no sea que harto yo reniegue (de Ti) y diga: "¿Quién es Yahvé?" o que, empobrecido, me ponga a robar y blasfemar del nombre de mi Dios.
+[9](#c30-v9){:#c30-v9} no sea que harto yo reniegue (de Ti) y diga: «¿Quién es Yahvé?» o que, empobrecido, me ponga a robar y blasfemar del nombre de mi Dios.
 
 [10](#c30-v10){:#c30-v10} No difames al siervo ante su señor, no sea que te maldiga, y tú tengas que pagarlo.
 
@@ -1914,9 +1914,9 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [14](#c30-v14){:#c30-v14} [[402]](#n-402){:#rn-402} Y hay también hombres cuyos dientes son espadas, y sus muelas cuchillos, para devorar a los pobres de la tierra y a los desvalidos de entre los hombres.
 
-[15](#c30-v15){:#c30-v15} [[403]](#n-403){:#rn-403} La sanguijuela tiene dos hijas: "¡Dame, dame!" Tres cosas hay insaciables, y también una cuarta, que jamás dicen: "¡Basta!":
+[15](#c30-v15){:#c30-v15} [[403]](#n-403){:#rn-403} La sanguijuela tiene dos hijas: «¡Dame, dame!» Tres cosas hay insaciables, y también una cuarta, que jamás dicen: «¡Basta!»:
 
-[16](#c30-v16){:#c30-v16} el scheol, el seno estéril, la tierra que nunca se harta de agua, y el fuego que jamás dice: "¡Basta!"
+[16](#c30-v16){:#c30-v16} el *scheol*, el seno estéril, la tierra que nunca se harta de agua, y el fuego que jamás dice: «¡Basta!»
 
 [17](#c30-v17){:#c30-v17} Ojos que escarnecen al padre, y no miran con respeto a la madre; sáquenlos los cuervos del torrente y los aguiluchos los coman.
 
@@ -1924,7 +1924,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [19](#c30-v19){:#c30-v19} [[404]](#n-404){:#rn-404} el rastro del águila en el aire, el rastro de la culebra sobre la peña, el rastro de la nave en medio del mar, y el rastro del hombre en la doncella.
 
-[20](#c30-v20){:#c30-v20} [[405]](#n-405){:#rn-405} Tal es también el proceder de la mujer adúltera; come, se limpia la boca, y dice: "No he hecho cosa mala."
+[20](#c30-v20){:#c30-v20} [[405]](#n-405){:#rn-405} Tal es también el proceder de la mujer adúltera; come, se limpia la boca, y dice: «No he hecho cosa mala.»
 
 [21](#c30-v21){:#c30-v21} Bajo tres cosas tiembla la tierra, y también bajo una cuarta que no puede soportar:
 
@@ -2014,7 +2014,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [28](#c31-v28){:#c31-v28} Álzanse sus hijos, y la llaman bendita. La ensalza también su marido:
 
-[29](#c31-v29){:#c31-v29} [[424]](#n-424){:#rn-424} "Muchas hijas obraron proezas; pero tú superas a todas."
+[29](#c31-v29){:#c31-v29} [[424]](#n-424){:#rn-424} «Muchas hijas obraron proezas; pero tú superas a todas.»
 
 [30](#c31-v30){:#c31-v30} [[425]](#n-425){:#rn-425} Engañosa es la belleza, y un soplo la hermosura. La mujer que teme a Yahvé, esa es digna de alabanza.
 

@@ -2541,7 +2541,7 @@ Ezequiel, según tradición judía, murió mártir. La Iglesia conmemora su fest
 
 ### Ezequiel [43](#c43) {#c43}
 
-#### El señor vuelve al Templo
+#### El Señor vuelve al Templo
 
 [1](#c43-v1){:#c43-v1} [[437]](#n-437){:#rn-437} Me trasladó después a la puerta que mira hacia el oriente;
 

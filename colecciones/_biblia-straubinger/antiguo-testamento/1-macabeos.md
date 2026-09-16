@@ -6,9 +6,9 @@ title: 1 Macabeos
 
 ## Introducción
 
-Los dos Libros de los Macabeos son los últimos del Antiguo Testamento, cronológicamente posteriores a los de Esdras y Nehemías, que señalan el retorno de Babilonia. Han recibido su nombre del tercer hijo del sacerdote Matatías: Judas, a quien por su valentía fue dado el sobrenombre de "Makkébet" (martillo). Ese apodo pasó a los hermanos de Judas y a toda su familia que antiguamente se llamaba de los Hasmoneos, por Hasmonai, bisabuelo de Matatías.
+Los dos Libros de los Macabeos son los últimos del Antiguo Testamento, cronológicamente posteriores a los de Esdras y Nehemías, que señalan el retorno de Babilonia. Han recibido su nombre del tercer hijo del sacerdote Matatías: Judas, a quien por su valentía fue dado el sobrenombre de «*Makkébet*» (martillo). Ese apodo pasó a los hermanos de Judas y a toda su familia que antiguamente se llamaba de los Hasmoneos, por Hasmonai, bisabuelo de Matatías.
 
-La canonicidad de los dos libros es atestiguada por muchos Padres, como Clemente Alejandrino, Orígenes, San Cipriano, San Hilario, San Ambrosio, San Agustín, San Crisóstomo, y por los Concilios de Hipona (393) y Cartago (391). San Jerónimo, sin embargo, no los tradujo al latín, "acaso porque dudaba de su autenticidad" (Bardenhewer). El Concilio de Trento terminó con las dudas sobre su carácter canónico, incorporándolos ambos definitivamente al canon de las Escrituras sagradas.
+La canonicidad de los dos libros es atestiguada por muchos Padres, como Clemente Alejandrino, Orígenes, San Cipriano, San Hilario, San Ambrosio, San Agustín, San Crisóstomo, y por los Concilios de Hipona (393) y Cartago (391). San Jerónimo, sin embargo, no los tradujo al latín, «acaso porque dudaba de su autenticidad» (Bardenhewer). El Concilio de Trento terminó con las dudas sobre su carácter canónico, incorporándolos ambos definitivamente al canon de las Escrituras sagradas.
 
 El primer Libro empieza describiendo la situación política y religiosa de Palestina a raíz de la persecución de Antíoco IV Epífanes (175-164); relata después la resistencia de Matatías, de estirpe sacerdotal, su celo por la Ley, y su muerte (caps. 1-2). Matatías es la encarnación del sentimiento religioso y patriótico, el cual supo infundir a sus hijos y a un pequeño núcleo de su pueblo, que no rehusaba ningún sacrificio para obtener la victoria. A estos dos primeros capítulos se agrega la historia de los hijos de Matatías, sus batallas, victorias y proezas: Judas Macabeo (3, 1-9, 22), Jonatás (9, 23-12, 53) y Simón (caps. 13-16).
 
@@ -23,9 +23,6 @@ El segundo libro acentúa más él carácter edificante y confortante de los aco
 En la cronología siguen los dos libros la era de los Seléucidas, cuyo comienzo es el mes de Tischri del año 312 a. C.
 
 Faltando el texto hebreo seguimos, con leves cambios, la versión publicada en nuestra edición de la Vulgata.
-
-
-
 
 ### 1 Macabeos [1](#c1) {#c1}
 
@@ -335,7 +332,7 @@ Faltando el texto hebreo seguimos, con leves cambios, la versión publicada en n
 
 [70](#c2-v70){:#c2-v70} [[36]](#n-36){:#rn-36} Murió Matatías el año ciento cuarenta y seis, y sus hijos le sepultaron en Modín en el sepulcro de sus padres, y todo Israel le lloró amargamente.
 
-## II. Judas macabeo
+## II. Judas Macabeo
 
 ### 1 Macabeos [3](#c3) {#c3}
 

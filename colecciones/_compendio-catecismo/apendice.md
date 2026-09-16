@@ -54,11 +54,11 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">en la tierra como en el cielo.</span>
 <span class="hemistich">Danos hoy</span>
 <span class="hemistich">nuestro pan de cada día;</span>
-<span class="hemistich">perdona nuestras ofensas,</span>
+<span class="hemistich">perdona nuestras deudas,</span>
 <span class="hemistich">como también nosotros perdonamos</span>
-<span class="hemistich">a los que nos ofenden;</span>
+<span class="hemistich">a nuestros deudores;</span>
 <span class="hemistich">no nos dejes caer en la tentación,</span>
-<span class="hemistich">y líbranos del mal. Amén.</span>
+<span class="hemistich">y líbranos del maligno. Amén.</span>
 
 ### Pater noster
 
@@ -321,7 +321,7 @@ Orémus:
 
 <div class="five-stanzas-two-cols" markdown="1">
 
-### Magnificat
+### Magníficat
 
 <span class="hemistich">Proclama mi alma</span>
 <span class="hemistich">la grandeza del Señor,</span>
@@ -358,7 +358,7 @@ Orémus:
 <span class="hemistich">por los siglos de los siglos.</span>
 <span class="hemistich">Amén.</span>
 
-### Magnificat
+### Magníficat
 
 <span class="hemistich">Magníficat</span>
 <span class="hemistich">ánima mea Dóminum,</span>
@@ -1292,7 +1292,7 @@ Amarás al prójimo como a ti mismo.
 
 Tratad a los demás como queráis que ellos os traten a vosotros.
 
-### Bienaventuranzas
+### Bienaventuranzas (Mt [5, 3]({{ "biblia-straubinger/mateo#c5-v3" | relative_url }})-11)
 
 1. Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los cielos.
 2. Bienaventurados los mansos, porque ellos poseerán la tierra.
@@ -1304,7 +1304,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 8. Bienaventurados los perseguidos a causa de la justicia, porque de ellos es el Reino de los cielos.
 9. Bienaventurados seréis cuando os injurien, os persigan y digan contra vosotros toda clase de calumnias por mi causa. Alegraos y regocijaos porque vuestra recompensa será grande en el cielo.
 
-### Las Tres Virtudes Teologales
+### Las Tres Virtudes Teologales (1 Co [13, 13]({{ "biblia-straubinger/1-corintios#c13-v13" | relative_url }}))
 
 1. Fe
 2. Esperanza
@@ -1317,7 +1317,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 3. Fortaleza
 4. Templanza
 
-### Los Siete Dones del Espíritu Santo
+### Los Siete Dones del Espíritu Santo (Is [11, 2]({{ "biblia-straubinger/isaias#c11-v2" | relative_url }}), según la Vulgata)
 
 1. Sabiduría
 2. Entendimiento
@@ -1327,7 +1327,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 6. Piedad
 7. Temor de Dios
 
-### Los Doce Frutos del Espíritu Santo
+### Los Doce Frutos del Espíritu Santo (Ga [5, 22]({{ "biblia-straubinger/galatas#c5-v22" | relative_url }})-23, según la Vulgata)
 
 1. Amor
 2. Alegría

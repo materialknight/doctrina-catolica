@@ -8,11 +8,11 @@ title: Miqueas
 
 La Sagrada Escritura conoce dos profetas que llevan el nombre de Miqueas o Mica; uno que vivió en el reino de Israel (1 Reyes [22, 8](1-reyes#c22-v8) ss.) en tiempos del rey Acab (813-854), y otro que profetizó en el reino de Judá (Jeremías [26, 18](jeremias#c26-v18)), reinando Joatam (738-736), Acaz (736-721) y Exequias (721-693). Este segundo nos dejó el presente libro. De su vida solamente sabemos que era oriundo de Morasti (Moréset), pequeño lugar situado cerca de Eleuterópolis (hoy Beit Dschibrin) al suroeste de Jerusalén. La Iglesia lo venera como mártir y celebra su fiesta el 15 de enero.
 
-El marco histórico en que se encuadra la actividad de Miqueas es determinado por los tres reyes mencionados en 1, 1: apogeo de Judá bajo Joatam; humillación e invasiones enemigas en el reinado de Acaz y Ezequías; idolatría y vicios que provocaron la restauración del culto por este santo rey.
+El marco histórico en que se encuadra la actividad de Miqueas es determinado por los tres reyes mencionados en [1, 1](#c1-v1): apogeo de Judá bajo Joatam; humillación e invasiones enemigas en el reinado de Acaz y Ezequías; idolatría y vicios que provocaron la restauración del culto por este santo rey.
 
-El libro se compone de tres discursos. El primero (caps. 1-2) se dirige contra los reinos de Israel y Judá, a los cuales predice la ruina, pero también el regreso del cautiverio y la erección del reino mesiánico. El segundo discurso (caps. 3-5) trae amenazas contra los príncipes y jueces, contra falsos profetas y malos sacerdotes, contra Sión y el Templo, el cual será destruido en castigo de las maldades, pero al mismo tiempo promete felicidad futura, gloria para Jerusalén como centro de todos los pueblos, la restauración del reino de David y la venida del Mesías que nacerá en Belén. El tercer discurso (caps. 6-7) contiene exhortaciones al arrepentimiento, anuncia el perdón y muestra el camino de la salvación. Concluye el Libro con un himno rebosante de promesas y de esperanzas.
+El libro se compone de tres discursos. El primero (caps. [1](#c1)-[2](#c2)) se dirige contra los reinos de Israel y Judá, a los cuales predice la ruina, pero también el regreso del cautiverio y la erección del reino mesiánico. El segundo discurso (caps. [3](#c3)-[5](#c5)) trae amenazas contra los príncipes y jueces, contra falsos profetas y malos sacerdotes, contra Sión y el Templo, el cual será destruido en castigo de las maldades, pero al mismo tiempo promete felicidad futura, gloria para Jerusalén como centro de todos los pueblos, la restauración del reino de David y la venida del Mesías que nacerá en Belén. El tercer discurso (caps. [6](#c6)-[7](#c7)) contiene exhortaciones al arrepentimiento, anuncia el perdón y muestra el camino de la salvación. Concluye el Libro con un himno rebosante de promesas y de esperanzas.
 
-Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terrible, desnudo y audaz en las conminaciones ([3, 12](book#c3-v12)), elevado y grandioso en las promesas ([4, 1](book#c4-v1) ss.; [5, 1](book#c5-v1) ss.), tierno y patético en sus quejas y lamentos ([6, 1](book#c6-v1) ss.)". Tiene mucha semejanza con su contemporáneo Isaías, junto con el cual Miqueas inaugura el siglo de oro de la literatura hebrea.
+Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es «terrible, desnudo y audaz en las conminaciones ([3, 12](#c3-v12)), elevado y grandioso en las promesas ([4, 1](#c4-v1) ss.; [5, 1](#c5-v1) ss.), tierno y patético en sus quejas y lamentos ([6, 1](#c6-v1) ss.)». Tiene mucha semejanza con su contemporáneo Isaías, junto con el cual Miqueas inaugura el siglo de oro de la literatura hebrea.
 
 ## Miqueas [1](#c1) {#c1}
 
@@ -62,13 +62,13 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 
 [3](#c2-v3){:#c2-v3} Por eso, dice Yahvé: He aquí que tengo preparado contra esta raza un mal, del cual no podréis librar vuestras cervices; y no andaréis ya erguidos, porque será tiempo calamitoso.
 
-[4](#c2-v4){:#c2-v4} [[10]](#n-10){:#rn-10} En aquel día se dirá sobre vosotros un proverbio, y se entonará una lamentación. Dirán: "Somos completamente asolados; (Dios) entrega a otros la herencia de mi pueblo. ¡Cómo me la quita a mí y reparte nuestros campos a los infieles!"
+[4](#c2-v4){:#c2-v4} [[10]](#n-10){:#rn-10} En aquel día se dirá sobre vosotros un proverbio, y se entonará una lamentación. Dirán: «Somos completamente asolados; (Dios) entrega a otros la herencia de mi pueblo. ¡Cómo me la quita a mí y reparte nuestros campos a los infieles!»
 
 [5](#c2-v5){:#c2-v5} [[11]](#n-11){:#rn-11} Por eso ya no tendrás quien echando la cuerda (reparta) posesiones en la congregación de Yahvé.
 
-[6](#c2-v6){:#c2-v6} [[12]](#n-12){:#rn-12} "¡No profeticéis!", así dicen ellos. Pero si no se les profetiza, no se apartará (de ellos) el oprobio.
+[6](#c2-v6){:#c2-v6} [[12]](#n-12){:#rn-12} «¡No profeticéis!», así dicen ellos. Pero si no se les profetiza, no se apartará (de ellos) el oprobio.
 
-[7](#c2-v7){:#c2-v7} Dice la casa de Jacob: "¿Se ha disminuido el espíritu de Yahvé? ¿Son estas sus obras?" ¿Acaso mis palabras no son buenas para los que andan por el recto camino?
+[7](#c2-v7){:#c2-v7} Dice la casa de Jacob: «¿Se ha disminuido el espíritu de Yahvé? ¿Son estas sus obras?» ¿Acaso mis palabras no son buenas para los que andan por el recto camino?
 
 [8](#c2-v8){:#c2-v8} [[13]](#n-13){:#rn-13} Hace tiempo que el pueblo mío se ha levantado (contra Mí) como enemigo; después de la ropa robáis el manto; hacéis la guerra a los que van pasando confiados.
 
@@ -76,7 +76,7 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 
 [10](#c2-v10){:#c2-v10} [[14]](#n-14){:#rn-14} Levantaos y marchad, pues no es este el lugar de vuestro descanso; porque es inmundo, será devastado con terrible tormento.
 
-[11](#c2-v11){:#c2-v11} [[15]](#n-15){:#rn-15} Si uno anda tras el viento y tras la mentira, (diciendo): "Yo te profetizo vino y bebida embriagante", este es el profeta de este pueblo.
+[11](#c2-v11){:#c2-v11} [[15]](#n-15){:#rn-15} Si uno anda tras el viento y tras la mentira, (diciendo): «Yo te profetizo vino y bebida embriagante», este es el profeta de este pueblo.
 
 ### Promesa de restauración
 
@@ -98,7 +98,7 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 
 ### Contra los falsos profetas
 
-[5](#c3-v5){:#c3-v5} [[21]](#n-21){:#rn-21} Esto dice Yahvé contra los profetas que seducen a mi pueblo, que muerden con los dientes y claman: "¡Paz!", y declaran la guerra al que no les llena la boca.
+[5](#c3-v5){:#c3-v5} [[21]](#n-21){:#rn-21} Esto dice Yahvé contra los profetas que seducen a mi pueblo, que muerden con los dientes y claman: «¡Paz!», y declaran la guerra al que no les llena la boca.
 
 [6](#c3-v6){:#c3-v6} Por eso tendréis noche en lugar de visión, y tinieblas en vez de adivinación; se pondrá el sol para esos profetas, y se les oscurecerá el día.
 
@@ -110,7 +110,7 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 
 [10](#c3-v10){:#c3-v10} [[24]](#n-24){:#rn-24} que edificáis a Sión con sangre, y a Jerusalén con injusticia.
 
-[11](#c3-v11){:#c3-v11} Sus jefes juzgan aceptando dádivas, sus sacerdotes enseñan por salario, sus profetas adivinan por dinero, y se apoyan en Yahvé, diciendo: "¿Acaso no está Yahvé entre nosotros? ¡Sobre nosotros no vendrá ningún mal!"
+[11](#c3-v11){:#c3-v11} Sus jefes juzgan aceptando dádivas, sus sacerdotes enseñan por salario, sus profetas adivinan por dinero, y se apoyan en Yahvé, diciendo: «¿Acaso no está Yahvé entre nosotros? ¡Sobre nosotros no vendrá ningún mal!»
 
 [12](#c3-v12){:#c3-v12} [[25]](#n-25){:#rn-25} Por eso, por culpa vuestra, Sión será arada como un campo; Jerusalén será un montón de escombros, y el monte del Templo una colina cubierta de selva.
 
@@ -120,7 +120,7 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 
 [1](#c4-v1){:#c4-v1} [[26]](#n-26){:#rn-26} Sucederá al fin de los días que el monte de la Casa de Yahvé tendrá su fundamento en la cima de los montes, y se elevará sobre las alturas. Afluirán a él los pueblos,
 
-[2](#c4-v2){:#c4-v2} y vendrán numerosas naciones, que dirán: "¡Venid, y subamos al monte de Yahvé, y a la casa del Dios de Jacob! Él nos enseñará sus caminos, y andaremos por sus senderos." Pues de Sión saldrá la ley, y de Jerusalén la palabra de Yahvé.
+[2](#c4-v2){:#c4-v2} y vendrán numerosas naciones, que dirán: «¡Venid, y subamos al monte de Yahvé, y a la casa del Dios de Jacob! Él nos enseñará sus caminos, y andaremos por sus senderos.» Pues de Sión saldrá la ley, y de Jerusalén la palabra de Yahvé.
 
 [3](#c4-v3){:#c4-v3} [[27]](#n-27){:#rn-27} Reinará Él sobre muchos pueblos, y juzgará a fuertes naciones, hasta las más remotas; y harán de sus espadas rejas de arado, y podadoras de sus lanzas; no levantará la espada gente contra gente ni aprenderán más la guerra.
 
@@ -244,7 +244,7 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 
 [9](#c7-v9){:#c7-v9} Sufriré la indignación de Yahvé —pues he pecado contra Él—, hasta que Él juzgue mi causa y me haga justicia. Él me sacará a la luz, y yo contemplaré su justicia.
 
-[10](#c7-v10){:#c7-v10} [[57]](#n-57){:#rn-57} Lo verá mi enemiga, y quedará cubierta de vergüenza, aquella que me decía: "¿Dónde está Yahvé, tu Dios?" Mis ojos la contemplarán; cuando sea hollada como el lodo de las calles.
+[10](#c7-v10){:#c7-v10} [[57]](#n-57){:#rn-57} Lo verá mi enemiga, y quedará cubierta de vergüenza, aquella que me decía: «¿Dónde está Yahvé, tu Dios?» Mis ojos la contemplarán; cuando sea hollada como el lodo de las calles.
 
 ### Restauración de Israel
 

@@ -278,7 +278,7 @@ title: Segunda carta de san Pablo a los Corintios
 [5, 1](#c5-v1) Sabemos que si esta tienda de nuestra mansión terrestre se desmorona, tenemos de Dios un edificio, casa no hecha de manos, eterna en los cielos [[\*\*]](#nt-c5-v1).
 {:#c5-v1}
 
-[5, 2](#c5-v2) Y en verdad, mientras estamos en aquella, gemimos, porque anhelamos ser sobrevestidos de nuestra morada del cielo [[\*\*]](#nt-c5-v2);
+[5, 2](#c5-v2) Y en verdad, mientras estamos en aquella, gemimos, porque anhelamos ser sobrevestidos de nuestra morada del cielo [[\*\*]](#nt-c5-v2),
 {:#c5-v2}
 
 [5, 3](#c5-v3) pero con tal de ser hallados (todavía) vestidos, no desnudos [[\*\*]](#nt-c5-v3).
@@ -887,7 +887,7 @@ title: Segunda carta de san Pablo a los Corintios
 [1, 4](#c1-v4) Lo que aquí dice del **consuelo**, lo dice de los bienes en [9, 8](#c9-v8)-11: Dios nos da una y otra cosa sobradamente, para que pueda alcanzar hasta nuestro prójimo, y recibamos así, además del don mismo, el beneficio aún mayor de hacerlo servir para nuestra santificación.
 {:#nt-c1-v4}
 
-[1, 5](#c1-v5) Véase un ejemplo de está en [7, 4](#c7-v4) ss.
+[1, 5](#c1-v5) Véase un ejemplo de esta en [7, 4](#c7-v4) ss.
 {:#nt-c1-v5}
 
 [1, 8](#c1-v8) s. En Éfeso, donde el platero Demetrio, con apariencia de piedad, promovió un ruidoso alboroto contra el apóstol, por defender su negocio de imágenes de la diosa Diana (Hechos [19, 23](hechos#c19-v23) ss.).

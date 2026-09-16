@@ -8,21 +8,21 @@ title: Job
 
 Con el libro de Job volvemos a los tiempos patriarcales. Job, un varón justo y temeroso de Dios, está acosado por tribulaciones de tal manera que, humanamente, ya no puede soportarlas. Sin embargo, no pierde la paciencia, sino que resiste a todas las tentaciones de desesperación, guardando la fe en la divina justicia y providencia, aunque no siempre la noticia del amor que Dios nos tiene, y de la bondad que viene de ese amor (1 Juan [4, 16](1-juan#c4-v16)) y según la cual no puede sucedernos nada que no sea para nuestro bien. Tal es lo que distingue a este santo varón del Antiguo Testamento, de lo que ha de ser el cristiano.
 
-Inicia el autor sagrado su tema con un prólogo (caps. 1-2), en el cual Satanás obtiene de Dios permiso para poner a prueba la piedad de Job. La parte principal (caps. 3-42, 6) trata, en forma de un triple diálogo entre Job y sus tres amigos, el problema de por qué debe sufrir el hombre y cómo es compatible el dolor de los justos con la justicia de Dios. Ni Job ni sus amigos saben la verdadera razón de los padecimientos, sosteniendo los amigos la idea de que los dolores son consecuencia del pecado, mientras que Job insiste en que no lo tiene.
+Inicia el autor sagrado su tema con un prólogo (caps. [1](#c1)-[2](#c2)), en el cual Satanás obtiene de Dios permiso para poner a prueba la piedad de Job. La parte principal (caps. [3](#c3)-[42, 6](#c42-v6)) trata, en forma de un triple diálogo entre Job y sus tres amigos, el problema de por qué debe sufrir el hombre y cómo es compatible el dolor de los justos con la justicia de Dios. Ni Job ni sus amigos saben la verdadera razón de los padecimientos, sosteniendo los amigos la idea de que los dolores son consecuencia del pecado, mientras que Job insiste en que no lo tiene.
 
 En el momento crítico interviene Eliú, que hasta entonces había quedado callado, y lleva la cuestión más cerca de su solución definitiva, afirmando que Dios a veces envía las tribulaciones para purificar y acrisolar al hombre.
 
-Al fin aparece Dios mismo, en medio de un huracán, y aclara el problema, condenando los falsos conceptos de los amigos y aprobando a Job, aunque reprendiéndolo también en parte por su empeño en someter a juicio los designios divinos con respecto a él. ¿Acaso no debemos saber que son paternales y por lo tanto misericordiosos? En el epílogo (cap. 42, 1-16) se describe la restitución de Job a su estado anterior.
+Al fin aparece Dios mismo, en medio de un huracán, y aclara el problema, condenando los falsos conceptos de los amigos y aprobando a Job, aunque reprendiéndolo también en parte por su empeño en someter a juicio los designios divinos con respecto a él. ¿Acaso no debemos saber que son paternales y por lo tanto misericordiosos? En el epílogo (cap. [42, 1](#c42-v1)-16) se describe la restitución de Job a su estado anterior.
 
 La historicidad de la persona de Job está atestiguada repetidas veces por textos de la Sagrada Escritura (Ezequiel [14, 14](ezequiel#c14-v14) y [20](ezequiel#c14-v20); Tobías [2, 12](tobias#c2-v12); Santiago [5, 11](santiago#c5-v11)), que confirman también su gran santidad. Según la versión griega, Job era descendiente de Abrahán en quinta generación, y se identificaría con Jobab, segundo rey de Idumea. Pero esta versión se aparta considerablemente del original. De todos modos, es cosa admitida, que Job no pertenecía al pueblo que había de ser escogido, lo cual hace más notable su ejemplo.
 
 El autor inspirado que compuso el poema, reuniendo en forma sumamente artística las tradiciones acerca de Job, vivió en una época, en la cual la literatura religiosa estaba en pleno florecimiento, es decir, antes del cautiverio babilónico. No es de negar que el estilo del libro tenga cierta semejanza con el del profeta Jeremías, por lo cual algunos consideran a este como autor, aunque está claro que Jeremías es posterior y reproduciría pasajes de Job. Cf. Jeremías [12, 1](jeremias#c12-v1) y Job [21, 1](job#c21-v1); Jeremías [11, 1](jeremias#c11-v1) y Job [19, 23](job#c19-v23); Jeremías [20, 14](jeremias#c20-v14)-18 y Job [3, 3](job#c3-v3)-10; Jeremías [20, 11](jeremias#c20-v11) y Job [3, 11](job#c3-v11), etc. Otros lo han atribuido al mismo Job, a Eliú, a Moisés, a Salomón, a Daniel. Ya San Gregorio Magno señala la imposibilidad de establecer el nombre del autor.
 
-Job, cubierto de llagas, insultado por sus amigos, padeciendo sin culpa, y presentando a Dios quejas tan desgarradoras como confiadas, es imagen de Jesucristo, y solo así podemos descubrir el abismo de este Libro que es una maravillosa prueba de nuestra fe. Porque toda la fuerza de la razón nos lleva a pensar que hay injusticia en la tortura del inocente. Y es Dios mismo quien se declara responsable de esas torturas. Esta prueba nos hace penetrar en el gran misterio de "injusticia" que el amor infinito del Padre consumó a favor nuestro: hacer sufrir al Inocente, por salvar a los culpables. ¡Y el castigado era SU HIJO único!
+Job, cubierto de llagas, insultado por sus amigos, padeciendo sin culpa, y presentando a Dios quejas tan desgarradoras como confiadas, es imagen de Jesucristo, y solo así podemos descubrir el abismo de este Libro que es una maravillosa prueba de nuestra fe. Porque toda la fuerza de la razón nos lleva a pensar que hay injusticia en la tortura del inocente. Y es Dios mismo quien se declara responsable de esas torturas. Esta prueba nos hace penetrar en el gran misterio de «injusticia» que el amor infinito del Padre consumó a favor nuestro: hacer sufrir al Inocente, por salvar a los culpables. ¡Y el castigado era SU HIJO único!
 
-Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job y comprenden sucesivamente los siguientes pasajes: [7, 16](book#c7-v16)-21; [10, 1](book#c10-v1)-7, 8-12; [13, 22](book#c13-v22)-28; [14, 1](book#c14-v1)-6, 13-16; 17, 1-[3, 11](book#c3-v11)-15; [19, 20](book#c19-v20)-27; 10, 18-22.
+Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job y comprenden sucesivamente los siguientes pasajes: [7, 16](#c7-v16)-21; [10, 1](#c10-v1)-[7, 8](#c7-v8)-12; [13, 22](#c13-v22)-28; [14, 1](#c14-v1)-[6, 13](#c6-v13)-16; [17, 1](#c17-v1)-[3, 11](#c3-v11)-15; [19, 20](#c19-v20)-27; [10, 18](#c10-v18)-22.
 
-## PRÓLOGO
+## Prólogo
 
 ### Job [1](#c1) {#c1}
 
@@ -36,45 +36,45 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [4](#c1-v4){:#c1-v4} Sus hijos solían visitarse el uno al otro en sus casas y celebrar banquetes, cada cual en su día, e invitaban también a sus tres hermanas a comer y beber con ellos.
 
-[5](#c1-v5){:#c1-v5} [[3]](#n-3){:#rn-3} Concluido el turno de los días del convite, Job los hacía venir, y los santificaba. Madrugando por la mañana ofrecía holocaustos conforme al número de todos ellos; pues decía Job: "Quizá hayan pecado mis hijos, y maldecido a Dios en sus corazones." Así obraba Job siempre.
+[5](#c1-v5){:#c1-v5} [[3]](#n-3){:#rn-3} Concluido el turno de los días del convite, Job los hacía venir, y los santificaba. Madrugando por la mañana ofrecía holocaustos conforme al número de todos ellos; pues decía Job: «Quizá hayan pecado mis hijos, y maldecido a Dios en sus corazones.» Así obraba Job siempre.
 
 #### Dios da a Satanás poder sobre Job
 
 [6](#c1-v6){:#c1-v6} [[4]](#n-4){:#rn-4} Un día cuando los hijos de Dios fueron a presentarse delante de Yahvé, vino también entre ellos Satanás.
 
-[7](#c1-v7){:#c1-v7} Y dijo Yahvé a Satanás: "¿De dónde vienes?" Respondió Satanás a Yahvé y dijo: "Acabo de dar una vuelta por la tierra y pasearme por ella."
+[7](#c1-v7){:#c1-v7} Y dijo Yahvé a Satanás: «¿De dónde vienes?» Respondió Satanás a Yahvé y dijo: «Acabo de dar una vuelta por la tierra y pasearme por ella.»
 
-[8](#c1-v8){:#c1-v8} [[5]](#n-5){:#rn-5} Y preguntó Yahvé a Satanás: "¿Has reparado en mi siervo Job?, pues no hay ninguno como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal."
+[8](#c1-v8){:#c1-v8} [[5]](#n-5){:#rn-5} Y preguntó Yahvé a Satanás: «¿Has reparado en mi siervo Job?, pues no hay ninguno como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal.»
 
-[9](#c1-v9){:#c1-v9} [[6]](#n-6){:#rn-6} Respondió Satanás a Yahvé, y dijo: "¿Acaso teme Job a Dios desinteresadamente?
+[9](#c1-v9){:#c1-v9} [[6]](#n-6){:#rn-6} Respondió Satanás a Yahvé, y dijo: «¿Acaso teme Job a Dios desinteresadamente?
 
 [10](#c1-v10){:#c1-v10} ¿No le has rodeado con tu protección por todas partes a él, su casa y todo cuanto tiene? Has bendecido la obra de sus manos, y su hacienda se ha multiplicado sobre la tierra.
 
-[11](#c1-v11){:#c1-v11} Pero anda, extiende tu mano y toca cuanto es suyo, y verás cómo te maldice en la cara."
+[11](#c1-v11){:#c1-v11} Pero anda, extiende tu mano y toca cuanto es suyo, y verás cómo te maldice en la cara.»
 
-[12](#c1-v12){:#c1-v12} [[7]](#n-7){:#rn-7} Dijo entonces Yahvé a Satanás: "He aquí que todo cuanto tiene está en tu mano; pero no extiendas tu mano contra su persona." Con esto se retiró Satanás de la presencia de Yahvé.
+[12](#c1-v12){:#c1-v12} [[7]](#n-7){:#rn-7} Dijo entonces Yahvé a Satanás: «He aquí que todo cuanto tiene está en tu mano; pero no extiendas tu mano contra su persona.» Con esto se retiró Satanás de la presencia de Yahvé.
 
 #### Job privado de sus bienes
 
 [13](#c1-v13){:#c1-v13} Ahora bien, mientras un día sus hijos y sus hijas estaban comiendo y bebiendo vino en casa de su hermano mayor,
 
-[14](#c1-v14){:#c1-v14} llegó un mensajero a Job y dijo: "Estaban los bueyes arando, y las asnas paciendo junto a ellos,
+[14](#c1-v14){:#c1-v14} llegó un mensajero a Job y dijo: «Estaban los bueyes arando, y las asnas paciendo junto a ellos,
 
-[15](#c1-v15){:#c1-v15} [[8]](#n-8){:#rn-8} cuando cayeron sobre ellos los sabeos y se los llevaron, pasando a cuchillo a los siervos. Y yo solo he escapado para traerte la noticia."
+[15](#c1-v15){:#c1-v15} [[8]](#n-8){:#rn-8} cuando cayeron sobre ellos los sabeos y se los llevaron, pasando a cuchillo a los siervos. Y yo solo he escapado para traerte la noticia.»
 
-[16](#c1-v16){:#c1-v16} [[9]](#n-9){:#rn-9} Todavía estaba este hablando, cuando llegó otro, que dijo: "Fuego de Dios ha caído del cielo, que abrasó a las ovejas y a los siervos, devorándolos; yo solo he podido escapar para traerte la noticia."
+[16](#c1-v16){:#c1-v16} [[9]](#n-9){:#rn-9} Todavía estaba este hablando, cuando llegó otro, que dijo: «Fuego de Dios ha caído del cielo, que abrasó a las ovejas y a los siervos, devorándolos; yo solo he podido escapar para traerte la noticia.»
 
-[17](#c1-v17){:#c1-v17} [[10]](#n-10){:#rn-10} Todavía estaba este hablando, cuando vino otro, que dijo: "Los caldeos, divididos en tres cuadrillas, cayeron sobre los camellos y se los llevaron, pasando a cuchillo a los siervos; y yo solo he escapado para traerte la noticia."
+[17](#c1-v17){:#c1-v17} [[10]](#n-10){:#rn-10} Todavía estaba este hablando, cuando vino otro, que dijo: «Los caldeos, divididos en tres cuadrillas, cayeron sobre los camellos y se los llevaron, pasando a cuchillo a los siervos; y yo solo he escapado para traerte la noticia.»
 
-[18](#c1-v18){:#c1-v18} Aún estaba este hablando, cuando entró otro y dijo: "Mientras tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano mayor,
+[18](#c1-v18){:#c1-v18} Aún estaba este hablando, cuando entró otro y dijo: «Mientras tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano mayor,
 
-[19](#c1-v19){:#c1-v19} sobrevino del otro lado del desierto un gran viento, que sacudió las cuatro esquinas de la casa, la cual cayó sobre los jóvenes, que quedaron muertos; y yo solo he escapado para traerte la noticia."
+[19](#c1-v19){:#c1-v19} sobrevino del otro lado del desierto un gran viento, que sacudió las cuatro esquinas de la casa, la cual cayó sobre los jóvenes, que quedaron muertos; y yo solo he escapado para traerte la noticia.»
 
 #### En la adversidad Job bendice a Dios
 
 [20](#c1-v20){:#c1-v20} [[11]](#n-11){:#rn-11} Entonces Job se levantó, rasgó su manto y se rapó la cabeza. Y postrado en tierra adoró,
 
-[21](#c1-v21){:#c1-v21} [[12]](#n-12){:#rn-12} y dijo: "Desnudo salí de las entrañas de mi madre y desnudo volveré allá. Yahvé lo ha dado, Yahvé lo ha quitado. ¡Sea bendito el nombre de Yahvé!"
+[21](#c1-v21){:#c1-v21} [[12]](#n-12){:#rn-12} y dijo: «Desnudo salí de las entrañas de mi madre y desnudo volveré allá. Yahvé lo ha dado, Yahvé lo ha quitado. ¡Sea bendito el nombre de Yahvé!»
 
 [22](#c1-v22){:#c1-v22} En todo esto no pecó Job, ni dijo palabra insensata contra Dios.
 
@@ -84,23 +84,23 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c2-v1){:#c2-v1} Sucedió que un día se presentaron los hijos de Dios delante de Yahvé, y en medio de ellos vino también Satanás a ponerse en su presencia.
 
-[2](#c2-v2){:#c2-v2} [[13]](#n-13){:#rn-13} Dijo Yahvé a Satanás: "¿De dónde vienes?" Satanás respondió a Yahvé y dijo: "Acabo de dar una vuelta por la tierra y pasearme por ella."
+[2](#c2-v2){:#c2-v2} [[13]](#n-13){:#rn-13} Dijo Yahvé a Satanás: «¿De dónde vienes?» Satanás respondió a Yahvé y dijo: «Acabo de dar una vuelta por la tierra y pasearme por ella.»
 
-[3](#c2-v3){:#c2-v3} Preguntó Yahvé a Satanás: "¿Has reparado en mi siervo Job?, pues no hay ninguno como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal, que persevera en su integridad, aunque tú me has incitado contra él, para perderle sin causa."
+[3](#c2-v3){:#c2-v3} Preguntó Yahvé a Satanás: «¿Has reparado en mi siervo Job?, pues no hay ninguno como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal, que persevera en su integridad, aunque tú me has incitado contra él, para perderle sin causa.»
 
-[4](#c2-v4){:#c2-v4} [[14]](#n-14){:#rn-14} Respondió Satanás a Yahvé y dijo: "Piel por piel; porque todo cuanto tiene el hombre lo da por su vida.
+[4](#c2-v4){:#c2-v4} [[14]](#n-14){:#rn-14} Respondió Satanás a Yahvé y dijo: «Piel por piel; porque todo cuanto tiene el hombre lo da por su vida.
 
-[5](#c2-v5){:#c2-v5} [[15]](#n-15){:#rn-15} Pero anda, extiende tu mano y toca su hueso y carne, y verás cómo te maldice en la cara."
+[5](#c2-v5){:#c2-v5} [[15]](#n-15){:#rn-15} Pero anda, extiende tu mano y toca su hueso y carne, y verás cómo te maldice en la cara.»
 
-[6](#c2-v6){:#c2-v6} Dijo, pues, Yahvé a Satanás: "He aquí que en tu mano está, pero consérvale la vida."
+[6](#c2-v6){:#c2-v6} Dijo, pues, Yahvé a Satanás: «He aquí que en tu mano está, pero consérvale la vida.»
 
 [7](#c2-v7){:#c2-v7} [[16]](#n-16){:#rn-16} Salió Satanás de la presencia de Yahvé, e hirió a Job con una úlcera maligna desde la planta de los pies hasta la coronilla de la cabeza.
 
 [8](#c2-v8){:#c2-v8} [[17]](#n-17){:#rn-17} Entonces este sentado sobre ceniza, tomó un casco de teja para rasparse con él (la podredumbre).
 
-[9](#c2-v9){:#c2-v9} [[18]](#n-18){:#rn-18} Su mujer le dijo: "¿Todavía perseveras en tu rectitud? ¡Maldice a Dios, y muérete!"
+[9](#c2-v9){:#c2-v9} [[18]](#n-18){:#rn-18} Su mujer le dijo: «¿Todavía perseveras en tu rectitud? ¡Maldice a Dios, y muérete!»
 
-[10](#c2-v10){:#c2-v10} [[19]](#n-19){:#rn-19} Mas él le dijo: "Hablas como una mujer necia. Si hemos aceptado el bien de parte de Dios, ¿no hemos de aceptar también el mal?" En todo esto no pecó Job con sus labios.
+[10](#c2-v10){:#c2-v10} [[19]](#n-19){:#rn-19} Mas él le dijo: «Hablas como una mujer necia. Si hemos aceptado el bien de parte de Dios, ¿no hemos de aceptar también el mal?» En todo esto no pecó Job con sus labios.
 
 #### Vienen los amigos de Job
 
@@ -110,7 +110,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [13](#c2-v13){:#c2-v13} [[21]](#n-21){:#rn-21} y quedaron con él sentados en tierra siete días y siete noches, sin hablarle palabra, pues veían que su dolor era muy grande.
 
-## I. Discusión de job con sus amigos
+## I. Discusión de Job con sus amigos
 
 ### Job [3](#c3) {#c3}
 
@@ -118,7 +118,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [2](#c3-v2){:#c3-v2} Tomando Job la palabra dijo:
 
-[3](#c3-v3){:#c3-v3} "¡Perezca el día en que nací, y la noche que dijo: Ha sido concebido varón!
+[3](#c3-v3){:#c3-v3} «¡Perezca el día en que nací, y la noche que dijo: Ha sido concebido varón!
 
 [4](#c3-v4){:#c3-v4} Conviértase aquel día en tinieblas; no pregunte por él Dios desde lo alto, ni resplandezca sobre él la luz.
 
@@ -164,7 +164,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [25](#c3-v25){:#c3-v25} [[29]](#n-29){:#rn-29} Lo que temía, eso me ha sucedido, y lo que recelaba, eso me ha sobrevenido.
 
-[26](#c3-v26){:#c3-v26} Estoy sin tranquilidad, sin paz, sin descanso, se ha apoderado de mí la turbación."
+[26](#c3-v26){:#c3-v26} Estoy sin tranquilidad, sin paz, sin descanso, se ha apoderado de mí la turbación.»
 
 ### Job [4](#c4) {#c4}
 
@@ -172,7 +172,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c4-v1){:#c4-v1} [[30]](#n-30){:#rn-30} Entonces Elifaz temanita tomó la palabra y dijo:
 
-[2](#c4-v2){:#c4-v2} "¿Te molestará por ventura si osamos hablarte? Mas ¿quién puede contener las palabras?
+[2](#c4-v2){:#c4-v2} «¿Te molestará por ventura si osamos hablarte? Mas ¿quién puede contener las palabras?
 
 [3](#c4-v3){:#c4-v3} Mira, tú has enseñado a muchos, y a las manos débiles dabas fuerza.
 
@@ -202,7 +202,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [16](#c4-v16){:#c4-v16} Se detuvo, pero no pude conocer su rostro; estaba cual espectro ante mis ojos; y en el silencio oí una voz (que decía):
 
-[17](#c4-v17){:#c4-v17} [[33]](#n-33){:#rn-33} *¿Acaso el hombre es más justo que Dios? ¿el mortal más puro que su Hacedor?*
+[17](#c4-v17){:#c4-v17} [[33]](#n-33){:#rn-33} "¿Acaso el hombre es más justo que Dios? ¿el mortal más puro que su Hacedor?"
 
 [18](#c4-v18){:#c4-v18} [[34]](#n-34){:#rn-34} Si Él ni de sus mismos ministros se fía, y aun en sus ángeles descubre faltas,
 
@@ -210,13 +210,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [20](#c4-v20){:#c4-v20} De la noche a la mañana son exterminados, perecen para siempre sin que nadie repare en ello.
 
-[21](#c4-v21){:#c4-v21} [[35]](#n-35){:#rn-35} Se les corta el hilo de su (vida); mueren sin sabiduría.
+[21](#c4-v21){:#c4-v21} [[35]](#n-35){:#rn-35} Se les corta el hilo de su (vida); mueren sin sabiduría.»
 
 ### Job [5](#c5) {#c5}
 
 #### Continuación del primer discurso de Elifaz.
 
-[1](#c5-v1){:#c5-v1} [[36]](#n-36){:#rn-36} Llama, pues, si hay quien te responda. ¿A cuál de los santos te dirigirás?
+[1](#c5-v1){:#c5-v1} [[36]](#n-36){:#rn-36} «Llama, pues, si hay quien te responda. ¿A cuál de los santos te dirigirás?
 
 [2](#c5-v2){:#c5-v2} [[37]](#n-37){:#rn-37} Porque al necio le mata la cólera, y al fatuo la envidia.
 
@@ -268,7 +268,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [26](#c5-v26){:#c5-v26} Entrarás en el sepulcro en plena madurez cual gavilla segada a su tiempo.
 
-[27](#c5-v27){:#c5-v27} Esto es lo que hemos visto. Así es. Óyelo bien y medítalo para tu provecho."
+[27](#c5-v27){:#c5-v27} Esto es lo que hemos visto. Así es. Óyelo bien y medítalo para tu provecho.»
 
 ### Job [6](#c6) {#c6}
 
@@ -276,7 +276,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c6-v1){:#c6-v1} [[47]](#n-47){:#rn-47} Respondió Job y dijo:
 
-[2](#c6-v2){:#c6-v2} "¡Oh! ¡Si pudiera pesarse mi aflicción, ponerse en balanza toda mi calamidad!
+[2](#c6-v2){:#c6-v2} «¡Oh! ¡Si pudiera pesarse mi aflicción, ponerse en balanza toda mi calamidad!
 
 [3](#c6-v3){:#c6-v3} Pesarían más que la arena del mar. Por eso mis palabras son sin moderación.
 
@@ -332,13 +332,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [29](#c6-v29){:#c6-v29} ¡Reparad, os ruego; no seáis injustos! Reflexionad de nuevo, y mi inocencia se hará manifiesta.
 
-[30](#c6-v30){:#c6-v30} ¿Hay acaso en mi lengua iniquidad? ¿Puede mi paladar ya no distinguir la maldad?
+[30](#c6-v30){:#c6-v30} ¿Hay acaso en mi lengua iniquidad? ¿Puede mi paladar ya no distinguir la maldad?»
 
 ### Job [7](#c7) {#c7}
 
 #### Job continúa su defensa
 
-[1](#c7-v1){:#c7-v1} [[56]](#n-56){:#rn-56} Milicia es la vida del hombre sobre la tierra; como los del jornalero son sus días.
+[1](#c7-v1){:#c7-v1} [[56]](#n-56){:#rn-56} «Milicia es la vida del hombre sobre la tierra; como los del jornalero son sus días.
 
 [2](#c7-v2){:#c7-v2} Como el siervo suspira por la sombra, y como el jornalero espera su salario;
 
@@ -362,7 +362,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [12](#c7-v12){:#c7-v12} [[61]](#n-61){:#rn-61} ¿Soy yo el mar, o algún monstruo marino, para que me tengas encerrado con guardias?
 
-[13](#c7-v13){:#c7-v13} Cuando digo: Mi lecho me consolará, mi cama aliviará mi pesar,
+[13](#c7-v13){:#c7-v13} Cuando digo: "Mi lecho me consolará, mi cama aliviará mi pesar",
 
 [14](#c7-v14){:#c7-v14} entonces me aterras con sueños, y me espantas con visiones.
 
@@ -378,7 +378,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [20](#c7-v20){:#c7-v20} [[64]](#n-64){:#rn-64} Si he pecado, ¿qué te he hecho con eso, oh Guardador de los hombres? ¿Por qué me pones por blanco a mí, que soy una carga para mí mismo?
 
-[21](#c7-v21){:#c7-v21} [[65]](#n-65){:#rn-65} ¿Por qué no perdonas mi pecado ni borras mi iniquidad? Pues pronto me dormiré en el polvo; y si me buscas, ya no existiré."
+[21](#c7-v21){:#c7-v21} [[65]](#n-65){:#rn-65} ¿Por qué no perdonas mi pecado ni borras mi iniquidad? Pues pronto me dormiré en el polvo; y si me buscas, ya no existiré.»
 
 ### Job [8](#c8) {#c8}
 
@@ -386,7 +386,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c8-v1){:#c8-v1} [[66]](#n-66){:#rn-66} Entonces tomó la palabra Baldad suhita y dijo:
 
-[2](#c8-v2){:#c8-v2} "¿Hasta cuándo hablarás de este modo y serán las palabras de tu boca cual viento tempestuoso?
+[2](#c8-v2){:#c8-v2} «¿Hasta cuándo hablarás de este modo y serán las palabras de tu boca cual viento tempestuoso?
 
 [3](#c8-v3){:#c8-v3} [[67]](#n-67){:#rn-67} ¿Acaso Dios tuerce el derecho, o pervierte el Omnipotente la justicia?
 
@@ -418,7 +418,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [17](#c8-v17){:#c8-v17} sus raíces se entrelazan sobre el montón de piedras, hundiéndose hasta donde está la roca;
 
-[18](#c8-v18){:#c8-v18} más cuando se lo arranca de su lugar, este lo desconoce (diciendo): *Nunca te he visto.*
+[18](#c8-v18){:#c8-v18} más cuando se lo arranca de su lugar, este lo desconoce (diciendo): "Nunca te he visto."
 
 [19](#c8-v19){:#c8-v19} No es otro el gozo que está al fin de su camino, y de su polvo nacerán otros.
 
@@ -426,7 +426,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [21](#c8-v21){:#c8-v21} Algún día rebosará de risa tu boca, y tus labios de júbilo.
 
-[22](#c8-v22){:#c8-v22} [[70]](#n-70){:#rn-70} Los que te aborrecen se cubrirán de ignominia, y la tienda de los impíos dejará de existir."
+[22](#c8-v22){:#c8-v22} [[70]](#n-70){:#rn-70} Los que te aborrecen se cubrirán de ignominia, y la tienda de los impíos dejará de existir.»
 
 ### Job [9](#c9) {#c9}
 
@@ -434,7 +434,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c9-v1){:#c9-v1} Respondió Job y dijo:
 
-[2](#c9-v2){:#c9-v2} [[71]](#n-71){:#rn-71} "Bien sé que es así. ¿Cómo puede el hombre ser justo frente a Dios?
+[2](#c9-v2){:#c9-v2} [[71]](#n-71){:#rn-71} «Bien sé que es así. ¿Cómo puede el hombre ser justo frente a Dios?
 
 [3](#c9-v3){:#c9-v3} Si pretendiera contender con él, de mil (cargos) no respondería a uno solo.
 
@@ -454,7 +454,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [11](#c9-v11){:#c9-v11} He aquí que pasa junto a mí, y yo no le veo; y si se retira, tampoco lo advierto.
 
-[12](#c9-v12){:#c9-v12} Si Él toma una presa ¿quién hará que la devuelva? ¿quién podrá decirle: *¿Qué es lo que haces?*
+[12](#c9-v12){:#c9-v12} Si Él toma una presa ¿quién hará que la devuelva? ¿quién podrá decirle: "¿Qué es lo que haces?"
 
 [13](#c9-v13){:#c9-v13} [[74]](#n-74){:#rn-74} Él es Dios, no hay quien pueda doblegar su ira; debajo de Él se encorvan los auxiliares de Rahab.
 
@@ -468,13 +468,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [18](#c9-v18){:#c9-v18} No me deja respirar y me harta de amargura.
 
-[19](#c9-v19){:#c9-v19} Si se trata de fuerza, el poderoso es Él, y si de justicia (dice): *¿Quién me emplazará?*
+[19](#c9-v19){:#c9-v19} Si se trata de fuerza, el poderoso es Él, y si de justicia (dice): "¿Quién me emplazará?"
 
 [20](#c9-v20){:#c9-v20} [[76]](#n-76){:#rn-76} Aun cuando yo tuviera razón mi boca me condenaría, aunque fuera inocente, me declararía culpable.
 
 [21](#c9-v21){:#c9-v21} Soy inocente, pero no me importa mi existencia, no hago caso de mi vida.
 
-[22](#c9-v22){:#c9-v22} Es todo lo mismo; por eso he dicho: *Él acaba con el inocente como con el impío.*
+[22](#c9-v22){:#c9-v22} Es todo lo mismo; por eso he dicho: "Él acaba con el inocente como con el impío."
 
 [23](#c9-v23){:#c9-v23} [[77]](#n-77){:#rn-77} ¡Si al menos el azote matase de repente! Él se ríe de la prueba de los inocentes.
 
@@ -484,7 +484,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [26](#c9-v26){:#c9-v26} pasan como las naves de junco, cual águila que se arroja sobre la presa.
 
-[27](#c9-v27){:#c9-v27} Si digo: *Olvidaré mis quejas, voy a mudar mi semblante, y me regocijaré*,
+[27](#c9-v27){:#c9-v27} Si digo: "Olvidaré mis quejas, voy a mudar mi semblante, y me regocijaré",
 
 [28](#c9-v28){:#c9-v28} me espantan todos mis dolores, pues sé que Tú no me declaras inocente.
 
@@ -494,21 +494,21 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [31](#c9-v31){:#c9-v31} [[78]](#n-78){:#rn-78} Tú me sumergirías en el fango, y hasta mis vestidos me darían asco.
 
-[32](#c9-v32){:#c9-v32} [[79]](#n-79){:#rn-79} Porque Él no es un hombre como yo, a quien se pudiera decir: *¡Vamos juntos a juicio!*
+[32](#c9-v32){:#c9-v32} [[79]](#n-79){:#rn-79} Porque Él no es un hombre como yo, a quien se pudiera decir: "¡Vamos juntos a juicio!"
 
 [33](#c9-v33){:#c9-v33} [[80]](#n-80){:#rn-80} No hay entre nosotros árbitro que ponga la mano sobre entrambos.
 
 [34](#c9-v34){:#c9-v34} [[81]](#n-81){:#rn-81} Aparte Él de mí su vara, y no me espante su terror:
 
-[35](#c9-v35){:#c9-v35} entonces hablaré, sin tenerle miedo, porque así como estoy, no me conozco a mí mismo."
+[35](#c9-v35){:#c9-v35} entonces hablaré, sin tenerle miedo, porque así como estoy, no me conozco a mí mismo.»
 
 ### Job [10](#c10) {#c10}
 
 #### Continúa la respuesta de Job a Baldad
 
-[1](#c10-v1){:#c10-v1} [[82]](#n-82){:#rn-82} "Tedio de vida tiene mi alma, daré libre curso a mis quejas; hablaré con la amargura de mi alma.
+[1](#c10-v1){:#c10-v1} [[82]](#n-82){:#rn-82} «Tedio de vida tiene mi alma, daré libre curso a mis quejas; hablaré con la amargura de mi alma.
 
-[2](#c10-v2){:#c10-v2} Diré a Dios: *No me condenes*; dime por qué contiendes conmigo.
+[2](#c10-v2){:#c10-v2} Diré a Dios: "No me condenes"; dime por qué contiendes conmigo.
 
 [3](#c10-v3){:#c10-v3} Te parece acaso bien oprimirme, desechar la obra de tus manos, y favorecer los designios de los malvados?
 
@@ -548,7 +548,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [21](#c10-v21){:#c10-v21} [[88]](#n-88){:#rn-88} antes que me vaya, para no volver, a la tierra de tiniebla y de sombra de muerte,
 
-[22](#c10-v22){:#c10-v22} tierra de tiniebla, parecida a densísima lobreguez, sombra de muerte, sin orden alguno, cuya luz es semejante a espesas tinieblas."
+[22](#c10-v22){:#c10-v22} tierra de tiniebla, parecida a densísima lobreguez, sombra de muerte, sin orden alguno, cuya luz es semejante a espesas tinieblas.»
 
 ### Job [11](#c11) {#c11}
 
@@ -556,7 +556,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c11-v1){:#c11-v1} [[89]](#n-89){:#rn-89} Entonces Sofar naamatita tomó la palabra y dijo:
 
-[2](#c11-v2){:#c11-v2} [[90]](#n-90){:#rn-90} "¿Acaso no hay que contestar al que vomita palabras? ¿el hombre verboso ha de tener razón?
+[2](#c11-v2){:#c11-v2} [[90]](#n-90){:#rn-90} «¿Acaso no hay que contestar al que vomita palabras? ¿el hombre verboso ha de tener razón?
 
 [3](#c11-v3){:#c11-v3} ¿Tu palabrería hará callar a los hombres? y cuanto te burlas, ¿no habrá quien te confunda?
 
@@ -592,7 +592,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [19](#c11-v19){:#c11-v19} te acostarás, y no habrá quien te espante, y muchos acariciarán tu rostro.
 
-[20](#c11-v20){:#c11-v20} Pero los ojos de los impíos desfallecerán; para ellos no habrá escape alguno; su esperanza será exhalar el alma."
+[20](#c11-v20){:#c11-v20} Pero los ojos de los impíos desfallecerán; para ellos no habrá escape alguno; su esperanza será exhalar el alma.»
 
 ### Job [12](#c12) {#c12}
 
@@ -600,7 +600,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c12-v1){:#c12-v1} Respondió Job y dijo:
 
-[2](#c12-v2){:#c12-v2} [[96]](#n-96){:#rn-96} "De veras, vosotros sois hombres, y con vosotros morirá la sabiduría.
+[2](#c12-v2){:#c12-v2} [[96]](#n-96){:#rn-96} «De veras, vosotros sois hombres, y con vosotros morirá la sabiduría.
 
 [3](#c12-v3){:#c12-v3} [[97]](#n-97){:#rn-97} También yo tengo seso como vosotros; ninguna ventaja tenéis sobre mí; ¿y quién no sabe lo que decís?
 
@@ -646,13 +646,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [24](#c12-v24){:#c12-v24} [[109]](#n-109){:#rn-109} Quita la inteligencia a los príncipes de los pueblos de la tierra, y los hace vagar por un desierto sin camino;
 
-[25](#c12-v25){:#c12-v25} [[110]](#n-110){:#rn-110} andan a tientas en tinieblas, sin tener luz; Él los hace errar como a embriagados."
+[25](#c12-v25){:#c12-v25} [[110]](#n-110){:#rn-110} andan a tientas en tinieblas, sin tener luz; Él los hace errar como a embriagados.»
 
 ### Job [13](#c13) {#c13}
 
 #### Continúa la defensa de Job
 
-[1](#c13-v1){:#c13-v1} "Todo esto lo han visto mis ojos; mis oídos lo han oído y lo comprendieron.
+[1](#c13-v1){:#c13-v1} «Todo esto lo han visto mis ojos; mis oídos lo han oído y lo comprendieron.
 
 [2](#c13-v2){:#c13-v2} Lo que vosotros sabéis, lo sé yo también, no soy inferior a vosotros.
 
@@ -706,13 +706,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [27](#c13-v27){:#c13-v27} Pones mis pies en el cepo, observas todos mis pasos y acechas las plantas de mis pies.
 
-[28](#c13-v28){:#c13-v28} Me consumo como un (leño) carcomido, como ropa roída por la polilla."
+[28](#c13-v28){:#c13-v28} Me consumo como un (leño) carcomido, como ropa roída por la polilla.»
 
 ### Job [14](#c14) {#c14}
 
 #### Job sigue contestando a Sopar
 
-[1](#c14-v1){:#c14-v1} [[119]](#n-119){:#rn-119} "El hombre, nacido de mujer, vive corto tiempo, y se harta de miserias.
+[1](#c14-v1){:#c14-v1} [[119]](#n-119){:#rn-119} «El hombre, nacido de mujer, vive corto tiempo, y se harta de miserias.
 
 [2](#c14-v2){:#c14-v2} Brota como una flor, y se marchita, huye como la sombra, y no tiene permanencia.
 
@@ -754,7 +754,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [21](#c14-v21){:#c14-v21} Sean honrados sus hijos, él no lo sabe; o sean abatidos, él no se da cuenta de ello.
 
-[22](#c14-v22){:#c14-v22} Solo siente los propios dolores, solo por sí misma se aflige su alma."
+[22](#c14-v22){:#c14-v22} Solo siente los propios dolores, solo por sí misma se aflige su alma.»
 
 ### Job [15](#c15) {#c15}
 
@@ -762,7 +762,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c15-v1){:#c15-v1} [[126]](#n-126){:#rn-126} Entonces Elifaz temanita tomó la palabra y dijo:
 
-[2](#c15-v2){:#c15-v2} "¿Es acaso de sabios responder con argumentos vanos, y llenarse el pecho de viento,
+[2](#c15-v2){:#c15-v2} «¿Es acaso de sabios responder con argumentos vanos, y llenarse el pecho de viento,
 
 [3](#c15-v3){:#c15-v3} arguyendo con palabras inútiles, y con razones sin valor?
 
@@ -828,7 +828,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [34](#c15-v34){:#c15-v34} [[136]](#n-136){:#rn-136} La casa del impío es estéril, y el fuego consume la morada del que se deja sobornar.
 
-[35](#c15-v35){:#c15-v35} [[137]](#n-137){:#rn-137} Concibe penas y engendra maldades, nutriendo en su seno el engaño."
+[35](#c15-v35){:#c15-v35} [[137]](#n-137){:#rn-137} Concibe penas y engendra maldades, nutriendo en su seno el engaño.»
 
 ### Job [16](#c16) {#c16}
 
@@ -836,7 +836,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c16-v1){:#c16-v1} [[138]](#n-138){:#rn-138} Respondió Job y dijo:
 
-[2](#c16-v2){:#c16-v2} "Muchas cosas como estas he oído ya. Consoladores molestos sois todos.
+[2](#c16-v2){:#c16-v2} «Muchas cosas como estas he oído ya. Consoladores molestos sois todos.
 
 [3](#c16-v3){:#c16-v3} ¿Cuándo tendrán fin estas palabras de viento? ¿O qué te incita a responder así?
 
@@ -878,13 +878,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [22](#c16-v22){:#c16-v22} ¡Ojalá que hubiera juez entre el hombre y Dios, así como lo hay entre el hijo del hombre y su prójimo.
 
-[23](#c16-v23){:#c16-v23} El número de mis años se va pasando, y el camino que sigo no tiene vuelta."
+[23](#c16-v23){:#c16-v23} El número de mis años se va pasando, y el camino que sigo no tiene vuelta.»
 
 ### Job [17](#c17) {#c17}
 
 #### Continúa la respuesta de Job a Elifaz
 
-[1](#c17-v1){:#c17-v1} [[145]](#n-145){:#rn-145} "Mi aliento se agota, mis días se apagan, y (me aguarda) el sepulcro.
+[1](#c17-v1){:#c17-v1} [[145]](#n-145){:#rn-145} «Mi aliento se agota, mis días se apagan, y (me aguarda) el sepulcro.
 
 [2](#c17-v2){:#c17-v2} ¿No son mofadores los que me rodean? ¿No veo sin cesar sus provocaciones?
 
@@ -910,11 +910,11 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [13](#c17-v13){:#c17-v13} Por más que espere, el sepulcro es mi morada, en las tinieblas tengo mi lecho.
 
-[14](#c17-v14){:#c17-v14} [[152]](#n-152){:#rn-152} A la fosa he dicho: *Tú eres mi padre*; y a los gusanos: *¡Mi madre y mis hermanos!*
+[14](#c17-v14){:#c17-v14} [[152]](#n-152){:#rn-152} A la fosa he dicho: "Tú eres mi padre"; y a los gusanos: "¡Mi madre y mis hermanos!"
 
 [15](#c17-v15){:#c17-v15} ¿Dónde, pues, está mi esperanza? Mi dicha, ¿quién la verá?
 
-[16](#c17-v16){:#c17-v16} Bajarán a las puertas del scheol si de veras en el polvo hay descanso."
+[16](#c17-v16){:#c17-v16} Bajarán a las puertas del scheol si de veras en el polvo hay descanso.»
 
 ### Job [18](#c18) {#c18}
 
@@ -922,7 +922,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c18-v1){:#c18-v1} Entonces Baldad suhita tomó la palabra, y dijo:
 
-[2](#c18-v2){:#c18-v2} "¿Cuándo acabaréis de hablar? Pensad primero, luego hablaremos.
+[2](#c18-v2){:#c18-v2} «¿Cuándo acabaréis de hablar? Pensad primero, luego hablaremos.
 
 [3](#c18-v3){:#c18-v3} [[153]](#n-153){:#rn-153} ¿Por qué nos reputas por bestias, y somos unos estúpidos a tus ojos?
 
@@ -960,7 +960,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [20](#c18-v20){:#c18-v20} [[157]](#n-157){:#rn-157} En el día (de su caída) se pasmará el Occidente, y el Oriente se sobrecogerá de espanto.
 
-[21](#c18-v21){:#c18-v21} [[158]](#n-158){:#rn-158} Así son las moradas de los impíos, y tal es el paradero del que no conoce a Dios."
+[21](#c18-v21){:#c18-v21} [[158]](#n-158){:#rn-158} Así son las moradas de los impíos, y tal es el paradero del que no conoce a Dios.»
 
 ### Job [19](#c19) {#c19}
 
@@ -968,7 +968,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c19-v1){:#c19-v1} Respondió Job y dijo:
 
-[2](#c19-v2){:#c19-v2} "¿Hasta cuándo afligiréis mi alma, y queréis majarme con palabras?
+[2](#c19-v2){:#c19-v2} «¿Hasta cuándo afligiréis mi alma, y queréis majarme con palabras?
 
 [3](#c19-v3){:#c19-v3} [[159]](#n-159){:#rn-159} Ya diez veces me habéis insultado, y no os avergonzáis de ultrajarme.
 
@@ -1020,9 +1020,9 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [27](#c19-v27){:#c19-v27} Yo mismo le veré; le verán mis propios ojos, y no otro; por eso se consumen en mí mis entrañas.
 
-[28](#c19-v28){:#c19-v28} [[169]](#n-169){:#rn-169} Vosotros diréis entonces: *¿Por qué lo hemos perseguido?* Pues quedará descubierta la justicia de mi causa.
+[28](#c19-v28){:#c19-v28} [[169]](#n-169){:#rn-169} Vosotros diréis entonces: "¿Por qué lo hemos perseguido?" Pues quedará descubierta la justicia de mi causa.
 
-[29](#c19-v29){:#c19-v29} [[170]](#n-170){:#rn-170} Temed la espada, porque terribles son las venganzas de la espada; para que sepáis que hay un juicio."
+[29](#c19-v29){:#c19-v29} [[170]](#n-170){:#rn-170} Temed la espada, porque terribles son las venganzas de la espada; para que sepáis que hay un juicio.»
 
 ### Job [20](#c20) {#c20}
 
@@ -1030,7 +1030,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c20-v1){:#c20-v1} Entonces Sofar naamatita tomó la palabra y dijo:
 
-[2](#c20-v2){:#c20-v2} "Por eso mis pensamientos me sugieren una respuesta, y a eso me mueve mi interior.
+[2](#c20-v2){:#c20-v2} «Por eso mis pensamientos me sugieren una respuesta, y a eso me mueve mi interior.
 
 [3](#c20-v3){:#c20-v3} He oído la reprensión con que me insultas, mas el espíritu que tengo me impulsa a responder según mi saber.
 
@@ -1040,7 +1040,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [6](#c20-v6){:#c20-v6} Aunque su arrogancia alcance hasta el cielo, y su cabeza toque las nubes,
 
-[7](#c20-v7){:#c20-v7} como su estiércol, para siempre perecerá; los que le vieron, dirán: *¿Dónde está?*
+[7](#c20-v7){:#c20-v7} como su estiércol, para siempre perecerá; los que le vieron, dirán: "¿Dónde está?"
 
 [8](#c20-v8){:#c20-v8} Como un sueño volará, y no lo hallarán; desaparecerá cual visión nocturna.
 
@@ -1084,7 +1084,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [28](#c20-v28){:#c20-v28} La riqueza de su casa desaparecerá, será desparramada en el día de Su ira.
 
-[29](#c20-v29){:#c20-v29} Tal es la suerte que Dios al impío tiene reservada, y la herencia que Dios le ha asignado."
+[29](#c20-v29){:#c20-v29} Tal es la suerte que Dios al impío tiene reservada, y la herencia que Dios le ha asignado.»
 
 ### Job [21](#c21) {#c21}
 
@@ -1092,7 +1092,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c21-v1){:#c21-v1} [[176]](#n-176){:#rn-176} Replicó Job y dijo:
 
-[2](#c21-v2){:#c21-v2} [[177]](#n-177){:#rn-177} "Escuchad bien mis palabras. Que me deis, a lo menos, este consuelo.
+[2](#c21-v2){:#c21-v2} [[177]](#n-177){:#rn-177} «Escuchad bien mis palabras. Que me deis, a lo menos, este consuelo.
 
 [3](#c21-v3){:#c21-v3} Toleradme, para que pueda hablar; y cuando haya hablado, podréis burlaros.
 
@@ -1116,9 +1116,9 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [13](#c21-v13){:#c21-v13} [[180]](#n-180){:#rn-180} Pasan en delicias sus días, y sin darse cuenta bajan al sepulcro.
 
-[14](#c21-v14){:#c21-v14} [[181]](#n-181){:#rn-181} Y, sin embargo, estos dicen a Dios: *Retírate de nosotros, no nos gusta conocer tus caminos.
+[14](#c21-v14){:#c21-v14} [[181]](#n-181){:#rn-181} Y, sin embargo, estos dicen a Dios: "Retírate de nosotros, no nos gusta conocer tus caminos.
 
-[15](#c21-v15){:#c21-v15} ¿Qué es el Todopoderoso para que le sirvamos? ¿Qué ganaremos rogándole?*
+[15](#c21-v15){:#c21-v15} ¿Qué es el Todopoderoso para que le sirvamos? ¿Qué ganaremos rogándole?"
 
 [16](#c21-v16){:#c21-v16} ¿No está su fortuna en sus manos? ¡Lejos de mí el consejo de los impíos!
 
@@ -1144,7 +1144,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [27](#c21-v27){:#c21-v27} [[186]](#n-186){:#rn-186} Ya conozco vuestros pensamientos, y los planes insidiosos que fraguáis contra mí.
 
-[28](#c21-v28){:#c21-v28} Porque decís: *¿Dónde está la casa del opresor? ¿Qué se hizo de la tienda que habitaban los impíos?*
+[28](#c21-v28){:#c21-v28} Porque decís: "¿Dónde está la casa del opresor? ¿Qué se hizo de la tienda que habitaban los impíos?"
 
 [29](#c21-v29){:#c21-v29} ¿No habéis preguntado jamás a los que pasan por el camino? Por eso tampoco conocéis lo que os indican:
 
@@ -1156,7 +1156,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [33](#c21-v33){:#c21-v33} [[188]](#n-188){:#rn-188} Leves le son los terrones del valle; y todos siguen en pos de él, así como no tienen número los que van delante de él.
 
-[34](#c21-v34){:#c21-v34} [[189]](#n-189){:#rn-189} ¿Cómo pues me consoláis con vanas palabras si vuestras respuestas no son más que perfidia?"
+[34](#c21-v34){:#c21-v34} [[189]](#n-189){:#rn-189} ¿Cómo pues me consoláis con vanas palabras si vuestras respuestas no son más que perfidia?»
 
 ### Job [22](#c22) {#c22}
 
@@ -1164,7 +1164,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c22-v1){:#c22-v1} [[190]](#n-190){:#rn-190} Entonces Elifaz temanita tomó la palabra y dijo:
 
-[2](#c22-v2){:#c22-v2} [[191]](#n-191){:#rn-191} "¿Puede el hombre ser útil a Dios? Solo a sí mismo es útil el sabio.
+[2](#c22-v2){:#c22-v2} [[191]](#n-191){:#rn-191} «¿Puede el hombre ser útil a Dios? Solo a sí mismo es útil el sabio.
 
 [3](#c22-v3){:#c22-v3} ¿Qué provecho tiene el Todopoderoso de que tú seas justo? ¿O qué ventaja, si son perfectos tus caminos?
 
@@ -1186,21 +1186,21 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [12](#c22-v12){:#c22-v12} ¿No está Dios en lo alto del cielo? Mira las sublimes estrellas: ¡Qué altura!
 
-[13](#c22-v13){:#c22-v13} Y tú dices: *¿Qué sabe Dios? ¿acaso juzga a través de las nubes?
+[13](#c22-v13){:#c22-v13} Y tú dices: "¿Qué sabe Dios? ¿acaso juzga a través de las nubes?
 
-[14](#c22-v14){:#c22-v14} Nubes espesas le envuelven y no puede ver; se pasea por el circuito del cielo.*
+[14](#c22-v14){:#c22-v14} Nubes espesas le envuelven y no puede ver; se pasea por el circuito del cielo."
 
 [15](#c22-v15){:#c22-v15} ¿Quieres tú acaso seguir aquel antiguo camino, por donde marcharon los malvados?
 
 [16](#c22-v16){:#c22-v16} [[195]](#n-195){:#rn-195} Fueron arrebatados antes de tiempo, y sobre sus cimientos se derramó un diluvio.
 
-[17](#c22-v17){:#c22-v17} Decían a Dios: *¡Apártate de nosotros! ¿Qué podrá hacernos el Todopoderoso?*
+[17](#c22-v17){:#c22-v17} Decían a Dios: "¡Apártate de nosotros! ¿Qué podrá hacernos el Todopoderoso?"
 
 [18](#c22-v18){:#c22-v18} Y Él llenaba sus casas de bienes. ¡Lejos de mí el consejo de los impíos!
 
 [19](#c22-v19){:#c22-v19} [[196]](#n-196){:#rn-196} Los justos verán y se alegrarán (de su ruina), y los inocentes se reirán de ellos,
 
-[20](#c22-v20){:#c22-v20} [[197]](#n-197){:#rn-197} (diciendo): *No ha sido aniquilada su fuerza, y sus restos consumidos por el fuego?*
+[20](#c22-v20){:#c22-v20} [[197]](#n-197){:#rn-197} (diciendo): "¿No ha sido aniquilada su fuerza, y sus restos consumidos por el fuego?"
 
 [21](#c22-v21){:#c22-v21} Reconcíliate con Él, y tendrás paz; así te vendrá la felicidad.
 
@@ -1218,9 +1218,9 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [28](#c22-v28){:#c22-v28} Si proyectas una cosa, te saldrá bien, y sobre tus caminos brillará la luz.
 
-[29](#c22-v29){:#c22-v29} [[200]](#n-200){:#rn-200} Si te abaten, podrás decir: *¡Arriba!* pues Él salva a los que humildemente bajan los ojos.
+[29](#c22-v29){:#c22-v29} [[200]](#n-200){:#rn-200} Si te abaten, podrás decir: "¡Arriba!" pues Él salva a los que humildemente bajan los ojos.
 
-[30](#c22-v30){:#c22-v30} Se salvará el inocente, será librado por la pureza de sus manos."
+[30](#c22-v30){:#c22-v30} Se salvará el inocente, será librado por la pureza de sus manos.»
 
 ### Job [23](#c23) {#c23}
 
@@ -1228,7 +1228,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c23-v1){:#c23-v1} Respondió Job y dijo:
 
-[2](#c23-v2){:#c23-v2} [[201]](#n-201){:#rn-201} Cierto que hoy es amarga mi queja; pero más grande que ella es mi carga.
+[2](#c23-v2){:#c23-v2} [[201]](#n-201){:#rn-201} «Cierto que hoy es amarga mi queja; pero más grande que ella es mi carga.
 
 [3](#c23-v3){:#c23-v3} [[202]](#n-202){:#rn-202} ¡Oh, quién me diera a conocer dónde hallarle a Él! Me llegaría hasta su trono,
 
@@ -1258,13 +1258,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [16](#c23-v16){:#c23-v16} Dios ha aterrado mi corazón, el Omnipotente me ha conturbado.
 
-[17](#c23-v17){:#c23-v17} [[208]](#n-208){:#rn-208} Porque lo que me consume no es la tiniebla, ni la oscuridad que me cubre el rostro."
+[17](#c23-v17){:#c23-v17} [[208]](#n-208){:#rn-208} Porque lo que me consume no es la tiniebla, ni la oscuridad que me cubre el rostro.»
 
 ### Job [24](#c24) {#c24}
 
 #### Job sigue contestando a Elifaz
 
-[1](#c24-v1){:#c24-v1} [[209]](#n-209){:#rn-209} "¿Por qué el Todopoderoso no fija tiempos (para el juicio)? ¿y por qué los que le conocen no saben el día fijado por Él?
+[1](#c24-v1){:#c24-v1} [[209]](#n-209){:#rn-209} «¿Por qué el Todopoderoso no fija tiempos (para el juicio)? ¿y por qué los que le conocen no saben el día fijado por Él?
 
 [2](#c24-v2){:#c24-v2} [[210]](#n-210){:#rn-210} Hay quienes remueven mojones, roban rebaños y los apacientan;
 
@@ -1292,7 +1292,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [14](#c24-v14){:#c24-v14} Al alba se levanta el homicida para matar al desvalido y al pobre, y en la oscuridad sale como ladrón.
 
-[15](#c24-v15){:#c24-v15} [[213]](#n-213){:#rn-213} Aguarda la noche el ojo del adúltero, diciendo: *No me verá ojo alguno* y se emboza la cara.
+[15](#c24-v15){:#c24-v15} [[213]](#n-213){:#rn-213} Aguarda la noche el ojo del adúltero, diciendo: "No me verá ojo alguno" y se emboza la cara.
 
 [16](#c24-v16){:#c24-v16} [[214]](#n-214){:#rn-214} Otros de noche fuerzan las casas, y de día se esconden, pues no quieren ver la luz.
 
@@ -1312,7 +1312,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [24](#c24-v24){:#c24-v24} Se ven ensalzados por un poco, y luego desaparecen, son derribados y cosechados como todos los hombres; son segados como espigas del trigal.
 
-[25](#c24-v25){:#c24-v25} Si no es así, ¿quién me desmentirá y declarará nula mi palabra?"
+[25](#c24-v25){:#c24-v25} Si no es así, ¿quién me desmentirá y declarará nula mi palabra?»
 
 ### Job [25](#c25) {#c25}
 
@@ -1320,7 +1320,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c25-v1){:#c25-v1} [[217]](#n-217){:#rn-217} Entonces Baldad suhita, tomó la palabra y dijo:
 
-[2](#c25-v2){:#c25-v2} "Suyos son el dominio y el terror, Él mantiene la paz en sus alturas,
+[2](#c25-v2){:#c25-v2} «Suyos son el dominio y el terror, Él mantiene la paz en sus alturas,
 
 [3](#c25-v3){:#c25-v3} [[218]](#n-218){:#rn-218} ¿No es innumerable su milicia? ¿Sobre quién no se levanta su luz?
 
@@ -1328,7 +1328,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [5](#c25-v5){:#c25-v5} He aquí que ante sus ojos aun la luna no tiene brillo, ni son limpias las estrellas;
 
-[6](#c25-v6){:#c25-v6} [[220]](#n-220){:#rn-220} ¡cuánto menos el mortal, ese gusano, el hijo del hombre, que no es más que un vil insecto!"
+[6](#c25-v6){:#c25-v6} [[220]](#n-220){:#rn-220} ¡cuánto menos el mortal, ese gusano, el hijo del hombre, que no es más que un vil insecto!»
 
 ### Job [26](#c26) {#c26}
 
@@ -1336,7 +1336,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c26-v1){:#c26-v1} Replicó Job y dijo:
 
-[2](#c26-v2){:#c26-v2} "¡Cómo sabes ayudar tú al flaco, y sostener el brazo del que carece de fuerza!
+[2](#c26-v2){:#c26-v2} «¡Cómo sabes ayudar tú al flaco, y sostener el brazo del que carece de fuerza!
 
 [3](#c26-v3){:#c26-v3} ¿Qué consejo has dado al falto de sabiduría? ¿qué plenitud de saber has ostentado?
 
@@ -1360,7 +1360,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [13](#c26-v13){:#c26-v13} [[225]](#n-225){:#rn-225} Con su soplo hizo serenos los cielos, y su mano formó la fugaz serpiente.
 
-[14](#c26-v14){:#c26-v14} [[226]](#n-226){:#rn-226} Esto es solo el borde de sus caminos, es un leve susurro que hemos oído de Él; pues el trueno de su poder ¿quién podría comprenderlo?"
+[14](#c26-v14){:#c26-v14} [[226]](#n-226){:#rn-226} Esto es solo el borde de sus caminos, es un leve susurro que hemos oído de Él; pues el trueno de su poder ¿quién podría comprenderlo?»
 
 ### Job [27](#c27) {#c27}
 
@@ -1368,7 +1368,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c27-v1){:#c27-v1} [[227]](#n-227){:#rn-227} Job prosiguió su exposición, diciendo:
 
-[2](#c27-v2){:#c27-v2} [[228]](#n-228){:#rn-228} "Por la vida de Dios, quien no me hace justicia, y por la vida del Todopoderoso, que ha colmado de amargura mi alma.
+[2](#c27-v2){:#c27-v2} [[228]](#n-228){:#rn-228} «Por la vida de Dios, quien no me hace justicia, y por la vida del Todopoderoso, que ha colmado de amargura mi alma.
 
 [3](#c27-v3){:#c27-v3} [[229]](#n-229){:#rn-229} Mientras en mí quede mi espíritu, y el soplo de Dios en mis narices,
 
@@ -1410,13 +1410,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [22](#c27-v22){:#c27-v22} Pues Él se le echa encima sin piedad. Busca cómo escaparse de sus manos;
 
-[23](#c27-v23){:#c27-v23} pero se baten las manos sobre él, y le silbarán echándolo de su propio lugar."
+[23](#c27-v23){:#c27-v23} pero se baten las manos sobre él, y le silbarán echándolo de su propio lugar.»
 
 ### Job [28](#c28) {#c28}
 
 #### Sobre la sabiduría de Dios
 
-[1](#c28-v1){:#c28-v1} "La plata tiene sus veneros, y el oro su lugar donde lo acrisolan.
+[1](#c28-v1){:#c28-v1} «La plata tiene sus veneros, y el oro su lugar donde lo acrisolan.
 
 [2](#c28-v2){:#c28-v2} El hierro se saca de la tierra, y de la piedra fundida el cobre.
 
@@ -1442,7 +1442,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [13](#c28-v13){:#c28-v13} No conoce el hombre su valor y nadie puede encontrarla en la tierra de los vivientes.
 
-[14](#c28-v14){:#c28-v14} El abismo dice: *No está en mí*; y el mar responde: *Tampoco conmigo está*.
+[14](#c28-v14){:#c28-v14} El abismo dice: "No está en mí"; y el mar responde: "Tampoco conmigo está".
 
 [15](#c28-v15){:#c28-v15} [[240]](#n-240){:#rn-240} No se compra con oro finísimo, ni se pesa plata a cambio de ella.
 
@@ -1458,7 +1458,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [21](#c28-v21){:#c28-v21} Ocúltase a los ojos de todo viviente, y aun a las aves del cielo no se revela.
 
-[22](#c28-v22){:#c28-v22} [[241]](#n-241){:#rn-241} El abismo y la muerte dicen: *Hemos oído hablar de ella.*
+[22](#c28-v22){:#c28-v22} [[241]](#n-241){:#rn-241} El abismo y la muerte dicen: "Hemos oído hablar de ella."
 
 [23](#c28-v23){:#c28-v23} Mas su camino solo conoce Dios, Él sabe dónde ella reside.
 
@@ -1470,7 +1470,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [27](#c28-v27){:#c28-v27} [[242]](#n-242){:#rn-242} entonces Él la vio, y la describió; la estableció y la escudriñó,
 
-[28](#c28-v28){:#c28-v28} [[243]](#n-243){:#rn-243} y dijo al hombre: *El temor del Señor, esta es la sabiduría, y huir del mal, esta es la inteligencia*."
+[28](#c28-v28){:#c28-v28} [[243]](#n-243){:#rn-243} y dijo al hombre: "El temor del Señor, esta es la sabiduría, y huir del mal, esta es la inteligencia".»
 
 ### Job [29](#c29) {#c29}
 
@@ -1478,7 +1478,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c29-v1){:#c29-v1} Siguió Job explicando y dijo:
 
-[2](#c29-v2){:#c29-v2} "¡Ojalá volviera a ser como en los meses pasados, como en los días en que Dios me protegía,
+[2](#c29-v2){:#c29-v2} «¡Ojalá volviera a ser como en los meses pasados, como en los días en que Dios me protegía,
 
 [3](#c29-v3){:#c29-v3} cuando su luz brillaba sobre mi cabeza, y su luz me guiaba en las tinieblas!
 
@@ -1510,11 +1510,11 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [17](#c29-v17){:#c29-v17} Quebraba los colmillos del malvado, y de sus dientes arrancaba la presa.
 
-[18](#c29-v18){:#c29-v18} [[248]](#n-248){:#rn-248} Por lo cual me decía: *Moriré en mi nido, y mis días serán tan numerosos como la arena;
+[18](#c29-v18){:#c29-v18} [[248]](#n-248){:#rn-248} Por lo cual me decía: "Moriré en mi nido, y mis días serán tan numerosos como la arena;
 
 [19](#c29-v19){:#c29-v19} [[249]](#n-249){:#rn-249} mi raíz se extenderá hacia las aguas, y el rocío pasará la noche en mis hojas.
 
-[20](#c29-v20){:#c29-v20} Será siempre nueva en mí la gloria mía, y mi arco se renovará en mi mano.*
+[20](#c29-v20){:#c29-v20} Será siempre nueva en mí la gloria mía, y mi arco se renovará en mi mano."
 
 [21](#c29-v21){:#c29-v21} A mí me escuchaban sin perder la paciencia, aguardando silenciosamente mi consejo.
 
@@ -1524,13 +1524,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [24](#c29-v24){:#c29-v24} [[251]](#n-251){:#rn-251} Si les sonreía estaban admirados, y se alegraban de esa luz de mi rostro.
 
-[25](#c29-v25){:#c29-v25} Yo decidía su conducta y me sentaba a la cabecera, habitaba como un rey entre sus tropas, cual consolador un medio de los afligidos."
+[25](#c29-v25){:#c29-v25} Yo decidía su conducta y me sentaba a la cabecera, habitaba como un rey entre sus tropas, cual consolador un medio de los afligidos.»
 
 ### Job [30](#c30) {#c30}
 
 #### Continuación del discurso de Job
 
-[1](#c30-v1){:#c30-v1} [[252]](#n-252){:#rn-252} "Mas ahora se ríen de mí los que tienen menos años que yo, a cuyos padres yo hubiera desdeñado de tomar como perros para mi ganado.
+[1](#c30-v1){:#c30-v1} [[252]](#n-252){:#rn-252} «Mas ahora se ríen de mí los que tienen menos años que yo, a cuyos padres yo hubiera desdeñado de tomar como perros para mi ganado.
 
 [2](#c30-v2){:#c30-v2} Aun la fuerza de sus manos ¿de qué me habría servido? ya que carecen ellos de todo vigor.
 
@@ -1590,13 +1590,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [30](#c30-v30){:#c30-v30} Ennegrecida se me cae la piel, y mis huesos se consumen por la fiebre.
 
-[31](#c30-v31){:#c30-v31} El son de mi cítara se ha trocado en lamentos, y mi flauta en voz de llanto."
+[31](#c30-v31){:#c30-v31} El son de mi cítara se ha trocado en lamentos, y mi flauta en voz de llanto.»
 
 ### Job [31](#c31) {#c31}
 
 #### Continuación de los lamentos de Job
 
-[1](#c31-v1){:#c31-v1} [[259]](#n-259){:#rn-259} "Había ya hecho pacto con mis ojos de no mirar a doncella.
+[1](#c31-v1){:#c31-v1} [[259]](#n-259){:#rn-259} «Había ya hecho pacto con mis ojos de no mirar a doncella.
 
 [2](#c31-v2){:#c31-v2} [[260]](#n-260){:#rn-260} ¿Cuál es, pues, mi porción desde arriba de parte de Dios, y la herencia que desde lo alto me da el Todopoderoso?
 
@@ -1642,7 +1642,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [23](#c31-v23){:#c31-v23} Por cuanto temía el castigo de Dios, no he podido resistir a su majestad.
 
-[24](#c31-v24){:#c31-v24} [[265]](#n-265){:#rn-265} Si he puesto en el oro mi confianza, y al oro he dicho: *Mi seguridad eres tú*;
+[24](#c31-v24){:#c31-v24} [[265]](#n-265){:#rn-265} Si he puesto en el oro mi confianza, y al oro he dicho: "Mi seguridad eres tú";
 
 [25](#c31-v25){:#c31-v25} si tuve gozo por mi grande hacienda, y por haber juntado mucho mi mano;
 
@@ -1656,7 +1656,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [30](#c31-v30){:#c31-v30} aunque no presté al pecado mi lengua, pidiendo con maldición su muerte;
 
-[31](#c31-v31){:#c31-v31} [[267]](#n-267){:#rn-267} si no decían las gentes de mi casa: *¿Quién de su alimento no se ha saciado?*
+[31](#c31-v31){:#c31-v31} [[267]](#n-267){:#rn-267} si no decían las gentes de mi casa: "¿Quién de su alimento no se ha saciado?"
 
 [32](#c31-v32){:#c31-v32} pues jamás el forastero se quedó de noche al descubierto, porque yo abría mis puertas al pasajero;
 
@@ -1674,9 +1674,9 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [39](#c31-v39){:#c31-v39} por haber yo comido sus frutos sin pagar y afligido a sus cultivadores,
 
-[40](#c31-v40){:#c31-v40} ¡názcanme abrojos en vez de trigo, y cizaña en vez de cebada!" Fin de las palabras de Job.
+[40](#c31-v40){:#c31-v40} ¡názcanme abrojos en vez de trigo, y cizaña en vez de cebada!» Fin de las palabras de Job.
 
-## II. Discursos de eliú
+## II. Discursos de Eliú
 
 ### Job [32](#c32) {#c32}
 
@@ -1692,7 +1692,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [5](#c32-v5){:#c32-v5} [[274]](#n-274){:#rn-274} Mas cuando vio que no había más respuesta en la boca de aquellos tres hombres, se indignó sobremanera. Tomó Eliú, hijo de Baraquel, bucita, la palabra y dijo:
 
-[6](#c32-v6){:#c32-v6} [[275]](#n-275){:#rn-275} "Siendo yo joven, y vosotros ancianos, tuve miedo, y no me atreví a manifestar mi parecer.
+[6](#c32-v6){:#c32-v6} [[275]](#n-275){:#rn-275} «Siendo yo joven, y vosotros ancianos, tuve miedo, y no me atreví a manifestar mi parecer.
 
 [7](#c32-v7){:#c32-v7} Yo me decía: Los días han de hablar, y en los muchos años se dará a conocer la sabiduría.
 
@@ -1700,13 +1700,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [9](#c32-v9){:#c32-v9} [[276]](#n-276){:#rn-276} No es lo mismo ser viejo que sabio, no son (siempre) los ancianos los que entienden de justicia.
 
-[10](#c32-v10){:#c32-v10} Por eso dije: Escuchadme; quiero también yo manifestar mi parecer.
+[10](#c32-v10){:#c32-v10} Por eso dije: "Escuchadme; quiero también yo manifestar mi parecer".
 
 [11](#c32-v11){:#c32-v11} He aquí que he esperado mientras hablabais, di oídos a vuestros razonamientos hasta el fin de vuestra disputa.
 
 [12](#c32-v12){:#c32-v12} Sí, os he prestado atención, más ninguno ha convencido a Job; ninguno de vosotros sabe responder a sus palabras.
 
-[13](#c32-v13){:#c32-v13} No digáis, pues: *Hemos hallado la sabiduría; es Dios quien le castiga, y no hombre alguno.*
+[13](#c32-v13){:#c32-v13} No digáis, pues: "Hemos hallado la sabiduría; es Dios quien le castiga, y no hombre alguno."
 
 [14](#c32-v14){:#c32-v14} No contra mí ha dirigido él sus palabras; y yo no voy a contestarle con vuestros argumentos.
 
@@ -1724,13 +1724,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [21](#c32-v21){:#c32-v21} No haré acepción de personas, no adularé a ningún mortal.
 
-[22](#c32-v22){:#c32-v22} Pues no sé adular; (si lo hiciera), dentro de poco me llevaría mi Creador."
+[22](#c32-v22){:#c32-v22} Pues no sé adular; (si lo hiciera), dentro de poco me llevaría mi Creador.»
 
 ### Job [33](#c33) {#c33}
 
 #### Continúa el primer discurso de Eliú
 
-[1](#c33-v1){:#c33-v1} "Escucha ahora, oh Job, mi palabra, y a todos mis argumentos presta oído.
+[1](#c33-v1){:#c33-v1} «Escucha ahora, oh Job, mi palabra, y a todos mis argumentos presta oído.
 
 [2](#c33-v2){:#c33-v2} He aquí que abro mi boca; se mueve mi lengua para formar palabras en mi paladar.
 
@@ -1746,11 +1746,11 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [8](#c33-v8){:#c33-v8} Ahora bien, tú has dicho oyéndolo yo —bien escuché el son de tus palabras—:
 
-[9](#c33-v9){:#c33-v9} [[280]](#n-280){:#rn-280} *Inocente soy, sin pecado, limpio soy, no hay iniquidad en mí.
+[9](#c33-v9){:#c33-v9} [[280]](#n-280){:#rn-280} "Inocente soy, sin pecado, limpio soy, no hay iniquidad en mí.
 
 [10](#c33-v10){:#c33-v10} Pero Él busca pretextos contra mí, me considera como enemigo suyo;
 
-[11](#c33-v11){:#c33-v11} pone en el cepo mis pies, observa todos mis pasos.*
+[11](#c33-v11){:#c33-v11} pone en el cepo mis pies, observa todos mis pasos."
 
 [12](#c33-v12){:#c33-v12} Precisamente en esto no tienes razón; te lo explicaré. Si Dios es más grande que el hombre,
 
@@ -1776,15 +1776,15 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [23](#c33-v23){:#c33-v23} [[283]](#n-283){:#rn-283} Pero si hay para él un ángel, un intercesor de entre mil, que explique al hombre su deber;
 
-[24](#c33-v24){:#c33-v24} y que se compadezca de él y diga (a Dios): *Líbrale para que no baje al sepulcro; yo he hallado el rescate (de su alma).*
+[24](#c33-v24){:#c33-v24} y que se compadezca de él y diga (a Dios): "Líbrale para que no baje al sepulcro; yo he hallado el rescate (de su alma)."
 
 [25](#c33-v25){:#c33-v25} Entonces se vuelve más fresca que la de un niño su carne; será como en los días de su juventud;
 
 [26](#c33-v26){:#c33-v26} implora a Dios, y Este le es propicio. Así contemplará con júbilo su rostro, y (Dios) le devuelve su justicia.
 
-[27](#c33-v27){:#c33-v27} Cantará entonces entre los hombres, y dirá: *Yo había pecado, había pervertido la justicia, y no me fue retribuido según merecía;
+[27](#c33-v27){:#c33-v27} Cantará entonces entre los hombres, y dirá: "Yo había pecado, había pervertido la justicia, y no me fue retribuido según merecía;
 
-[28](#c33-v28){:#c33-v28} pues Él me libró del paso al sepulcro, y mi alma ve todavía la luz.*
+[28](#c33-v28){:#c33-v28} pues Él me libró del paso al sepulcro, y mi alma ve todavía la luz."
 
 [29](#c33-v29){:#c33-v29} Mira, todo esto hace Dios, dos y aun tres veces con el hombre,
 
@@ -1794,7 +1794,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [32](#c33-v32){:#c33-v32} Si tienes algo que decir, respóndeme; habla, pues mi deseo es verte justo.
 
-[33](#c33-v33){:#c33-v33} Si no, escúchame en silencio, y yo te enseñaré sabiduría."
+[33](#c33-v33){:#c33-v33} Si no, escúchame en silencio, y yo te enseñaré sabiduría.»
 
 ### Job [34](#c34) {#c34}
 
@@ -1802,21 +1802,21 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c34-v1){:#c34-v1} Tomó de nuevo la palabra Eliú y dijo:
 
-[2](#c34-v2){:#c34-v2} "Oíd, oh sabios, mis palabras; hombres prudentes, prestadme oído;
+[2](#c34-v2){:#c34-v2} «Oíd, oh sabios, mis palabras; hombres prudentes, prestadme oído;
 
 [3](#c34-v3){:#c34-v3} [[284]](#n-284){:#rn-284} porque el oído prueba las palabras, como el paladar los manjares.
 
 [4](#c34-v4){:#c34-v4} Procuremos elegirnos lo justo, conozcamos lo bueno en medio nuestro.
 
-[5](#c34-v5){:#c34-v5} [[285]](#n-285){:#rn-285} Job dice: *Yo soy justo, pero Dios no quiere hacerme justicia;
+[5](#c34-v5){:#c34-v5} [[285]](#n-285){:#rn-285} Job dice: "Yo soy justo, pero Dios no quiere hacerme justicia;
 
-[6](#c34-v6){:#c34-v6} al sostener mi derecho paso por mentiroso; incurable es mi llaga, sin que haya en mi pecado.*
+[6](#c34-v6){:#c34-v6} al sostener mi derecho paso por mentiroso; incurable es mi llaga, sin que haya en mi pecado."
 
 [7](#c34-v7){:#c34-v7} [[286]](#n-286){:#rn-286} ¿Qué hombre hay semejante a Job, que se bebe las blasfemias como agua,
 
 [8](#c34-v8){:#c34-v8} que va en compañía con los obradores de iniquidad, y anda con los hombres perversos?
 
-[9](#c34-v9){:#c34-v9} Pues dice: *No saca ningún provecho el que procura agradar a Dios.*
+[9](#c34-v9){:#c34-v9} Pues dice: "No saca ningún provecho el que procura agradar a Dios."
 
 [10](#c34-v10){:#c34-v10} Oídme, por tanto, hombres sensatos: ¡Lejos de Dios la maldad, lejos del Todopoderoso la injusticia!
 
@@ -1834,7 +1834,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [17](#c34-v17){:#c34-v17} [[288]](#n-288){:#rn-288} ¿Acaso puede gobernar un enemigo de la justicia? ¿Pretendes tú por ventura condenar al Justo poderoso?
 
-[18](#c34-v18){:#c34-v18} A aquel que dice a un rey: *¡Malvado!* y a los nobles: *¡Perversos!*
+[18](#c34-v18){:#c34-v18} A aquel que dice a un rey: "¡Malvado!" y a los nobles: "¡Perversos!"
 
 [19](#c34-v19){:#c34-v19} A aquel que no prefiere la persona de los grandes, ni mira al rico más que al pobre, porque todos son obra de sus manos.
 
@@ -1860,19 +1860,19 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [30](#c34-v30){:#c34-v30} [[290]](#n-290){:#rn-290} Así pone fin al dominio del impío, para que no sirva más de lazo para el pueblo.
 
-[31](#c34-v31){:#c34-v31} Si ahora dice a Dios: *He soportado (tu castigo), no pecaré más;
+[31](#c34-v31){:#c34-v31} Si ahora dice a Dios: "He soportado (tu castigo), no pecaré más;
 
-[32](#c34-v32){:#c34-v32} enséñame Tú lo que yo no veo; si he hecho iniquidad, no la haré más.*
+[32](#c34-v32){:#c34-v32} enséñame Tú lo que yo no veo; si he hecho iniquidad, no la haré más."
 
 [33](#c34-v33){:#c34-v33} ¿Acaso Él debe darte el pago según el parecer tuyo, según tu negativa o conformidad? Yo no (pienso) así. Di, pues, lo que sabes.
 
 [34](#c34-v34){:#c34-v34} Los hombres sensatos me dirán, lo mismo que los sabios que me oyen:
 
-[35](#c34-v35){:#c34-v35} *Job ha hablado neciamente, sus palabras fueron imprudentes.*
+[35](#c34-v35){:#c34-v35} "Job ha hablado neciamente, sus palabras fueron imprudentes."
 
 [36](#c34-v36){:#c34-v36} [[291]](#n-291){:#rn-291} ¡Ojalá sea Job probado hasta el fin, por sus respuestas de hombre impío!
 
-[37](#c34-v37){:#c34-v37} Porque a su pecado añade la rebelión, bate palmas en medio de nosotros, y habla cada vez más contra Dios."
+[37](#c34-v37){:#c34-v37} Porque a su pecado añade la rebelión, bate palmas en medio de nosotros, y habla cada vez más contra Dios.»
 
 ### Job [35](#c35) {#c35}
 
@@ -1880,7 +1880,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c35-v1){:#c35-v1} Tomando de nuevo la palabra dijo Eliú:
 
-[2](#c35-v2){:#c35-v2} [[292]](#n-292){:#rn-292} "¿Acaso te parece justo decir: *Yo tengo razón contra Dios?*
+[2](#c35-v2){:#c35-v2} [[292]](#n-292){:#rn-292} «¿Acaso te parece justo decir: "Yo tengo razón contra Dios?"
 
 [3](#c35-v3){:#c35-v3} [[293]](#n-293){:#rn-293} Ya que dices: "¿Qué provecho tienes Tú, o qué ventaja tengo yo de mi pecado?"
 
@@ -1896,9 +1896,9 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [9](#c35-v9){:#c35-v9} [[295]](#n-295){:#rn-295} Gritan (los desgraciados), bajo la violencia de la opresión, y piden auxilio contra el brazo de los poderosos;
 
-[10](#c35-v10){:#c35-v10} mas ninguno dice: *¿Dónde está Dios, mi Creador, el cual inspira canciones de alegría en medio de la noche,
+[10](#c35-v10){:#c35-v10} mas ninguno dice: "¿Dónde está Dios, mi Creador, el cual inspira canciones de alegría en medio de la noche,
 
-[11](#c35-v11){:#c35-v11} que nos da más ilustración que a las bestias de la tierra, y más inteligencia que a las aves del cielo?*
+[11](#c35-v11){:#c35-v11} que nos da más ilustración que a las bestias de la tierra, y más inteligencia que a las aves del cielo?"
 
 [12](#c35-v12){:#c35-v12} Entonces gritan; pero Él no responde, a causa de la soberbia de los malvados.
 
@@ -1908,7 +1908,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [15](#c35-v15){:#c35-v15} Pero ahora (que Dios) tarda en descargar su ira, y no castiga con rigor la necedad,
 
-[16](#c35-v16){:#c35-v16} Job abre su boca para vanas palabras amontonando frases de ignorante."
+[16](#c35-v16){:#c35-v16} Job abre su boca para vanas palabras amontonando frases de ignorante.»
 
 ### Job [36](#c36) {#c36}
 
@@ -1916,7 +1916,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c36-v1){:#c36-v1} Continuó Eliú diciendo:
 
-[2](#c36-v2){:#c36-v2} "Espérame un poco, y te instruiré, pues hay aún más argumentos para defender la causa de Dios.
+[2](#c36-v2){:#c36-v2} «Espérame un poco, y te instruiré, pues hay aún más argumentos para defender la causa de Dios.
 
 [3](#c36-v3){:#c36-v3} Sacaré de lo más alto mi saber, y probaré que mi Creador es justo.
 
@@ -1958,7 +1958,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [22](#c36-v22){:#c36-v22} Mira: Dios es sublime en su poder; ¿quién es Maestro como Él?
 
-[23](#c36-v23){:#c36-v23} [[302]](#n-302){:#rn-302} ¿Quién le ha impuesto su camino? Y ¿quién puede decirle: *Tú has hecho mal*?
+[23](#c36-v23){:#c36-v23} [[302]](#n-302){:#rn-302} ¿Quién le ha impuesto su camino? Y ¿quién puede decirle: "Tú has hecho mal"?
 
 [24](#c36-v24){:#c36-v24} [[303]](#n-303){:#rn-303} Acuérdate de ensalzar su obra, la cual celebran los hombres.
 
@@ -1978,13 +1978,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [32](#c36-v32){:#c36-v32} [[306]](#n-306){:#rn-306} Llena sus manos de rayos, a los que indica el objeto que han de alcanzar.
 
-[33](#c36-v33){:#c36-v33} Le anuncia su voz de trueno, como también el ganado (siente) su venida."
+[33](#c36-v33){:#c36-v33} Le anuncia su voz de trueno, como también el ganado (siente) su venida.»
 
 ### Job [37](#c37) {#c37}
 
 #### Continúa el discurso de Eliú
 
-[1](#c37-v1){:#c37-v1} "Por esto tiembla mi corazón, y salta de su lugar.
+[1](#c37-v1){:#c37-v1} «Por esto tiembla mi corazón, y salta de su lugar.
 
 [2](#c37-v2){:#c37-v2} [[307]](#n-307){:#rn-307} Oíd, oíd el trueno de su voz, el ruido que sale de su boca.
 
@@ -1994,7 +1994,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [5](#c37-v5){:#c37-v5} Truena la voz de Dios y obra maravillas, hace cosas grandes e inescrutables.
 
-[6](#c37-v6){:#c37-v6} Pues a la nieve dice: *¡Baja a la tierra!* Él (envía) la lluvia y los aguaceros torrenciales.
+[6](#c37-v6){:#c37-v6} Pues a la nieve dice: "¡Baja a la tierra!" Él (envía) la lluvia y los aguaceros torrenciales.
 
 [7](#c37-v7){:#c37-v7} [[309]](#n-309){:#rn-309} Sobre la mano de todos pone un sello, para que todos conozcan Su obra.
 
@@ -2030,9 +2030,9 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [23](#c37-v23){:#c37-v23} Él Todopoderoso, el inaccesible, es grande en poder y juicio, es rico en justicia, y no oprime a nadie.
 
-[24](#c37-v24){:#c37-v24} Por eso han de temerlo los hombres: no mira Él a los que se creen sabios."
+[24](#c37-v24){:#c37-v24} Por eso han de temerlo los hombres: no mira Él a los que se creen sabios.»
 
-## III. Intervención de dios
+## III. Intervención de Dios
 
 ### Job [38](#c38) {#c38}
 
@@ -2040,7 +2040,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c38-v1){:#c38-v1} [[315]](#n-315){:#rn-315} Entonces Yahvé respondió a Job desde el torbellino, y dijo:
 
-[2](#c38-v2){:#c38-v2} [[316]](#n-316){:#rn-316} "¿Quién es este que obscurece mis planes con palabras insensatas?
+[2](#c38-v2){:#c38-v2} [[316]](#n-316){:#rn-316} «¿Quién es este que obscurece mis planes con palabras insensatas?
 
 [3](#c38-v3){:#c38-v3} [[317]](#n-317){:#rn-317} Cíñete ahora los lomos, como varón; que Yo te preguntaré, y tú me instruirás.
 
@@ -2058,7 +2058,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [10](#c38-v10){:#c38-v10} imponiéndole mi ley y poniendo barras y puertas,
 
-[11](#c38-v11){:#c38-v11} [[322]](#n-322){:#rn-322} con estas palabras: *Hasta aquí llegarás, y no pasarás más allá; y ahí se quebrantará el orgullo de tus olas.*
+[11](#c38-v11){:#c38-v11} [[322]](#n-322){:#rn-322} con estas palabras: "Hasta aquí llegarás, y no pasarás más allá; y ahí se quebrantará el orgullo de tus olas."
 
 [12](#c38-v12){:#c38-v12} ¿Acaso en algún momento de tu vida has dado tú órdenes a la mañana, señalado su lugar a la aurora,
 
@@ -2106,7 +2106,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [34](#c38-v34){:#c38-v34} ¿Alzas tú hasta las nubes tu voz, para que caigan sobre ti las copiosas aguas?
 
-[35](#c38-v35){:#c38-v35} ¿Despachas tú los rayos, y se van diciéndote: *Henos aquí*?
+[35](#c38-v35){:#c38-v35} ¿Despachas tú los rayos, y se van diciéndote: "Henos aquí"?
 
 [36](#c38-v36){:#c38-v36} [[331]](#n-331){:#rn-331} ¿Quién puso sabiduría en las nubes, e inteligencia en los meteoros?
 
@@ -2118,13 +2118,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [40](#c38-v40){:#c38-v40} cuando se acurrucan en sus cubiles, y se retiran a la espesura para estar en acecho?
 
-[41](#c38-v41){:#c38-v41} ¿Quién prepara al cuervo su alimento, cuando sus pollitos gritan hacia Dios, yendo de un lado a otro por falta de comida?
+[41](#c38-v41){:#c38-v41} ¿Quién prepara al cuervo su alimento, cuando sus pollitos gritan hacia Dios, yendo de un lado a otro por falta de comida?»
 
 ### Job [39](#c39) {#c39}
 
 #### Continuación del discurso de Dios
 
-[1](#c39-v1){:#c39-v1} [[334]](#n-334){:#rn-334} "¿Sabes tú el tiempo en que paren las cabras monteses? ¿Observas el parto de las ciervas?
+[1](#c39-v1){:#c39-v1} [[334]](#n-334){:#rn-334} «¿Sabes tú el tiempo en que paren las cabras monteses? ¿Observas el parto de las ciervas?
 
 [2](#c39-v2){:#c39-v2} ¿Sabes tú los meses de su preñez, y conoces el tiempo de su parto?
 
@@ -2172,7 +2172,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [24](#c39-v24){:#c39-v24} con ímpetu fogoso sorbe la tierra, no deja contenerse al sonido de la trompeta.
 
-[25](#c39-v25){:#c39-v25} [[339]](#n-339){:#rn-339} Cuando suena la trompeta, dice: *¡Adelante!*; huele de lejos la batalla, la voz del mando de los capitanes, y el tumulto del combate.
+[25](#c39-v25){:#c39-v25} [[339]](#n-339){:#rn-339} Cuando suena la trompeta, dice: "¡Adelante!"; huele de lejos la batalla, la voz del mando de los capitanes, y el tumulto del combate.
 
 [26](#c39-v26){:#c39-v26} [[340]](#n-340){:#rn-340} ¿Es acaso por obra tuya que emprende vuelo el gavilán, tendiendo sus alas hacia el sur?
 
@@ -2182,19 +2182,19 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [29](#c39-v29){:#c39-v29} Allí acecha la presa, desde lejos atisban sus ojos.
 
-[30](#c39-v30){:#c39-v30} [[341]](#n-341){:#rn-341} Sus polluelos chupan la sangre; y doquiera que haya cadáveres se la encuentra."
+[30](#c39-v30){:#c39-v30} [[341]](#n-341){:#rn-341} Sus polluelos chupan la sangre; y doquiera que haya cadáveres se la encuentra.»
 
 [31](#c39-v31){:#c39-v31} Se dirigió entonces Yahvé a Job y dijo:
 
-[32](#c39-v32){:#c39-v32} "Quiere el censor contender más con el Omnipotente? El que disputa con Dios responda."
+[32](#c39-v32){:#c39-v32} «Quiere el censor contender más con el Omnipotente? El que disputa con Dios responda.»
 
 #### Job confiesa su ignorancia
 
 [33](#c39-v33){:#c39-v33} [[342]](#n-342){:#rn-342} Job respondió a Yahvé y dijo:
 
-[34](#c39-v34){:#c39-v34} "He aquí ¡cuán pequeño soy yo! ¿Qué puedo responderte? Pondré mi mano sobre mi boca.
+[34](#c39-v34){:#c39-v34} «He aquí ¡cuán pequeño soy yo! ¿Qué puedo responderte? Pondré mi mano sobre mi boca.
 
-[35](#c39-v35){:#c39-v35} Una vez he hablado, mas no hablaré más; y otra vez (he hablado), pero no añadiré palabra.
+[35](#c39-v35){:#c39-v35} Una vez he hablado, mas no hablaré más; y otra vez (he hablado), pero no añadiré palabra.»
 
 ### Job [40](#c40) {#c40}
 
@@ -2202,7 +2202,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c40-v1){:#c40-v1} Yahvé siguió hablando a Job desde el torbellino, y dijo:
 
-[2](#c40-v2){:#c40-v2} [[343]](#n-343){:#rn-343} "Cíñete los lomos como varón; voy a preguntarte y tú me instruirás.
+[2](#c40-v2){:#c40-v2} [[343]](#n-343){:#rn-343} «Cíñete los lomos como varón; voy a preguntarte y tú me instruirás.
 
 [3](#c40-v3){:#c40-v3} ¿Quieres tú de veras negar mi justicia, condenarme a Mí para justificarte a ti mismo?
 
@@ -2254,13 +2254,13 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [27](#c40-v27){:#c40-v27} Pon (una vez) en él tu mano; y no olvidarás el combate; no volverás a hacerlo.
 
-[28](#c40-v28){:#c40-v28} He aquí que la esperanza (de los cazadores) es vana; su solo aspecto basta para echarlos por tierra."
+[28](#c40-v28){:#c40-v28} He aquí que la esperanza (de los cazadores) es vana; su solo aspecto basta para echarlos por tierra.»
 
 ### Job [41](#c41) {#c41}
 
 #### Continuación del discurso de Dios
 
-[1](#c41-v1){:#c41-v1} [[353]](#n-353){:#rn-353} "Nadie es tan audaz que le despierte. ¿Quién es capaz de mantenerse en pie delante de Mí?
+[1](#c41-v1){:#c41-v1} [[353]](#n-353){:#rn-353} «Nadie es tan audaz que le despierte. ¿Quién es capaz de mantenerse en pie delante de Mí?
 
 [2](#c41-v2){:#c41-v2} [[354]](#n-354){:#rn-354} ¿Quién me dio algo primero, para que Yo lo recompense? Mío es lo que hay bajo todo el cielo.
 
@@ -2308,7 +2308,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [24](#c41-v24){:#c41-v24} [[362]](#n-362){:#rn-362} No hay en la tierra semejante a él, pues fue creado para no tener miedo.
 
-[25](#c41-v25){:#c41-v25} Mira (con desprecio) lo más alto; es rey de todos los soberbios."
+[25](#c41-v25){:#c41-v25} Mira (con desprecio) lo más alto; es rey de todos los soberbios.»
 
 ### Job [42](#c42) {#c42}
 
@@ -2316,23 +2316,23 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [1](#c42-v1){:#c42-v1} Entonces respondió Job a Yahvé, y dijo:
 
-[2](#c42-v2){:#c42-v2} [[363]](#n-363){:#rn-363} "Sé que todo lo puedes; para Ti ningún plan es irrealizable.
+[2](#c42-v2){:#c42-v2} [[363]](#n-363){:#rn-363} «Sé que todo lo puedes; para Ti ningún plan es irrealizable.
 
 [3](#c42-v3){:#c42-v3} [[364]](#n-364){:#rn-364} ¿Quién es este que imprudentemente oscurece el plan (divino)? (Soy yo); he hablado temerariamente de las maravillas superiores a mí y que yo ignoraba.
 
-[4](#c42-v4){:#c42-v4} [[365]](#n-365){:#rn-365} *Escucha, pues, y Yo hablaré; Yo preguntaré, y tú me instruirás.*
+[4](#c42-v4){:#c42-v4} [[365]](#n-365){:#rn-365} "Escucha, pues, y Yo hablaré; Yo preguntaré, y tú me instruirás."
 
 [5](#c42-v5){:#c42-v5} [[366]](#n-366){:#rn-366} Solo de oídas te conocía; mas ahora te ven mis ojos.
 
-[6](#c42-v6){:#c42-v6} [[367]](#n-367){:#rn-367} Por eso me retracto y me arrepiento, envuelto en polvo y ceniza."
+[6](#c42-v6){:#c42-v6} [[367]](#n-367){:#rn-367} Por eso me retracto y me arrepiento, envuelto en polvo y ceniza.»
 
-#### EPÍLOGO
+## Epílogo
 
 #### El Señor reprende a los amigos de Job
 
-[7](#c42-v7){:#c42-v7} Después que Yahvé hubo dicho estas palabras a Job, dijo a Elifaz temanita: "Estoy irritado contra ti y contra tus dos amigos, porque no habéis hablado de Mí rectamente, como mi siervo Job.
+[7](#c42-v7){:#c42-v7} Después que Yahvé hubo dicho estas palabras a Job, dijo a Elifaz temanita: «Estoy irritado contra ti y contra tus dos amigos, porque no habéis hablado de Mí rectamente, como mi siervo Job.
 
-[8](#c42-v8){:#c42-v8} [[368]](#n-368){:#rn-368} Ahora tomad siete becerros y siete carneros, e id a mi siervo Job, y ofreced por vosotros un holocausto. Mi siervo Job orará por vosotros, y Yo aceptaré su intercesión, de modo que no os haré mal por no haber hablado de Mí rectamente como mi siervo Job.
+[8](#c42-v8){:#c42-v8} [[368]](#n-368){:#rn-368} Ahora tomad siete becerros y siete carneros, e id a mi siervo Job, y ofreced por vosotros un holocausto. Mi siervo Job orará por vosotros, y Yo aceptaré su intercesión, de modo que no os haré mal por no haber hablado de Mí rectamente como mi siervo Job.»
 
 [9](#c42-v9){:#c42-v9} Fueron, pues, Elifaz temanita, Bildad suhita y Sofar naamatita, e hicieron como Yahvé les había mandado. Y Yahvé aceptó los ruegos de Job.
 

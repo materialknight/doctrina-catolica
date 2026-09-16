@@ -414,7 +414,7 @@ title: Epístola de Bernabé
 [11, 7](#c11-v7) No así los impíos, no así, sino como el tamo, que esparce el viento de sobre la haz de la tierra. Por lo cual, no se levantarán los impíos en el juicio, ni los pecadores en el consejo de los justos; porque el Señor conoce el camino de los justos y perecerá el camino de los impíos.
 {:#c11-v7}
 
-[11, 8](#c11-v8) Daos cuenta cómo definió en uno el agua y la cruz. Pues lo que dice es esto: Bienaventurados quienes, habiendo puesto su confianza en la cruz, bajaron al agua; porque su recompensa dice que será en el tiempo debido. Entonces—dice—daré la paga. Lo que luego añade sobre que las hojas no caerán significa que toda palabra que saliere de vuestra boca en fe y caridad, será para conversión y esperanza de muchos.
+[11, 8](#c11-v8) Daos cuenta cómo definió en uno el agua y la cruz. Pues lo que dice es esto: Bienaventurados quienes, habiendo puesto su confianza en la cruz, bajaron al agua; porque su recompensa dice que será en el tiempo debido. Entonces —dice— daré la paga. Lo que luego añade sobre que las hojas no caerán significa que toda palabra que saliere de vuestra boca en fe y caridad, será para conversión y esperanza de muchos.
 {:#c11-v8}
 
 [11, 9](#c11-v9) Además, otro profeta dice: Y era la tierra de Israel celebrada sobre toda otra tierra. Lo que quiere decir: El Señor glorifica el vaso de su Espíritu.
@@ -580,7 +580,7 @@ title: Epístola de Bernabé
 [16, 8](#c16-v8) Mas se edificará en el Nombre del Señor. Atended a que el templo del Señor se edifique gloriosamente. ¿De qué manera? Aprendedlo. Después de recibido el perdón de los pecados, y por nuestra esperanza en el Nombre, fuimos hechos nuevos, creados otra vez desde el principio. Por lo cual, Dios habita verdaderamente en nosotros, en la morada de nuestro corazón.
 {:#c16-v8}
 
-[16, 9](#c16-v9) ¿De qué manera? Porque en nosotros mora la palabra de su fe, el llamamiento de su promesa, la sabiduría dc sus justificaciones, los mandamientos de su doctrina; profetizando Él mismo en nosotros, morando Él en persona dentro de nosotros, abriéndonos la puerta del templo, es decir, nuestra boca; dándonos penitencia, nos introduce a nosotros, que estábamos esclavizados por la muerte, en el templo incorruptible.
+[16, 9](#c16-v9) ¿De qué manera? Porque en nosotros mora la palabra de su fe, el llamamiento de su promesa, la sabiduría de sus justificaciones, los mandamientos de su doctrina; profetizando Él mismo en nosotros, morando Él en persona dentro de nosotros, abriéndonos la puerta del templo, es decir, nuestra boca; dándonos penitencia, nos introduce a nosotros, que estábamos esclavizados por la muerte, en el templo incorruptible.
 {:#c16-v9}
 
 [16, 10](#c16-v10) Y es así que quien desea salvarse no mira a un hombre, sino al que mora y habla dentro de sí, maravillado de no haber oído jamás antes las palabras de la boca de quien hablaba y no tener él siquiera deseo de escucharle. Este es templo espiritual que se edifica para el Señor.

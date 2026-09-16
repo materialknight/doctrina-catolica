@@ -358,9 +358,9 @@ title: Carta del apóstol san Pablo a los Colosenses
 
 **Ha sido predicado... debajo del cielo**: Sobre la amplitud de esta expresión, véase Romanos [10, 18](romanos#c10-v18) y nota.
 
-**Ministro**: S. Pablo, que poco antes sufría cadenas «por la esperanza de Israel» (Hechos [28, 20](hechos#c28-v20)), está ahora, desde el rechazo total de los judíos (Hechos [28, 26](hechos#c28-v26) ss.), plenamente entregado a la Iglesia cuerpo místico, en que ya no hay judío ni gentil ([3, 11](#c3-v11)), de la cual se llama ministro, en griego *diácono*. Ahora sus cadenas son «por vosotros, gentiles» (Efesios [3, 1](efesios#c3-v1)), y por esta Iglesia acepta gozoso (v. [24](#c1-v24)) lo que en su carne le toque aún, por designio de Dios, padecer con Cristo (Romanos [6, 3](romanos#c6-v3) s.; [8, 17](romanos#c8-v17) s.; Filipenses [3, 10](filipenses#c3-v10)).
+**Ministro**: S. Pablo, que poco antes sufría cadenas «por la esperanza de Israel» (Hechos [28, 20](hechos#c28-v20)), está ahora, desde el rechazo total de los judíos (Hechos [28, 26](hechos#c28-v26) ss.), plenamente entregado a la Iglesia cuerpo místico, en que ya no hay judío ni gentil ([3, 11](#c3-v11)), de la cual se llama ministro, en griego: «*diácono*». Ahora sus cadenas son «por vosotros, gentiles» (Efesios [3, 1](efesios#c3-v1)), y por esta Iglesia acepta gozoso (v. [24](#c1-v24)) lo que en su carne le toque aún, por designio de Dios, padecer con Cristo (Romanos [6, 3](romanos#c6-v3) s.; [8, 17](romanos#c8-v17) s.; Filipenses [3, 10](filipenses#c3-v10)).
 
-**Lo que en mi carne falta de las tribulaciones de Cristo**:
+**Lo que en mi carne falta de las tribulaciones de Cristo** (v. [24](#c1-v24)):
 
 > «Los sufrimientos de la Iglesia y de cada uno de sus miembros son sufrimientos de Cristo (Hechos [9, 5](hechos#c9-v5); Apocalipsis [7, 4](apocalipsis#c7-v4))» (Crampon).
 

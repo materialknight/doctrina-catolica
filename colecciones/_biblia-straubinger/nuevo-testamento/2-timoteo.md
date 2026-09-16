@@ -402,7 +402,7 @@ El Papa Pío VI, escribiendo en 1769 a Mons. Martini, le manifestaba su deseo de
 [4, 13](#c4-v13) **La capa**: Detalle íntimo que nos deja suponer la estrechez en que vivía el apóstol, y los fríos que habrá pasado esperándola.
 {:#nt-c4-v13}
 
-[4, 14](#c4-v14) Se trata probablemente de aquel *Alejandro* que es mencionado en Hechos [19, 33](hechos#c19-v33), o del que fue excomulgado por el apóstol (1 Timoteo [1, 20](1-timoteo#c1-v20)). Nótese el admirable contraste con el v. [16](#c4-v16): Cuando se trata de los que dañaron a él personalmente, S. Pablo pide a Dios que los perdone; pero a los que dificultaron su obra apostólica, les anuncia el terrible castigo del Señor.
+[4, 14](#c4-v14) Se trata probablemente de aquel **Alejandro** que es mencionado en Hechos [19, 33](hechos#c19-v33), o del que fue excomulgado por el apóstol (1 Timoteo [1, 20](1-timoteo#c1-v20)). Nótese el admirable contraste con el v. [16](#c4-v16): Cuando se trata de los que dañaron a él personalmente, S. Pablo pide a Dios que los perdone; pero a los que dificultaron su obra apostólica, les anuncia el terrible castigo del Señor.
 {:#nt-c4-v14}
 
 [4, 17](#c4-v17) **Todos los gentiles**: pues los judíos ya se habían apartado de él (Hechos [28, 25](hechos#c28-v25) ss. y notas).

@@ -420,7 +420,7 @@ La vacilación en desear la sabiduría y buscarla en las Palabras de Dios viene 
 [1, 8](#c1-v8) Consecuencia del v. [6](#c1-v6). La fidelidad es una voluntad que cree. Si vacila pues la fe, vacilará la voluntad y por tanto la constancia en el obrar.
 {:#nt-c1-v8}
 
-[1, 9](#c1-v9) **Por su elevación**, esto es por el privilegio especial con que Él exalta a los pequeños y humildes, como lo vemos especialmente en el Sermón de la Montaña (Mateo [5, 1](mateo#c5-v1) ss.) y en el *Magnificat* (Lucas [1, 49](lucas#c1-v49) ss. y notas). El rico solo puede gloriarse si reconoce como humillante su posición. Por aquí se ve a qué distancia solemos estar de estas verdades sobrenaturales.
+[1, 9](#c1-v9) **Por su elevación**, esto es por el privilegio especial con que Él exalta a los pequeños y humildes, como lo vemos especialmente en el Sermón de la Montaña (Mateo [5, 1](mateo#c5-v1) ss.) y en el *Magníficat* (Lucas [1, 49](lucas#c1-v49) ss. y notas). El rico solo puede gloriarse si reconoce como humillante su posición. Por aquí se ve a qué distancia solemos estar de estas verdades sobrenaturales.
 {:#nt-c1-v9}
 
 [1, 10](#c1-v10)
@@ -525,8 +525,10 @@ Jesús nos enseña no solo a dar sin esperar nada, a amar y a hacer bien a nuest
 
 > «Ningún órgano le sirve tan bien al diablo para matar el alma y llevarnos al pecado.» (S. Crisóstomo)
 
-[3, 6](#c3-v6) **El mundo de la iniquidad**; pues, como observa S. Basilio, la lengua encierra todos los males, enciende el fuego de las pasiones, destruye lo bueno, es un instrumento del infierno. La rueda: otros: el ciclo, o sea todo el curso de la existencia. Figura semejante a la usada en los horóscopos.
+[3, 6](#c3-v6) **El mundo de la iniquidad**; pues, como observa S. Basilio, la lengua encierra todos los males, enciende el fuego de las pasiones, destruye lo bueno, es un instrumento del infierno.
 {:#nt-c3-v6}
+
+**La rueda**: otros: «el ciclo», o sea todo el curso de la existencia. Figura semejante a la usada en los horóscopos.
 
 [3, 7](#c3-v7) ss. El hombre, dice S. Agustín, doma la fiera y no doma la lengua. De manera que sería inútil pretender frenarla por propio esfuerzo (v. [8](#c3-v8)). El remedio está en entregarse a la moción del Espíritu Santo (Lucas [11, 13](lucas#c11-v13); Romanos [5, 5](romanos#c5-v5); [8, 14](romanos#c8-v14)). Entonces, cuando nos inspire el amor en vez del egoísmo, podremos hablar cuanto queramos, oportuna e inoportunamente (2 Timoteo [4, 2](2-timoteo#c4-v2)). No es otro el pensamiento del mismo Obispo de Hipona cuando nos dice en su célebre máxima: «*Dilige et quod vis fac*». Ama y haz lo que quieras. Entonces será la misma lengua el mejor instrumento de los mayores bienes (v. [9](#c3-v9) ss.). Cf. Eclesiástico [28, 14](eclesiastico#c28-v14).
 {:#nt-c3-v7}
@@ -540,7 +542,7 @@ Jesús nos enseña no solo a dar sin esperar nada, a amar y a hacer bien a nuest
 [3, 17](#c3-v17) s. Precioso retrato de la tranquila sabiduría celestial. ¡Qué dicha si sacáramos de aquí el fruto de no discutir! Véase, según el texto hebreo, el Salmo [36](salmos#c36) y notas. La Palabra de la Sabiduría es semilla (v. [18](#c3-v18); Lucas [8, 11](lucas#c8-v11); Marcos [4, 14](marcos#c4-v14)). Es, pues, cuestión de dejarla caer solamente. A los que no la recojan, vano sería querer forzarlos (véase Mateo [13, 19](mateo#c13-v19) y [23](mateo#c13-v23) y notas), pues les falta la disposición interior (Juan [3, 19](juan#c3-v19); [12, 48](juan#c12-v48)). Quizá no ha sonado aún para ellos la hora que solo Dios conoce. Cf. Juan [7, 5](juan#c7-v5) y Hechos [1, 14](hechos#c1-v14).
 {:#nt-c3-v17}
 
-[4, 1](#c4-v1) S. Gregorio hace notar que cuando el fuego de la concupiscencia se apodera de alguno ya no puede ver el sol de la inteligencia. Es la doctrina de S. Agustín sobre la *mens mundata* (cf. Mateo [5, 8](mateo#c5-v8) y nota). Vemos aquí explicado, sin ir más lejos, cómo hombres dirigentes y naciones caen en la monstruosa ceguera de las guerras. Y sabemos que seguirán cayendo, pues las guerras serán la primera señal del fin (Mateo [24, 6](mateo#c24-v6) ss.) y los hombres no se convertirán (Apocalipsis [9, 15](apocalipsis#c9-v15)-21; [16, 9](apocalipsis#c16-v9), etc.). Cf. 1 Corintios [6, 7](1-corintios#c6-v7).
+[4, 1](#c4-v1) S. Gregorio hace notar que cuando el fuego de la concupiscencia se apodera de alguno ya no puede ver el sol de la inteligencia. Es la doctrina de S. Agustín sobre la «*mens mundata*» (cf. Mateo [5, 8](mateo#c5-v8) y nota). Vemos aquí explicado, sin ir más lejos, cómo hombres dirigentes y naciones caen en la monstruosa ceguera de las guerras. Y sabemos que seguirán cayendo, pues las guerras serán la primera señal del fin (Mateo [24, 6](mateo#c24-v6) ss.) y los hombres no se convertirán (Apocalipsis [9, 15](apocalipsis#c9-v15)-21; [16, 9](apocalipsis#c16-v9), etc.). Cf. 1 Corintios [6, 7](1-corintios#c6-v7).
 {:#nt-c4-v1}
 
 [4, 3](#c4-v3)

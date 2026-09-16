@@ -100,7 +100,7 @@ Este tercer Evangelio fue escrito en Roma a fines de la primera cautividad de Sa
 
 [38](#c1-v38){:#c1-v38} Entonces María dijo: "He aquí la esclava del Señor: Séame hecho según tu palabra" [[12]](#n-12){:#rn-12}. Y el ángel la dejó.
 
-#### Visita de María a Isabel. El Magnificat
+#### Visita de María a Isabel. El *Magníficat*
 
 [39](#c1-v39){:#c1-v39} En aquellos días, María se levantó y fue apresuradamente a la montaña, a una ciudad de Judá [[13]](#n-13){:#rn-13};
 

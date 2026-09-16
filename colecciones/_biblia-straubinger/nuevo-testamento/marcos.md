@@ -1060,7 +1060,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 
 #### La renuncia del «yo»
 
-[8, 34](#c8-v34) Y convocando a la muchedumbre con sus discípulos les dijo: "Si alguno quiere venir en pos de Mí, renúnciese a sí mismo, tome su cruz, y sígame [[\*\*]](#nt-c8-v34).
+[8, 34](#c8-v34) Y convocando a la muchedumbre con sus discípulos les dijo: «Si alguno quiere venir en pos de Mí, renúnciese a sí mismo, tome su cruz, y sígame [[\*\*]](#nt-c8-v34).
 {:#c8-v34}
 
 [8, 35](#c8-v35) Quien quiere salvar su vida, la perderá, y quien pierde su vida a causa de Mí y del Evangelio, la salvará.
@@ -1072,7 +1072,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [8, 37](#c8-v37) Pues ¿qué cosa puede dar el hombre a cambio de su vida?
 {:#c8-v37}
 
-[8, 38](#c8-v38) Porque quien se avergonzare de Mí y de mis palabras delante de esta raza adúltera y pecadora, el Hijo del hombre también se avergonzará de él cuando vuelva en la gloria de su Padre, escoltado por los santos ángeles".
+[8, 38](#c8-v38) Porque quien se avergonzare de Mí y de mis palabras delante de esta raza adúltera y pecadora, el Hijo del hombre también se avergonzará de él cuando vuelva en la gloria de su Padre, escoltado por los santos ángeles».
 {:#c8-v38}
 
 ### Marcos [9](#c9) {#c9}
@@ -1149,7 +1149,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [9, 22](#c9-v22) y a menudo lo ha echado, ora en el fuego, ora en el agua, para hacerlo morir. Pero si Tú puedes algo, ayúdanos, Y ten compasión de nosotros».
 {:#c9-v22}
 
-[9, 23](#c9-v23) Replicole Jesús: «¡Si puedes! ... Todo es posible para el que cree».
+[9, 23](#c9-v23) Replicole Jesús: «¿"Si puedes"? Todo es posible para el que cree».
 {:#c9-v23}
 
 [9, 24](#c9-v24) Entonces, el padre del niño se puso a gritar: «¡Creo! ¡Ven en ayuda de mi falta de fe!»
@@ -2493,7 +2493,7 @@ Es evidente que la doctrina de Jesucristo era tan incompatible con esa mentalida
 [8, 34](#c8-v34) A la luz de la doctrina revelada y definida, se comprende bien la suavidad de esta palabra de Jesús, que al principio parece tan dura.
 {:#nt-c8-v34}
 
-**Renúnciese a si mismo**: Ello significa decirnos, para nuestros bien: líbrate de ese enemigo, pues ahora sabes que es malo, corrompido, perverso. Si tú renuncias a ese mal amigo y consejero que llevas adentro, yo lo sustituiré con mi espíritu, sin el cual nada puedes hacer (Juan [15, 5](juan#c15-v5)).
+**Renúnciese a si mismo**: Ello significa decirnos para nuestro bien: líbrate de ese enemigo, pues ahora sabes que es malo, corrompido, perverso. Si tú renuncias a ese mal amigo y consejero que llevas adentro, yo lo sustituiré con mi espíritu, sin el cual nada puedes hacer (Juan [15, 5](juan#c15-v5)).
 
 ¡Y cómo será de total ese apartamiento que necesitamos hacer del autoenemigo, cuando Jesús nos enseña que es indispensable nacer de nuevo para poder entrar en el Reino de Dios! (Juan [3, 3](juan#c3-v3)). Renacer del Espíritu, echar fuera aquel yo que nos aconsejaba y nos prometía quizá tantas grandezas. Echarlo fuera, quitarlo de en medio, destituirlo de su cargo de consejero, por mentiroso, malo e ignorante. He aquí lo que tanto cuesta a nuestro amor propio: reconocer que nuestro fulano de tal es «mentira» (Romanos [3, 4](romanos#c3-v4)) y de suyo digno de la Ira de Dios. Cf. Lucas [9, 23](lucas#c9-v23) y nota.
 

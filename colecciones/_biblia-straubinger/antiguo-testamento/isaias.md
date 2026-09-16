@@ -10,19 +10,19 @@ No todos los profetas nos han dejado sus visiones en forma de escritos. De Elía
 
 Entre los vates cuyos escritos poseemos es sin duda el mayor Isaías, hijo de Amós, de la tierra de Judá, quien fue llamado al duro cargo de profeta en el año 738 a. C., y cuya muerte ocurrió probablemente bajo el rey Manasés (693-639). Según una antigua tradición judía, murió aserrado por la mitad a manos de los verdugos de este impío rey. En 442 d. C. sus restos fueron transportados a Constantinopla. La Iglesia celebra su memoria el 6 de julio.
 
-Isaías es el primero de los profetas del Antiguo Testamento, desde luego por lo acabado de su lenguaje, que representa el siglo de oro de la literatura hebrea, mas sobre todo por la importancia de los vaticinios que se refieren al pueblo de Israel, los pueblos paganos y los tiempos mesiánicos y escatológicos. Ningún otro profeta vio con tanta claridad al futuro Redentor, y nadie, como él, recibió tantas ilustraciones acerca de la salud mesiánica, de manera que San Jerónimo no vacila, en llamarlo "el Evangelista entre los profetas".
+Isaías es el primero de los profetas del Antiguo Testamento, desde luego por lo acabado de su lenguaje, que representa el siglo de oro de la literatura hebrea, mas sobre todo por la importancia de los vaticinios que se refieren al pueblo de Israel, los pueblos paganos y los tiempos mesiánicos y escatológicos. Ningún otro profeta vio con tanta claridad al futuro Redentor, y nadie, como él, recibió tantas ilustraciones acerca de la salud mesiánica, de manera que San Jerónimo no vacila, en llamarlo «el Evangelista entre los profetas».
 
-Se distinguen en el libro de Isaías un Prólogo (cap. 1) y dos partes principales. La primera (caps. 2-35) es una colección de profecías, exhortaciones y amonestaciones, que tienen como punto de partida el peligro asirio, y contiene vaticinios sobre Judá e Israel (2, 1-12, 6), oráculos contra las naciones paganas (13, 1-23, 18); profecías escatológicas (24, 1-27, 13); amenazas contra la falsa seguridad (28, 1-33, 24), y la promesa de la salvación de Israel (34, 1-35, 10). Entre las profecías descuellan las consignadas en los caps. 7-12. Fueron pronunciadas en tiempo de Acaz y tienen por tema la Encarnación del Hijo de Dios, por lo cual son también llamadas "El Libro de Emmanuel".
+Se distinguen en el libro de Isaías un Prólogo (cap. [1](#c1)) y dos partes principales. La primera (caps. [2](#c2)-[35](#c35)) es una colección de profecías, exhortaciones y amonestaciones, que tienen como punto de partida el peligro asirio, y contiene vaticinios sobre Judá e Israel ([2, 1](#c2-v1)-[12, 6](#c12-v6)), oráculos contra las naciones paganas ([13, 1](#c13-v1)-[23, 18](#c23-v18)); profecías escatológicas ([24, 1](#c24-v1)-[27, 13](#c27-v13)); amenazas contra la falsa seguridad ([28, 1](#c28-v1)-[33, 24](#c33-v24)), y la promesa de la salvación de Israel ([34, 1](#c34-v1)-[35, 10](#c35-v10)). Entre las profecías descuellan las consignadas en los caps. [7](#c7)-[12](#c12). Fueron pronunciadas en tiempo de Acaz y tienen por tema la Encarnación del Hijo de Dios, por lo cual son también llamadas «El Libro de Emmanuel».
 
-Entre la primera y segunda parte media un trozo de cuatro capítulos (36-39) que forma algo así como un bosquejo histórico.
+Entre la primera y segunda parte, media un trozo de cuatro capítulos ([36](#c36)-[39](#c39)) que forma algo así como un bosquejo histórico.
 
-El cap. 40 da comienzo a la parte segunda del Libro (caps. 40-66), que trae veintisiete discursos cuyo fin inmediato es consolar con las promesas divinas a los que iban a ser desterrados a Babilonia, como expresa el Eclesiástico ([48, 27](book#c48-v27) s.).
+El cap. [40](#c40) da comienzo a la parte segunda del Libro (caps. [40](#c40)-[66](#c66)), que trae veintisiete discursos cuyo fin inmediato es consolar con las promesas divinas a los que iban a ser desterrados a Babilonia, como expresa el Eclesiástico ([48, 27](eclesiastico#c48-v27) s.).
 
-Fuera de eso, su objeto principal es anunciar el misterio de la Redención y de la salud mesiánica, a la cual precede la Pasión del "Siervo de Dios", que se describe proféticamente con la más sorprendente claridad.
+Fuera de eso, su objeto principal es anunciar el misterio de la Redención y de la salud mesiánica, a la cual precede la Pasión del «Siervo de Dios», que se describe proféticamente con la más sorprendente claridad.
 
-No es de extrañar que la crítica racionalista haya atacado la autenticidad de esta segunda parte, atribuyéndola a otro autor posterior al cautiverio babilónico. Contra tal teoría que se apoya casi exclusivamente en criterios internos y lingüísticos, se levanta no solo la tradición judía, cuyo primer testigo es Jesús, hijo de Sirac (Eclesiastés [48, 25](eclesiastes#c48-v25) ss.), sino también toda la tradición cristiana.
+No es de extrañar que la crítica racionalista haya atacado la autenticidad de esta segunda parte, atribuyéndola a otro autor posterior al cautiverio babilónico. Contra tal teoría que se apoya casi exclusivamente en criterios internos y lingüísticos, se levanta no solo la tradición judía, cuyo primer testigo es Jesús, hijo de Sirac (Eclesiástico [48, 25](eclesiastico#c48-v25) ss.), sino también toda la tradición cristiana.
 
-Para la interpretación de Isaías hay que tener presente lo dicho en la Introducción general.
+Para la interpretación de Isaías hay que tener presente lo dicho en la [Introducción general](libros-profeticos).
 
 ## Prólogo
 
@@ -32,9 +32,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 #### Oráculo introductorio
 
-[2](#c1-v2){:#c1-v2} [[2]](#n-2){:#rn-2} Oíd, cielos, y tú, tierra, escucha; porque habla Yahvé: "He criado hijos y los he engrandecido, mas ellos se han rebelado contra Mí.
+[2](#c1-v2){:#c1-v2} [[2]](#n-2){:#rn-2} Oíd, cielos, y tú, tierra, escucha; porque habla Yahvé: «He criado hijos y los he engrandecido, mas ellos se han rebelado contra Mí.
 
-[3](#c1-v3){:#c1-v3} El buey conoce al que lo posee, y el asno el pesebre de su amo; pero Israel no (me) conoce; mi pueblo no tiene inteligencia."
+[3](#c1-v3){:#c1-v3} El buey conoce al que lo posee, y el asno el pesebre de su amo; pero Israel no (me) conoce; mi pueblo no tiene inteligencia.»
 
 [4](#c1-v4){:#c1-v4} [[3]](#n-3){:#rn-3} ¡Ay de ti, nación pecadora, pueblo cargado de culpa, raza de malvados, hijos corrompidos! Han abandonado a Yahvé, han despreciado al Santo de Israel, se han vuelto atrás.
 
@@ -50,7 +50,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [10](#c1-v10){:#c1-v10} [[7]](#n-7){:#rn-7} ¡Oíd la palabra de Yahvé, príncipes de Sodoma! ¡Escucha la ley de nuestro Dios, oh pueblo de Gomorra!
 
-[11](#c1-v11){:#c1-v11} [[8]](#n-8){:#rn-8} ¿De qué me sirve la multitud de vuestros sacrificios? dice Yahvé. Harto estoy de los holocaustos de carneros y del sebo de animales cebados; no me agrada la sangre de toros, ni la de corderos y machos cabríos.
+[11](#c1-v11){:#c1-v11} [[8]](#n-8){:#rn-8} «¿De qué me sirve la multitud de vuestros sacrificios? —dice Yahvé—. Harto estoy de los holocaustos de carneros y del sebo de animales cebados; no me agrada la sangre de toros, ni la de corderos y machos cabríos.
 
 [12](#c1-v12){:#c1-v12} ¡Y venís a presentaros delante de Mí! ¿Quién os ha pedido que holléis mis atrios?
 
@@ -62,11 +62,11 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [16](#c1-v16){:#c1-v16} [[10]](#n-10){:#rn-10} Lavaos, purificaos; quitad de ante mis ojos la maldad de vuestras obras; cesad de obrar mal.
 
-[17](#c1-v17){:#c1-v17} Aprended a hacer el bien, buscad lo justo, poned coto al opresor, haced justicia al huérfano, defended la causa de la viuda.
+[17](#c1-v17){:#c1-v17} Aprended a hacer el bien, buscad lo justo, poned coto al opresor, haced justicia al huérfano, defended la causa de la viuda.»
 
 #### Invitación a la conversión
 
-[18](#c1-v18){:#c1-v18} [[11]](#n-11){:#rn-11} Venid, discutamos juntos, dice Yahvé. Aunque vuestros pecados fuesen como la grana, quedarán blancos como la nieve. Aunque fuesen rojos como el carmesí, vendrán a ser como lana.
+[18](#c1-v18){:#c1-v18} [[11]](#n-11){:#rn-11} «Venid, discutamos juntos —dice Yahvé—. Aunque vuestros pecados fuesen como la grana, quedarán blancos como la nieve. Aunque fuesen rojos como el carmesí, vendrán a ser como lana.
 
 [19](#c1-v19){:#c1-v19} Si queréis y si me escucháis, comeréis de lo mejor de la tierra.
 
@@ -76,13 +76,13 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [22](#c1-v22){:#c1-v22} [[13]](#n-13){:#rn-13} Tu plata se ha tornado escoria; tu vino fue adulterado con agua;
 
-[23](#c1-v23){:#c1-v23} [[14]](#n-14){:#rn-14} tus príncipes son unos obstinados y compañeros de ladrones; todos aman el soborno y van tras los presentes; no hacen justicia al huérfano, ni llega a ellos la causa de la viuda.
+[23](#c1-v23){:#c1-v23} [[14]](#n-14){:#rn-14} tus príncipes son unos obstinados y compañeros de ladrones; todos aman el soborno y van tras los presentes; no hacen justicia al huérfano, ni llega a ellos la causa de la viuda.»
 
-[24](#c1-v24){:#c1-v24} [[15]](#n-15){:#rn-15} Por esto dice el Señor, Yahvé de los ejércitos, el Fuerte de Israel: "Voy a tomar satisfacción de mis adversarios y venganza de mis enemigos, quitaré de ti todo el metal impuro.
+[24](#c1-v24){:#c1-v24} [[15]](#n-15){:#rn-15} Por esto dice el Señor, Yahvé de los ejércitos, el Fuerte de Israel: «Voy a tomar satisfacción de mis adversarios y venganza de mis enemigos, quitaré de ti todo el metal impuro.
 
 [25](#c1-v25){:#c1-v25} Volveré mi mano sobre ti, y limpiaré como con lejía tus escorias,
 
-[26](#c1-v26){:#c1-v26} Restituiré tus jueces como fueron al principio, y tus consejeros como eran antes; después de lo cual serás llamada ciudad de justicia, ciudad fiel."
+[26](#c1-v26){:#c1-v26} Restituiré tus jueces como fueron al principio, y tus consejeros como eran antes; después de lo cual serás llamada ciudad de justicia, ciudad fiel.»
 
 [27](#c1-v27){:#c1-v27} Sión será redimida con justicia, y sus convertidos, con equidad.
 
@@ -96,25 +96,25 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [31](#c1-v31){:#c1-v31} Será el fuerte como estopa, y su obra cual chispa; arderán los dos juntos, y no habrá quien apague el fuego.
 
-#### PRIMERA PARTE
+## Primera Parte
 
-## I. Profecías sobre judá e israel
+### I. Profecías sobre Judá e Israel
 
-### Isaías [2](#c2) {#c2}
+#### Isaías [2](#c2) {#c2}
 
-#### Gloria del reino mesiánico
+##### Gloria del reino mesiánico
 
 [1](#c2-v1){:#c2-v1} He aquí lo que vio Isaías, hijo de Amós, acerca de Judá y Jerusalén:
 
 [2](#c2-v2){:#c2-v2} [[18]](#n-18){:#rn-18} Acontecerá en los últimos tiempos que el monte de la Casa de Yahvé será establecido en la cumbre de los montes, y se elevará sobre los collados; y acudirán a él todas las naciones.
 
-[3](#c2-v3){:#c2-v3} Y llegarán muchos pueblos y dirán: "¡Venid, subamos al monte de Yahvé, a la Casa del Dios de Jacob! Él nos enseñará sus caminos, e iremos por sus sendas"; pues de Sión saldrá la ley, y de Jerusalén la palabra de Yahvé.
+[3](#c2-v3){:#c2-v3} Y llegarán muchos pueblos y dirán: «¡Venid, subamos al monte de Yahvé, a la Casa del Dios de Jacob! Él nos enseñará sus caminos, e iremos por sus sendas»; pues de Sión saldrá la ley, y de Jerusalén la palabra de Yahvé.
 
-[4](#c2-v4){:#c2-v4} [[19]](#n-19){:#rn-19} El será árbitro entre las naciones, y juzgará a muchos pueblos; y de sus espadas forjarán rejas de arado, y de sus lanzas hoces. No alzará ya espada pueblo contra pueblo, ni aprenderán más la guerra.
+[4](#c2-v4){:#c2-v4} [[19]](#n-19){:#rn-19} Él será árbitro entre las naciones, y juzgará a muchos pueblos; y de sus espadas forjarán rejas de arado, y de sus lanzas hoces. No alzará ya espada pueblo contra pueblo, ni aprenderán más la guerra.
 
 [5](#c2-v5){:#c2-v5} ¡Casa de Jacob, venid, y caminemos en la luz de Yahvé!
 
-#### Humillación del pueblo orgulloso
+##### Humillación del pueblo orgulloso
 
 [6](#c2-v6){:#c2-v6} [[20]](#n-20){:#rn-20} Pues Tú desechaste a tu pueblo, la casa de Jacob, por cuanto están llenos (de la corrupción) del Oriente; son agoreros como los filisteos, y pactan con los extranjeros.
 
@@ -150,23 +150,23 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [22](#c2-v22){:#c2-v22} [[26]](#n-26){:#rn-26} ¡Cesad de confiar en el hombre, cuya vida no es más que un soplo de su nariz! Pues ¿de qué valor es el (hombre)?
 
-### Isaías [3](#c3) {#c3}
+#### Isaías [3](#c3) {#c3}
 
-#### Desolación en Jerusalén
+##### Desolación en Jerusalén
 
 [1](#c3-v1){:#c3-v1} Porque he aquí que el Señor, Yahvé de los ejércitos, quitará a Jerusalén y a Judá toda clase de apoyo, todo sostén de pan y todo sostén de agua;
 
 [2](#c3-v2){:#c3-v2} el héroe, el guerrero y el juez, el profeta, el adivino y el anciano,
 
-[3](#c3-v3){:#c3-v3} [[27]](#n-27){:#rn-27} el jefe de cincuenta y el hombre de prestigio el consejero, el perito artífice y el hábil encantador.
+[3](#c3-v3){:#c3-v3} [[27]](#n-27){:#rn-27} el jefe de cincuenta y el hombre de prestigio, el consejero, el perito artífice y el hábil encantador.
 
-[4](#c3-v4){:#c3-v4} Les daré muchachuelos por príncipes, y reinarán sobre ellos algunos mozalbetes.
+[4](#c3-v4){:#c3-v4} «Les daré muchachuelos por príncipes, y reinarán sobre ellos algunos mozalbetes.»
 
 [5](#c3-v5){:#c3-v5} En el pueblo tiranizará el uno al otro, y cada cual a su vecino; el joven se precipitará sobre el anciano, y el villano sobre el noble.
 
-[6](#c3-v6){:#c3-v6} Pues uno echará mano de otro en la casa de su padre (diciendo): "Tú tienes vestido, sé nuestro príncipe, y hazte cargo de esta ruina."
+[6](#c3-v6){:#c3-v6} Pues uno echará mano de otro en la casa de su padre (diciendo): «Tú tienes vestido, sé nuestro príncipe, y hazte cargo de esta ruina.»
 
-[7](#c3-v7){:#c3-v7} [[28]](#n-28){:#rn-28} Pero él responderá en aquel día, diciendo: "Yo no soy médico, y en mi casa no hay pan ni ropa; no me hagáis príncipe del pueblo."
+[7](#c3-v7){:#c3-v7} [[28]](#n-28){:#rn-28} Pero él responderá en aquel día, diciendo: «Yo no soy médico, y en mi casa no hay pan ni ropa; no me hagáis príncipe del pueblo.»
 
 [8](#c3-v8){:#c3-v8} Pues Jerusalén está bamboleando, y Judá caerá, porque sus palabras y sus obras están contra Yahvé; así irritan ellos los ojos de su gloria.
 
@@ -178,15 +178,15 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [12](#c3-v12){:#c3-v12} [[31]](#n-31){:#rn-31} Mi pueblo está oprimido por caprichosos, y mujeres lo gobiernan. Pueblo mío, los que te guían te hacen errar y destruyen el camino por donde debes seguir.
 
-[13](#c3-v13){:#c3-v13} Se levanta Yahvé para hacer justicia; se pone de pie para juzgar a los pueblos:
+[13](#c3-v13){:#c3-v13} Se levanta Yahvé para hacer justicia; se pone de pie para juzgar a los pueblos;
 
-[14](#c3-v14){:#c3-v14} [[32]](#n-32){:#rn-32} Yahvé entrará en juicio con los ancianos de su pueblo y con sus príncipes: "Vosotros habéis devorado la viña, en vuestras casas están los despojos del pobre.
+[14](#c3-v14){:#c3-v14} [[32]](#n-32){:#rn-32} Yahvé entrará en juicio con los ancianos de su pueblo y con sus príncipes: «Vosotros habéis devorado la viña, en vuestras casas están los despojos del pobre.
 
-[15](#c3-v15){:#c3-v15} ¿Por qué aplastáis a mi pueblo, y moléis el rostro de los pobres?" dice el Señor, Yahvé de los ejércitos.
+[15](#c3-v15){:#c3-v15} ¿Por qué aplastáis a mi pueblo, y moléis el rostro de los pobres?» dice el Señor, Yahvé de los ejércitos.
 
-#### Contra el lujo femenino
+##### Contra el lujo femenino
 
-[16](#c3-v16){:#c3-v16} [[33]](#n-33){:#rn-33} Y dijo Yahvé: "Por cuanto las hijas de Sión son tan altivas y andan con el cuello erguido y guiñando los ojos, y caminan meneando el cuerpo al son de las ajorcas de sus pies,
+[16](#c3-v16){:#c3-v16} [[33]](#n-33){:#rn-33} Y dijo Yahvé: «Por cuanto las hijas de Sión son tan altivas y andan con el cuello erguido y guiñando los ojos, y caminan meneando el cuerpo al son de las ajorcas de sus pies»,
 
 [17](#c3-v17){:#c3-v17} por eso el Señor raerá la cabeza de las hijas de Sión, y Yahvé descubrirá sus vergüenzas.
 
@@ -208,11 +208,11 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [26](#c3-v26){:#c3-v26} Se lamentarán las puertas de (Sión) y estarán de luto; y ella, desolada, se sentará en tierra.
 
-### Isaías [4](#c4) {#c4}
+#### Isaías [4](#c4) {#c4}
 
-#### Visión del reino mesiánico
+##### Visión del reino mesiánico
 
-[1](#c4-v1){:#c4-v1} [[35]](#n-35){:#rn-35} En aquel día siete mujeres echaran mano de un solo hombre, diciendo: "Comeremos nuestro propio pan y con nuestra ropa nos vestiremos; tan solo déjanos llevar tu nombre; quítanos el oprobio."
+[1](#c4-v1){:#c4-v1} [[35]](#n-35){:#rn-35} En aquel día siete mujeres echaran mano de un solo hombre, diciendo: «Comeremos nuestro propio pan y con nuestra ropa nos vestiremos; tan solo déjanos llevar tu nombre; quítanos el oprobio.»
 
 [2](#c4-v2){:#c4-v2} [[36]](#n-36){:#rn-36} En aquel día el Pimpollo de Yahvé será la magnificencia y gloria, el fruto de la tierra, la grandeza y el orgullo de los de Israel que se salvaren.
 
@@ -224,9 +224,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [6](#c4-v6){:#c4-v6} [[39]](#n-39){:#rn-39} y habrá un tabernáculo para dar sombra contra el calor del día, y refugio y abrigo contra la tormenta y la lluvia.
 
-### Isaías [5](#c5) {#c5}
+#### Isaías [5](#c5) {#c5}
 
-#### La parábola de la viña
+##### La parábola de la viña
 
 [1](#c5-v1){:#c5-v1} [[40]](#n-40){:#rn-40} Cantaré ahora a mi amado un canto, la canción de mi amado acerca de su viña. Tenía mi amado una viña en un collado muy fértil.
 
@@ -240,15 +240,15 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [6](#c5-v6){:#c5-v6} Haré de ella una desolación y no será podada ni cultivada; brotarán allí zarzas y espinas; y mandaré que las nubes no lluevan sobre ella.
 
-#### Explicación de la parábola
+##### Explicación de la parábola
 
 [7](#c5-v7){:#c5-v7} Pues la viña de Yahvé de los ejércitos es la casa de Israel, y los hombres de Judá son el plantío de su deleite. Esperaba de ellos rectitud, y no veo más que derramamiento de sangre; justicia, y he aquí que no hay más que gritos de dolor.
 
 [8](#c5-v8){:#c5-v8} [[42]](#n-42){:#rn-42} ¡Ay de los que juntan casa con casa, campo con campo, hasta que no queda más terreno y vosotros sois los únicos habitantes en medio del país!
 
-[9](#c5-v9){:#c5-v9} Ha llegado a mis oídos (esta palabra) de Yahvé de los ejércitos: "Estas numerosas casas serán convertidas en ruinas, y por grandes y hermosas que sean, quedarán sin moradores."
+[9](#c5-v9){:#c5-v9} Ha llegado a mis oídos (esta palabra) de Yahvé de los ejércitos: «Estas numerosas casas serán convertidas en ruinas, y por grandes y hermosas que sean, quedarán sin moradores.»
 
-[10](#c5-v10){:#c5-v10} [[43]](#n-43){:#rn-43} Porque diez yugadas de viña producirán solamente un bat, y un hómer de semilla no dará más que un efa.
+[10](#c5-v10){:#c5-v10} [[43]](#n-43){:#rn-43} Porque diez yugadas de viña producirán solamente un *bat*, y un *hómer* de semilla no dará más que un *efa*.
 
 [11](#c5-v11){:#c5-v11} [[44]](#n-44){:#rn-44} ¡Ay de los que se levantan muy de mañana para correr tras bebidas que embriagan, y que siguen bebiendo hasta la noche, hasta que los enciende el vino!
 
@@ -256,7 +256,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [13](#c5-v13){:#c5-v13} Por eso mi pueblo será llevado al cautiverio sin darse cuenta; sus nobles morirán de hambre, y su multitud se abrasará de sed.
 
-[14](#c5-v14){:#c5-v14} [[45]](#n-45){:#rn-45} Por eso el scheol ensanchará sus fauces y abrirá sin medida su boca. Descenderá allí la gloria de (Jerusalén) y su multitud turbulenta que se regocija en ella.
+[14](#c5-v14){:#c5-v14} [[45]](#n-45){:#rn-45} Por eso el *scheol* ensanchará sus fauces y abrirá sin medida su boca. Descenderá allí la gloria de (Jerusalén) y su multitud turbulenta que se regocija en ella.
 
 [15](#c5-v15){:#c5-v15} Será humillado todo hombre, serán abatidos todos los mortales y bajados los ojos altivos;
 
@@ -266,7 +266,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [18](#c5-v18){:#c5-v18} [[46]](#n-46){:#rn-46} ¡Ay de los que arrastran la iniquidad con cuerdas de vanidad, y el pecado como con coyundas de carro;
 
-[19](#c5-v19){:#c5-v19} [[47]](#n-47){:#rn-47} y dicen: "Dese prisa; que haga presto su obra, para que la veamos; acérquese y tome cuerpo el plan del Santo de Israel, para que lo conozcamos!"
+[19](#c5-v19){:#c5-v19} [[47]](#n-47){:#rn-47} y dicen: «Dese prisa; que haga presto su obra, para que la veamos; acérquese y tome cuerpo el plan del Santo de Israel, para que lo conozcamos!»
 
 [20](#c5-v20){:#c5-v20} [[48]](#n-48){:#rn-48} ¡Ay de los que al mal llaman bien y al bien mal, que ponen tinieblas por luz, y luz por tinieblas; que dan lo amargo por dulce, y lo dulce por amargo!
 
@@ -276,7 +276,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [23](#c5-v23){:#c5-v23} que por un regalo absuelven al malhechor y privan a los justos de su derecho!
 
-#### El castigo
+##### El castigo
 
 [24](#c5-v24){:#c5-v24} Por eso, como la lengua del fuego devora la paja, y como la llama consume la hierba seca, así su raíz será como podredumbre, y su flor será arrebatada como el polvo, por cuanto han rechazado a ley de Yahvé de los ejércitos, y despreciado la palabra del Santo de Israel.
 
@@ -292,61 +292,61 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [30](#c5-v30){:#c5-v30} En aquel día bramarán contra (Israel) como brama el mar; y si uno mirase la tierra, no verá sino tinieblas y angustia; pues la luz se oscurecerá en densas nubes.
 
-#### ("LIBRO DEL EMMANUEL": CAPÍTULOS 6-12)
+#### Libro del Emmanuel: Capítulos 6-12
 
-### Isaías [6](#c6) {#c6}
+##### Isaías [6](#c6) {#c6}
 
-#### Vocación de Isaías
+###### Vocación de Isaías
 
 [1](#c6-v1){:#c6-v1} [[50]](#n-50){:#rn-50} En el año en que murió el rey Ocías, vi al Señor sentado en un trono alto y excelso y las faldas de su vestido llenaban el Templo.
 
 [2](#c6-v2){:#c6-v2} Encima de Él había serafines, cada uno de los cuales tenía seis alas: con dos se cubrían el rostro, con dos los pies, y con dos volaban.
 
-[3](#c6-v3){:#c6-v3} [[51]](#n-51){:#rn-51} Y clamaban unos a otros, diciendo: "Santo, santo, santo es Yahvé de los ejércitos, llena está toda la tierra de su gloria."
+[3](#c6-v3){:#c6-v3} [[51]](#n-51){:#rn-51} Y clamaban unos a otros, diciendo: «Santo, santo, santo es Yahvé de los ejércitos, llena está toda la tierra de su gloria.»
 
 [4](#c6-v4){:#c6-v4} [[52]](#n-52){:#rn-52} Y los fundamentos de los umbrales se conmovieron a la voz del que clamaba; y la Casa se llenó de humo.
 
-[5](#c6-v5){:#c6-v5} [[53]](#n-53){:#rn-53} Entonces dije: "¡Ay de mí, que estoy perdido! Pues soy hombre de labios impuros, y habito en un pueblo de labios impuros, y mis ojos han visto al Rey, Señor de los ejércitos."
+[5](#c6-v5){:#c6-v5} [[53]](#n-53){:#rn-53} Entonces dije: «¡Ay de mí, que estoy perdido! Pues soy hombre de labios impuros, y habito en un pueblo de labios impuros, y mis ojos han visto al Rey, Señor de los ejércitos.»
 
 [6](#c6-v6){:#c6-v6} Y voló hacia mí uno de los serafines, que tenía en su mano una brasa ardiente, la cual con las tenazas había tomado de encima del altar.
 
-[7](#c6-v7){:#c6-v7} Con ella tocó mi boca y dijo: "Mira, esto ha tocado tus labios; quitada está tu iniquidad, y expiado tu pecado."
+[7](#c6-v7){:#c6-v7} Con ella tocó mi boca y dijo: «Mira, esto ha tocado tus labios; quitada está tu iniquidad, y expiado tu pecado.»
 
-[8](#c6-v8){:#c6-v8} [[54]](#n-54){:#rn-54} Y oí la voz del Señor que decía: "¿A quién enviaré, y quién irá por nosotros?" Respondí: "Heme aquí; envíame a mí."
+[8](#c6-v8){:#c6-v8} [[54]](#n-54){:#rn-54} Y oí la voz del Señor que decía: «¿A quién enviaré, y quién irá por nosotros?» Respondí: «Heme aquí; envíame a mí.»
 
-[9](#c6-v9){:#c6-v9} [[55]](#n-55){:#rn-55} Y dijo Él: "Ve y di a este pueblo: Oíd, y no entendáis; ved, y no conozcáis.
+[9](#c6-v9){:#c6-v9} [[55]](#n-55){:#rn-55} Y dijo Él: «Ve y di a este pueblo: Oíd, y no entendáis; ved, y no conozcáis.
 
-[10](#c6-v10){:#c6-v10} Embota el corazón de este pueblo, y haz que sean sordos sus oídos y ciegos sus ojos; no sea que vea con sus ojos, y oiga con sus oídos, y con su corazón entienda, y se convierta y encuentre salud."
+[10](#c6-v10){:#c6-v10} Embota el corazón de este pueblo, y haz que sean sordos sus oídos y ciegos sus ojos; no sea que vea con sus ojos, y oiga con sus oídos, y con su corazón entienda, y se convierta y encuentre salud.»
 
-[11](#c6-v11){:#c6-v11} Yo pregunté: "¿Hasta cuándo, Señor?". Y respondió: "Hasta que las ciudades queden devastadas y sin moradores, y las casas sin habitantes, y la tierra convertida en ruina completa;
+[11](#c6-v11){:#c6-v11} Yo pregunté: «¿Hasta cuándo, Señor?» Y respondió: «Hasta que las ciudades queden devastadas y sin moradores, y las casas sin habitantes, y la tierra convertida en ruina completa;
 
 [12](#c6-v12){:#c6-v12} hasta que Yahvé arroje lejos a los hombres, y la desolación abunde en medio de la tierra.
 
-[13](#c6-v13){:#c6-v13} [[56]](#n-56){:#rn-56} Y si quedare de ellos solo la décima parte, volverán a ser destruidos. Mas como del terebinto y de la encina, aun talados, queda el tronco, así el tronco de (Israel) será semilla santa."
+[13](#c6-v13){:#c6-v13} [[56]](#n-56){:#rn-56} Y si quedare de ellos solo la décima parte, volverán a ser destruidos. Mas como del terebinto y de la encina, aun talados, queda el tronco, así el tronco de (Israel) será semilla santa.»
 
-### Isaías [7](#c7) {#c7}
+##### Isaías [7](#c7) {#c7}
 
-#### Invasión de los sirios
+###### Invasión de los sirios
 
 [1](#c7-v1){:#c7-v1} [[57]](#n-57){:#rn-57} Aconteció que en los días de Acaz, hijo de Joatán, hijo de Ocías, rey de Judá, subió Rasín, rey de Siria, con Facee, hijo de Romelías, rey de Israel, a Jerusalén, para hacer guerra contra ella, pero no pudo tomarla.
 
-[2](#c7-v2){:#c7-v2} [[58]](#n-58){:#rn-58} Y dieron aviso a la casa de David, diciendo: "Acampó Siria en Efraím"; y tembló su corazón, y el corazón de su pueblo, como tiemblan los árboles de la selva agitados por el viento.
+[2](#c7-v2){:#c7-v2} [[58]](#n-58){:#rn-58} Y dieron aviso a la casa de David, diciendo: «Acampó Siria en Efraím»; y tembló su corazón, y el corazón de su pueblo, como tiemblan los árboles de la selva agitados por el viento.
 
-[3](#c7-v3){:#c7-v3} [[59]](#n-59){:#rn-59} Entonces dijo Yahvé a Isaías: "Sal al encuentro de Acaz, tú y Schearyaschub, tu hijo, al extremo del acueducto de la piscina superior, en el camino del campo del batanero.
+[3](#c7-v3){:#c7-v3} [[59]](#n-59){:#rn-59} Entonces dijo Yahvé a Isaías: «Sal al encuentro de Acaz, tú y *Schearyaschub*, tu hijo, al extremo del acueducto de la piscina superior, en el camino del campo del batanero.
 
 [4](#c7-v4){:#c7-v4} [[60]](#n-60){:#rn-60} Y le dirás: "Ponte en guardia, quédate tranquilo; no temas ni se desaliente tu corazón, a causa de estos dos cabos de tizones humeantes; a causa de la ira ardiente de Rasín, de Siria y del hijo de Romelías.
 
 [5](#c7-v5){:#c7-v5} Porque ha proyectado mal contra ti Siria, Efraím y el hijo de Romelías, diciendo:
 
-[6](#c7-v6){:#c7-v6} [[61]](#n-61){:#rn-61} "Subamos contra Judá, aterroricémoslo, apoderémonos de él y démosle por rey al hijo de Tabeel."
+[6](#c7-v6){:#c7-v6} [[61]](#n-61){:#rn-61} 'Subamos contra Judá, aterroricémoslo, apoderémonos de él y démosle por rey al hijo de Tabeel.'"»
 
-[7](#c7-v7){:#c7-v7} Así dice Yahvé el Señor: "Esto no se llevará a cabo, ni se hará.
+[7](#c7-v7){:#c7-v7} Así dice Yahvé el Señor: «Esto no se llevará a cabo, ni se hará.
 
 [8](#c7-v8){:#c7-v8} Porque cabeza de Siria es Damasco, y cabeza de Damasco, Rasín; faltan todavía sesenta y cinco años y Efraím será quebrantado, y dejará de ser pueblo.
 
-[9](#c7-v9){:#c7-v9} Y cabeza de Efraím es Samaria, y cabeza de Samaria, el hijo de Romelías. Si no creyereis, no subsistiréis."
+[9](#c7-v9){:#c7-v9} Y cabeza de Efraím es Samaria, y cabeza de Samaria, el hijo de Romelías. Si no creyereis, no subsistiréis.»
 
-#### Profecía sobre el futuro Emmanuel
+###### Profecía sobre el futuro Emmanuel
 
 [10](#c7-v10){:#c7-v10} Volvió a hablar Yahvé a Acaz, diciendo:
 
@@ -362,7 +362,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [16](#c7-v16){:#c7-v16} [[65]](#n-65){:#rn-65} Porque antes que sepa el niño repudiar el mal y elegir el bien, será abandonada la tierra, ante cuyos dos reyes tú tienes miedo.
 
-#### Males sobre Judá
+###### Males sobre Judá
 
 [17](#c7-v17){:#c7-v17} Pero Yahvé hará venir sobre ti, sobre tu pueblo, y sobre la casa de tu padre, días cuales nunca han venido desde el día que Efraím se apartó de Judá; pues (hará venir) al rey de Asiria."
 
@@ -382,9 +382,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [25](#c7-v25){:#c7-v25} Y todos los montes que (ahora) se labran con azada, quedarán abandonados por temor de las zarzas y espinas; serán para pasto de bueyes, y para ser hollados por ovejas.
 
-### Isaías [8](#c8) {#c8}
+##### Isaías [8](#c8) {#c8}
 
-#### Ruina de Damasco y de Samaria
+###### Ruina de Damasco y de Samaria
 
 [1](#c8-v1){:#c8-v1} [[69]](#n-69){:#rn-69} Me dijo Yahvé: "Toma una tabla grande, y escribe en ella con caracteres comunes: Para Maher-schalal-hasch-baz."
 
@@ -394,7 +394,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [4](#c8-v4){:#c8-v4} Pues antes que el niño sepa decir: ¡Padre mío! y ¡Madre mía!, las riquezas de Damasco y el botín de Samaria serán llevados a la presencia del rey de Asiria."
 
-#### La salvación por Emmanuel
+###### La salvación por Emmanuel
 
 [5](#c8-v5){:#c8-v5} Y volvió Yahvé a hablarme otra vez, diciendo:
 
@@ -420,7 +420,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [16](#c8-v16){:#c8-v16} [[76]](#n-76){:#rn-76} Conserva el testimonio, y sella la ley (en el corazón) de mis discípulos.
 
-#### El profeta y sus hijos servirán de señal
+###### El profeta y sus hijos servirán de señal
 
 [17](#c8-v17){:#c8-v17} [[77]](#n-77){:#rn-77} Yo espero en Yahvé, que esconde su rostro de la casa de Jacob; en Él pongo mi confianza.
 
@@ -434,9 +434,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [22](#c8-v22){:#c8-v22} [[78]](#n-78){:#rn-78} luego mirarán la tierra; pero he aquí tribulación y tinieblas y sombría angustia; y serán rechazados a las tinieblas.
 
-### Isaías [9](#c9) {#c9}
+##### Isaías [9](#c9) {#c9}
 
-#### El reino del príncipe de paz
+###### El reino del príncipe de paz
 
 [1](#c9-v1){:#c9-v1} [[79]](#n-79){:#rn-79} No habrá más lobreguez sobre la (tierra) que (ahora) está en angustia. Como primeramente (Dios) cubrió de oprobio la tierra de Zabulón y la tierra de Neftalí, así al fin hará glorioso el camino del mar, la otra parte del Jordán, la Galilea de los gentiles.
 
@@ -452,7 +452,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [7](#c9-v7){:#c9-v7} [[81]](#n-81){:#rn-81} Se dilatará su imperio, y de la paz no habrá fin. (Se sentará) sobre el trono de David y sobre su reino, para establecerlo y consolidarlo mediante el juicio y la justicia, desde ahora para siempre jamás. El celo de Yahvé de los ejércitos hará esto.
 
-#### Castigo de Samaria y Efraím
+###### Castigo de Samaria y Efraím
 
 [8](#c9-v8){:#c9-v8} [[82]](#n-82){:#rn-82} Envió el Señor una palabra contra Jacob, que cayó sobre Israel.
 
@@ -482,9 +482,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [21](#c9-v21){:#c9-v21} Manasés contra Efraím, y Efraím contra Manasés, y los dos juntos contra Judá. Con todo esto no se aparta su ira, antes su mano está aún extendida.
 
-### Isaías [10](#c10) {#c10}
+##### Isaías [10](#c10) {#c10}
 
-#### Iniquidades de Efraím
+###### Iniquidades de Efraím
 
 [1](#c10-v1){:#c10-v1} [[87]](#n-87){:#rn-87} ¡Ay de los que establecen leyes inicuas, y de los que ponen por escrito las injusticias decretadas,
 
@@ -494,7 +494,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [4](#c10-v4){:#c10-v4} [[88]](#n-88){:#rn-88} para no doblar la cerviz entre los prisioneros y no caer entre los muertos? Con todo esto no se aparta su ira, antes su mano está aún extendida.
 
-#### Orgullo y caída de Asiria
+###### Orgullo y caída de Asiria
 
 [5](#c10-v5){:#c10-v5} [[89]](#n-89){:#rn-89} ¡Ay de Asiria, vara de mi ira! el bastón en su mano es (instrumento de) mi furor.
 
@@ -526,7 +526,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [19](#c10-v19){:#c10-v19} Y los árboles que sobraren de su bosque, serán tan pocos en número, que un niño podrá hacer su censo.
 
-#### Un resto de Israel será salvado
+###### Un resto de Israel será salvado
 
 [20](#c10-v20){:#c10-v20} En aquel día los que quedaren de Israel y los salvados de la casa de Jacob, no volverán más a apoyarse en aquel que le hirió, sino que se apoyarán con fidelidad en Yahvé, el Santo de Israel.
 
@@ -536,7 +536,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [23](#c10-v23){:#c10-v23} Pues el Señor, Yahvé de los ejércitos, va a cumplir la destrucción decretada en toda la tierra.
 
-#### Vaticinio contra Asiria
+###### Vaticinio contra Asiria
 
 [24](#c10-v24){:#c10-v24} [[96]](#n-96){:#rn-96} Por lo cual así dice el Señor, Yahvé de los ejércitos: "Pueblo mío, que habitas en Sión, no temas al asirio, que (ahora) te hiere con la vara y levanta contra ti su bastón a la manera de Egipto;
 
@@ -560,9 +560,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [34](#c10-v34){:#c10-v34} La espesura del bosque será cortada a hierro, y el Líbano caerá por mano de un poderoso.
 
-### Isaías [11](#c11) {#c11}
+##### Isaías [11](#c11) {#c11}
 
-#### El reino de paz
+###### El reino de paz
 
 [1](#c11-v1){:#c11-v1} [[101]](#n-101){:#rn-101} Saldrá un retoño del tronco de Isaí, y de sus raíces brotará un renuevo.
 
@@ -582,7 +582,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [9](#c11-v9){:#c11-v9} No habrá daño ni destrucción en todo mi santo monte; porque la tierra estará llena del conocimiento de Yahvé, como las aguas cubren el mar.
 
-#### Restauración de Israel
+###### Restauración de Israel
 
 [10](#c11-v10){:#c11-v10} [[106]](#n-106){:#rn-106} En aquel día la raíz de Isaí se alzará como bandera para los pueblos; la buscarán los gentiles, y será gloriosa su morada.
 
@@ -598,9 +598,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [16](#c11-v16){:#c11-v16} Así habrá un camino para los restos de su pueblo, para los que quedaren de Asiria, como lo hubo para Israel el día de su salida del país de Egipto.
 
-### Isaías [12](#c12) {#c12}
+##### Isaías [12](#c12) {#c12}
 
-#### Cántico de los rescatados
+###### Cántico de los rescatados
 
 [1](#c12-v1){:#c12-v1} [[111]](#n-111){:#rn-111} En aquel día dirás: "Yo te alabaré, Yahvé, porque después de airarte contra mí se aplacó tu ira, y me has consolado.
 
@@ -614,11 +614,11 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [6](#c12-v6){:#c12-v6} Prorrumpe en júbilo y canta, oh moradora de Sión; porque grande es en medio de ti el Santo de Israel."
 
-## II. Profecías contra las naciones paganas
+### II. Profecías contra las naciones paganas
 
-### Isaías [13](#c13) {#c13}
+#### Isaías [13](#c13) {#c13}
 
-#### Oráculo contra Babilonia
+##### Oráculo contra Babilonia
 
 [1](#c13-v1){:#c13-v1} [[115]](#n-115){:#rn-115} Oráculo contra Babilonia, que vio Isaías, hijo de Amós:
 
@@ -630,7 +630,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [5](#c13-v5){:#c13-v5} Vienen de tierra lejana, de los extremos del cielo; Yahvé y los instrumentos de su furor, para asolar la tierra entera.
 
-#### La destrucción de Babilonia
+##### La destrucción de Babilonia
 
 [6](#c13-v6){:#c13-v6} [[117]](#n-117){:#rn-117} ¡Aullad, que cercano está el día de Yahvé! vendrá como ruina, de parte del Todopoderoso.
 
@@ -654,7 +654,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [16](#c13-v16){:#c13-v16} [[120]](#n-120){:#rn-120} Sus niños serán estrellados ante sus ojos, saqueadas sus casas, y violadas sus mujeres.
 
-#### Los medos como instrumentos
+##### Los medos como instrumentos
 
 [17](#c13-v17){:#c13-v17} [[121]](#n-121){:#rn-121} He aquí que suscitaré contra ellos a los medos que no buscan plata ni son codiciosos de oro.
 
@@ -668,15 +668,15 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [22](#c13-v22){:#c13-v22} [[124]](#n-124){:#rn-124} En sus palacios aullarán los chacales, y los perros salvajes en sus casas de placer. Próximo a llegar está su tiempo, y sus días no se aplazarán.
 
-### Isaías [14](#c14) {#c14}
+#### Isaías [14](#c14) {#c14}
 
-#### Nueva promesa de Dios
+##### Nueva promesa de Dios
 
 [1](#c14-v1){:#c14-v1} [[125]](#n-125){:#rn-125} Porque Yahvé tendrá compasión de Jacob, y escogerá otra vez a Israel; y les dará descanso en su propia tierra. Se juntarán con ellos los extranjeros, y se incorporarán a la casa de Jacob.
 
 [2](#c14-v2){:#c14-v2} Los pueblos los tomarán y los llevarán a su propio lugar; y la casa de Jacob los poseerá por siervos y siervas en la tierra de Yahvé. Así tomarán cautivos a aquellos que los habían cautivado, y dominarán a sus opresores.
 
-#### Himno triunfal
+##### Himno triunfal
 
 [3](#c14-v3){:#c14-v3} El día que Yahvé te dé descanso de tus penas y de tu angustia y de la dura servidumbre a la cual estuviste sujeto,
 
@@ -720,7 +720,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [23](#c14-v23){:#c14-v23} [[131]](#n-131){:#rn-131} La convertiré en morada de erizos, en aguas fangosas, y la barreré con la escoba de la destrucción —oráculo de Yahvé de los ejércitos.
 
-#### Oráculo contra los asirios
+##### Oráculo contra los asirios
 
 [24](#c14-v24){:#c14-v24} Yahvé de los ejércitos ha jurado diciendo: "Como lo he pensado, así será; como lo tengo proyectado, así sucederá:
 
@@ -730,7 +730,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [27](#c14-v27){:#c14-v27} Si Yahvé de los ejércitos lo ha resuelto, ¿quién podrá frustrarlo? si su mano está extendida, ¿quién osará retirarla?"
 
-#### Contra los filisteos
+##### Contra los filisteos
 
 [28](#c14-v28){:#c14-v28} El año en que murió el rey Acaz, se dio este oráculo:
 
@@ -742,9 +742,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [32](#c14-v32){:#c14-v32} [[135]](#n-135){:#rn-135} ¿Qué respuesta se da, pues, a los embajadores de las naciones? "Que Yahvé ha fundado a Sión, y que en ella se refugiarán los pobres de su pueblo."
 
-### Isaías [15](#c15) {#c15}
+#### Isaías [15](#c15) {#c15}
 
-#### Contra Moab
+##### Contra Moab
 
 [1](#c15-v1){:#c15-v1} [[136]](#n-136){:#rn-136} Oráculo contra Moab: Pues en una noche Ar-Moab será asolada y enmudecerá; en una noche será saqueada y arruinada Kir-Moab.
 
@@ -764,9 +764,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [9](#c15-v9){:#c15-v9} [[140]](#n-140){:#rn-140} Porque las aguas de Dimón están llenas de sangre; pues haré venir sobre Dimón nuevas (calamidades): leones sobre los escapados de Moab, y sobre los que queden en el país.
 
-### Isaías [16](#c16) {#c16}
+#### Isaías [16](#c16) {#c16}
 
-#### Continuación del vaticinio contra Moab
+##### Continuación del vaticinio contra Moab
 
 [1](#c16-v1){:#c16-v1} [[141]](#n-141){:#rn-141} Enviad los corderos al dominador del país, desde Sela, desde el desierto, al monte de la hija de Sión.
 
@@ -796,9 +796,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [14](#c16-v14){:#c16-v14} [[150]](#n-150){:#rn-150} Mas ahora habla Yahvé así: "Dentro de tres años, (contados) como años de jornalero, será cubierta de oprobio la gloria de Moab, con toda su gran multitud; y quedarán algunos pocos, muy pocos y débiles."
 
-### Isaías [17](#c17) {#c17}
+#### Isaías [17](#c17) {#c17}
 
-#### Vaticinio contra Damasco y Samaria
+##### Vaticinio contra Damasco y Samaria
 
 [1](#c17-v1){:#c17-v1} [[151]](#n-151){:#rn-151} Oráculo contra Damasco: "Damasco ha dejado de ser ciudad, no es más que un montón de escombros.
 
@@ -828,9 +828,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [14](#c17-v14){:#c17-v14} A la tarde habrá espanto, y antes de la mañana ya no existen. Este es el destino de los que nos saquean, esta la suerte de los que nos despojan.
 
-### Isaías [18](#c18) {#c18}
+#### Isaías [18](#c18) {#c18}
 
-#### Oráculo contra Etiopía
+##### Oráculo contra Etiopía
 
 [1](#c18-v1){:#c18-v1} [[159]](#n-159){:#rn-159} ¡Ay de la tierra del zumbido de alas que está a la otra parte de los ríos de Etiopía;
 
@@ -846,9 +846,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [7](#c18-v7){:#c18-v7} [[162]](#n-162){:#rn-162} En aquel tiempo será traída una ofrenda a Yahvé de los ejércitos, de parte de un pueblo de alta estatura y bruñida piel, de un pueblo temible desde su principio y sin cesar, de una nación vigorosa e imperiosa, cuya tierra surcan los ríos, al lugar del Nombre de Yahvé de los ejércitos, al monte Sión.
 
-### Isaías [19](#c19) {#c19}
+#### Isaías [19](#c19) {#c19}
 
-#### Oráculo contra Egipto
+##### Oráculo contra Egipto
 
 [1](#c19-v1){:#c19-v1} [[163]](#n-163){:#rn-163} Oráculo contra Egipto: Ved cómo Yahvé montado sobre nube ligera entra en Egipto. Tiemblan ante Él los ídolos de Egipto; y se derrite el corazón de Egipto en su pecho.
 
@@ -884,7 +884,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [17](#c19-v17){:#c19-v17} Y la tierra de Judá será motivo de temor para los egipcios; quienquiera oiga hablar de ella, será sobrecogido de pavor, a causa del designio que Yahvé de los ejércitos ha resuelto contra ellos.
 
-#### Conversión a Yahvé
+##### Conversión a Yahvé
 
 [18](#c19-v18){:#c19-v18} [[170]](#n-170){:#rn-170} En aquel día habrá cinco ciudades en la tierra de Egipto que hablarán la lengua de Canaán, y jurarán por Yahvé de los ejércitos. Ciudad del Sol será llamada una de ellas.
 
@@ -902,9 +902,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [25](#c19-v25){:#c19-v25} Y Yahvé de los ejércitos los bendecirá, diciendo: "¡Bendito sea mi pueblo de Egipto, y Asiria, obra de mis manos, e Israel, herencia mía!"
 
-### Isaías [20](#c20) {#c20}
+#### Isaías [20](#c20) {#c20}
 
-#### Oráculo contra Egipto y Etiopía
+##### Oráculo contra Egipto y Etiopía
 
 [1](#c20-v1){:#c20-v1} [[174]](#n-174){:#rn-174} El año en que Tartán, enviado de Sargón, rey de Asiria, llegó a Azoto, la combatió y la tomó,
 
@@ -918,9 +918,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [6](#c20-v6){:#c20-v6} [[175]](#n-175){:#rn-175} Y los habitantes de esta tierra dirán en aquel día: "¡He aquí los que eran nuestra esperanza, a los que hemos acudido en busca de auxilio contra el rey de Asiria! ¿Cómo escaparemos nosotros?"
 
-### Isaías [21](#c21) {#c21}
+#### Isaías [21](#c21) {#c21}
 
-#### Vaticinio contra Babilonia
+##### Vaticinio contra Babilonia
 
 [1](#c21-v1){:#c21-v1} [[176]](#n-176){:#rn-176} Oráculo contra el desierto del mar: Como los huracanes vienen del sur, así viene esto del desierto, de una tierra terrible.
 
@@ -942,13 +942,13 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [10](#c21-v10){:#c21-v10} [[181]](#n-181){:#rn-181} Oh trilladura mía, oh pueblo de mi ira. Lo que he oído de parte de Yahvé de los ejércitos, el Dios de Israel, esto os he anunciado.
 
-#### Vaticinio contra Edom
+##### Vaticinio contra Edom
 
 [11](#c21-v11){:#c21-v11} [[182]](#n-182){:#rn-182} Oráculo contra Duma: Me llegan voces desde Seír: "Centinela ¿qué hay de la noche? Centinela ¿qué hay de la noche?"
 
 [12](#c21-v12){:#c21-v12} Responde el centinela: "Viene la mañana y también la noche. Si queréis preguntar, preguntad. Volved a venir."
 
-#### Contra Arabia
+##### Contra Arabia
 
 [13](#c21-v13){:#c21-v13} [[183]](#n-183){:#rn-183} Oráculo contra Arabia: En las estepas de Arabia pasáis la noche, oh caravanas de Dedán.
 
@@ -960,9 +960,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [17](#c21-v17){:#c21-v17} y del resto de los arcos de los valientes hijos de Cedar, quedarán pocos; porque Yahvé, el Dios de Israel, ha hablado."
 
-### Isaías [22](#c22) {#c22}
+#### Isaías [22](#c22) {#c22}
 
-#### Vaticinio contra Jerusalén
+##### Vaticinio contra Jerusalén
 
 [1](#c22-v1){:#c22-v1} [[186]](#n-186){:#rn-186} Oráculo contra el Valle de la Visión: ¿Qué te pasa por fin? ¿Por qué has subido, toda entera, a los terrados?
 
@@ -992,7 +992,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [14](#c22-v14){:#c22-v14} Mas Yahvé de los ejércitos se me ha revelado y dijo: "Esta iniquidad no os será perdonada, hasta que muráis", dice el Señor, Yahvé de los ejércitos.
 
-#### Sobná y Eliaquim
+##### Sobná y Eliaquim
 
 [15](#c22-v15){:#c22-v15} [[192]](#n-192){:#rn-192} Así dice el Señor, Yahvé de los ejércitos: "Ve a ver a ese ministro, a Sobná, prefecto del palacio, (y le dirás):
 
@@ -1016,9 +1016,9 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [25](#c22-v25){:#c22-v25} En aquel día —oráculo de Yahvé de los ejércitos— cederá el clavo hincado en lugar firme, será quebrado y caerá; y la carga que había sobre él será destruida, pues Yahvé lo ha dicho."
 
-### Isaías [23](#c23) {#c23}
+#### Isaías [23](#c23) {#c23}
 
-#### Oráculo contra Tiro
+##### Oráculo contra Tiro
 
 [1](#c23-v1){:#c23-v1} [[195]](#n-195){:#rn-195} Oráculo contra Tiro; ¡Aullad, naves de Tarsis! porque ella está desolada; no hay casa ni entrada. De la tierra de Kitim se les dio este anuncio.
 
@@ -1048,7 +1048,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [14](#c23-v14){:#c23-v14} ¡AuIlad, oh naves de Tarsis, pues está destruida vuestra fortaleza!
 
-#### Restauración de Tiro
+##### Restauración de Tiro
 
 [15](#c23-v15){:#c23-v15} [[203]](#n-203){:#rn-203} Y será en aquel día que Tiro quedará olvidada setenta años, correspondientes a los días de un rey; y al fin de los setenta años, sucederá con Tiro lo que dice la canción de la cortesana:
 
@@ -1058,11 +1058,11 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [18](#c23-v18){:#c23-v18} [[204]](#n-204){:#rn-204} Pero sus ganancias y su salario serán consagrados a Yahvé; no serán atesorados ni guardados, pues su ganancia pasará a los que habitan delante de Yahvé, para que coman hasta hartarse y se vistan magníficamente.
 
-## III. Profecías escatológicas
+### III. Profecías escatológicas
 
-### Isaías [24](#c24) {#c24}
+#### Isaías [24](#c24) {#c24}
 
-#### Ruina de la tierra
+##### Ruina de la tierra
 
 [1](#c24-v1){:#c24-v1} [[205]](#n-205){:#rn-205} He aquí que Yahvé devastará la tierra, y la dejará desolada, trastornará la superficie de ella y dispersará sus habitantes.
 
@@ -1090,7 +1090,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [13](#c24-v13){:#c24-v13} [[210]](#n-210){:#rn-210} En medio de la tierra, en medio de los pueblos (pasará esto): será como un olivo vareado, y como los rebuscos después de acabada la vendimia.
 
-#### Alegría de los justos
+##### Alegría de los justos
 
 [14](#c24-v14){:#c24-v14} Entonces levantarán su voz, y cantarán, aclamando la majestad de Yahvé desde el mar:
 
@@ -1098,7 +1098,7 @@ Para la interpretación de Isaías hay que tener presente lo dicho en la Introdu
 
 [16](#c24-v16){:#c24-v16} [[211]](#n-211){:#rn-211} Desde el extremo de la tierra oímos cantar: "Gloria al Justo."
 
-#### Ruina de los prevaricadores
+##### Ruina de los prevaricadores
 
 Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores prevarican, los prevaricadores siguen prevaricando.
 
@@ -1116,9 +1116,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [23](#c24-v23){:#c24-v23} [[215]](#n-215){:#rn-215} La luna se enrojecerá y el sol se oscurecerá, porque Yahvé de los ejércitos reinará en el monte Sión y en Jerusalén, y delante de sus ancianos (resplandecerá) su gloria.
 
-### Isaías [25](#c25) {#c25}
+#### Isaías [25](#c25) {#c25}
 
-#### Cántico de los salvados
+##### Cántico de los salvados
 
 [1](#c25-v1){:#c25-v1} [[216]](#n-216){:#rn-216} Yahvé, Tú eres mi Dios, te ensalzaré y alabaré tu nombre, porque has ejecutado cosas maravillosas, designios antiguos, del todo fieles.
 
@@ -1130,7 +1130,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [5](#c25-v5){:#c25-v5} como el calor en tierra seca. Tú quebrantaste la arrogancia de los extraños; como la sombra de una nube (apaga) el calor, así se extinguirá el canto triunfal de los opresores.
 
-#### Felicidad de los elegidos
+##### Felicidad de los elegidos
 
 [6](#c25-v6){:#c25-v6} [[219]](#n-219){:#rn-219} Yahvé de los ejércitos dará a todas las naciones en este monte un banquete de pingües manjares, un festín de vinos generosos, de manjares grasos y enjundiosos, de vinos puros y refinados.
 
@@ -1146,9 +1146,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [12](#c25-v12){:#c25-v12} Abatirá el baluarte de tus altos muros y lo derribará; lo echará por tierra, en el polvo.
 
-### Isaías [26](#c26) {#c26}
+#### Isaías [26](#c26) {#c26}
 
-#### Himno de acción de gracias
+##### Himno de acción de gracias
 
 [1](#c26-v1){:#c26-v1} [[222]](#n-222){:#rn-222} En aquel día se cantará este cántico en la tierra de Judá: "Tenemos una ciudad fuerte, el mismo Salvador es su muro y baluarte.
 
@@ -1192,9 +1192,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [21](#c26-v21){:#c26-v21} Pues he aquí que Yahvé sale de su morada para castigar la iniquidad de los habitantes de la tierra, y la tierra dejará ver la sangre derramada sobre ella, y no ocultará más sus muertos."
 
-### Isaías [27](#c27) {#c27}
+#### Isaías [27](#c27) {#c27}
 
-#### Salud de Israel
+##### Salud de Israel
 
 [1](#c27-v1){:#c27-v1} [[232]](#n-232){:#rn-232} En aquel día Yahvé castigará con su espada cortante; grande y fuerte, a leviatán, la serpiente huidiza, a leviatán, la serpiente tortuosa, y matará al dragón que está en el mar.
 
@@ -1222,11 +1222,11 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c27-v13){:#c27-v13} Y sucederá en aquel día que sonará la gran trompeta; y vendrán los perdidos en la tierra de Asiria, y los exilados que vivan en el país de Egipto; y se prosternarán ante Yahvé en el monte santo, en Jerusalén.
 
-## IV. Falsa seguridad de israel
+### IV. Falsa seguridad de Israel
 
-### Isaías [28](#c28) {#c28}
+#### Isaías [28](#c28) {#c28}
 
-#### Contra Samaria
+##### Contra Samaria
 
 [1](#c28-v1){:#c28-v1} [[238]](#n-238){:#rn-238} ¡Ay de la corona de soberbia de los embriagados de Efraím, de la caduca flor de su magnífico ornato, que se alza sobre la cima del fértil valle de los ebrios de vino!
 
@@ -1238,7 +1238,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [5](#c28-v5){:#c28-v5} [[239]](#n-239){:#rn-239} En aquel día Yahvé de los ejércitos será corona de gloria y brillante diadema para el resto de su pueblo; será espíritu de justicia para los sentados en el tribunal, y fortaleza para los vencedores en la puerta.
 
-#### Contra los malos gobernantes y sacerdotes
+##### Contra los malos gobernantes y sacerdotes
 
 [6](#c28-v6){:#c28-v6} También estos se tambalean por el vino, andan extraviados a causa de las bebidas fuertes.
 
@@ -1256,7 +1256,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c28-v13){:#c28-v13} [[244]](#n-244){:#rn-244} Por eso la palabra de Yahvé será para ellos: precepto sobre precepto, precepto sobre precepto, regla sobre regla, regla sobre regla, un poco aquí, un poco allá; a fin de que yendo adelante caigan hacia atrás, y sean quebrantados y presos en el lazo.
 
-#### Advertencia a Jerusalén
+##### Advertencia a Jerusalén
 
 [14](#c28-v14){:#c28-v14} Por tanto, escuchad la palabra de Yahvé, oh hombres burladores, los que gobernáis este pueblo que está en Jerusalén:
 
@@ -1276,7 +1276,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [22](#c28-v22){:#c28-v22} Entonces no seáis burladores; de lo contrario se apretarán todavía más vuestras ligaduras; porque la destrucción está decretada, así lo tengo oído, de parte del Señor Yahvé de los ejércitos, contra toda la tierra.
 
-#### Una parábola
+##### Una parábola
 
 [23](#c28-v23){:#c28-v23} [[250]](#n-250){:#rn-250} Prestad atención y oíd mi voz; atended y escuchad mi palabra.
 
@@ -1292,9 +1292,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [29](#c28-v29){:#c28-v29} [[251]](#n-251){:#rn-251} También esto viene de Yahvé de los ejércitos, el cual es admirable en sus designios y grande en sabiduría.
 
-### Isaías [29](#c29) {#c29}
+#### Isaías [29](#c29) {#c29}
 
-#### Oráculo contra Ariel
+##### Oráculo contra Ariel
 
 [1](#c29-v1){:#c29-v1} [[252]](#n-252){:#rn-252} ¡Ay de Ariel, de Ariel! ciudad donde tuvo su morada David. Añadid año a año; sigan las fiestas en su turno,
 
@@ -1312,7 +1312,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [8](#c29-v8){:#c29-v8} Así como el hambriento sueña que come, más cuando despierta se siente vacío, y como el sediento sueña que bebe, más cuando despierta se siente agotado y lleno de deseos, así sucederá a la muchedumbre de todas las naciones que atacan el monte Sión.
 
-#### Ceguera de los jefes y del pueblo
+##### Ceguera de los jefes y del pueblo
 
 [9](#c29-v9){:#c29-v9} Pasmaos y quedaos asombrados; ofuscaos y cegaos. Están embriagados, pero no de vino; tambalean, pero no a causa de bebidas fuertes.
 
@@ -1330,7 +1330,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [16](#c29-v16){:#c29-v16} [[258]](#n-258){:#rn-258} ¡Que perversidad la vuestra! ¿Acaso se puede igualar el barro al alfarero, de modo que la obra diga a su hacedor: *No me has hecho tú*, y la vasija diga al que la formó: *Nada entiende*?
 
-#### Promesas salvadoras
+##### Promesas salvadoras
 
 [17](#c29-v17){:#c29-v17} [[259]](#n-259){:#rn-259} ¿No es verdad que dentro de poco tiempo el Líbano se convertirá en un jardín, y el jardín será tenido por bosque?
 
@@ -1348,9 +1348,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [24](#c29-v24){:#c29-v24} Entonces los extraviados de espíritu llegarán a entender la sabiduría y los murmuradores aprenderán doctrina.
 
-### Isaías [30](#c30) {#c30}
+#### Isaías [30](#c30) {#c30}
 
-#### Contra la alianza con Egipto
+##### Contra la alianza con Egipto
 
 [1](#c30-v1){:#c30-v1} [[263]](#n-263){:#rn-263} ¡Ay de los hijos rebeldes —oráculo de Yahvé— que fraguan proyectos sin contar conmigo, que hacen pactos sin mi Espíritu, añadiendo pecados a pecados!
 
@@ -1380,7 +1380,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [14](#c30-v14){:#c30-v14} Será rota, como un vaso de alfarero, que sin compasión es hecho pedazos; y no será hallado entre sus restos ni siquiera un tejón para sacar del fuego una brasa o agua de la cisterna."
 
-#### Confianza en Yahvé
+##### Confianza en Yahvé
 
 [15](#c30-v15){:#c30-v15} [[270]](#n-270){:#rn-270} Porque así dice el Señor; Yahvé, el Santo de Israel: Convirtiéndoos y estando quietos seréis salvos; en la tranquilidad y en la confianza está vuestra fuerza. Pero vosotros no quisisteis,
 
@@ -1406,7 +1406,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [26](#c30-v26){:#c30-v26} [[277]](#n-277){:#rn-277} La luz de la luna será como la luz del sol, y la luz del sol será siete veces mayor, como la luz de siete días, en aquel día en que Yahvé vendare la herida de su pueblo y sanare la llaga producida por sus golpes.
 
-#### El señor castigara a los enemigos
+##### El Señor castigara a los enemigos
 
 [27](#c30-v27){:#c30-v27} [[278]](#n-278){:#rn-278} Mira que viene el Nombre de Yahvé de lejos, ardiente de ira y en densa humareda, llenos de indignación sus labios, y cual fuego devorador su lengua.
 
@@ -1422,9 +1422,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [33](#c30-v33){:#c30-v33} [[280]](#n-280){:#rn-280} Porque hace ya tiempo que está preparado Tófet, preparado también para el rey, profundo y ancho, lleno de fuego y de leña abundante, que el soplo de Yahvé, cual torrente de azufre, encenderá.
 
-### Isaías [31](#c31) {#c31}
+#### Isaías [31](#c31) {#c31}
 
-#### Nuevas advertencias contra la alianza con Egipto
+##### Nuevas advertencias contra la alianza con Egipto
 
 [1](#c31-v1){:#c31-v1} [[281]](#n-281){:#rn-281} ¡Ay de los que bajan a Egipto en busca de socorro, poniendo su esperanza en caballos, confiando en la muchedumbre de los carros y en la caballería, por cuanto es muy fuerte, pero no miran al Santo de Israel, y no buscan a Yahvé!
 
@@ -1444,9 +1444,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [9](#c31-v9){:#c31-v9} [[284]](#n-284){:#rn-284} Espantados se escaparán sus jefes, y despavoridos abandonarán sus príncipes la bandera. Oráculo de Yahvé que tiene su fuego en Sión, y su horno en Jerusalén.
 
-### Isaías [32](#c32) {#c32}
+#### Isaías [32](#c32) {#c32}
 
-#### El reino de justicia
+##### El reino de justicia
 
 [1](#c32-v1){:#c32-v1} [[285]](#n-285){:#rn-285} Reinará un rey con justicia, y príncipes gobernarán con rectitud.
 
@@ -1464,7 +1464,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [8](#c32-v8){:#c32-v8} El príncipe piensa cosas de príncipe y por su nobleza será ensalzado.
 
-#### Las mujeres cómodas
+##### Las mujeres cómodas
 
 [9](#c32-v9){:#c32-v9} Mujeres cómodas, levantaos, oíd mi voz; hijas que vivís sin cuidados, escuchad mi palabra.
 
@@ -1490,9 +1490,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [20](#c32-v20){:#c32-v20} [[293]](#n-293){:#rn-293} ¡Bienaventurados vosotros, los que sembráis junto a todas las aguas, y dais libertad al pie del buey y del asno!
 
-### Isaías [33](#c33) {#c33}
+#### Isaías [33](#c33) {#c33}
 
-#### Destrucción de Asiria
+##### Destrucción de Asiria
 
 [1](#c33-v1){:#c33-v1} [[294]](#n-294){:#rn-294} ¡Ay de ti que devastas, y no has sido devastado! ¡Ay de ti, traidor, que no has sido traicionado! Cuando acabes de devastar, serás tú devastado; cuando ya no puedas traicionar, serás tú traicionado.
 
@@ -1506,7 +1506,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [6](#c33-v6){:#c33-v6} Habrá seguridad en tus tiempos riqueza de salvación, sabiduría y ciencia; y el temor de Yahvé será tu tesoro.
 
-#### Angustias de Jerusalén
+##### Angustias de Jerusalén
 
 [7](#c33-v7){:#c33-v7} [[296]](#n-296){:#rn-296} He aquí que los de Ariel lanzan gritos en las calles, los embajadores de paz lloran amargamente.
 
@@ -1528,7 +1528,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [16](#c33-v16){:#c33-v16} este tendrá su morada en las alturas, su refugio serán las rocas fortificadas; se le dará su pan y no le faltará su agua.
 
-#### El reino de Yahvé en Sión
+##### El reino de Yahvé en Sión
 
 [17](#c33-v17){:#c33-v17} [[302]](#n-302){:#rn-302} Tus ojos contemplarán al Rey en su belleza, verán una tierra que se extiende muy lejos.
 
@@ -1546,11 +1546,11 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [24](#c33-v24){:#c33-v24} No dirá más el habitante: "Estoy enfermo", pues el pueblo que vive allí, recibirá el perdón de la iniquidad.
 
-## V. La salvación de israel
+### V. La salvación de israel
 
-### Isaías [34](#c34) {#c34}
+#### Isaías [34](#c34) {#c34}
 
-#### Castigo de los gentiles
+##### Castigo de los gentiles
 
 [1](#c34-v1){:#c34-v1} [[309]](#n-309){:#rn-309} Acercaos, naciones, para oír; pueblos, escuchad. Oiga la tierra y cuanto se contiene en ella, el orbe y cuanto en él tiene vida.
 
@@ -1560,7 +1560,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [4](#c34-v4){:#c34-v4} [[310]](#n-310){:#rn-310} Se disolverá toda la milicia celestial; se arrollarán como un libro los cielos, y todo su ejército cae como la hoja de la vid, cual hoja de la higuera.
 
-#### Castigo de Edom
+##### Castigo de Edom
 
 [5](#c34-v5){:#c34-v5} [[311]](#n-311){:#rn-311} Se ha embriagado mi espada en el cielo; he aquí que va a caer sobre Edom, y sobre el pueblo de mi anatema, para juzgarlo.
 
@@ -1588,9 +1588,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [17](#c34-v17){:#c34-v17} Es Él que les ha echado la suerte, su mano ha repartido entre ellos (el país) con la cuerda de medir; para siempre lo poseerán, y habitarán en él de generación en generación.
 
-### Isaías [35](#c35) {#c35}
+#### Isaías [35](#c35) {#c35}
 
-#### Gloria del reino mesiánico
+##### Gloria del reino mesiánico
 
 [1](#c35-v1){:#c35-v1} [[318]](#n-318){:#rn-318} Alégrese el desierto y la tierra árida, regocíjese el yermo y florezca como el narciso.
 
@@ -1612,11 +1612,11 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [10](#c35-v10){:#c35-v10} [[325]](#n-325){:#rn-325} y los rescatados de Yahvé volverán; vendrán a Sión cantando; y regocijo eterno coronará sus cabezas. Alegría y gozo será su suerte, y huirán el dolor y el llanto.
 
-## VI. Suplemento histórico
+### VI. Suplemento histórico
 
-### Isaías [36](#c36) {#c36}
+#### Isaías [36](#c36) {#c36}
 
-#### La invasión de Senaquerib
+##### La invasión de Senaquerib
 
 [1](#c36-v1){:#c36-v1} [[326]](#n-326){:#rn-326} El año catorce del rey Ezequías, subió Senaquerib, rey de Asiria, contra todas las ciudades fuertes de Judá, y se apoderó de ellas.
 
@@ -1640,7 +1640,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [11](#c36-v11){:#c36-v11} Entonces Eliaquim, Sobná y Joah dijeron a Rabsacés: "Habla, por favor, en arameo con tus siervos, pues lo entendemos, y no nos hables en judaico delante de esa gente que está sobre la muralla."
 
-#### Promesas de Rabsacés
+##### Promesas de Rabsacés
 
 [12](#c36-v12){:#c36-v12} [[329]](#n-329){:#rn-329} Respondió Rabsacés: "¿Por ventura me ha enviado mi señor a decir estas cosas a tu señor y a ti, y no más bien a estos hombres, sentados sobre el muro para comerse con vosotros sus propios excrementos y a beberse sus propios orines?"
 
@@ -1664,9 +1664,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [22](#c36-v22){:#c36-v22} Mas Eliaquim, hijo de Helcías, prefecto del palacio, Sobná secretario, y Joah, hijo de Asaf, canciller, rasgaron sus vestidos, y regresados a Ezequías le refirieron las palabras de Rabsacés.
 
-### Isaías [37](#c37) {#c37}
+#### Isaías [37](#c37) {#c37}
 
-#### Ezequías consulta a Isaías
+##### Ezequías consulta a Isaías
 
 [1](#c37-v1){:#c37-v1} [[333]](#n-333){:#rn-333} Cuando lo oyó el rey Exequias, rasgó sus vestidos, se cubrió con saco y entró en la Casa de Yahvé.
 
@@ -1694,7 +1694,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c37-v13){:#c37-v13} ¿Dónde está el rey de Hamat, y el rey de Arpad, y el rey de la ciudad de Sefarvaim, de Hená y de Iva?"
 
-#### Plegaria de Ezequías
+##### Plegaria de Ezequías
 
 [14](#c37-v14){:#c37-v14} [[337]](#n-337){:#rn-337} Recibió Ezequías esta carta de manos de los mensajeros, y luego de leerla subió a la Casa de Yahvé, donde la desplegó delante de Yahvé.
 
@@ -1710,7 +1710,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [20](#c37-v20){:#c37-v20} Sálvanos ahora, oh Yahvé, Dios nuestro, de su poder; y conozcan todos los reinos de la tierra que Tú solo eres el Señor."
 
-#### Salvación milagrosa de la ciudad
+##### Salvación milagrosa de la ciudad
 
 [21](#c37-v21){:#c37-v21} Entonces Isaías, hijo de Amós, envió a decir a Ezequías: "Merced a tu oración respecto de Senaquerib, rey de Asiria, Yahvé, Dios de Israel, ha hablado,
 
@@ -1730,7 +1730,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [29](#c37-v29){:#c37-v29} [[342]](#n-342){:#rn-342} A causa de tu furor contra Mí, y por tu arrogancia que ha llegado a mis oídos, pondré mi anillo en tu nariz, y mi freno en tus labios, y te haré retornar por el camino por donde viniste.
 
-#### La señal para Ezequías
+##### La señal para Ezequías
 
 [30](#c37-v30){:#c37-v30} [[343]](#n-343){:#rn-343} Y esta será para ti la señal: Este año comeréis lo que naciere de los granos caídos, al año segundo lo que creciere sin sembrar; más al tercer año, sembrad y segad, plantad viñas y comed sus frutos.
 
@@ -1750,9 +1750,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [38](#c37-v38){:#c37-v38} Y aconteció que mientras adoraba en la casa de Nesroc, dios suyo, Adramélec y Sarasar, sus hijos, le mataron a espada. Escaparon ellos al país de Ararat, y le sucedió en el reino su hijo Asarhaddón.
 
-### Isaías [38](#c38) {#c38}
+#### Isaías [38](#c38) {#c38}
 
-#### Enfermedad de Ezequías
+##### Enfermedad de Ezequías
 
 [1](#c38-v1){:#c38-v1} [[346]](#n-346){:#rn-346} En aquellos días Ezequías enfermó de muerte. Y fue a verlo el profeta Isaías, hijo de Amós, quien le dijo: "Así dice Yahvé: Dispón tu casa, porque has de morir y no vivirás más."
 
@@ -1770,7 +1770,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [8](#c38-v8){:#c38-v8} [[347]](#n-347){:#rn-347} He aquí que haré retroceder la sombra diez grados de los que ha bajado en el reloj solar de Acaz." En efecto, retrocedió el sol diez grados de los que había bajado.
 
-#### Cántico de Ezequías
+##### Cántico de Ezequías
 
 [9](#c38-v9){:#c38-v9} Cántico de Ezequías rey de Judá, cuando enfermó, y sanó de su enfermedad:
 
@@ -1800,9 +1800,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [22](#c38-v22){:#c38-v22} Y Ezequías preguntó: "¿Cuál es la señal de que subiré de nuevo a la Casa de Yahvé?"
 
-### Isaías [39](#c39) {#c39}
+#### Isaías [39](#c39) {#c39}
 
-#### Ezequías y Merodac Baladán
+##### Ezequías y Merodac Baladán
 
 [1](#c39-v1){:#c39-v1} [[355]](#n-355){:#rn-355} En aquel tiempo envió Merodac Baladán, hijo de Baladán, rey de Babilonia, cartas y presentes a Ezequías; porque supo que Ezequías había estado enfermo y se había curado.
 
@@ -1820,15 +1820,15 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [8](#c39-v8){:#c39-v8} [[357]](#n-357){:#rn-357} Respondió Ezequías a Isaías: "Buena es la palabra de Yahvé que tú acabas de anunciarme." Y agregó: "Habrá, pues, paz y seguridad en mis días."
 
-#### SEGUNDA PARTE
+## Segunda Parte
 
-#### ("EL SEGUNDO ISAÍAS", CAPÍTULOS 40 A 55)
+### El Segundo Isaías: Capítulos 40-55
 
-## I. Profecías referentes a la liberación de israel
+### I. Profecías referentes a la liberación de Israel
 
-### Isaías [40](#c40) {#c40}
+#### Isaías [40](#c40) {#c40}
 
-#### Voz de consuelo
+##### Voz de consuelo
 
 [1](#c40-v1){:#c40-v1} [[358]](#n-358){:#rn-358} Consolad, consolad a mi pueblo, dice vuestro Dios.
 
@@ -1852,7 +1852,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [11](#c40-v11){:#c40-v11} [[363]](#n-363){:#rn-363} Como pastor apacentará su rebaño, recogerá con su brazo los corderitos, para llevarlos en su regazo, y conducirá a las ovejas paridas."
 
-#### Grandeza de Dios
+##### Grandeza de Dios
 
 [12](#c40-v12){:#c40-v12} ¿Quién midió las aguas con el cuenco de su mano y fijó las dimensiones de los cielos con el palmo? ¿Quién encerró en el tercio de una medida todo el polvo de la tierra, pesó en la romana los montes, y en la balanza los collados?
 
@@ -1866,7 +1866,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [17](#c40-v17){:#c40-v17} Todas las naciones son delante de Él como una nonada. Él las considera menos que la nada y menos que la vacuidad.
 
-#### Necedad de la idolatría
+##### Necedad de la idolatría
 
 [18](#c40-v18){:#c40-v18} [[366]](#n-366){:#rn-366} ¿Con quién, pues, compararéis a Dios, o qué imagen haréis de Él?
 
@@ -1886,7 +1886,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [26](#c40-v26){:#c40-v26} [[368]](#n-368){:#rn-368} Levantad vuestros ojos a lo alto y mirad: ¿Quién creó estas cosas? Aquel que hace marchar ordenadamente su ejército, y a cada uno de ellos lo llama por su nombre. No falta ninguno, tan enorme es su poder y tan inmensa su fuerza.
 
-#### Esperanza en Yahvé
+##### Esperanza en Yahvé
 
 [27](#c40-v27){:#c40-v27} [[369]](#n-369){:#rn-369} ¿Por qué dices tú, oh Jacob, y hablas tú, oh Israel: "Yahvé no conoce mi camino, Dios no tiene interés en mi causa"?
 
@@ -1898,9 +1898,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [31](#c40-v31){:#c40-v31} Pero los que esperan en Yahvé renovarán sus fuerzas; echarán a volar como águilas; correrán sin cansarse, caminarán sin desfallecer.
 
-### Isaías [41](#c41) {#c41}
+#### Isaías [41](#c41) {#c41}
 
-#### Yahvé suscita un libertador
+##### Yahvé suscita un libertador
 
 [1](#c41-v1){:#c41-v1} [[372]](#n-372){:#rn-372} Enmudeced en mi presencia, oh islas, y los pueblos reanimen sus fuerzas. Acérquense, y después hablen; entremos juntos en juicio.
 
@@ -1934,7 +1934,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [16](#c41-v16){:#c41-v16} Los aventarás, y el viento se los llevará, y los esparcirá el torbellino; pero tú te alegrarás en Yahvé, te gloriarás en el Santo de Israel.
 
-#### Maravilloso auxilio divino
+##### Maravilloso auxilio divino
 
 [17](#c41-v17){:#c41-v17} Los desdichados y pobres buscan agua y no la hay, su lengua esta seca por la sed; más Yo, Yahvé, los escucharé; Yo, el Dios de Israel, no los desampararé.
 
@@ -1952,7 +1952,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [24](#c41-v24){:#c41-v24} [[382]](#n-382){:#rn-382} Pero vosotros sois menos que la nada, y vuestra obra menos que lo vacío. ¡Abominable aquel que os escoge!
 
-#### El libertador
+##### El libertador
 
 [25](#c41-v25){:#c41-v25} [[383]](#n-383){:#rn-383} Yo he suscitado a uno del norte, y ya llega; uno (que viene) desde el oriente e invoca mi nombre; que pisa a los príncipes como si fuesen lodo y como el alfarero pisa el barro.
 
@@ -1964,9 +1964,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [29](#c41-v29){:#c41-v29} Ved, pues, que todos son una nada, y vanas todas sus obras. Viento y vanidad son sus ídolos.
 
-### Isaías [42](#c42) {#c42}
+#### Isaías [42](#c42) {#c42}
 
-#### El siervo del Señor
+##### El siervo del Señor
 
 [1](#c42-v1){:#c42-v1} [[386]](#n-386){:#rn-386} He aquí mi Siervo, a quien sostengo, mi escogido, en el que se complace mi alma. Sobre Él he puesto mi Espíritu, y Él será Legislador de las naciones.
 
@@ -1986,7 +1986,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [9](#c42-v9){:#c42-v9} Se han cumplido ya las (predicciones) anteriores, ahora anuncio cosas nuevas, que os doy a conocer antes que sucedan."
 
-#### Cántico de alabanza
+##### Cántico de alabanza
 
 [10](#c42-v10){:#c42-v10} [[392]](#n-392){:#rn-392} Cantad a Yahvé un cántico nuevo, sus alabanzas hasta los términos de la tierra. Exulte el mar y su plenitud, las islas y sus habitantes.
 
@@ -1996,7 +1996,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c42-v13){:#c42-v13} [[394]](#n-394){:#rn-394} Pues Yahvé avanza como un héroe, como un guerrero despierta su furor, vocea y lanza gritos, y muestra su fuerza contra sus enemigos.
 
-#### Israel será librado
+##### Israel será librado
 
 [14](#c42-v14){:#c42-v14} "Mucho tiempo estuve callado, guardé silencio, me contuve, mas ahora doy voces como una mujer que da a luz, lanzo ayes y suspiro jadeando.
 
@@ -2022,9 +2022,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [25](#c42-v25){:#c42-v25} Por eso derramó sobre Israel el fuego de su ira, y el furor de la guerra. Pegó fuego alrededor de él, pero no comprendió; le consumía, mas no hizo caso.
 
-### Isaías [43](#c43) {#c43}
+#### Isaías [43](#c43) {#c43}
 
-#### Dios protector de Israel
+##### Dios protector de Israel
 
 [1](#c43-v1){:#c43-v1} [[400]](#n-400){:#rn-400} Y ahora, dice Yahvé, el que te creó, oh Jacob, y el que te formó, oh Israel: "No temas; porque Yo te he rescatado, te he llamado por tu nombre; tú eres mío.
 
@@ -2052,7 +2052,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c43-v13){:#c43-v13} Yo soy antes de todo tiempo, y no hay quien libre de mi mano: lo que hago Yo ¿quién podrá impedirlo?
 
-#### Dios salvará a su pueblo del cautiverio
+##### Dios salvará a su pueblo del cautiverio
 
 [14](#c43-v14){:#c43-v14} [[405]](#n-405){:#rn-405} Así dice Yahvé vuestro redentor, el Santo de Israel: Por vosotros enviaré gentes contra Babilonia, y pondré en fuga a todos los que se jactan de sus naves.
 
@@ -2070,7 +2070,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [21](#c43-v21){:#c43-v21} a este pueblo que he formado para Mí, y que narrará mis alabanzas.
 
-#### La liberación es obra de la misericordia
+##### La liberación es obra de la misericordia
 
 [22](#c43-v22){:#c43-v22} Pero tú, oh Jacob, no me invocaste, no te fatigaste por Mí, oh Israel.
 
@@ -2086,9 +2086,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [28](#c43-v28){:#c43-v28} [[411]](#n-411){:#rn-411} Por eso he declarado inmundo a los príncipes del Santuario, y he entregado a Jacob al anatema, y a Israel al oprobio."
 
-### Isaías [44](#c44) {#c44}
+#### Isaías [44](#c44) {#c44}
 
-#### Efusión del Espíritu de Dios
+##### Efusión del Espíritu de Dios
 
 [1](#c44-v1){:#c44-v1} Escucha, ahora, oh Jacob, siervo mío, y tú, Israel, a quien he escogido:
 
@@ -2100,7 +2100,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [5](#c44-v5){:#c44-v5} [[413]](#n-413){:#rn-413} Este dirá: *Yo soy de Yahvé*, aquel llevará el nombre de Jacob; y otro escribirá sobre su mano: *De Yahvé*, y se dará el sobrenombre de Israel".
 
-#### Vanidad de los ídolos
+##### Vanidad de los ídolos
 
 [6](#c44-v6){:#c44-v6} [[414]](#n-414){:#rn-414} Así dice Yahvé, el rey de Israel, y su redentor, Yahvé de los ejércitos: "Yo soy el primero y el último; y fuera de Mí no hay dios alguno.
 
@@ -2132,7 +2132,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [20](#c44-v20){:#c44-v20} [[417]](#n-417){:#rn-417} (El hombre) se apacienta de ceniza, le extravía su corazón engañado, no puede salvar su alma, ni decir: "¿No es una mentira lo que tengo en mi mano derecha?"
 
-#### Dios salva a Israel por pura misericordia
+##### Dios salva a Israel por pura misericordia
 
 [21](#c44-v21){:#c44-v21} Acuérdate de estas cosas, oh Jacob, y tú, Israel, pues eres mi siervo. Yo te he formado, siervo mío eres tú; Yo no te olvidaré, oh Israel.
 
@@ -2150,9 +2150,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [28](#c44-v28){:#c44-v28} [[420]](#n-420){:#rn-420} el que dice a Ciro: *Pastor mío eres*, pues cumplirá toda mi voluntad, Yo soy el que dice a Jerusalén: *Serás reedificada*, y al Templo: *Serás fundado* (de nuevo)"
 
-### Isaías [45](#c45) {#c45}
+#### Isaías [45](#c45) {#c45}
 
-#### Ciro, el libertador de Israel
+##### Ciro, el libertador de Israel
 
 [1](#c45-v1){:#c45-v1} [[421]](#n-421){:#rn-421} Así dice Yahvé a su ungido, a Ciro, a quien he tomado de la derecha, para derribar delante de él naciones, y desceñir la cintura de reyes; para abrir ante él las puertas a fin de que las puertas no le estén cerradas:
 
@@ -2180,7 +2180,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c45-v13){:#c45-v13} En mi justicia suscité un (libertador), y allano todos sus pasos. Él edificará mi ciudad y dará libertad a mis cautivos, sin rescate y sin dádivas." Así dice Yahvé de los ejércitos.
 
-#### La conversión de las naciones
+##### La conversión de las naciones
 
 [14](#c45-v14){:#c45-v14} [[427]](#n-427){:#rn-427} Así dice Yahvé: "Las labores de Egipto y las ganancias de Etiopía, y los sabeos, hombres de elevada estatura, pasarán a ti, y serán tuyos; marcharán en pos de ti, en cadenas pasarán; se prosternarán delante de ti, suplicándote: *Solamente en medio de ti está Dios, y no hay otro Dios, no hay absolutamente ninguno.*
 
@@ -2206,9 +2206,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [25](#c45-v25){:#c45-v25} [[432]](#n-432){:#rn-432} En Yahvé serán justificados y glorificados todos los hijos de Israel.
 
-### Isaías [46](#c46) {#c46}
+#### Isaías [46](#c46) {#c46}
 
-#### Destrucción de los ídolos de Babilonia
+##### Destrucción de los ídolos de Babilonia
 
 [1](#c46-v1){:#c46-v1} [[433]](#n-433){:#rn-433} Bel se dobla, Nebo se encorva; sus imágenes son puestas sobre bestias y jumentos; esos (ídolos) que solíais llevar, son para las bestias carga abrumadora.
 
@@ -2236,9 +2236,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c46-v13){:#c46-v13} Yo hago venir mi justicia, que no está lejos, y mi salvación que no tardará. Yo pondré en Sión la salud, y mi gloria en Israel.
 
-### Isaías [47](#c47) {#c47}
+#### Isaías [47](#c47) {#c47}
 
-#### Caída de Babilonia
+##### Caída de Babilonia
 
 [1](#c47-v1){:#c47-v1} [[438]](#n-438){:#rn-438} Baja y siéntate en el polvo, oh virgen, hija de Babilonia, siéntate en el suelo sin trono, hija de los caldeos; pues ya no te llamarán tierna y delicada.
 
@@ -2270,9 +2270,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [15](#c47-v15){:#c47-v15} [[444]](#n-444){:#rn-444} Así serán para ti aquellos por quienes te has esforzado, aquellos con quienes has traficado desde tu juventud. Se dispersarán cada cual por su camino, no hay quien te salve.
 
-### Isaías [48](#c48) {#c48}
+#### Isaías [48](#c48) {#c48}
 
-#### Incredulidad de Israel
+##### Incredulidad de Israel
 
 [1](#c48-v1){:#c48-v1} [[445]](#n-445){:#rn-445} Oídlo, casa de Jacob, los que lleváis el nombre de Israel, y habéis salido de la fuente de Judá; los que juráis por el nombre de Yahvé y celebráis al Dios de Israel, más no en verdad, ni con rectitud,
 
@@ -2296,7 +2296,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [11](#c48-v11){:#c48-v11} Por Mí, por amor mío hago esto, porque no permito que me blasfemen, y mi gloria no cedo a ningún otro.
 
-#### Nueva predicción de la liberación
+##### Nueva predicción de la liberación
 
 [12](#c48-v12){:#c48-v12} [[451]](#n-451){:#rn-451} Escúchame, Jacob, y tú, Israel, a quien he dado mi nombre: Yo soy; Yo soy el primero, y soy también el último.
 
@@ -2320,11 +2320,11 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [22](#c48-v22){:#c48-v22} [[456]](#n-456){:#rn-456} No hay paz para los malvados, dice Yahvé.
 
-## II. La obra expiatoria del siervo de yahvé
+### II. La obra expiatoria del siervo de yahvé
 
-### Isaías [49](#c49) {#c49}
+#### Isaías [49](#c49) {#c49}
 
-#### Vocación del Siervo de Dios
+##### Vocación del Siervo de Dios
 
 [1](#c49-v1){:#c49-v1} [[457]](#n-457){:#rn-457} Oídme islas; prestad atención, pueblos lejanos: Yahvé me llamó desde el seno materno, desde las entrañas de mi madre se acordó de mi nombre.
 
@@ -2340,7 +2340,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [7](#c49-v7){:#c49-v7} [[463]](#n-463){:#rn-463} Así dice Yahvé, el Redentor de Israel y su Santo, al despreciado entre los hombres, al abominado de las gentes, al esclavo de los tiranos: "Reyes verán y se levantarán; príncipes, y se postrarán en honor de Yahvé, que es fiel, por amor del Santo de Israel, que te ha escogido."
 
-#### Liberación de los cautivos
+##### Liberación de los cautivos
 
 [8](#c49-v8){:#c49-v8} [[464]](#n-464){:#rn-464} Así dice Yahvé: "Al tiempo de la gracia te escucho, y en el día de la salvación vengo a auxiliarte; Yo te he constituido y puesto por alianza del pueblo, a fin de restaurar el país y repartir las heredades desoladas;
 
@@ -2354,7 +2354,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c49-v13){:#c49-v13} Cantad, oh cielos, y tú, oh tierra, salta de gozo; prorrumpid en júbilo, oh montañas; porque Yahvé consuela a su pueblo, y tiene compasión de sus pobres.
 
-#### Consuelo de Sión
+##### Consuelo de Sión
 
 [14](#c49-v14){:#c49-v14} Dijo Sión: "Yahvé me ha abandonado, el Señor se ha olvidado de mí."
 
@@ -2372,7 +2372,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [21](#c49-v21){:#c49-v21} Entonces dirás en tu corazón: "¿Quién me los ha engendrado? yo estaba privada de hijos y estéril, cautiva y repudiada. A estos, pues, ¿quién los ha criado? Cuando yo estaba sola, ¿dónde se hallaban ellos?"
 
-#### Reyes y pueblos servirán a Sión
+##### Reyes y pueblos servirán a Sión
 
 [22](#c49-v22){:#c49-v22} [[470]](#n-470){:#rn-470} Así dice Yahvé el Señor: "Ved que alzaré mi mano hacia las naciones, hacia los pueblos levantaré mi bandera; y ellos traerán a tus hijos sobre los pechos, y a tus hijas las llevarán sobre los hombros.
 
@@ -2384,16 +2384,17 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [26](#c49-v26){:#c49-v26} A tus opresores les daré de comer sus propias carnes; y se embriagarán con su propia sangre, como con vino nuevo; y sabrán todos los hombres que Yo, Yahvé, soy tu libertador, y tú redentor, el Fuerte de Jacob.
 
-### Isaías [50](#c50) {#c50}
+#### Isaías [50](#c50) {#c50}
 
-#### Infidelidad de Israel
+##### Infidelidad de Israel
 
 [1](#c50-v1){:#c50-v1} [[472]](#n-472){:#rn-472} Así dice Yahvé: "¿Dónde está el libelo de repudio de vuestra madre, por el cual la he repudiado? ¿O quién es ese acreedor mío, al cual os he vendido? He aquí que por vuestras maldades fuisteis vendidos, y por vuestros pecados fue repudiada vuestra madre.
 
 [2](#c50-v2){:#c50-v2} [[473]](#n-473){:#rn-473} ¿Por qué, cuando Yo vine, no hubo nadie, y cuando llamé nadie me contestó? ¿Se ha acortado acaso mi brazo, de suerte que no pueda redimir? ¿O no tengo fuerza para salvar? Mirad, con una amenaza mía seco el mar, y torno los ríos en desierto; se pudren sus peces por falta de agua, y mueren de sed.
 
 [3](#c50-v3){:#c50-v3} Yo visto los cielos de tinieblas, y los cubro con saco."
-#### Fidelidad del Siervo de Yahvé
+
+##### Fidelidad del Siervo de Yahvé
 
 [4](#c50-v4){:#c50-v4} [[474]](#n-474){:#rn-474} Yahvé, el Señor, me ha dado lengua de discípulo para que sepa yo sostener con palabras a los abatidos. Mañana tras mañana (me) despierta; me despierta el oído para que escuche como discípulo.
 
@@ -2411,9 +2412,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [11](#c50-v11){:#c50-v11} [[477]](#n-477){:#rn-477} Mas todos vosotros prendéis el fuego, y os armáis de saetas incendiarias. ¡Andad a la lumbre de vuestro fuego, y en medio de las saetas incendiarias que habéis encendido! De mi mano os vendrá esto: yaceréis entre dolores.
 
-### Isaías [51](#c51) {#c51}
+#### Isaías [51](#c51) {#c51}
 
-#### Certeza de la salvación
+##### Certeza de la salvación
 
 [1](#c51-v1){:#c51-v1} [[478]](#n-478){:#rn-478} Oídme, los que seguís la justicia y buscáis a Yahvé. Mirad la roca de la cual habéis sido cortados, el profundo manantial de donde habéis sido sacados.
 
@@ -2445,7 +2446,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [15](#c51-v15){:#c51-v15} Yo soy Yahvé, tu Dios, que agito el mar, de modo que se embravezcan sus olas. Yahvé de los ejércitos es su nombre.
 
-#### Sión beberá el cáliz de la ira, después será librada
+##### Sión beberá el cáliz de la ira, después será librada
 
 [16](#c51-v16){:#c51-v16} [[486]](#n-486){:#rn-486} Yo he puesto mis palabras en tu boca, y te he cobijado bajo la sombra de mi mano, para plantar cielos y fundar una tierra, y para decir a Sión: "Tú eres mi pueblo."
 
@@ -2463,9 +2464,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [23](#c51-v23){:#c51-v23} [[488]](#n-488){:#rn-488} Lo pondré en manos de tus opresores, que te decían: *Póstrate, para que pasemos por encima de ti*; y tú pusiste como suelo tu dorso, y eras camino para los que transitaban."
 
-### Isaías [52](#c52) {#c52}
+#### Isaías [52](#c52) {#c52}
 
-#### Liberación gratuita de Israel
+##### Liberación gratuita de Israel
 
 [1](#c52-v1){:#c52-v1} [[489]](#n-489){:#rn-489} ¡Despierta, despierta, vístete de tu fortaleza, oh Sión; viste tus vestiduras de gala, oh Jerusalén, ciudad santa! pues el incircunciso y el inmundo ya no volverán a entrar en ti.
 
@@ -2479,7 +2480,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [6](#c52-v6){:#c52-v6} Por eso mi pueblo conocerá mi Nombre; (conocerá) en aquel día que soy Yo quien dice: "Heme aquí."
 
-#### La buena nueva del regreso de los cautivos
+##### La buena nueva del regreso de los cautivos
 
 [7](#c52-v7){:#c52-v7} [[492]](#n-492){:#rn-492} Cuan hermosos sobre los montes los pies del mensajero de albricias, que trae la buena nueva de la paz, que anuncia felicidad y pregona la salvación; diciendo a Sión: "Reina tu Dios."
 
@@ -2493,7 +2494,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [12](#c52-v12){:#c52-v12} Pues no saldréis precipitadamente, ni partiréis como fugitivos, porque vuestra vanguardia es Yahvé, y vuestra retaguardia el Dios de Israel.
 
-#### La figura del Siervo de Yahvé
+##### La figura del Siervo de Yahvé
 
 [13](#c52-v13){:#c52-v13} [[496]](#n-496){:#rn-496} He aquí que mi Siervo está lleno de sabiduría, será grande, excelso y ensalzado sobremanera.
 
@@ -2501,9 +2502,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [15](#c52-v15){:#c52-v15} [[498]](#n-498){:#rn-498} Él rociará a muchas naciones; y ante él los reyes cerrarán la boca, al ver lo que no les había sido contado, al contemplar lo que nunca habían oído.
 
-### Isaías [53](#c53) {#c53}
+#### Isaías [53](#c53) {#c53}
 
-#### Humillación y gloria del Siervo de Yahvé
+##### Humillación y gloria del Siervo de Yahvé
 
 [1](#c53-v1){:#c53-v1} [[499]](#n-499){:#rn-499} ¿Quién ha creído nuestro anuncio, y a quién ha sido revelado el brazo de Yahvé?
 
@@ -2529,9 +2530,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [12](#c53-v12){:#c53-v12} [[509]](#n-509){:#rn-509} Por esto le daré en herencia una gran muchedumbre, y repartirá los despojos con los fuertes, por cuanto entregó su vida a la muerte, y fue contado entre los facinerosos. Porque tomó sobre sí los pecados de muchos e intercedió por los transgresores.
 
-### Isaías [54](#c54) {#c54}
+#### Isaías [54](#c54) {#c54}
 
-#### Fecundidad y gloria de la nueva Sión
+##### Fecundidad y gloria de la nueva Sión
 
 [1](#c54-v1){:#c54-v1} [[510]](#n-510){:#rn-510} Regocíjate, estéril, tú que estabas sin hijos, prorrumpe en júbilo y gritos de alegría, tú que nunca estuviste de parto; pues son más numerosos los hijos de la abandonada que los hijos de aquella que tiene marido, dice Yahvé.
 
@@ -2553,7 +2554,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [10](#c54-v10){:#c54-v10} [[515]](#n-515){:#rn-515} Aun cuando se muevan los montes y vacilen los collados, mi misericordia no se alejará de ti, y no vacilará mi alianza de paz, dice el que se compadece de ti, Yahvé.
 
-#### La nueva Jerusalén
+##### La nueva Jerusalén
 
 [11](#c54-v11){:#c54-v11} [[516]](#n-516){:#rn-516} Pobrecita, azotada por la tempestad, y que estás sin consuelo, he aquí que Yo asentaré tus piedras sobre carbunclos, y te cimentaré sobre zafiros.
 
@@ -2569,9 +2570,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [17](#c54-v17){:#c54-v17} [[520]](#n-520){:#rn-520} Toda arma forjada contra ti será ineficaz, y tú condenarás toda lengua que se mueva para juzgarte. Esta es la herencia de los siervos de Yahvé y la justicia que de Mí les vendrá —oráculo de Yahvé.
 
-### Isaías [55](#c55) {#c55}
+#### Isaías [55](#c55) {#c55}
 
-#### Exhortación a aprovechar la salud mesiánica
+##### Exhortación a aprovechar la salud mesiánica
 
 [1](#c55-v1){:#c55-v1} [[521]](#n-521){:#rn-521} ¡Oh vosotros, sedientos todos, venid a las aguas! Venid también los que no tenéis dinero, comprad y comed; sí, venid y comprad, sin dinero y sin pago, vino y leche.
 
@@ -2599,9 +2600,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c55-v13){:#c55-v13} En vez de los espinos crecerá el abeto, y en lugar de la zarza, el mirto; y será esto para gloria de Yahvé, para señal eterna que jamás desaparecerá.
 
-### Isaías [56](#c56) {#c56}
+#### Isaías [56](#c56) {#c56}
 
-#### Vocación de los gentiles
+##### Vocación de los gentiles
 
 [1](#c56-v1){:#c56-v1} Así dice Yahvé: "Observad el derecho y practicad la justicia; porque pronto vendrá mi salvación, y va a revelarse mi justicia."
 
@@ -2619,7 +2620,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [8](#c56-v8){:#c56-v8} [[534]](#n-534){:#rn-534} Oráculo de Yahvé, el Señor, que recoge a los desterrados de Israel: "Conduciré hacia él también a otros, además de los ya recogidos."
 
-#### Contra los malos pastores
+##### Contra los malos pastores
 
 [9](#c56-v9){:#c56-v9} [[535]](#n-535){:#rn-535} Todas las bestias del campo, venid y comed, y vosotras, todas las fieras del bosque.
 
@@ -2629,9 +2630,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [12](#c56-v12){:#c56-v12} [[536]](#n-536){:#rn-536} "Venid, yo traeré vino y tomaremos bebidas embriagantes; y mañana será como hoy, día grande, muy grande."
 
-### Isaías [57](#c57) {#c57}
+#### Isaías [57](#c57) {#c57}
 
-#### Contra la idolatría
+##### Contra la idolatría
 
 [1](#c57-v1){:#c57-v1} [[537]](#n-537){:#rn-537} El justo perece, y no hay quien se conduela; son arrebatados los hombres piadosos, y nadie advierte que el justo es quitado para eximirlo del mal.
 
@@ -2659,7 +2660,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [13](#c57-v13){:#c57-v13} [[545]](#n-545){:#rn-545} Cuando clames, ¡líbrete tu colección (de imágenes)! Mas el viento se las llevará a todas; un soplo las arrebatará: pero el que se refugia en Mí, heredará la tierra, y poseerá mi santo monte.
 
-#### Mensaje de misericordia
+##### Mensaje de misericordia
 
 [14](#c57-v14){:#c57-v14} Y se dirá: ¡Allanad, haced terraplenes, despejad el camino; levantad los tropiezos del camino de mi pueblo!
 
@@ -2677,11 +2678,11 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [21](#c57-v21){:#c57-v21} [[549]](#n-549){:#rn-549} No hay paz para los impíos, dice mi Dios.
 
-## III. Vaticinios sobre el reino mesiánico
+### III. Vaticinios sobre el reino mesiánico
 
-### Isaías [58](#c58) {#c58}
+#### Isaías [58](#c58) {#c58}
 
-#### Piedad auténtica
+##### Piedad auténtica
 
 [1](#c58-v1){:#c58-v1} [[550]](#n-550){:#rn-550} Clama a voz en cuello y no ceses; cual trompeta alza tu voz; denuncia a mi pueblo sus maldades, y a la casa de Jacob sus pecados.
 
@@ -2693,7 +2694,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [5](#c58-v5){:#c58-v5} ¿Es este el ayuno que Yo amo? ¿(Es este) el día en que el hombre debe afligir su alma? Encorvar la cabeza como el junco y tenderse sobre saco y ceniza, ¿a esto llamáis ayuno, día acepto a Yahvé?
 
-#### El ayuno grato a Yahvé
+##### El ayuno grato a Yahvé
 
 [6](#c58-v6){:#c58-v6} [[553]](#n-553){:#rn-553} El ayuno que Yo amo consiste en esto: soltar las ataduras injustas, desatar las ligaduras de la opresión, dejar libre al oprimido y romper todo yugo,
 
@@ -2713,9 +2714,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [14](#c58-v14){:#c58-v14} [[560]](#n-560){:#rn-560} entonces hallarás tu delicia en Yahvé; te elevaré sobre las alturas de la tierra, y te sustentaré con la herencia de tu padre Jacob; porque la boca de Yahvé ha hablado.
 
-### Isaías [59](#c59) {#c59}
+#### Isaías [59](#c59) {#c59}
 
-#### Necesidad de la conversión
+##### Necesidad de la conversión
 
 [1](#c59-v1){:#c59-v1} [[561]](#n-561){:#rn-561} He aquí que la mano de Yahvé no es tan corta para que no pueda salvar, ni tan sordo su oído para que no pueda oír;
 
@@ -2733,7 +2734,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [8](#c59-v8){:#c59-v8} [[565]](#n-565){:#rn-565} No conocen la senda de la paz, ni hay justicia en sus caminos, tuercen sus sendas; quien anda por ellos no conoce la paz.
 
-#### Confusión del pueblo
+##### Confusión del pueblo
 
 [9](#c59-v9){:#c59-v9} Por eso la rectitud está lejos de nosotros, y no nos encuentra la justicia, esperamos la luz, mas he aquí tinieblas; la claridad del día, y caminamos a oscuras.
 
@@ -2749,7 +2750,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [15](#c59-v15){:#c59-v15} La lealtad ha sido desterrada, y es tratado como presa el que se aleja del mal. Yahvé lo vio, y no le gustó que ya no hubiese justicia.
 
-#### Yahvé salva a los arrepentidos
+##### Yahvé salva a los arrepentidos
 
 [16](#c59-v16){:#c59-v16} [[568]](#n-568){:#rn-568} Vio que no había hombre (justo), y se asombró de que nadie intercediera. Entonces le ayudó su propio brazo, y se apoyó en su justicia.
 
@@ -2763,9 +2764,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [21](#c59-v21){:#c59-v21} [[572]](#n-572){:#rn-572} Y en cuanto a Mí, este será mi pacto con ellos, dice Yahvé: "Mi Espíritu que está sobre ti, y mis palabras que puse Yo en tu boca, no se apartarán de tu boca, ni de la boca de tus hijos, ni de la boca de los hijos de tus hijos, dice Yahvé, desde ahora y para siempre."
 
-### Isaías [60](#c60) {#c60}
+#### Isaías [60](#c60) {#c60}
 
-#### Gloria de la nueva Jerusalén
+##### Gloria de la nueva Jerusalén
 
 [1](#c60-v1){:#c60-v1} [[573]](#n-573){:#rn-573} Álzate y resplandece, porque viene tu lumbrera, y la gloria de Yahvé brilla sobre ti.
 
@@ -2795,7 +2796,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [14](#c60-v14){:#c60-v14} Vendrán a ti, encorvados, los hijos de los que te humillaron, y se postrarán a las plantas de tus pies todos los que te despreciaron; y te llamarán "Ciudad de Yahvé", "Sión del Santo de Israel".
 
-#### El mismo Dios habitará en Sión
+##### El mismo Dios habitará en Sión
 
 [15](#c60-v15){:#c60-v15} Por cuanto estuviste abandonada y aborrecida, sin que nadie te frecuentase, haré que seas la gloria de los siglos, el gozo de todas las generaciones.
 
@@ -2813,9 +2814,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [22](#c60-v22){:#c60-v22} [[587]](#n-587){:#rn-587} El más pequeño vendrá a ser mil, y del más chico saldrá una nación poderosa. Yo, Yahvé, haré súbitamente esto a su tiempo.
 
-### Isaías [61](#c61) {#c61}
+#### Isaías [61](#c61) {#c61}
 
-#### Ministerio del Mesías
+##### Ministerio del Mesías
 
 [1](#c61-v1){:#c61-v1} [[588]](#n-588){:#rn-588} El Espíritu del Señor, Yahvé, está sobre mí porque Yahvé me ha ungido, y me ha enviado para evangelizar a los humildes; para vendar a los de corazón quebrantado, para anunciar la libertad a los cautivos y la liberación a los encarcelados;
 
@@ -2823,7 +2824,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [3](#c61-v3){:#c61-v3} [[589]](#n-589){:#rn-589} y alegrar a los que lloran en Sión; para darles una diadema en lugar de ceniza, el óleo de gozo en vez de tristeza y un manto de gloria en lugar del espíritu de abatimiento; y serán llamados encinas de justicia, plantadas por Yahvé para gloria suya.
 
-#### Restauración después de la humillación
+##### Restauración después de la humillación
 
 [4](#c61-v4){:#c61-v4} [[590]](#n-590){:#rn-590} Edificarán las ruinas antiguas, y levantarán los lugares destruidos anteriormente; restaurarán las ciudades arruinadas, las desolaciones de generaciones pasadas.
 
@@ -2837,15 +2838,15 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [9](#c61-v9){:#c61-v9} [[593]](#n-593){:#rn-593} Su descendencia será conocida entre las naciones, y su linaje en medio de los pueblos; todos cuantos los vieren, reconocerán que son ellos la raza bendita de Yahvé.
 
-#### Acción de gracias por la salvación
+##### Acción de gracias por la salvación
 
 [10](#c61-v10){:#c61-v10} [[594]](#n-594){:#rn-594} Con sumo gozo me regocijaré en Yahvé, y mi alma se alegrará en mi Dios: pues me revistió con las vestiduras de la salvación, y me cubrió con el manto de la justicia, como a novio que se adorna con una corona, y como a novia que se engalana con sus joyas.
 
 [11](#c61-v11){:#c61-v11} Porque como la tierra hace brotar sus gérmenes, y como el huerto hace germinar sus semillas, así Yahvé hará florecer la justicia y la gloria ante todas las naciones.
 
-### Isaías [62](#c62) {#c62}
+#### Isaías [62](#c62) {#c62}
 
-#### La salud mesiánica
+##### La salud mesiánica
 
 [1](#c62-v1){:#c62-v1} [[595]](#n-595){:#rn-595} A causa de Sión no puedo callar, y por amor de Jerusalén no buscaré descanso; hasta que salga, cual luz, su justicia, y brille, cual antorcha, su salvación.
 
@@ -2871,9 +2872,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [12](#c62-v12){:#c62-v12} Entonces serán llamados *Pueblo Santo*, *Redimidos de Yahvé*, y tú serás llamada *Buscada*, *Ciudad no desamparada*."
 
-### Isaías [63](#c63) {#c63}
+#### Isaías [63](#c63) {#c63}
 
-#### Triunfo de Cristo Rey
+##### Triunfo de Cristo Rey
 
 [1](#c63-v1){:#c63-v1} [[600]](#n-600){:#rn-600} ¿Quién es este que viene de Edom, de Bosra con vestidos teñidos (de sangre)? ¡Tan gallardo en su vestir, camina majestuosamente en la grandeza de su poder! "Soy Yo el que habla con justicia, el poderoso para salvar."
 
@@ -2887,7 +2888,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [6](#c63-v6){:#c63-v6} [[602]](#n-602){:#rn-602} Pisoteé a los pueblos en mi ira, y los embriagué con mi furor, derramando por tierra su sangre."
 
-#### Plegaria del profeta en nombre de Israel
+##### Plegaria del profeta en nombre de Israel
 
 [7](#c63-v7){:#c63-v7} [[603]](#n-603){:#rn-603} Celebraré las misericordias de Yahvé, las alabanzas de Yahvé, según todo lo que Yahvé nos ha hecho, y la gran bondad que ha usado con la casa de Israel según su piedad, y según la multitud de sus misericordias.
 
@@ -2915,9 +2916,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [19](#c63-v19){:#c63-v19} [[612]](#n-612){:#rn-612} Somos desde mucho como aquellos que Tú no gobiernas, como los que nunca llevaron tu nombre.
 
-### Isaías [64](#c64) {#c64}
+#### Isaías [64](#c64) {#c64}
 
-#### Continúa la plegaria del profeta
+##### Continúa la plegaria del profeta
 
 [1](#c64-v1){:#c64-v1} [[613]](#n-613){:#rn-613} ¡Oh, si rasgaras los cielos y bajaras! —A tu presencia se derretirían los montes—
 
@@ -2943,9 +2944,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [12](#c64-v12){:#c64-v12} [[618]](#n-618){:#rn-618} Y con todo esto ¿te estás quedo, Yahvé? ¿Podrás callarte y humillarnos del todo?
 
-### Isaías [65](#c65) {#c65}
+#### Isaías [65](#c65) {#c65}
 
-#### Vocación de los gentiles
+##### Vocación de los gentiles
 
 [1](#c65-v1){:#c65-v1} [[619]](#n-619){:#rn-619} "Me dejé buscar por los que no preguntaban (por Mí), me dejé hallar por los que no me buscaban. Dije: *Heme aquí, heme aquí*, a gente que (antes) no invocaba mi nombre.
 
@@ -2961,7 +2962,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [7](#c65-v7){:#c65-v7} [[623]](#n-623){:#rn-623} por vuestras iniquidades, dice Yahvé, juntamente con las de vuestros padres, que quemaron incienso sobre los montes, y me ultrajaron en los collados. Por eso les pondré en su seno la paga por sus obras pasadas."
 
-#### Se salvarán los restos de Israel
+##### Se salvarán los restos de Israel
 
 [8](#c65-v8){:#c65-v8} [[624]](#n-624){:#rn-624} Así dice Yahvé: "Como cuando hay jugo en un racimo se dice: *No lo desperdicies, pues en él hay bendición*, así haré Yo por amor de mis siervos, para no exterminarlos, a todos.
 
@@ -2981,7 +2982,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [16](#c65-v16){:#c65-v16} [[629]](#n-629){:#rn-629} Quienquiera se bendijere en la tierra, se bendecirá en el Dios Amén y quien jurare en la tierra, jurará por el Dios Amén, porque las angustias pasadas quedarán olvidadas no estarán más ante mis ojos.
 
-#### Nuevos cielos y nueva tierra
+##### Nuevos cielos y nueva tierra
 
 [17](#c65-v17){:#c65-v17} [[630]](#n-630){:#rn-630} Porque he aquí que voy a crear nuevos cielos y nueva tierra; de las cosas anteriores no se hará más mención, ni habrá recuerdo de ellas.
 
@@ -3001,9 +3002,9 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [25](#c65-v25){:#c65-v25} El lobo y el cordero pacerán juntos; el león, como el buey, comerán paja, y la serpiente se alimentará con polvo; no dañarán ni causarán muerte en todo mi santo monte, dice Yahvé.
 
-### Isaías [66](#c66) {#c66}
+#### Isaías [66](#c66) {#c66}
 
-#### Los excluidos de la nueva Sión
+##### Los excluidos de la nueva Sión
 
 [1](#c66-v1){:#c66-v1} [[633]](#n-633){:#rn-633} Así dice Yahvé: "El cielo es mi trono, y la tierra el escabel de mis pies. ¿Qué casa podríais construir para Mí? ¿y qué lugar para mi descanso?
 
@@ -3017,7 +3018,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [6](#c66-v6){:#c66-v6} ¡Voz de alboroto que procede de la ciudad, voz que procede del Templo! ¡(Es la) voz de Yahvé que da el pago a sus enemigos!
 
-#### Bendiciones de la nueva Sión
+##### Bendiciones de la nueva Sión
 
 [7](#c66-v7){:#c66-v7} [[638]](#n-638){:#rn-638} Antes de estar de parto ella ha dado a luz; antes que le sobreviniesen los dolores ha dado a luz un hijo varón.
 
@@ -3035,7 +3036,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [14](#c66-v14){:#c66-v14} Al verlo realizado se alborozará vuestro corazón, y vuestros huesos florecerán como la hierba; se hará manifiesta la mano de Yahvé en favor de sus siervos, y su indignación contra sus enemigos.
 
-#### El día del juicio
+##### El día del juicio
 
 [15](#c66-v15){:#c66-v15} [[641]](#n-641){:#rn-641} Pues he aquí que Yahvé viene en medio del fuego, y en su carroza semejante a torbellino, para derramar su ira con furor, y su vindicta mediante llamas de fuego.
 
@@ -3045,7 +3046,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [18](#c66-v18){:#c66-v18} [[643]](#n-643){:#rn-643} porque (Yo conozco) sus obras y sus designios. Ha venido (el tiempo) de congregar todas las naciones y lenguas; y vendrán y verán mi gloria.
 
-#### Conversión final
+##### Conversión final
 
 [19](#c66-v19){:#c66-v19} [[644]](#n-644){:#rn-644} Pondré en medio de ellos una señal, y enviaré sus sobrevivientes a las naciones, a Tarsis, a Pul, a Lud, a Mósoc, a Rosch, a Tubal y a Javán, a las islas remotas que no han oído hablar de Mí, ni han visto la gloria mía; ellos anunciarán mi gloria entre los gentiles.
 
