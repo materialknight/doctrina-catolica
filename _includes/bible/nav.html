@@ -1,4 +1,4 @@
-<ul class="two-cols">
+<ul class="">
    {% for item in include.nav %}
       {% assign item_url = item.enlace | relative_url %}
       {% assign page_url = page.url |  remove: ".html" | relative_url %}
@@ -14,4 +14,4 @@
       {% endif %}
       </li>
    {% endfor %}
-   </ul>
+</ul>

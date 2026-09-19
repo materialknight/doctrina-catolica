@@ -155,7 +155,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [2, 11](#c2-v11) Pues en Dios no hay acepción de personas [[\*\*]](#nt-c2-v11).
 {:#c2-v11}
 
-##### Los judíos, transgresores de la ley
+##### Los judíos, transgresores de la Ley
 
 [2, 12](#c2-v12) Porque cuantos han pecado sin la Ley, sin la Ley también perecerán; y cuantos han pecado bajo la Ley, según la Ley serán juzgados.
 {:#c2-v12}
@@ -316,7 +316,7 @@ title: Carta del apóstol san Pablo a los Romanos
 
 #### Romanos [4](#c4) {#c4}
 
-##### Abrahán justificado por la fe sin las obras de la ley
+##### Abrahán justificado por la fe sin las obras de la Ley
 
 [4, 1](#c4-v1) ¿Qué diremos luego que obtuvo Abrahán, nuestro Padre según la carne? [[\*\*]](#nt-c4-v1)
 {:#c4-v1}
@@ -864,7 +864,7 @@ title: Carta del apóstol san Pablo a los Romanos
 
 #### Romanos [10](#c10) {#c10}
 
-##### La justicia de la ley y la justicia de la fe
+##### La justicia de la Ley y la justicia de la fe
 
 [10, 1](#c10-v1) Hermanos, el deseo de mi corazón y la súplica que elevo a Dios, es en favor de ellos para que sean salvos [[\*\*]](#nt-c10-v1).
 {:#c10-v1}
@@ -1147,7 +1147,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [13, 7](#c13-v7) Pagad a todos lo que les debéis: a quien tributo, tributo; a quien impuesto, impuesto; a quien temor, temor; a quien honor, honor [[\*\*]](#nt-c13-v7).
 {:#c13-v7}
 
-#### El amor es la plenitud de la ley
+#### El amor es la plenitud de la Ley
 
 [13, 8](#c13-v8) No tengáis con nadie deuda sino el amaros unos a otros; porque quien ama al prójimo, ha cumplido la Ley [[\*\*]](#nt-c13-v8).
 {:#c13-v8}
@@ -1695,7 +1695,7 @@ No es ciertamente nuestra inclinación natural, nuestra carne, lo que está muer
 [7, 4](#c7-v4) ss. **Habéis muerto a la Ley**: He aquí otra expresión muy capaz de escandalizar al espíritu farisaico o paganizante que, confiando en sí mismo y suprimiendo toda visión del misterio sobrenatural, no concibe más espiritualidad que una moral fundada en el esfuerzo (y por tanto en el mérito) propio, sin dejarle a Cristo el honor de habernos salvado. Sobre este punto, que S. Pablo discutía con los «insensatos gálatas» (Gálatas [3, 1](galatas#c3-v1) ss.), véase v. [23](#c7-v23); [6, 2](#c6-v2); Marcos [7, 4](marcos#c7-v4); Gálatas [5, 18](galatas#c5-v18) y notas.
 {:#nt-c7-v4}
 
-El v. [5](#c7-v5) sintetiza la ley de la carne, que expondrá en el presente capítulo; el v. [6](#c7-v6), la «ley del Espíritu de vida», que explayará en el cap. [8](#c8). La primera es la del hombre natural, sin redentor y sometido a una ley que su naturaleza caída era incapaz de cumplir para salvarse (cf. 1 Corintios [2, 10](1-corintios#c2-v10)). La segunda es la del que cuenta con un Redentor cuyos méritos puede invocar, mediante la fe en Él, para recibir la vida nueva del Espíritu que lo ilumina y lo hace vivir de amor. Esta es para los «enfermos» y «pecadores», que reconocen la necesidad del bondadoso Médico para poder vivir (Lucas [5, 32](lucas#c5-v32) y nota). Los que se creen «sanos» y «justos» se quedan con aquella y desprecian la gracia del Redentor (Gálatas [2, 21](galatas#c2-v21)), ignorando que sin Él «todos perecerán» miserablemente (Marcos [1, 15](marcos#c1-v15) y nota).
+El v. [5](#c7-v5) sintetiza la «ley de la carne», que expondrá en el presente capítulo; el v. [6](#c7-v6), la «ley del Espíritu de vida», que explayará en el cap. [8](#c8). La primera es la del hombre natural, sin redentor y sometido a una ley que su naturaleza caída era incapaz de cumplir para salvarse (cf. 1 Corintios [2, 10](1-corintios#c2-v10)). La segunda es la del que cuenta con un Redentor cuyos méritos puede invocar, mediante la fe en Él, para recibir la vida nueva del Espíritu que lo ilumina y lo hace vivir de amor. Esta es para los «enfermos» y «pecadores», que reconocen la necesidad del bondadoso Médico para poder vivir (Lucas [5, 32](lucas#c5-v32) y nota). Los que se creen «sanos» y «justos» se quedan con aquella y desprecian la gracia del Redentor (Gálatas [2, 21](galatas#c2-v21)), ignorando que sin Él «todos perecerán» miserablemente (Marcos [1, 15](marcos#c1-v15) y nota).
 
 [7, 7](#c7-v7) La Ley mosaica como tal era buena, pero dada la mala inclinación del hombre caído, el conocimiento de la Ley aumentaba la concupiscencia. De ahí que nadie fuese capaz de cumplir la Ley. Solo el conocimiento de Cristo al darnos la gracia puede librarnos de ese tristísimo estado, como lo dice el apóstol en el v. [24](#c7-v24).
 {:#nt-c7-v7}

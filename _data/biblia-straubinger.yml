@@ -47,10 +47,13 @@ contenido:
             enlace: biblia-straubinger/judit#
           - encabezado: Ester
             enlace: biblia-straubinger/ester#
-          - encabezado: 1 Macabeos
-            enlace: biblia-straubinger/1-macabeos#
-          - encabezado: 2 Macabeos
-            enlace: biblia-straubinger/2-macabeos#
+          - encabezado: Introducción a los libros de Macabeos
+            enlace: biblia-straubinger/macabeos
+            sublista:
+              - encabezado: 1 Macabeos
+                enlace: biblia-straubinger/1-macabeos#
+              - encabezado: 2 Macabeos
+                enlace: biblia-straubinger/2-macabeos#
       - encabezado: Introducción a los Libros Sapienciales
         enlace: biblia-straubinger/libros-sapienciales#
         sublista:
