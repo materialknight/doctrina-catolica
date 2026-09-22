@@ -133,7 +133,7 @@ Tratándose de un libro deuterocanónico, que no está en la Biblia hebrea, pres
 [2, 11](#c2-v11) [[17]](#n-17){:#rn-17} Sea nuestra fortaleza la ley de la justicia; pues lo flaco de nada sirve.
 {:#c2-v11}
 
-[2, 12](#c2-v12) [[18]](#n-18){:#rn-18} Armemos lazos al justo, visto que él no es de provecho para nosotros, y que es contrario a nuestras obras. Nos echa en cara los pecados contra la ley; y nos desacredita, divulgando nuestra conducta.
+[2, 12](#c2-v12) [[18]](#n-18){:#rn-18} Armemos lazos al justo, visto que él no es de provecho para nosotros, y que es contrario a nuestras obras. Nos echa en cara los pecados contra la Ley; y nos desacredita, divulgando nuestra conducta.
 {:#c2-v12}
 
 [2, 13](#c2-v13) [[19]](#n-19){:#rn-19} Protesta tener la ciencia de Dios, y se llama a sí mismo hijo de Dios.
@@ -160,7 +160,7 @@ Tratándose de un libro deuterocanónico, que no está en la Biblia hebrea, pres
 [2, 20](#c2-v20) [[23]](#n-23){:#rn-23} Condenémosle a la más infame muerte; pues que según sus palabras será él atendido.»
 {:#c2-v20}
 
-#### La muerte obra del diablo
+#### La muerte, obra del diablo
 
 [2, 21](#c2-v21) Tales cosas idearon, mas desatinaron, cegados de su propia malicia.
 {:#c2-v21}
@@ -1535,7 +1535,7 @@ Tratándose de un libro deuterocanónico, que no está en la Biblia hebrea, pres
 
 [[4]](#rn-4){:#n-4} [??, 5](#c??-v5) **El Espíritu Santo... huye de las ficciones**: Crampón (traduciendo del griego) pone más expresivamente: «huye de la astucia». Es la solemne condenación de lo que el mundo llama «vivezas». Las almas «llenas del Espíritu Santo» han sido siempre las sencillas. Estas han comprendido por divina iluminación (Lucas [10, 21](lucas#c10-v21)) el misterio de la sabiduría (1 Corintios [2, 7](1-corintios#c2-v7); [3, 18](1-corintios#c3-v18)), la cual consiste, como señala San Agustín, en la contemplación de la verdad y en la expresión de un ánimo lleno de fe, esperanza y caridad. La astucia es propia de la serpiente (Génesis [3, 1](genesis#c3-v1)).
 
-> «No habita, el Espíritu Santo en el corazón fingido y doble. No hay finura mejor y más apreciable que la sencillez. La prudencia del mundo y el artificio de la carne son propios de los hijos del siglo. Los hijos de Dios no andan con rodeos ni tienen dobleces en el corazón, como dice el Sabio (Proverbios [10, 9](proverbios#c10-v9)). El que camina con sencillez, camina con confianza. El alma que usa de mentira, doblez y simulación, muestra debilidad y vileza» (San Francisco de Sales, Filotea III, 30). Eclesiastés [1, 36](eclesiastes#c1-v36).
+> «No habita, el Espíritu Santo en el corazón fingido y doble. No hay finura mejor y más apreciable que la sencillez. La prudencia del mundo y el artificio de la carne son propios de los hijos del siglo. Los hijos de Dios no andan con rodeos ni tienen dobleces en el corazón, como dice el Sabio (Proverbios [10, 9](proverbios#c10-v9)). El que camina con sencillez, camina con confianza. El alma que usa de mentira, doblez y simulación, muestra debilidad y vileza» (San Francisco de Sales, Filotea III, 30; Eclesiástico [1, 36](eclesiastico#c1-v36)).
 
 [[5]](#rn-5){:#n-5} [??, 6](#c??-v6) **Es benigno**: según el griego: «es un espíritu que ama a los hombres». ¡Admirable revelación! Más tarde, gracias al Nuevo Testamento, descubrimos que esta Sabiduría amante es el mismo Jesús. Véase Proverbios [1, 2](proverbios#c1-v2); [3, 19](proverbios#c3-v19); [8, 4](proverbios#c8-v4); [9, 4](proverbios#c9-v4); Salmo [118, 89](salmos#c118-v89) y notas. De ahí que ese espíritu de bondadoso amor no pueda soportar la maledicencia y que Jesús sea en esto tan terminante (Mateo [5, 22](mateo#c5-v22)).
 

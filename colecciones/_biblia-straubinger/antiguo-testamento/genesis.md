@@ -10,7 +10,7 @@ title: Génesis
 
 #### Creación del cielo y de la tierra
 
-[1, 1](#c1-v1) [[\*\*]](#nt-c1-v1) Al principio creó Dios el cielo y la tierra.
+[1, 1](#c1-v1) [[\*\*]](#nt-c1-v1) En el principio creó Dios el cielo y la tierra.
 {:#c1-v1}
 
 [1, 2](#c1-v2) [[\*\*]](#nt-c1-v2) La tierra era confusión y caos, y tinieblas cubrían la faz del abismo, mas el Espíritu de Dios se movía sobre las aguas.
@@ -49,10 +49,10 @@ title: Génesis
 [1, 13](#c1-v13) Y hubo tarde y hubo mañana: día tercero.
 {:#c1-v13}
 
-[1, 14](#c1-v14) [[\*\*]](#nt-c1-v14) Luego dijo Dios: "Haya lumbreras en el firmamento del cielo, que separen el día de la noche y sirvan de señales y (marquen) las estaciones, días y años.
+[1, 14](#c1-v14) [[\*\*]](#nt-c1-v14) Luego dijo Dios: «Haya lumbreras en el firmamento del cielo, que separen el día de la noche y sirvan de señales y (marquen) las estaciones, días y años.
 {:#c1-v14}
 
-[1, 15](#c1-v15) Sirvan también de lumbreras en el firmamento del cielo para alumbrar la tierra". Y así fue.
+[1, 15](#c1-v15) Sirvan también de lumbreras en el firmamento del cielo para alumbrar la tierra». Y así fue.
 {:#c1-v15}
 
 [1, 16](#c1-v16) Hizo, pues, Dios las dos grandes lumbreras: la lumbrera mayor para presidir el día, y la lumbrera menor para presidir la noche, y las estrellas.
@@ -725,7 +725,7 @@ title: Génesis
 [9, 11](#c9-v11) Hago mi pacto con vosotros: No será exterminada ya toda carne con aguas de diluvio, ni habrá más diluvio para destruir la tierra."
 {:#c9-v11}
 
-[9, 12](#c9-v12) Y dijo Dios: "Esta es la señal del pacto que por generaciones perpetuas establezco entre Mí y vosotros y todo ser viviente que se halla entre vosotros:
+[9, 12](#c9-v12) Y dijo Dios: «Esta es la señal del pacto que por generaciones perpetuas establezco entre Mí y vosotros y todo ser viviente que se halla entre vosotros:
 {:#c9-v12}
 
 [9, 13](#c9-v13) [[\*\*]](#nt-c9-v13) Pondré mi arco en las nubes, que servirá de señal del pacto entre Mí y la tierra.
@@ -737,7 +737,7 @@ title: Génesis
 [9, 15](#c9-v15) me acordaré de mi pacto que hay entre Mí y vosotros y todo ser viviente de toda carne; y las aguas no volverán más a formar un diluvio para exterminar toda carne.
 {:#c9-v15}
 
-[9, 16](#c9-v16) Pues cuando aparezca el arco en las nubes, Yo lo miraré, para acordarme del pacto perpetuo entre Dios y todo ser viviente, de toda carne que existe sobre la tierra."
+[9, 16](#c9-v16) Pues cuando aparezca el arco en las nubes, Yo lo miraré, para acordarme del pacto perpetuo entre Dios y todo ser viviente, de toda carne que existe sobre la tierra.»
 {:#c9-v16}
 
 [9, 17](#c9-v17) Dijo, pues, Dios a Noé: «Esta es la señal del pacto que he establecido entre Mí y toda carne sobre la tierra.»
@@ -1023,13 +1023,13 @@ title: Génesis
 [12, 10](#c12-v10) Mas hubo hambre en el país, por lo cual Abram bajó a Egipto para morar allí, pues era gran el hambre en el país.
 {:#c12-v10}
 
-[12, 11](#c12-v11) Estando ya próximo a entrar en Egipto, dijo a Sarai, su mujer: "Mira, yo sé que eres mujer hermosa;
+[12, 11](#c12-v11) Estando ya próximo a entrar en Egipto, dijo a Sarai, su mujer: «Mira, yo sé que eres mujer hermosa;
 {:#c12-v11}
 
-[12, 12](#c12-v12) por eso, cuando te vean los egipcios, dirán: «Ésta es su mujer»; y me matarán a mí, y a ti te dejarán la vida."
+[12, 12](#c12-v12) por eso, cuando te vean los egipcios, dirán: «Ésta es su mujer»; y me matarán a mí, y a ti te dejarán la vida.
 {:#c12-v12}
 
-[12, 13](#c12-v13) [[\*\*]](#nt-c12-v13) Di, pues, te ruego, que eres mi hermana, a fin de que me vaya bien por causa tuya, y sea salva mi vida por amor de ti."
+[12, 13](#c12-v13) [[\*\*]](#nt-c12-v13) Di, pues, te ruego, que eres mi hermana, a fin de que me vaya bien por causa tuya, y sea salva mi vida por amor de ti.»
 {:#c12-v13}
 
 [12, 14](#c12-v14) Efectivamente, cuando Abram entró en Egipto, vieron los egipcios que la mujer era muy hermosa.
@@ -1098,7 +1098,7 @@ title: Génesis
 
 #### Nueva bendición de Abrahán
 
-[13, 14](#c13-v14) Dijo Yahvé a Abram, después que Lot se hubo separado de él: "Alza tus ojos y mira desde el lugar donde estás, hacia el norte y hacia el mediodía, hacia el oriente y hacia el occidente;
+[13, 14](#c13-v14) Dijo Yahvé a Abram, después que Lot se hubo separado de él: «Alza tus ojos y mira desde el lugar donde estás, hacia el norte y hacia el mediodía, hacia el oriente y hacia el occidente;
 {:#c13-v14}
 
 [13, 15](#c13-v15) [[\*\*]](#nt-c13-v15) pues toda la tierra que ves, te la daré a ti y a tu descendencia para siempre.
@@ -1107,7 +1107,7 @@ title: Génesis
 [13, 16](#c13-v16) Y haré tu descendencia (tan numerosa) como el polvo de la tierra. Si fuera posible contar el polvo de la tierra, podría contarse también tu descendencia.
 {:#c13-v16}
 
-[13, 17](#c13-v17) Levántate, recorre el país, a su largo y a su ancho; porque a ti te lo daré."
+[13, 17](#c13-v17) Levántate, recorre el país, a su largo y a su ancho; porque a ti te lo daré.»
 {:#c13-v17}
 
 [13, 18](#c13-v18) [[\*\*]](#nt-c13-v18) Y levantó Abram las tiendas y vino a establecerse en el encinar de Mamré, cerca de Hebrón, donde edificó un altar a Yahvé.
@@ -1175,22 +1175,22 @@ title: Génesis
 [14, 18](#c14-v18) [[\*\*]](#nt-c14-v18) Entonces Melquisedec, rey de Salem, presentó pan y vino, pues era sacerdote del Dios altísimo.
 {:#c14-v18}
 
-[14, 19](#c14-v19) Y le bendijo, diciendo "¡Bendito sea Abram del Dios altísimo, Señor del cielo y de la tierra!
+[14, 19](#c14-v19) Y le bendijo, diciendo «¡Bendito sea Abram del Dios altísimo, Señor del cielo y de la tierra!
 {:#c14-v19}
 
-[14, 20](#c14-v20) [[\*\*]](#nt-c14-v20) ¡Y bendito sea el Dios altísimo, que puso tus enemigos en sus manos!" Y le dio (Abram) el diezmo de todo.
+[14, 20](#c14-v20) [[\*\*]](#nt-c14-v20) ¡Y bendito sea el Dios altísimo, que puso tus enemigos en sus manos!» Y le dio (Abram) el diezmo de todo.
 {:#c14-v20}
 
 [14, 21](#c14-v21) [[\*\*]](#nt-c14-v21) Dijo luego el rey de Sodoma a Abram: «Dame la gente, mas la hacienda tómala para ti.»
 {:#c14-v21}
 
-[14, 22](#c14-v22) Pero Abram dijo al rey de Sodoma: "Levanto mi mano (jurando) por Yahvé, Dios altísimo, Señor del cielo y de la tierra,
+[14, 22](#c14-v22) Pero Abram dijo al rey de Sodoma: «Levanto mi mano (jurando) por Yahvé, Dios altísimo, Señor del cielo y de la tierra,
 {:#c14-v22}
 
-[14, 23](#c14-v23) que ni un hilo, ni la correa de un zapato, tomaré de lo que es tuyo, no sea que digas: «Yo he enriquecido a Abram»;
+[14, 23](#c14-v23) que ni un hilo, ni la correa de un zapato, tomaré de lo que es tuyo, no sea que digas: "Yo he enriquecido a Abram";
 {:#c14-v23}
 
-[14, 24](#c14-v24) a excepción de lo que han comido los muchachos, y la porción de esos varones que vinieron conmigo, Aner, Escol y Mamré. Éstos tomarán su porción."
+[14, 24](#c14-v24) a excepción de lo que han comido los muchachos, y la porción de esos varones que vinieron conmigo, Aner, Escol y Mamré. Éstos tomarán su porción.»
 {:#c14-v24}
 
 ### Génesis [15](#c15) {#c15}
@@ -1281,7 +1281,7 @@ title: Génesis
 [16, 5](#c16-v5) [[\*\*]](#nt-c16-v5) Dijo entonces Sarai a Abram: «El agravio hecho a mí cae sobre ti. Yo puse mi esclava en tu seno, más viéndose ella encinta me mira con desprecio. Juzgue Yahvé entre mí y ti.»
 {:#c16-v5}
 
-[16, 6](#c16-v6) Respondió Abram a Sarai: Ahí tienes a tu sierva a tu disposición. Haz con ella como bien te parezca." Luego la maltrató Sarai; y ella huyó de su presencia.
+[16, 6](#c16-v6) Respondió Abram a Sarai: «Ahí tienes a tu sierva a tu disposición. Haz con ella como bien te parezca.» Luego la maltrató Sarai; y ella huyó de su presencia.
 {:#c16-v6}
 
 [16, 7](#c16-v7) [[\*\*]](#nt-c16-v7) La encontró el Ángel de Yahvé en el desierto, junto a una fuente de agua, que está en el camino de Sur;
@@ -1379,7 +1379,7 @@ title: Génesis
 [17, 19](#c17-v19) Respondió Dios: «De cierto que Sara tu mujer te dará a luz un hijo, y le pondrás por nombre Isaac; y Yo estableceré mi pacto con él como pacto eterno, y con su posteridad después de él.
 {:#c17-v19}
 
-[17, 20](#c17-v20) [[\*\*]](#nt-c17-v20) "En cuanto a Ismael, he otorgado tu petición. He aquí que le he bendecido; le multiplicaré y le haré crecer sobremanera. Doce príncipes engendrará y le haré padre de un gran pueblo.
+[17, 20](#c17-v20) [[\*\*]](#nt-c17-v20) En cuanto a Ismael, he otorgado tu petición. He aquí que le he bendecido; le multiplicaré y le haré crecer sobremanera. Doce príncipes engendrará y le haré padre de un gran pueblo.
 {:#c17-v20}
 
 [17, 21](#c17-v21) Pero mi pacto lo estableceré con Isaac, que Sara te dará a luz por este tiempo el año que viene.»
@@ -1743,10 +1743,10 @@ title: Génesis
 [21, 16](#c21-v16) y fue a sentarse frente a él, a la distancia de un tiro de arco; porque decía «No quiero ver morir al niño.» Sentada, pues en frente, alzó su voz y prorrumpió en lágrimas.
 {:#c21-v16}
 
-[21, 17](#c21-v17) Mas Dios oyó la voz del niño; y el Ángel de Dios llamó a Agar desde el cielo, y le dijo: "Qué te pasa, Agar? No temas, porque Dios ha oído la voz del niño en el lugar donde está.
+[21, 17](#c21-v17) Mas Dios oyó la voz del niño; y el Ángel de Dios llamó a Agar desde el cielo, y le dijo: «Qué te pasa, Agar? No temas, porque Dios ha oído la voz del niño en el lugar donde está.
 {:#c21-v17}
 
-[21, 18](#c21-v18) [[\*\*]](#nt-c21-v18) Levántate, alza al niño, y tómalo de la mano, porque haré de él un gran pueblo."
+[21, 18](#c21-v18) [[\*\*]](#nt-c21-v18) Levántate, alza al niño, y tómalo de la mano, porque haré de él un gran pueblo.»
 {:#c21-v18}
 
 [21, 19](#c21-v19) [[\*\*]](#nt-c21-v19) Y le abrió Dios los ojos, y ella vio un pozo de agua; fue y llenó el odre de agua, y dio de beber al niño.
@@ -1760,10 +1760,10 @@ title: Génesis
 
 #### Alianza entre Abrahán y Abimelec
 
-[21, 22](#c21-v22) [[\*\*]](#nt-c21-v22) En aquel tiempo Abimelec, acompañado de Picol, capitán de sus tropas, dijo a Abrahán: "Dios está contigo en todo lo que haces.
+[21, 22](#c21-v22) [[\*\*]](#nt-c21-v22) En aquel tiempo Abimelec, acompañado de Picol, capitán de sus tropas, dijo a Abrahán: «Dios está contigo en todo lo que haces.
 {:#c21-v22}
 
-[21, 23](#c21-v23) Ahora bien, júrame, aquí por Dios que no me engañarás, ni a mí, ni a mis hijos, ni a mis nietos, sino que me tratarás a mí y la tierra que te dio hospedaje con la bondad que yo he usado contigo."
+[21, 23](#c21-v23) Ahora bien, júrame, aquí por Dios que no me engañarás, ni a mí, ni a mis hijos, ni a mis nietos, sino que me tratarás a mí y la tierra que te dio hospedaje con la bondad que yo he usado contigo.»
 {:#c21-v23}
 
 [21, 24](#c21-v24) Respondió Abrahán: «Lo juraré.»
@@ -1864,13 +1864,13 @@ title: Génesis
 
 #### Descendencia de Nacor
 
-[22, 20](#c22-v20) Pasadas estas cosas fue dada a Abrahán esta noticia: "También Milcá ha dado a luz hijos a Nacor, tu hermano (cuyos nombres son):
+[22, 20](#c22-v20) Pasadas estas cosas fue dada a Abrahán esta noticia: «También Milcá ha dado a luz hijos a Nacor, tu hermano (cuyos nombres son):
 {:#c22-v20}
 
 [22, 21](#c22-v21) Us, el cual es su primogénito; Buz, su hermano; Camuel, padre de Aram,
 {:#c22-v21}
 
-[22, 22](#c22-v22) Cased, Azau, Feldas, Jedlaf y Batuel.
+[22, 22](#c22-v22) Cased, Azau, Feldas, Jedlaf y Batuel».
 {:#c22-v22}
 
 [22, 23](#c22-v23) Batuel engendró a Rebeca. Estos ochos dio Milcá a luz a Nacor, hermano de Abrahán.
@@ -1907,13 +1907,13 @@ title: Génesis
 [23, 8](#c23-v8) les habló en estos términos: «Si es vuestra buena voluntad que sepulte yo a mi difunta, sacándola de mi vista, escuchadme, y rogad por mí a Etrón, hijo de Sóhar,
 {:#c23-v8}
 
-[23, 9](#c23-v9) [[\*\*]](#nt-c23-v9) que me ceda la cueva de Macpelá que es de su propiedad y que está al extremo de su campo; que me la ceda por buena plata, para poseer sepultura entre vosotros."
+[23, 9](#c23-v9) [[\*\*]](#nt-c23-v9) que me ceda la cueva de Macpelá que es de su propiedad y que está al extremo de su campo; que me la ceda por buena plata, para poseer sepultura entre vosotros.»
 {:#c23-v9}
 
 [23, 10](#c23-v10) Efrón estaba sentado entre los hijos de Het, y respondió Efrón, el heteo, a Abrahán en presencia de los hijos de Het, de todos los que habían venido a la puerta de la ciudad, diciendo:
 {:#c23-v10}
 
-[23, 11](#c23-v11) No, señor mío; óyeme; te doy el campo y te cedo la cueva que está en él; en presencia de los hijos de mi pueblo te la cedo; entierra a tu muerta.»
+[23, 11](#c23-v11) «No, señor mío; óyeme; te doy el campo y te cedo la cueva que está en él; en presencia de los hijos de mi pueblo te la cedo; entierra a tu muerta.»
 {:#c23-v11}
 
 [23, 12](#c23-v12) Entonces Abrahán, postrándose de nuevo ante el pueblo del país,
@@ -2539,7 +2539,7 @@ title: Génesis
 
 #### Isaac envía a Jacob a Mesopotamia
 
-[28, 1](#c28-v1) Llamó, pues, Isaac a Jacob y lo bendijo, y le dio esta orden: "No tomes mujer de las hijas de Canaán.
+[28, 1](#c28-v1) Llamó, pues, Isaac a Jacob y lo bendijo, y le dio esta orden: «No tomes mujer de las hijas de Canaán.
 {:#c28-v1}
 
 [28, 2](#c28-v2) Levántate y ve a Mesopotamia, a casa de Batuel, padre de tu madre, y toma de allí mujer, de las hijas de Labán, hermano de tu madre.
@@ -2548,7 +2548,7 @@ title: Génesis
 [28, 3](#c28-v3) Bendígate el Dios Todopoderoso, y te haga crecer, y te multiplique, para que llegues a ser padre de muchos pueblos.
 {:#c28-v3}
 
-[28, 4](#c28-v4) Y te conceda la bendición de Abrahán, a ti y a tu descendencia contigo; a fin de que poseas la tierra de tus peregrinaciones, que Dios ha dado a Abrahán."
+[28, 4](#c28-v4) Y te conceda la bendición de Abrahán, a ti y a tu descendencia contigo; a fin de que poseas la tierra de tus peregrinaciones, que Dios ha dado a Abrahán.»
 {:#c28-v4}
 
 [28, 5](#c28-v5) Despidió, pues, Isaac a Jacob, el cual se fue a Mesopotamia, a Labán, hijo de Batuel, arameo, hermano de Rebeca, madre de Jacob y Esaú.
@@ -2585,10 +2585,10 @@ title: Génesis
 [28, 14](#c28-v14) [[\*\*]](#nt-c28-v14) Tu posteridad será como el polvo de la tierra; y te extenderás hacia el occidente y hacia el oriente, hacia el aquilón y hacia el mediodía; y en ti y en tu descendencia serán benditas todas las tribus de la tierra.
 {:#c28-v14}
 
-[28, 15](#c28-v15) Y he aquí que Yo estaré contigo, y te guardaré en todos tus caminos y te restituiré a esta tierra; porque no te abandonaré hasta haber cumplido cuanto te he dicho."
+[28, 15](#c28-v15) Y he aquí que Yo estaré contigo, y te guardaré en todos tus caminos y te restituiré a esta tierra; porque no te abandonaré hasta haber cumplido cuanto te he dicho.»
 {:#c28-v15}
 
-[28, 16](#c28-v16) [[\*\*]](#nt-c28-v16) Cuando Jacob despertó de su sueño, exclamó: "Verdaderamente Yahvé está en este lugar y yo no lo sabía.»
+[28, 16](#c28-v16) [[\*\*]](#nt-c28-v16) Cuando Jacob despertó de su sueño, exclamó: «Verdaderamente Yahvé está en este lugar y yo no lo sabía.»
 {:#c28-v16}
 
 [28, 17](#c28-v17) Y lleno de temor añadió: «¡Cuan venerable es este lugar!, no es sino la casa de Dios y la puerta del cielo.»
@@ -2873,7 +2873,7 @@ title: Génesis
 [31, 4](#c31-v4) Entonces Jacob envió llamar a Raquel y a Lía al campo, donde estaban sus rebaños,
 {:#c31-v4}
 
-[31, 5](#c31-v5) y le dijo «Veo que el rostro de vuestro padre no es para mí como antes, mas el Dios de mi padre ha estado conmigo.
+[31, 5](#c31-v5) y les dijo: «Veo que el rostro de vuestro padre no es para mí como antes, mas el Dios de mi padre ha estado conmigo.
 {:#c31-v5}
 
 [31, 6](#c31-v6) Como sabéis he servido a vuestro padre con todas mis fuerzas;
@@ -3855,19 +3855,19 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [40, 7](#c40-v7) por lo cual preguntó a los ministros del Faraón que estaban con él en la cárcel, en la casa de su señor, diciendo: «¿Por qué están hoy vuestros semblantes tan tristes?»
 {:#c40-v7}
 
-[40, 8](#c40-v8) [[\*\*]](#nt-c40-v8) Le respondieron: «Hemos soñado sueños, y no hay quien los interprete.» Les replicó José: "¿No es Dios el que da interpretación? Contadme (el sueño), os ruego.
+[40, 8](#c40-v8) [[\*\*]](#nt-c40-v8) Le respondieron: «Hemos soñado sueños, y no hay quien los interprete.» Les replicó José: «¿No es Dios el que da interpretación? Contadme (el sueño), os ruego.»
 {:#c40-v8}
 
-[40, 9](#c40-v9) Entonces el jefe de los coperos le contó su sueño, diciendo: "En mi sueño vi una vid delante de mí.
+[40, 9](#c40-v9) Entonces el jefe de los coperos le contó su sueño, diciendo: «En mi sueño vi una vid delante de mí.
 {:#c40-v9}
 
 [40, 10](#c40-v10) En la vid había tres sarmientos; estaba brotando, salía su flor, y sus racimos maduraban uvas.
 {:#c40-v10}
 
-[40, 11](#c40-v11) Yo tenía en mi mano la copa del Faraón, y tomando las uvas las exprimí en la copa del Faraón, y entregué la copa en mano del Faraón."
+[40, 11](#c40-v11) Yo tenía en mi mano la copa del Faraón, y tomando las uvas las exprimí en la copa del Faraón, y entregué la copa en mano del Faraón.»
 {:#c40-v11}
 
-[40, 12](#c40-v12) José le dijo: "Esta es su interpretación: Los tres racimos son tres días.
+[40, 12](#c40-v12) José le dijo: «Esta es su interpretación: Los tres racimos son tres días.
 {:#c40-v12}
 
 [40, 13](#c40-v13) Al cabo de tres días el Faraón exaltará tu cabeza, y te restituirá en tu cargo, y darás la copa del Faraón en su mano, como tenías costumbre anteriormente, cuando eras su copero.
@@ -3876,19 +3876,19 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [40, 14](#c40-v14) Sólo te pido que te acuerdes de mí cuando te vaya bien; y que uses de misericordia conmigo, recordándome ante el Faraón, y que me saques de esta casa.
 {:#c40-v14}
 
-[40, 15](#c40-v15) [[\*\*]](#nt-c40-v15) Pues he sido robado del país de los hebreos; y aun aquí no he hecho nada para que me metieran en el calabozo."
+[40, 15](#c40-v15) [[\*\*]](#nt-c40-v15) Pues he sido robado del país de los hebreos; y aun aquí no he hecho nada para que me metieran en el calabozo.»
 {:#c40-v15}
 
-[40, 16](#c40-v16) Viendo el jefe de los panaderos que era buena la interpretación, dijo a José: "Yo, por mi parte, vi en mi sueño tres canastos de pasta fina sobre mi cabeza.
+[40, 16](#c40-v16) Viendo el jefe de los panaderos que era buena la interpretación, dijo a José: «Yo, por mi parte, vi en mi sueño tres canastos de pasta fina sobre mi cabeza.
 {:#c40-v16}
 
-[40, 17](#c40-v17) En el canasto de encima había toda clase de pastelería para el Faraón, y las aves comían del canasto que llevaba sobre mi cabeza."
+[40, 17](#c40-v17) En el canasto de encima había toda clase de pastelería para el Faraón, y las aves comían del canasto que llevaba sobre mi cabeza.»
 {:#c40-v17}
 
-[40, 18](#c40-v18) Respondió José diciendo: "Esta es su interpretación: Los tres canastos son tres días.
+[40, 18](#c40-v18) Respondió José diciendo: «Esta es su interpretación: Los tres canastos son tres días.
 {:#c40-v18}
 
-[40, 19](#c40-v19) [[\*\*]](#nt-c40-v19) Al cabo de tres días el Faraón te quitará la cabeza, te colgará en un madero y las aves comerán tu carne."
+[40, 19](#c40-v19) [[\*\*]](#nt-c40-v19) Al cabo de tres días el Faraón te quitará la cabeza, te colgará en un madero y las aves comerán tu carne.»
 {:#c40-v19}
 
 [40, 20](#c40-v20) [[\*\*]](#nt-c40-v20) Y, efectivamente, al día tercero, día del cumpleaños del Faraón, hizo éste un banquete para todos sus siervos; y alzó en medio de sus siervos la cabeza del jefe de los coperos y la del jefe de los panaderos.
@@ -4325,10 +4325,10 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [44, 3](#c44-v3) Al rayar el alba se despidieron los hombres con sus asnos.
 {:#c44-v3}
 
-[44, 4](#c44-v4) Pero apenas habían salido de la ciudad, hallándose aun a poca distancia de ella, dijo José al mayordomo de su casa: "Levántate y corre tras esas gentes, y cuando los alcances, les dirás: «¿Por qué habéis devuelto mal por bien?
+[44, 4](#c44-v4) Pero apenas habían salido de la ciudad, hallándose aun a poca distancia de ella, dijo José al mayordomo de su casa: «Levántate y corre tras esas gentes, y cuando los alcances, les dirás: "¿Por qué habéis devuelto mal por bien?
 {:#c44-v4}
 
-[44, 5](#c44-v5) [[\*\*]](#nt-c44-v5) ¿No es ésta (la copa) en que bebe mi señor, y por medio de la cual suele adivinar? Habéis obrado mal en lo que hicisteis.»
+[44, 5](#c44-v5) [[\*\*]](#nt-c44-v5) ¿No es ésta (la copa) en que bebe mi señor, y por medio de la cual suele adivinar? Habéis obrado mal en lo que hicisteis".»
 {:#c44-v5}
 
 [44, 6](#c44-v6) Y él, habiéndolos alcanzado, les repitió estas mismas palabras.
@@ -4343,7 +4343,7 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [44, 9](#c44-v9) Aquel de tus siervos en cuyo poder fuere hallada, muera, y en cuanto a nosotros seremos siervos de mi señor.»
 {:#c44-v9}
 
-[44, 10](#c44-v10) Sea así como decís, respondió él. Aquel en cuyo poder fuere hallado será mi siervo; mas vosotros quedaréis sin culpa."
+[44, 10](#c44-v10) «Sea así como decís —respondió él—. Aquel en cuyo poder fuere hallado será mi siervo; mas vosotros quedaréis sin culpa.»
 {:#c44-v10}
 
 [44, 11](#c44-v11) Con esto se apresuraron a bajar cada uno su costal a tierra; y abrió cada cual su costal.
@@ -4913,7 +4913,7 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 [50, 3](#c50-v3) Emplearon en ello cuarenta días; porque éste es el tiempo que se emplea para el embalsamamiento; y Egipto lo lloró por espacio de setenta días.
 {:#c50-v3}
 
-[50, 4](#c50-v4) [[\*\*]](#nt-c50-v4) Pasado el tiempo de su llanto, habló José a los cortesanos del Faraón, diciendo: "Si he hallado gracia a vuestros ojos, hacedme el favor de hacer llegar a oídos del Faraón esta palabra.
+[50, 4](#c50-v4) [[\*\*]](#nt-c50-v4) Pasado el tiempo de su llanto, habló José a los cortesanos del Faraón, diciendo: «Si he hallado gracia a vuestros ojos, hacedme el favor de hacer llegar a oídos del Faraón esta palabra.
 {:#c50-v4}
 
 [50, 5](#c50-v5) «Mi padre me ha tomado juramento diciendo: "He aquí que yo me muero; en la sepultura que abrí para mí, en la tierra de Canaán, allí me has de sepultar". Ahora, pues permíteme que suba a sepultar a mi padre; y luego volveré.»
@@ -4988,14 +4988,14 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 
 ## Comentarios de Mons. Straubinger
 
-[1, 1](#c1-v1) **Al principio**, es decir, cuando no existía aún nada de lo que se encierra en las palabras «cielo y tierra». Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): «En el principio era el Verbo». De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo «el principio» y dice que «por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él» (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama «el principio» en Juan [8, 25](juan#c8-v25) (*Vulgata*).
+[1, 1](#c1-v1) **En el principio**, es decir, cuando no existía aún nada de lo que se encierra en las palabras «cielo y tierra». Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): «En el principio era el Verbo». De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo «el principio» y dice que «por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él» (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama «el principio» en Juan [8, 25](juan#c8-v25) (*Vulgata*).
 {:#nt-c1-v1}
 
 **Creó**: de la nada; no de alguna materia preexistente, como se lee en las cosmogonías paganas. El verbo hebreo «*bará*» se usa específicamente para señalar la actividad divina y la creación *ex nihilo*.
 
 > «Hacer una cosa cuando no existía nada, es producir de la nada, es crear en el sentido filosófico de la palabra.» (Ceuppens)
 
-**Dios**, en hebreo «*Elohim*», es un plural que viene de «*El*» o «*Eloah*» (= el Fuerte). Sale en el Antiguo Testamento más de 2, 500 veces y tiene los siguientes significados:
+**Dios**, en hebreo «*Elohim*», es un plural que viene de «*El*» o «*Eloah*» (= el Fuerte). Sale en el Antiguo Testamento más de 2,500 veces y tiene los siguientes significados:
 
 1. Dios,
 2. los falsos dioses (Éxodo [12, 12](exodo#c12-v12)),
@@ -5011,11 +5011,11 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 
 Los que en el versículo primero incluyen la creación de los ángeles ven aquí una misteriosa conexión con la caída de los ángeles, cuyos sustitutos, por decirlo así, iban a ser los hombres, para los cuales Dios, en su infinita bondad preparaba la tierra. En Isaías [14, 9](isaias#c14-v9)-14 el profeta nos describe la caída del príncipe de los ángeles bajo la figura del rey de Babilonia que lleva el nombre apocalíptico de Lucifer (Luzbel), y San Juan nos describirá su derrota en los últimos tiempos (Apocalipsis [12, 7](apocalipsis#c12-v7) ss.). Muy poco sabemos de la rebelión de Satanás, pues Moisés no relata explícitamente la creación de los ángeles, sino que la presupone.
 
-**El abismo**: las aguas revueltas que rodean la tierra aprisionada por ellas (Ceuppens). Los antiguos se representaban la tierra rodeada por todas partes de inmensas profundidades. La palabra hebrea *tehom* (abismo) corresponde a la babilónica *tiamat*, que es la personificación del océano.
+**El abismo**: las aguas revueltas que rodean la tierra aprisionada por ellas (Ceuppens). Los antiguos se representaban la tierra rodeada por todas partes de inmensas profundidades. La palabra hebrea «*tehom*» (abismo) corresponde a la babilónica «*Tiamat*», que es la personificación del océano.
 
 **El Espíritu de Dios**: el Espíritu Santo. Así lo explican los Santos Padres. La Liturgia del Sábado Santo sigue la misma interpretación. Solamente San Efrén, Teodoreto y algunos modernos lo entienden del viento, pues en hebreo las dos cosas, espíritu y viento, son expresadas por la misma palabra.
 
-**Se movía**: el verbo hebreo significa moverse lentamente, revolotear (cf. Deuteronomio [32, 11](deuteronomio#c32-v11)) a la manera de las aves. Cf. la paloma como símbolo del Espíritu Santo en el Nuevo Testamento (Mateo [3, 16](mateo#c3-v16)). Nácar-Colunga traduce: «estaba incubando», como para dar forma y hermosura al universo. El Espíritu Santo es el artífice que sacó de este caos un mundo bien ordenado. Es, pues, un error creer que el Espíritu Santo solamente se manifiesta desde su venida el día de Pentecostés y que haya estado inactivo en los tiempos antiguos.
+**Se movía**: el verbo hebreo significa: moverse lentamente, revolotear (cf. Deuteronomio [32, 11](deuteronomio#c32-v11)) a la manera de las aves. Cf. la paloma como símbolo del Espíritu Santo en el Nuevo Testamento (Mateo [3, 16](mateo#c3-v16)). Nácar-Colunga traduce: «estaba incubando», como para dar forma y hermosura al universo. El Espíritu Santo es el artífice que sacó de este caos un mundo bien ordenado. Es, pues, un error creer que el Espíritu Santo solamente se manifiesta desde su venida el día de Pentecostés y que haya estado inactivo en los tiempos antiguos.
 
 > «En los albores de la Creación, junto a la masa caótica de materia pasiva e incapaz de producir algo por sí misma, el autor sagrado coloca, en contraste admirable, la presencia benigna del Espíritu de Dios, que todo lo vivifica. Y junto a los umbrales del Nuevo Testamento, el libro de la Sabiduría nos habla de una Sabiduría que en algunos capítulos se identifica con Dios.» Cf. Sabiduría [1, 5](sabiduria#c1-v5) s.
 
@@ -5048,7 +5048,7 @@ Son de admirar estas luces que Dios nos hace ver desde el Antiguo Testamento sob
 [1, 11](#c1-v11) Los expositores no concuerdan en la interpretación de este versículo. Algunos distinguen solamente dos clases de plantas, otros sostienen que se trata de tres: hierbas, hortalizas y árboles frutales, lo cual concuerda mejor con el texto hebreo.
 {:#nt-c1-v11}
 
-**Brote**: porque la tierra poseía ya las plantas en potencia por el soplo del Espíritu de Dios (v. [2](#c1-v2)). Ceuppens (Quaestiones selectae ex Historia Primaeva) no cree que aquí el hagiógrafo insinúe la creación de cada especie y excluya el transformismo (mitigado).
+**Brote**: porque la tierra poseía ya las plantas en potencia por el soplo del Espíritu de Dios (v. [2](#c1-v2)). Ceuppens (*Quaestiones selectae ex Historia Primaeva*) no cree que aquí el hagiógrafo insinúe la creación de cada especie y excluya el transformismo (mitigado).
 
 [1, 14](#c1-v14) ss. **Lumbreras**: aludidas ya en el v. [5](#c1-v5).
 {:#nt-c1-v14}
@@ -5306,7 +5306,7 @@ San Judas nos revela que el diablo, pese a su caída y la sentencia pronunciada 
 
 La nueva versión italiana explicada por el P. Vaccari, profesor del Pontificio Instituto Bíblico, explaya el misterio de este versículo con las siguientes palabras:
 
-> «La descendencia de la mujer vencerá al demonio de la misma manera que el hombre aplasta la cabeza de una serpiente. La descendencia de la mujer es, en general, el género humano; más principalmente, el Salvador Jesucristo, que es la Cabeza de toda la humanidad (Colosenses [1, 15](colosenses#c1-v15), 18). Él venció por propia virtud al demonio, lo que los otros hacen en virtud de Él. Contiene, pues, este versículo el primer anuncio del futuro Redentor. Se le da por ello el nombre de "Protoevangelio" ("primera Buena Nueva"). Al triunfo del Salvador va asociada su madre, la magna Señora, que se contrapone a Eva (Lucas [1, 26](lucas#c1-v26)-38).»
+> «La descendencia de la mujer vencerá al demonio de la misma manera que el hombre aplasta la cabeza de una serpiente. La descendencia de la mujer es, en general, el género humano; más principalmente, el Salvador Jesucristo, que es la Cabeza de toda la humanidad (Colosenses [1, 15](colosenses#c1-v15), 18). Él venció por propia virtud al demonio, lo que los otros hacen en virtud de Él. Contiene, pues, este versículo el primer anuncio del futuro Redentor. Se le da por ello el nombre de "*Protoevangelio*" ("Primera Buena Nueva"). Al triunfo del Salvador va asociada su madre, la magna Señora, que se contrapone a Eva (Lucas [1, 26](lucas#c1-v26)-38).»
 
 En vez de «**éste**» (el linaje) dice la *Vulgata* «**ésta**» (la mujer), lo que dio lugar a muchas discusiones, porque el texto hebreo y todas las versiones antiguas se oponen a esta traducción. El mismo San Jerónimo atestigua que también la primera versión latina, la Itala, traía igualmente el pronombre masculino, y no el femenino.
 
@@ -5417,7 +5417,7 @@ San Crisóstomo combina las palabras de este versículo de otra manera, y ve aqu
 
 **Yo maté**: Algunos traducen: «yo mataré». Lamec se gloría de ser peor que Caín.
 
-> «Sabrá vengarse ampliamente si uno lo hiere, no sólo "siete veces" -con lo cual impíamente alude a la palabra divina (v. [15](#c4-v15))- sino "setenta veces siete". Su brazo le bastará, no tendrá necesidad de Dios como Caín.» (Fillion)
+> «Sabrá vengarse ampliamente si uno lo hiere, no sólo "siete veces" —con lo cual impíamente alude a la palabra divina (v. [15](#c4-v15))— sino "setenta veces siete". Su brazo le bastará, no tendrá necesidad de Dios como Caín.» (Fillion)
 
 Preferimos la lección de la *Vulgata* en vez del hebreo, que dice «setenta y siete veces».
 
@@ -5859,7 +5859,7 @@ No fue un **sueño** natural, sino un éxtasis o arrobamiento, durante el cual D
 
 > «Quiso Dios por este matrimonio de Abrahán con una esclava figurar misterios muy elevados» (Páramo). Cf. nota 15.
 
-[16, 5](#c16-v5) **Juzgue Yahvé**: "Sara culpa a Abrahán de aquello de lo cual ella misma es culpable, por lo que se ve que aun los más santos están expuestos a engañarse en la opinión de su propia justicia (Scío). San Ambrosio reprende a Sara por la dureza que mostró, pero San Agustín y otros Padres la defienden y la excusan.
+[16, 5](#c16-v5) **Juzgue Yahvé**: «Sara culpa a Abrahán de aquello de lo cual ella misma es culpable, por lo que se ve que aun los más santos están expuestos a engañarse en la opinión de su propia justicia» (Scío). San Ambrosio reprende a Sara por la dureza que mostró, pero San Agustín y otros Padres la defienden y la excusan.
 {:#nt-c16-v5}
 
 [16, 7](#c16-v7) **Sur**: parte del desierto de la península sinaítica.
@@ -5868,7 +5868,7 @@ No fue un **sueño** natural, sino un éxtasis o arrobamiento, durante el cual D
 [16, 11](#c16-v11) s. El nombre **Ismael** quiere decir «Dios oye». Ismael y sus descendientes, las tribus árabes, serán rebeldes contra todos. Lo son hasta el día de hoy.
 {:#nt-c16-v11}
 
-[16, 13](#c16-v13) **Atta El Roí** significa: «Tú eres el Dios que me ve», es decir, Tú eres el Dios omni-vidente.
+[16, 13](#c16-v13) «**Atta El Roí**» significa: «Tú eres el Dios que me ve», es decir, «Tú eres el Dios omni-vidente».
 {:#nt-c16-v13}
 
 **¿No he visto?** etc.: Texto oscuro, al cual se dan muy diversas traducciones y explicaciones. Agar parece admirarse de haber visto al Ángel de Dios sin perder la vida. Era opinión común que nadie podía ver a Dios o a su Ángel sin morir (cf. [32, 30](#c32-v30); Éxodo [33, 20](exodo#c33-v20); Jueces [13, 21](jueces#c13-v21) ss.).
@@ -6065,7 +6065,7 @@ Como Isaac tomó sobre sus espaldas la leña, así Cristo cargó con el madero d
 [22, 12](#c22-v12) **Conozco que eres temeroso de Dios**: En este «temor» se descubre la esencia de la religión antigua. Es un temor suavizado por el amor a Dios, cuyos mandamientos paternales causan miedo solamente en los que no los practican.
 {:#nt-c22-v12}
 
-> «Aun en los pasajes en que ante Yahvé omnipotente y vengador el "temor" tiende a predominar en el sentido más crudo de "miedo"... es éste un solo elemento y predominante cuando se quiera, de todo un complejo, de que también son parte primordial el "respeto", la "reverencia". En ocasiones los papeles se cambian, y el "temor" queda como escondido en el fondo, mientras el "respeto", la "reverencia", concretados en la "piedad" practicada, en la "religión" —total ley divina— vivida, suben a primer plano, hasta tal punto que la expresión "*timentes Deum*" llega a ser el término consagrado que se da a quienes, piadosos para con Dios, en todo guardan su ley» (Asensio).
+> «Aun en los pasajes en que ante Yahvé omnipotente y vengador el *temor* tiende a predominar en el sentido más crudo de *miedo*... es éste un solo elemento y predominante cuando se quiera, de todo un complejo, del que también son parte primordial el *respeto*, la *reverencia*. En ocasiones los papeles se cambian, y el *temor* queda como escondido en el fondo, mientras el *respeto*, la *reverencia*, concretados en la *piedad* practicada, en la *religión* —total Ley divina— vivida, suben a primer plano, hasta tal punto que la expresión "*timentes Deum*" llega a ser el término consagrado que se da a quienes, piadosos para con Dios, en todo guardan su ley» (Asensio).
 
 [22, 17](#c22-v17) **Poseer la puerta**: es un giro hebreo que significa vencer, conquistar, triunfar.
 {:#nt-c22-v17}
@@ -6210,7 +6210,7 @@ Véase Cantar de los Cantares [4, 15](cantar-de-los-cantares#c4-v15) y nota.
 [26, 26](#c26-v26) **Picol**, probablemente un título. Significaría: «La boca de todos», esto es, comandante general. Con esta explicación se desvanecen las dificultades nacidas de la coincidencia de los nombres en este capítulo y en el capítulo [21](#c21).
 {:#nt-c26-v26}
 
-[26, 33](#c26-v33) **Sebá** designa en hebreo dos cosas: el número siete y "juramento". **Bersabee** significa, pues, «Siete Pozos» o «Pozo del juramento». Debe haber una relación mística entre los dos significados, puesto que siete es el número sagrado. Algunos creen que el número siete llegó al significado de juramento por la costumbre que se narra en [21, 30](#c21-v30) s. Allí mismo se dice también que el nombre del pozo fue puesto por Abrahán y que los pastores filisteos cegaron los pozos del patriarca (v.18), por lo cual Isaac lo abrió de nuevo y le restituyó el nombre que le había dado su padre.
+[26, 33](#c26-v33) **Sebá** designa en hebreo dos cosas: el número siete y «juramento». **Bersabee** significa, pues, «Siete Pozos» o «Pozo del juramento». Debe haber una relación mística entre los dos significados, puesto que siete es el número sagrado. Algunos creen que el número siete llegó al significado de juramento por la costumbre que se narra en [21, 30](#c21-v30) s. Allí mismo se dice también que el nombre del pozo fue puesto por Abrahán y que los pastores filisteos cegaron los pozos del patriarca (v.18), por lo cual Isaac lo abrió de nuevo y le restituyó el nombre que le había dado su padre.
 {:#nt-c26-v33}
 
 [26, 35](#c26-v35) **Judit y Basemat**, las dos mujeres de Esaú, eran hijas de un pueblo pagano, y eso turbó en gran manera la armonía del hogar del patriarca. No se amoldaron como lo hiciera la dulce moabita que dijo con humildad: «Tu Dios será mi Dios» (Rut [1, 16](rut#c1-v16)), sino que veneraban a otros dioses, introduciendo así la idolatría en la casa patriarcal. Isaac y Rebeca llevaban con amargura esta división espiritual de su familia. Más tarde, demasiado tarde, Esaú quiso reparar el daño, tomando por mujer una sobrina suya ([28, 8](#c28-v8)).
@@ -6555,10 +6555,10 @@ El P. Páramo completa este pensamiento, llamando la atención sobre el hecho de
 [38, 8](#c38-v8) Vemos aquí una institución según la cual el cuñado tenía que casarse con la viuda de su hermano, si éste moría sin dejar hijos. La institución recibió el nombre de levirato (levir = cuñado). Los hijos nacidos del matrimonio del levirato eran considerados como hijos del hermano difunto. Véase Deuteronomio [25, 5](deuteronomio#c25-v5).
 {:#nt-c38-v8}
 
-[38, 9](#c38-v9) Enseña esta narración que el uso del matrimonio sin querer tener hijos provoca el castigo de Dios (v. [10](#c38-v10)), por ser un pecado contra la naturaleza. Este castigo se cumple también hoy en las familias contagiadas por el onanismo, vicio que de Onán trae su nombre. Dios no los hace desaparecer tan rápidamente como Onán, los abandona más bien a la comodidad, a los placeres de la vida y a las pasiones vergonzosas (Romanos [1, 26](romanos#c1-v26)), de modo que degeneran sin remedio, extirpándose a sí mismos. Nótese que el móvil de Onán no fue tan perverso como el del maltusianismo de hoy, por lo cual éste es aun más detestable. Tenemos en este episodio un ejemplo de pedagogía divina, que envuelve los preceptos morales en historias. Hay un caudal de verdades morales que de esta manera nos han sido transmitidas en la Biblia.
+[38, 9](#c38-v9) Enseña esta narración que el uso del matrimonio sin querer tener hijos provoca el castigo de Dios (v. [10](#c38-v10)), por ser un pecado contra la naturaleza. Este castigo se cumple también hoy en las familias contagiadas por el onanismo, vicio que de Onán trae su nombre. Dios no los hace desaparecer tan rápidamente como Onán, los abandona más bien a la comodidad, a los placeres de la vida y a las pasiones vergonzosas (Romanos [1, 26](romanos#c1-v26)), de modo que degeneran sin remedio, extirpándose a sí mismos. Nótese que el móvil de Onán no fue tan perverso como el del maltusianismo de hoy, por lo cual éste es aun más detestable. Tenemos en este episodio un ejemplo de pedagogía divina, que envuelve los preceptos morales en historias. Hay un caudal de verdades morales que de esta manera nos han sido transmitidas en la *Biblia*.
 {:#nt-c38-v9}
 
-> «Dictada por Dios principalmente, con un fin religioso, es decir, santificador, prepondera en ella la verdad normativa a la de simple especulación... Pero la misma enseñanza moral suele darse en historias, y éstas se convierten en regla viva, en moral "vivida", como hoy se dice, cuyas reglas se graban profundamente en el espíritu de los oyentes.» (Cardenal Gomá, Biblia y Predicación, pág. 118)
+> «Dictada por Dios, principalmente con un fin religioso, es decir, santificador, prepondera en ella la verdad normativa, a la de simple especulación... Pero la misma enseñanza moral suele darse en historias, y éstas se convierten en regla viva, en moral "vivida", como hoy se dice, cuyas reglas se graban profundamente en el espíritu de los oyentes.» (Cardenal Gomá, Biblia y Predicación, pág. 118)
 
 [38, 18](#c38-v18) El **cordón** servía para llevar el sello, el cual pendía del cuello y era, por regla general, un cilindro horadado.
 {:#nt-c38-v18}

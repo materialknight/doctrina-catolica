@@ -171,6 +171,7 @@ textarea {
    overflow-y: auto;
    max-height: 70vh;
    border: 3px solid blueviolet;
+   margin-top: 4rem;
 }
 
 [popover]>ul {

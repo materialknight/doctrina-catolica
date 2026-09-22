@@ -3053,7 +3053,7 @@ title: 1 Macabeos
 
 ## Comentarios de Mons. Straubinger
 
-[1, 1](#c1-v1) **Cetim** (o «Kitim») significa aquí las islas griegas y las riberas del Mar Egeo en general. Antiguamente solo llevaba este nombre la isla de Chipre (Génesis [10, 4](genesis#c10-v4); Números [24, 24](numeros#c24-v24) y nota; Isaías [23, 12](isaias#c23-v12); Daniel [11, 30](daniel#c11-v30)).
+[1, 1](#c1-v1) **Cetim** (o «Kitim»): significa aquí las islas griegas y las riberas del Mar Egeo en general. Antiguamente solo llevaba este nombre la isla de Chipre (Génesis [10, 4](genesis#c10-v4); Números [24, 24](numeros#c24-v24) y nota; Isaías [23, 12](isaias#c23-v12); Daniel [11, 30](daniel#c11-v30)).
 {:#nt-c1-v1}
 
 **Darío**: Darío III Codomano (336-331 a. C.), que fue vencido por Alejandro Magno en la batalla de Iso 333).
@@ -3061,26 +3061,30 @@ title: 1 Macabeos
 [1, 8](#c1-v8) **Alejandro Magno** murió en Babilonia, el año 323, después de haber repartido su imperio entre sus generales, de los cuales salió Ptolomeo como rey de Egipto, y Seleuco, general de Ptolomeo, como rey de Mesopotamia y Siria. El primero dio su nombre a la dinastía egipcia de los Ptolomeos, el segundo a la dinastía siria de los Seléucidas.
 {:#nt-c1-v8}
 
-[1, 11](#c1-v11) **Antíoco IV Epífanes** que reinó de 175 a 164 a. C. Su padre era Antíoco III el Grande. El año 137 del imperio de los griegos equivale al año 175-174 a. C. La cronología que siguen los libros de los Macabeos, es la era de los Seléucidas que comienza el primero de octubre de 312, fecha de la victoria de Seleuco I Nicator sobre su rival Antígono.
+[1, 11](#c1-v11) **Antíoco IV Epífanes**, que reinó de 175 a 164 a. C. Su padre era Antíoco III el Grande. El año 137 del imperio de los griegos equivale al año 175-174 a. C. La cronología que siguen los libros de los Macabeos, es la era de los Seléucidas que comienza el primero de octubre de 312, fecha de la victoria de Seleuco I Nicator sobre su rival Antígono.
 {:#nt-c1-v11}
 
 [1, 12](#c1-v12) La falsedad de esta afirmación puede verse reconocida por uno de los mismos paganos en el discurso de Aquior (Judit [5, 5](judit#c5-v5) ss.).
 {:#nt-c1-v12}
 
-[1, 15](#c1-v15) s. **Un gimnasio**, para hacer ejercicios físicos según la costumbre que practicaban los griegos en honor de sus dioses. Estos ejercicios se hacían con el cuerpo desnudo, por lo cual los judíos apóstatas, para no avergonzarse, disimulaban la circuncisión mediante una operación médica. Esto es el sentido del v. [16](#c1-v16), que dice literalmente: «se hicieron para sí prepucios». Cf. 1 Corintios [7, 18](1-corintios#c7-v18).
+[1, 15](#c1-v15) s. **Un gimnasio**: para hacer ejercicios físicos según la costumbre que practicaban los griegos en honor de sus dioses. Estos ejercicios se hacían con el cuerpo desnudo, por lo cual los judíos apóstatas, para no avergonzarse, disimulaban la circuncisión mediante una operación médica. Esto es el sentido del v. [16](#c1-v16), que dice literalmente: «se hicieron para sí prepucios». Cf. 1 Corintios [7, 18](1-corintios#c7-v18).
 {:#nt-c1-v15}
 
 [1, 19](#c1-v19) Se trata de **Ptolomeo** VI Filometor que reinó en Egipto de 181-145 a. C.
 {:#nt-c1-v19}
 
-[1, 23](#c1-v23) El **velo**, que separaba en el Templo el Santo del Santísimo (véase Éxodo [26, 31](exodo#c26-v31) ss.), y que se rasgó en dos partes al morir Jesús (Mateo [27, 51](mateo#c27-v51)). Las **coronas** eran, sin duda, exvotos (véase Zacarías [6, 14](zacarias#c6-v14)).
+[1, 23](#c1-v23) **El velo** que separaba en el Templo el Santo del Santísimo (véase Éxodo [26, 31](exodo#c26-v31) ss.), y que se rasgó en dos partes al morir Jesús (Mateo [27, 51](mateo#c27-v51)).
 {:#nt-c1-v23}
+
+Las **coronas** eran, sin duda, exvotos (véase Zacarías [6, 14](zacarias#c6-v14)).
 
 [1, 24](#c1-v24) **Los tesoros escondidos**: el tesoro del Templo y los depósitos de las viudas y huérfanos. Véase 2 Macabeos [3, 10](2-macabeos#c3-v10)-12.
 {:#nt-c1-v24}
 
-[1, 26](#c1-v26) ss. Patético cuadro que recuerda las Lamentaciones de Jeremías. **La hermosura de las mujeres** era cosa proverbial en Israel. Véase los casos de Sara (Génesis [12, 12](genesis#c12-v12)); Rebeca (Génesis [24, 16](genesis#c24-v16)); Raquel ([29, 17](genesis#c29-v17)); Judit (Judit [10, 4](judit#c10-v4)); Ester (Ester [2, 7](ester#c2-v7)), etc. Así será también la Esposa del Cordero. Cf. Salmo [44, 13](salmos#c44-v13); Gálatas [4, 26](galatas#c4-v26); Apocalipsis [21, 2](apocalipsis#c21-v2), etc.
+[1, 26](#c1-v26) ss. Patético cuadro que recuerda las Lamentaciones de Jeremías.
 {:#nt-c1-v26}
+
+**La hermosura de las mujeres** era cosa proverbial en Israel. Véase los casos de Sara (Génesis [12, 12](genesis#c12-v12)); Rebeca (Génesis [24, 16](genesis#c24-v16)); Raquel ([29, 17](genesis#c29-v17)); Judit (Judit [10, 4](judit#c10-v4)); Ester (Ester [2, 7](ester#c2-v7)), etc. Así será también la Esposa del Cordero. Cf. Salmo [44, 13](salmos#c44-v13); Gálatas [4, 26](galatas#c4-v26); Apocalipsis [21, 2](apocalipsis#c21-v2), etc.
 
 [1, 31](#c1-v31) **Fingida dulzura**: La Biblia nos ofrece de esto muchos ejemplos y nos da preciosas normas para conocer la sinceridad (Eclesiástico [12, 10](eclesiastico#c12-v10); [19, 24](eclesiastico#c19-v24); [26, 12](eclesiastico#c26-v12); [27, 14](eclesiastico#c27-v14) y notas).
 {:#nt-c1-v31}

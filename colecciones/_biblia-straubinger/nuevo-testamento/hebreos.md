@@ -220,7 +220,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 [4, 13](#c4-v13) Y no hay creatura que no esté manifiesta delante de Él; al contrario, todas las cosas están desnudas y patentes a los ojos de Aquel a quien tenemos que dar cuenta.
 {:#c4-v13}
 
-#### Cristo, sumo sacerdote celestial
+#### Cristo, Sumo Sacerdote Celestial
 
 [4, 14](#c4-v14) Teniendo, pues, un Sumo Sacerdote grande que penetró los cielos, Jesús, el Hijo de Dios, mantengamos fuertemente la confesión (de la fe) [[\*\*]](#nt-c4-v14).
 {:#c4-v14}
@@ -441,7 +441,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 
 ### Hebreos [8](#c8) {#c8}
 
-#### El Sumo Sacerdote del cielo
+#### El Sumo Sacerdote del Cielo
 
 [8, 1](#c8-v1) Lo capital de lo dicho es que tenemos un Pontífice tal que está sentado a la diestra del trono de la Majestad en los cielos [[\*\*]](#nt-c8-v1);
 {:#c8-v1}
@@ -461,7 +461,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 [8, 6](#c8-v6) Mas ahora Él ha alcanzado tanto más excelso ministerio cuanto mejor es la alianza de que es mediador, alianza establecida sobre mejores promesas.
 {:#c8-v6}
 
-#### Superioridad de la nueva alianza
+#### Superioridad de la Nueva Alianza
 
 [8, 7](#c8-v7) Porque si aquella primera hubiese sido sin defecto, no se habría buscado lugar para una segunda.
 {:#c8-v7}
@@ -518,7 +518,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 [9, 10](#c9-v10) consistentes solo en manjares, bebidas y diversos géneros de abluciones; preceptos carnales, impuestos hasta el tiempo de reformarlos.
 {:#c9-v10}
 
-#### Excelencia del sacrificio de la nueva alianza
+#### Excelencia del Sacrificio de la Nueva Alianza
 
 [9, 11](#c9-v11) Cristo, empero, al aparecer como Sumo Sacerdote de los bienes venideros, entró en un tabernáculo más amplio y más perfecto, no hecho de manos, es decir, no de esta creación [[\*\*]](#nt-c9-v11);
 {:#c9-v11}
@@ -1313,7 +1313,7 @@ El cristiano de fe ilustrada sabe que en la misa no se ofrece una víctima disti
 
 > «Este espíritu, siendo poderoso y eterno, comunica a la efusión de la sangre en la Cruz un valor infinito y una eficacia eterna» ([10, 10](#c10-v10)).
 
-[9, 17](#c9-v17) El testamento, o sea la promesa (en hebreo *berith*) de la nueva alianza que tendría por Mediador al Mesías (v. [15](#c9-v15); [8, 6](#c8-v6)-13; [10, 15](#c10-v15)-18), no pudo entrar en vigor sino por su muerte. Cf. Hechos [3, 22](hechos#c3-v22) y nota.
+[9, 17](#c9-v17) **El testamento**: o sea la promesa (en hebreo: «*berith*») de la Nueva Alianza que tendría por Mediador al Mesías (v. [15](#c9-v15); [8, 6](#c8-v6)-13; [10, 15](#c10-v15)-18), no pudo entrar en vigor sino por su muerte. Cf. Hechos [3, 22](hechos#c3-v22) y nota.
 {:#nt-c9-v17}
 
 [9, 23](#c9-v23) Véase este contraste en [8, 5](#c8-v5) y [13, 10](#c13-v10). Cf. [10, 1](#c10-v1).

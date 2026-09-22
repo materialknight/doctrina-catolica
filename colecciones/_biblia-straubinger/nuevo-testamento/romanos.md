@@ -2048,7 +2048,7 @@ Vemos una elocuente confirmación de esta doctrina en Efesios [6, 5](efesios#c6-
 
 > «Cuando me olvidé de mí, fui feliz» (Sta. Teresita).
 
-[14, 10](#c14-v10) Véase Hechos [17, 31](hechos#c17-v31); Mateo [25, 31](mateo#c25-v31) s.; 2 Corintios [5, 10](2-corintios#c5-v10); Isaías [45, 23](isaias#c45-v23).
+[14, 10](#c14-v10) s. Véase Hechos [17, 31](hechos#c17-v31); Mateo [25, 31](mateo#c25-v31) s.; 2 Corintios [5, 10](2-corintios#c5-v10); Isaías [45, 23](isaias#c45-v23).
 {:#nt-c14-v10}
 
 [14, 17](#c14-v17) **Gozo en el Espíritu Santo**:

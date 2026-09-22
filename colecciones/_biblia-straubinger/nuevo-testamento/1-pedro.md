@@ -369,10 +369,10 @@ title: Primera carta del apóstol san Pedro
 
 ## Comentarios de Mons. Straubinger
 
-[1, 2](#c1-v2) Obsérvese la exposición del misterio de la *Santísima Trinidad*: el Padre nos eligió, el Hijo nos roció con Su Sangre, y el Espíritu Santo es quien non santifica aplicándonos los méritos Jesús que son la prenda y el germen de nuestra *herencia incorruptible* (v. [4](#c1-v4)).
+[1, 2](#c1-v2) Obsérvese la exposición del misterio de la *Santísima Trinidad*: el Padre nos eligió, el Hijo nos roció con Su Sangre, y el Espíritu Santo es quien nos santifica aplicándonos los méritos Jesús que son la prenda y el germen de nuestra *herencia incorruptible* (v. [4](#c1-v4)).
 {:#nt-c1-v2}
 
-[1, 5](#c1-v5) La **salvación** significa para el Apóstol la gloriosa resurrección de entre los muertos que, a semejanza de la Suya (v. [3](#c1-v3)) nos traerá Jesús el día de su Parusía (vv. [7](#c1-v7), [9](#c1-v9) y [10](#c1-v10) ss.), que Él llama de nuestra redención (Lucas [21, 28](lucas#c21-v28)), y que nos está reservada en los cielos (v. [4](#c1-v4)) porque de allí «esperamos al Señor que transformará nuestro vil cuerpo conforme al Suyo glorioso» (Filipenses [3, 20](filipenses#c3-v20) s.).
+[1, 5](#c1-v5) La **salvación** significa para el Apóstol la gloriosa resurrección de entre los muertos que, a semejanza de la Suya (v. [3](#c1-v3)) nos traerá Jesús el día de su Parusía (vv. [7](#c1-v7), [9](#c1-v9) y [10](#c1-v10) ss.), que Él llama «de nuestra redención» (Lucas [21, 28](lucas#c21-v28)), y que nos está reservada en los cielos (v. [4](#c1-v4)) porque de allí «esperamos al Señor que transformará nuestro vil cuerpo conforme al Suyo glorioso» (Filipenses [3, 20](filipenses#c3-v20) s.).
 {:#nt-c1-v5}
 
 [1, 6](#c1-v6) Cf. [5, 1](#c5-v1) y [10](#c5-v10).

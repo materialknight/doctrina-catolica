@@ -3322,7 +3322,7 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 
 ## Comentarios de Mons. Straubinger
 
-[1, 1](#c1-v1) El **primer libro**, esto es, el tercer Evangelio, poco antes compuesto por el mismo autor (Lucas [1, 1](lucas#c1-v1) ss.). Este capítulo es, pues, como una continuación del cap. [24](lucas#c24) del Evangelio de S. Lucas, que termina con la Ascensión del Señor (cf. v. siguiente).
+[1, 1](#c1-v1) **El primer libro**: esto es, el tercer Evangelio, poco antes compuesto por el mismo autor (Lucas [1, 1](lucas#c1-v1) ss.). Este capítulo es, pues, como una continuación del cap. [24](lucas#c24) del Evangelio de S. Lucas, que termina con la Ascensión del Señor (cf. v. siguiente).
 {:#nt-c1-v1}
 
 [1, 3](#c1-v3) **Cuarenta días**: Solo Lucas nos comunica este dato que fija la fecha de la Ascensión y que tiene gran valor, pues según Lucas [24, 44](lucas#c24-v44)-53 esta parecería haberse producido el mismo día de la Resurrección.
