@@ -1283,7 +1283,7 @@ Orémus:
 ## Fórmulas de doctrina católica
 {:#s2}
 
-### El Doble Mandamiento del Amor
+### El Doble Mandamiento del Amor (Mt [22, 37]({{ "biblia-straubinger/mateo#c22-v37" | relative_url }})-40; Mc [12, 29]({{ "biblia-straubinger/marcos#c12-v29" | relative_url }})-31)
 
 Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente.
 Amarás al prójimo como a ti mismo.
@@ -1310,7 +1310,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 2. Esperanza
 3. Caridad
 
-### Las Cuatro Virtudes Cardinales
+### Las Cuatro Virtudes Cardinales (Sab [8, 7]({{ "biblia-straubinger/sabiduria#c8-v7" | relative_url }})))
 
 1. Prudencia
 2. Justicia

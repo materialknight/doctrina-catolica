@@ -1247,7 +1247,7 @@ En vez de «**Libia**» (África) leen algunos «Lidia» (provincia del Asia Men
 [5, 22](#c5-v22) Aquior alude a las diversas cautividades parciales mencionadas por los Profetas (Amós [1, 6](amos#c1-v6) y [9](amos#c1-v9); Abdías [14](abdias#v14) y 20), a la caída de Samaria (IV Reyes 17) y especialmente al reciente cautiverio de Manasés. Cf. [4, 2](#c4-v2) y [9](#c4-v9); [5, 5](#c5-v5).
 {:#nt-c5-v22}
 
-[6, 10](#c6-v10) **Betulia** no ha sido identificada aún con certeza. Si es la actual Sanur, situada en el extremo sur de la llanura de Esdrelón, a 4-5 kilómetros al sur de Dotain y a 18 kilómetros al norte de Siquem, su posición tenia importancia estratégica, porque dominaba el camino que iba de Siria a Jerusalén por Galilea y Samaria. Otros identifican la ciudad de Judit con Betuna, al pie del monte Gelboé, en cuya cercanía se halla la localidad de Judeide (Judit). Una tercera opinión se decide por Kurun-Hattin (el llamado monte de las Bienaventuranzas) al norte de la llanura de Esdrelón.
+[6, 10](#c6-v10) **Betulia** no ha sido identificada aún con certeza. Si es la actual Sanur, situada en el extremo sur de la llanura de Esdrelón, a 4-5 kilómetros al sur de Dotain y a 18 kilómetros al norte de Siquem, su posición tenía importancia estratégica, porque dominaba el camino que iba de Siria a Jerusalén por Galilea y Samaria. Otros identifican la ciudad de Judit con Betuna, al pie del monte Gelboé, en cuya cercanía se halla la localidad de Judeide (Judit). Una tercera opinión se decide por Kurun-Hattin (el llamado monte de las Bienaventuranzas) al norte de la llanura de Esdrelón.
 {:#nt-c6-v10}
 
 [6, 15](#c6-v15) **Tus santos**: el pueblo de Dios, santificado por la Alianza. Cf. Éxodo [19, 6](exodo#c19-v6).

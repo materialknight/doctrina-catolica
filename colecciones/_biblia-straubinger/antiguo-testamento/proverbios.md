@@ -2022,5 +2022,855 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 ## Comentarios de Mons. Straubinger
 
+[[1]](#rn-1){:#n-1} [??, 2](#c??-v2) Para aprender, etc. Notemos la audacia de este título. ¿Qué autor se atrevió jamás a pretender que él iba a enseñar a todos la sabiduría? Es este un sello de la suprema autoridad divina; así enseñaba Jesús, dice el Evangelio: con autoridad propia, y no a la manera de los otros maestros (Marcos [1, 22](marcos#c1-v22), etc.). Sabiduría significa más que prudencia y ciencia; consiste en el conocimiento de Dios y una vida conforme a su voluntad. Véase Introducción y la estupenda definición del Espíritu de Sabiduría en Sabiduría [7, 22](sabiduria#c7-v22) s. Por lo demás, para la inteligencia espiritual de todos los textos en que habla la Sabiduría (p. ej. 9, 3 ss.) debemos tener presente que esa Sabiduría personificada es la Palabra (Verbo, Logos), que se hizo Redentor nuestro. Tales enseñanzas adquieren así todo su valor, incomparablemente sublime y deleitoso, para el que conoce el Nuevo Testamento. Cf. Salmo [118, 89](salmos#c118-v89) y nota.
+
+[[2]](#rn-2){:#n-2} [??, 4](#c??-v4) Los sencillos: prueba de que la sabiduría no es ciencia intelectual, sino espiritual. Cf. Job [12, 12](job#c12-v12) y nota.
+
+[[3]](#rn-3){:#n-3} [??, 6](#c??-v6) Tal es la más alta ocupación del sabio, según vemos en Eclesiástico [39, 1](eclesiastico#c39-v1) ss., aunque el mundo suele mirarla como una ociosidad.
+
+[[4]](#rn-4){:#n-4} [??, 7](#c??-v7) El temor de Yahvé: Cf. [2, 5](#c2-v5); [9, 10](#c9-v10); 15, 33; Job [28, 28](job#c28-v28); Salmos [33, 12](salmos#c33-v12); [85, 11](salmos#c85-v11); [110, 10](salmos#c110-v10); Eclesiastés [12, 13](eclesiastes#c12-v13); Eclesiástico [1, 16](eclesiastico#c1-v16) y [34](eclesiastico#c1-v34); 19, 18. Se revelan aquí las raíces de la sabiduría, que solamente tiene valor y eficacia cuando se inspira en el temor del Señor. La voz hebrea yirah, que se ha traducido por temor, no significa el sentimiento egoísta del miedo, según se ve en 29, 19 sino la suma reverencia, que teme desagradar a Dios. "No es un terror, sino un conocimiento; no se forma en los bajos temblores y miedos de la naturaleza, sino en el alma que la ley divina inunda de luz, transformándola en amor, en obras de vida pura, y en hambre de la verdad divina (San Hilario).
+
+[[5]](#rn-5){:#n-5} [??, 8](#c??-v8) Hijo mío: "En toda esta primera parte el sabio se dirige al joven inexperto con afecto de padre" (Vaccari).
+
+[[6]](#rn-6){:#n-6} [??, 11](#c??-v11) s. San Agustín ve en estos versículos una alusión profética a los que maquinaron la muerte de Jesús.
+
+[[7]](#rn-7){:#n-7} [??, 13](#c??-v13) s. Satanás no presenta el pecado crudamente, sino envuelto en los atractivos de la seducción. San Pablo nos enseña que caerán en ella los que no tienen el amor de la verdad (2 Tesalonicenses [2, 10](2-tesalonicenses#c2-v10)) o sea, los que no aman la Palabra de Dios (Juan [17, 17](juan#c17-v17)).
+
+[[8]](#rn-8){:#n-8} [??, 15](#c??-v15) Muestra que la perdición del joven viene de las malas compañías, las cuales actúan como la levadura, que extiende su fermentación. Cf. [13, 20](#c13-v20); 1 Corintios [5, 6](1-corintios#c5-v6) ss.; [15, 33](1-corintios#c15-v33); Gálatas [5, 9](galatas#c5-v9); Mateo [13, 33](mateo#c13-v33); Éxodo [12, 8](exodo#c12-v8) y nota, etc.
+
+[[9]](#rn-9){:#n-9} [??, 17](#c??-v17) En vano: LXX: No en vano. Es interpretado muy diversamente. Algunos lo aplican a los malvados, que obran el mal no obstante los peligros que ello entraña (cf. [7, 23](#c7-v23)). Otros, a la inversa (cf. Dante, Purgatorio 31, 62). Creemos que significa más bien: Si tú tienes las alas de la sabiduría, que te estoy dando con mis palabras, escaparás a ese lazo de los malvados. Cf. [11, 15](#c11-v15) y nota; Salmos [24, 15](salmos#c24-v15); [123, 7](salmos#c123-v7); [34, 8](salmos#c34-v8); 1 Timoteo [3, 7](1-timoteo#c3-v7); 1 Corintios [2, 15](1-corintios#c2-v15).
+
+[[10]](#rn-10){:#n-10} [??, 18](#c??-v18) La Sagrada Escritura nos hace palpar muchas veces este concepto de que el impío conspira contra sí mismo (cf. [3, 1](#c3-v1) ss., y nota), pues los mandamientos están hechos para nuestro bien (Salmos [7, 11](salmos#c7-v11); [24, 8](salmos#c24-v8)).
+
+[[11]](#rn-11){:#n-11} [??, 20](#c??-v20) La sabiduría está representada como persona (cf. v. [2](#c??-v2) y nota). En las plazas, etc., es decir, que en nuestra religión no hay cosas esotéricas o reservadas a los iniciados, como p. ej. los misterios de Eleusis en Grecia (cf. Juan [18, 20](juan#c18-v20); [16, 25](juan#c16-v25); Mateo [10, 27](mateo#c10-v27); Eclesiástico [39, 11](eclesiastico#c39-v11)), sino, todo lo contrario: los que se hacen pequeños son los que entienden. Cf. [9, 4](#c9-v4) y nota.
+
+[[12]](#rn-12){:#n-12} [??, 23](#c??-v23) Volveos para (oír): La sabiduría y el espíritu se dan gratis, pero exigen atención. Las palabras de Dios no son difíciles, pero sí muy profundas. Todos pueden entenderlas (v. [20](#c??-v20) y nota), pero solo comprenderán si se entregan plenamente a escuchar. La queja constante de Dios es esta: que no le prestamos oído (Jeremías [7, 23](jeremias#c7-v23) ss.; Salmo [80, 12](salmos#c80-v12) y nota). El único precepto que Dios Padre nos da personalmente en el Evangelio, es el de escuchar a Jesús (Mateo [17, 5](mateo#c17-v5)). Lo mismo dice Cristo (Juan [6, 29](juan#c6-v29)) y también María (Juan [2, 5](juan#c2-v5)). Dios ha puesto en su Palabra una virtud que convierte (Salmo [18, 8](salmos#c18-v8)) y salva (Romanos [1, 16](romanos#c1-v16)) y santifica (Juan [17, 17](juan#c17-v17)). Mas ¿cómo curará el médico al que no quiere conocer su receta? Cf. Isaías [53, 1](isaias#c53-v1).
+
+[[13]](#rn-13){:#n-13} [??, 26](#c??-v26) Terribles palabras en boca del Padre de las misericordias. Son los celos del amor despreciado. Cf. Cantar de los Cantares [8, 6](cantar-de-los-cantares#c8-v6); Deuteronomio [32, 21](deuteronomio#c32-v21); Jeremías [3, 20](jeremias#c3-v20); [5, 9](jeremias#c5-v9); Ezequiel [23, 25](ezequiel#c23-v25); Santiago [4, 4](santiago#c4-v4) s., etc.
+
+[[14]](#rn-14){:#n-14} [??, 27](#c??-v27) "¡Imágenes estremecedoras! La palabra blanda y calmante de quien aconseja y convida toma las severas entonaciones de los grandes profetas de las horas trágicas. ¡Qué de veces la palabra de la Sabiduría encarnada, tan radiante de luz clara y serena, tan saturada de piedad y de mansedumbre, rugía con aires de torbellino ante la indiferencia, la inercia endeble o la artera hipocresía de sus contemporáneos y aUn de los venideros, que columbraba por encima de la cabeza de sus contemporáneos!" (Manresa).
+
+[[15]](#rn-15){:#n-15} [??, 28](#c??-v28) La sabiduría no los oirá porque sus esfuerzos son puramente humanos, producidos por la suficiencia propia. El apartarse de la sabiduría es por sí mismo el más grande castigo.
+
+[[16]](#rn-16){:#n-16} [??, 29](#c??-v29) Aborrecieron la instrucción: He aquí la manera de conocer si hay o no rectitud (Salmo [35, 4](salmos#c35-v4) y nota). Véase [13, 1](#c13-v1), 18; 15, 5, 10, 12, [14, 31](book#c14-v31); [17, 16](book#c17-v16); [18, 2](book#c18-v2); [19, 2](book#c19-v2), 27; [22, 17](book#c22-v17); [23, 12](book#c23-v12), [19, 22](book#c19-v22); [24, 13](book#c24-v13) s.; [26, 12](book#c26-v12); [27, 5](book#c27-v5).
+
+[[17]](#rn-17){:#n-17} [??, 4](#c??-v4) ¡Qué fórmula tan fácil de entender! Bastaría la mitad del empeño con que se busca lo perecedero, para hallar la sabiduría (Sabiduría [6, 14](sabiduria#c6-v14) ss.) y con ella todos los bienes (Sabiduría [7, 11](sabiduria#c7-v11)). Cf. [13, 13](#c13-v13) ss.
+
+[[18]](#rn-18){:#n-18} [??, 5](#c??-v5) En ese conocimiento de Dios consiste la vida eterna, según nos lo enseña Jesús (Juan [17, 3](juan#c17-v3)). ¿Puede haber nada más alto? Decía un filósofo (Malebranche) que no hay ciencia más digna del hombre que la ciencia del hombre (la Psicología). Comparemos esa pequeñez con esta sublimidad. Cf. 1 Corintios [2, 10](1-corintios#c2-v10) s.
+
+[[19]](#rn-19){:#n-19} [??, 8](#c??-v8) ¡Él, y no nuestra suficiencia! Cf. [21, 1](#c21-v1); Salmo [137, 8](salmos#c137-v8) y nota; Juan [15, 4](juan#c15-v4) s.
+
+[[20]](#rn-20){:#n-20} [??, 9](#c??-v9) Dios es absoluto al afirmar que sin la luz que tiene de Él, nadie puede conocer lo sobrenatural, aun cuando tuviera algunas virtudes naturales. Cf. 1 Corintios [2, 14](1-corintios#c2-v14); Denz. 180.
+
+[[21]](#rn-21){:#n-21} [??, 10](#c??-v10) Se complaciere, es decir, no viendo en ella una obligación pesada sino un tesoro gratuito. Cf. v. [4](#c??-v4); 22, 18; Salmo [36, 4](salmos#c36-v4), etc.
+
+[[22]](#rn-22){:#n-22} [??, 11](#c??-v11) Notemos la obra del Espíritu Santo en el alma: no se dice: tú te guardarás, sino: tendrás quien te guarde. ¿Hay mayor felicidad? ¡Entregar la nave de nuestra vida a un timonel que sabe mucho más que nosotros! Cf. [12, 2](#c12-v2); [21, 1](#c21-v1) y nota.
+
+[[23]](#rn-23){:#n-23} [??, 12](#c??-v12) Después de enumerar las virtudes de la sabiduría, pasa en los vv. [12](#c??-v12)-16 a indicar los peligros y daños de los cuales ella nos guarda. Como vemos, para no ser engañado no vale la sagacidad psicológica, sino esta sabiduría que viene de la visión sobrenatural. El Evangelio es la piedra de toque para conocer las almas. Cf. Lucas [2, 34](lucas#c2-v34); Hebreos [4, 12](hebreos#c4-v12), etc.
+
+[[24]](#rn-24){:#n-24} [??, 16](#c??-v16) Gran enseñanza práctica sobre la castidad. Ella también es un don de la sabiduría (v. [10](#c??-v10)), y en vano pretendería obtenerla por medios naturales, quien no la implorase a Dios (Sabiduría [8, 21](sabiduria#c8-v21); Gálatas [5, 23](galatas#c5-v23)) y no la fundase en la caridad (1 Pedro [1, 22](1-pedro#c1-v22); Romanos [12, 9](romanos#c12-v9) s.; Gálatas [3, 16](galatas#c3-v16)). Los Padres suelen hacer aquí, además del sentido propio, una aplicación espiritual a las herejías y la corrupción mundana, que Dios llama también adulterio porque las mira como infidelidad a su inmenso amor. Cf. [1, 26](#c1-v26) y nota; 7, 6; Apocalipsis [17, 2](apocalipsis#c17-v2) ss.; Jeremías [51, 7](jeremias#c51-v7); Oseas 3; Ezequiel 16, etc.
+
+[[25]](#rn-25){:#n-25} [??, 21](#c??-v21) s. Jesús alude a este misterio en el Sermón de la Montaña (Mateo [5, 4](mateo#c5-v4)) y en la parábola de la cizaña (Mateo [13, 39](mateo#c13-v39) ss.). Cf. Salmos [36, 9](salmos#c36-v9), 29; [9, 6](book#c9-v6); [20, 9](book#c20-v9) ss.
+
+[[26]](#rn-26){:#n-26} [??, 1](#c??-v1) ss. Vemos cómo insiste sobre ese admirable concepto de que los mandamientos no son órdenes despóticas, sino muy al contrario, normas indispensables para la felicidad.
+
+[[27]](#rn-27){:#n-27} [??, 5](#c??-v5) ss. Véase esta doctrina ampliada en Salmos [36, 5](salmos#c36-v5); [93, 11](salmos#c93-v11) ss. y sus notas.
+
+[[28]](#rn-28){:#n-28} [??, 8](#c??-v8) Literalmente: Esto será sanidad para tu ombligo y riego para tus huesos. El sabio promete a los que cumplen con el temor de Dios, no solamente los bienes sobrenaturales, sino también los de orden temporal (v. [2](#c??-v2)). "Buscad primero el reino de Dios y su justicia, y todas estas cosas se os darán por añadidura" (Mateo [6, 33](mateo#c6-v33)). El arqueólogo judío doctor F. Lachmann hace notar que durante muchos siglos en Israel no existía la medicina, porque las enfermedades solo eran curadas por el mismo Dios, y que Él las enviaba a veces como castigo, o como prueba, pero generalmente como anuncio de muerte próxima. Cf. Isaías [38, 1](isaias#c38-v1) ss.
+
+[[29]](#rn-29){:#n-29} [??, 9](#c??-v9) Bien dice honra y no obsequio porque Dios no lo necesita. Salmo [15, 2](salmos#c15-v2) y nota. Sobre las primicias véase Éxodo [23, 19](exodo#c23-v19); [34, 26](exodo#c34-v26); Deuteronomio [26, 2](deuteronomio#c26-v2); Eclesiástico [7, 34](eclesiastico#c7-v34); [14, 11](eclesiastico#c14-v11); [35, 10](eclesiastico#c35-v10); Tobías [1, 6](tobias#c1-v6).
+
+[[30]](#rn-30){:#n-30} [??, 10](#c??-v10) Sobre las bendiciones prometidas véase Malaquías [3, 8](malaquias#c3-v8) ss.
+
+[[31]](#rn-31){:#n-31} [??, 12](#c??-v12) Cf. Ester [13, 18](ester#c13-v18) y nota; Sabiduría [11, 11](sabiduria#c11-v11); Eclesiástico [2, 1](eclesiastico#c2-v1); Santiago [1, 2](santiago#c1-v2) ss. El Apóstol de las gentes explica admirablemente este punto. Véase Hebreos [12, 5](hebreos#c12-v5) ss.; Apocalipsis [3, 19](apocalipsis#c3-v19).
+
+[[32]](#rn-32){:#n-32} [??, 13](#c??-v13) ss. Véase [2, 4](#c2-v4) y nota sobre el valor de la sabiduría.
+
+[[33]](#rn-33){:#n-33} [??, 17](#c??-v17) Deliciosos: He aquí el secreto que solo descubren los que hacen la experiencia. Véase Sabiduría [10, 4](sabiduria#c10-v4) y nota.
+
+[[34]](#rn-34){:#n-34} [??, 18](#c??-v18) Cf. Mateo [11, 29](mateo#c11-v29) s.; Jeremías [6, 16](jeremias#c6-v16); Cantar de los Cantares [8, 7](cantar-de-los-cantares#c8-v7). Evoca el árbol de vida que estuvo en el paraíso (Génesis[2, 9](book#c2-v9); [3, 22](book#c3-v22)). La sabiduría dispensa la larga vida que todos anhelan. Véase v. [16](#c??-v16) y las admirables promesas de Jesús en Juan [6, 40](juan#c6-v40), 59; 11, 25 ss.
+
+[[35]](#rn-35){:#n-35} [??, 19](#c??-v19) s. Este pasaje lírico es un nuevo elogio de Jesús, que es la sabiduría encarnada (1, 2 y nota), por quien y para quien fueron hechas todas las cosas (Juan [1, 3](juan#c1-v3)), y por quien es dado al Padre, "Creador del cielo y de la tierra", todo honor y gloria, como dice, al terminar, el Canon de la Misa. Porque el Padre pone todas las complacencias en ese Hijo, como Él mismo nos lo dice en el Bautismo de Jesús (Mateo [3, 17](mateo#c3-v17)), y en la Transfiguración (Mateo [17, 5](mateo#c17-v5)).
+
+[[36]](#rn-36){:#n-36} [??, 24](#c??-v24) Tu sueño será dulce: He aquí otro de los bienes que en vano se buscará en la medicina si no se tiene la amistad de Dios. El que la tiene se gozará aun en los insomnios. Cf. Salmo [62, 7](salmos#c62-v7) y nota.
+
+[[37]](#rn-37){:#n-37} [??, 25](#c??-v25) David dice: No temerá terrores nocturnos (Salmo [90, 5](salmos#c90-v5)); y tampoco malas noticias (Salmo [111, 7](salmos#c111-v7)).
+
+[[38]](#rn-38){:#n-38} [??, 26](#c??-v26) Vemos aquí la diferencia esencial con la sabiduría pagana, que es obra del esfuerzo humano, en tanto que la sabiduría bíblica es obra de Dios, y es también Él quien da sus frutos.
+
+[[39]](#rn-39){:#n-39} [??, 27](#c??-v27) No niegues. El que pudiendo no lo hace, peca, dice Santiago [4, 17](santiago#c4-v17).
+
+[[40]](#rn-40){:#n-40} [??, 28](#c??-v28) Esta preciosa norma se nos da también con respecto a los salarios. Véase Levítico [19, 13](levitico#c19-v13).
+
+[[41]](#rn-41){:#n-41} [??, 29](#c??-v29) El que odia es homicida, dice San Juan (1 Juan [3, 15](1-juan#c3-v15)). Sobre la traición a la confianza véase Salmo [54, 14](salmos#c54-v14) y nota.
+
+[[42]](#rn-42){:#n-42} [??, 31](#c??-v31) Es el asunto tratado en el admirable Salmo 36.
+
+[[43]](#rn-43){:#n-43} [??, 34](#c??-v34) "Dios resiste a los soberbios y da su gracia a los humildes". Cf. Salmo [33, 19](salmos#c33-v19) y nota; Santiago [4, 6](santiago#c4-v6); 1 Pedro [5, 5](1-pedro#c5-v5).
+
+[[44]](#rn-44){:#n-44} [??, 1](#c??-v1) Prudencia se usa en los libros sapienciales de la Biblia como sinónimo de sabiduría. Cf. [1, 2](#c1-v2) y nota. Según Vosté sabiduría sería el conocimiento de los principios, y prudencia el conocimiento práctico para hacer el bien y evitar el mal.
+
+[[45]](#rn-45){:#n-45} [??, 7](#c??-v7) En Sabiduría [6, 18](sabiduria#c6-v18) ss. se enseña esta verdad en forma silogística.
+
+[[46]](#rn-46){:#n-46} [??, 8](#c??-v8) s. Tenla en gran estima: Inútil es creer que la buscaremos si no la estimamos como un gran bien. Según los Santos Padres, puede entenderse por diadema la virtud de la caridad, la cual es corona de las virtudes. Véase [2, 16](#c2-v16) y nota.
+
+[[47]](#rn-47){:#n-47} [??, 12](#c??-v12) Si corres: Véase este proceso en Eclesiástico [4, 16](eclesiastico#c4-v16)-21. La sabiduría convierte la senda angosta en el ancho camino real de la caridad (Sto. Tomás). Véase Salmo [118, 44](salmos#c118-v44) y nota.
+
+[[48]](#rn-48){:#n-48} [??, 17](#c??-v17) Los impíos están tan acostumbrados a la maldad, que no pueden vivir sin ella, sino que parece que se alimentan con ella. Contrasta con lo que dice Jesús en San Juan [4, 34](juan#c4-v34).
+
+[[49]](#rn-49){:#n-49} [??, 18](#c??-v18) Crece hasta ser pleno día: "El justo, dice San Bernardo, jamás cree haber ganado el cielo; nunca dice: *Es bastante*, sino que siempre tiene hambre y sed de justicia, de tal manera que, si siempre viviese, siempre se esforzaría, en cuanto le fuese posible, por ser más justo, y emplearía siempre todas sus fuerzas para ir de virtud en virtud (Epístola cciii). Cf. [28, 1](#c28-v1).
+
+[[50]](#rn-50){:#n-50} [??, 20](#c??-v20) ss. Jesús, que es la Sabiduría, insiste en darnos este secreto: "Las palabras que os hablo son espíritu y vida" (Juan [6, 63](juan#c6-v63)). Cf. Salmo [118, 11](salmos#c118-v11) y nota. ¡Alégrate lector: estás bebiendo aquí la vida a medida que lees!, la vida espiritual, los buenos pensamientos y deseos y obras (véase Mateo [15, 18](mateo#c15-v18) ss.). El corazón es todo: es el árbol de que habla Jesús (Mateo [7, 17](mateo#c7-v17)). Véase 2 Corintios [4, 18](2-corintios#c4-v18) y notas.
+
+[[51]](#rn-51){:#n-51} [??, 27](#c??-v27) Los Setenta y la Vulgata agregan a estas palabras el siguiente comentario: porque el Señor conoce los caminos que están a la derecha; mas los que están a la izquierda, son perversos. Pero Él dirigirá tu carrera, y guiará tus caminos en paz.
+
+[[52]](#rn-52){:#n-52} [??, 3](#c??-v3) ss. En sentir de algunos expositores habla el sabio en este capítulo no solamente de la mala mujer, sino en sentido alegórico, de la necedad opuesta a la sabiduría. Cf. [2, 16](#c2-v16) y nota. Satanás es el "padre de la mentira" (Juan [8, 44](juan#c8-v44)) y nunca presenta el pecado en su odiosa fealdad sino lleno de atractivos. Cf. 2 Tesalonicenses [2, 9](2-tesalonicenses#c2-v9) s.
+
+[[53]](#rn-53){:#n-53} [??, 8](#c??-v8) El valiente es el que huye, sabiendo que nadie tiene fuerzas propias para vencer la congénita inclinación al mal (cf. Denz. 180, 195). El que ama el peligro perecerá en él (Eclesiástico [3, 27](eclesiastico#c3-v27)).
+
+[[54]](#rn-54){:#n-54} [??, 12](#c??-v12) ss. ¡Cuando ya sea tarde! Véase Sabiduría [5, 4](sabiduria#c5-v4) ss.
+
+[[55]](#rn-55){:#n-55} [??, 15](#c??-v15) Se refiere en sentido propio a los hombres para que se contenten con su mujer; en sentido alegórico, agua de tu aljibe simboliza la sabiduría. Así se puede tomar también la expresión "a esposa de tu mocedad" (v. [18](#c??-v18)). Véase Eclesiástico [9, 9](eclesiastico#c9-v9) y nota.
+
+[[56]](#rn-56){:#n-56} [??, 19](#c??-v19) ¡Precioso augurio y consejo para un esposo! Es un antídoto contra el dicho moderno: La mujer es una promesa que no se cumple.
+
+[[57]](#rn-57){:#n-57} [??, 21](#c??-v21) Es el misterio de la Providencia. Véase Job [11, 4](job#c11-v4); [34, 21](job#c34-v21); Salmo [138, 1](salmos#c138-v1); Jeremías [16, 17](jeremias#c16-v17) y notas. Jesús dice más aún: hasta nuestros cabellos están contados por el Padre.
+
+[[58]](#rn-58){:#n-58} [??, 22](#c??-v22) Verdad que la Biblia enseña de muchas maneras (Cf. [6, 2](#c6-v2); [12, 13](#c12-v13); Sabiduría [11, 17](sabiduria#c11-v17); Oseas [7, 2](oseas#c7-v2); Salmo [7, 16](salmos#c7-v16) s.), y que ha dado origen al proverbio popular: En el pecado está el castigo, porque los pecados enredan al pecador y le hacen esclavo del demonio. Vive en la cloaca del mal, se agita en ella y no puede más salir de allí. El justo, en cambio, aunque viva en condición de esclavo, es libre porque no sufre el yugo del pecado.
+
+[[59]](#rn-59){:#n-59} [??, 1](#c??-v1) ss. No estaba prohibido tomar sobre sí fianzas (véase Eclesiástico [29, 14](eclesiastico#c29-v14)), mas el sabio previene contra ellas y exhorta al fiador a tomar todas las medidas lícitas, hasta la humillación de sí mismo, para librarse de la obligación intimada. No sea que la presunción de pasar por generoso, se disfrace de caridad, y nos lleve luego a la desesperación. "La caridad no obra precipitadamente" (1 Corintios [13, 4](1-corintios#c13-v4)).
+
+[[60]](#rn-60){:#n-60} [??, 6](#c??-v6) ss. Se elogia aquí el trabajo, no el atesorar. San Francisco no amaba a las hormigas porque no se confían a la Providencia como los pajarillos. Cf. Mateo [6, 26](mateo#c6-v26).
+
+[[61]](#rn-61){:#n-61} [??, 9](#c??-v9) ss. Es menester temer y evitar el reposo en el reposo, dice San Bernardo; es decir que se ha de regular el reposo necesario, no entregarse a él demasiado y convertirlo en una virtud; asimismo las comidas, el sueño, etc. "La pereza es el anzuelo, con que el demonio pesca las almas" (Santo Tomás).
+
+[[62]](#rn-62){:#n-62} [??, 12](#c??-v12) Hijo de Belial, es decir, hombre maligno, de corazón doble. Es el antípoda de la simplicidad, que Dios ama tanto. Cf. Juan [1, 47](juan#c1-v47); [3, 19](juan#c3-v19); Santiago [4, 8](santiago#c4-v8). Véase también 9, 4 y nota sobre la infancia espiritual.
+
+[[63]](#rn-63){:#n-63} [??, 16](#c??-v16) ss. Seis son las cosas, etc.: forma frecuente en la Biblia para llamar la atención sobre la doctrina que va a enseñar. Véase Eclesiástico [23, 21](eclesiastico#c23-v21); [25, 1](eclesiastico#c25-v1) ss.; [26, 5](eclesiastico#c26-v5) ss.; 50, 27. Nótese que la primera de las cosas que Dios odia, es algo que ante el mundo no parece pecado: los ojos altivos (cf. [30, 13](#c30-v13)).
+
+[[64]](#rn-64){:#n-64} [??, 22](#c??-v22) Las palabras de Dios son un amigo viviente, que está siempre con nosotros para inspirar, consolar, enseñar, defender al que las estudia y las guarda en su corazón (cf. Salmo [118, 11](salmos#c118-v11) y nota). Los israelitas las llevaban escritas y pendientes de la frente y de las manos (Deuteronomio [6, 8](deuteronomio#c6-v8); [11, 18](deuteronomio#c11-v18)). ¡Feliz el cristiano que lleva siempre en su bolsillo el Sagrado Libro del Evangelio con las palabras de Jesús! Véase Baruc [3, 38](baruc#c3-v38).
+
+[[65]](#rn-65){:#n-65} [??, 23](#c??-v23) La Ley una luz, o como se cita en latín: lex-lux. Cf. Salmos [18, 9](salmos#c18-v9); [118, 105](salmos#c118-v105). Más aún encontramos esta luz en el Evangelio de Cristo, quien es el Sol de la justicia y cuyos apóstoles son la luz del mundo (Mateo [5, 14](mateo#c5-v14)).
+
+[[66]](#rn-66){:#n-66} [??, 26](#c??-v26) Un pedazo de pan: Alusión a la miseria que es resultado de la lujuria.
+
+[[67]](#rn-67){:#n-67} [??, 27](#c??-v27) El amor, bueno o malo, es fuego, según enseña esta vivísima imagen. De ahí que la Sagrada Escritura, que define a Dios como "amor" (1 Juan [4, 8](1-juan#c4-v8)), dice también que Él es fuego devorador (Deuteronomio [4, 24](deuteronomio#c4-v24)). De esta manera comprendemos cómo el Espíritu Santo, al poner en el alma el amor con que Dios nos ama, enciende en ella su propio fuego de amor, que nos hace capaces de amar a Dios y al prójimo. Cf. Romanos [5, 5](romanos#c5-v5).
+
+[[68]](#rn-68){:#n-68} [??, 34](#c??-v34) s. El comentario a estos versículos lo leemos todos los días en los diarios, sección crímenes y escándalos.
+
+[[69]](#rn-69){:#n-69} [??, 1](#c??-v1) s. Palabras, enseñanzas, preceptos, mandamientos son aquí sinónimos, como en el Salmo 118. Significan la sabiduría en sus distintos aspectos.
+
+[[70]](#rn-70){:#n-70} [??, 4](#c??-v4) Tú eres mi hermana: "Este mismo nombre da Jesucristo a quien cumple la ley de su Padre (Mateo [12, 50](mateo#c12-v50))". (Bover-Cantera).
+
+[[71]](#rn-71){:#n-71} [??, 5](#c??-v5) ss. Sobre la mujer extraña véase [4, 20](#c4-v20) ss.; [5, 20](#c5-v20); [6, 20](book#c6-v20) ss.; [23, 27](book#c23-v27). En sentido alegórico, la mujer extraña es la necedad del mundo, que es lo contrario de la sabiduría, y también la mala doctrina. Cf. [2, 16](#c2-v16); [5, 15](#c5-v15) y notas.
+
+[[72]](#rn-72){:#n-72} [??, 6](#c??-v6) Según otros (Condamín, Manresa) que traducen de los LXX, es la cortesana quien espía en su ventana el paso del joven inexperto. Cf. Isaías [57, 6](isaias#c57-v6) ss.
+
+[[73]](#rn-73){:#n-73} [??, 14](#c??-v14) Invita al necio al banquete, porque los sacrificios pacíficos eran seguidos de un convite (Levítico [7, 15](levitico#c7-v15) ss.). La mala mujer es a la vez hipócrita. Busca "consuelo espiritual" y toma por pretexto una ceremonia religiosa para satisfacer sus pasiones carnales.
+
+[[74]](#rn-74){:#n-74} [??, 19](#c??-v19) El sentido es: mi marido no volverá tan pronto, puesto que llevó mucho dinero para el viaje que ha emprendido.
+
+[[75]](#rn-75){:#n-75} [??, 23](#c??-v23) ss. Véase sobre esto 1, 17; Eclesiastés [9, 12](eclesiastes#c9-v12) y notas. Sansón, Salomón y el mismo David fueron presos en esta red y tuvieron que experimentar el amargo fruto de su pecado. La mala mujer y su víctima van descendiendo hasta caer en el abismo (v. [27](#c??-v27)).
+
+[[76]](#rn-76){:#n-76} [??, 27](#c??-v27) Scheol: Véase Job [10, 21](job#c10-v21) y nota.
+
+[[77]](#rn-77){:#n-77} [??, 1](#c??-v1) ss. Maravilloso discurso de la Sabiduría que había de ser el Verbo encarnado. Manresa lo compara acertadamente con Eclesiástico [24, 3](eclesiastico#c24-v3) ss.; Sabiduría [7, 25](sabiduria#c7-v25) s., para deducir que la Sabiduría es el Verbo del Padre. Véase [1, 2](#c1-v2); Job [28, 12](job#c28-v12), 27; 38, 5 y notas.
+
+[[78]](#rn-78){:#n-78} [??, 10](#c??-v10) Y no la plata: El materialismo dice al revés; primero oro y plata, bienes materiales y vida cómoda; después veremos si hay sabiduría y si vale la pena dedicarse a ella. La divina sabiduría que nos habla a través de este libro y de toda la Biblia tiene una inmensa ventaja sobre todos los tratados de moral. "Una sola de sus sentencias, por breve que sea, encierra plenitud de pensamiento y una riqueza inefable. Es también la Escritura semejante a una fuente de inagotable caudal. Nuestros antepasados bebieron de sus aguas, según sus fuerzas; los venideros beberán también, sin que agoten la fuente, antes al contrario, manará más copiosa y serán más abundantes sus aguas" (San Crisóstomo, In Génesis, Homilía 3).
+
+[[79]](#rn-79){:#n-79} [??, 12](#c??-v12) Versículo diversamente traducido. Vulgata: Yo, la sabiduría, habito en el consejo, y asisto a los pensamientos juiciosos. Bover-Cantera: Yo, la sabiduría, soy vecina de la sagacidad, y de profundo conocimiento dispongo. Nácar-Colunga: Yo, la sabiduría, tengo conmigo la discreción, poseo la ciencia y la cordura. "Diríase que la Sabiduría personal entra en escena para descorrer el velo de sus más profundos secretos. Prodiga largamente los dones de su misma insondable esencia; y para mejor descorrer el velo de su condición nobilísima nos cuenta sus orígenes y sus dotes excelsas" (Manresa).
+
+[[80]](#rn-80){:#n-80} [??, 14](#c??-v14) Lo que aquí se dice de la Sabiduría, son atributos de Dios (Job [12, 13](job#c12-v13)-16).
+
+[[81]](#rn-81){:#n-81} [??, 15](#c??-v15) Los reyes, los poderosos de la tierra, reciben de Dios las normas de gobernar los pueblos. No hay leyes meramente profanas, porque todo poder viene de Dios, y no hay potestad que no proceda de Él (Romanos [13, 1](romanos#c13-v1) ss.).
+
+[[82]](#rn-82){:#n-82} [??, 22](#c??-v22) Me poseyó: La posee porque la engendra en generación eterna. Bossuet dice al respecto: "Dios me poseyó, dice la Sabiduría, es decir, Dios me ha engendrado, tal como Eva, una vez nacido Caín, se dijo a sí misma: *He poseído un hombre por la gracia de Dios*... Hay en Dios una Sabiduría esencial, que estando primitiva y originalmente en el Padre le hace fecundo para producir en su seno a la Sabiduría, que es su Verbo y su Hijo." Bossuet alude a Génesis4, 1, donde se usa el mismo verbo "qanani" para expresar el nacimiento de un hombre, por lo cual algunos le dan el sentido de crear, engendrar (en vez de poseer), por ejemplo las antiguas versiones de Aquilas, Teodoción, Símaco, LXX, Peschitto, Ferrarense y muchos Padres. Todo este pasaje habla de la Sabiduría eterna, el Verbo que desde un principio estaba en Dios (Juan [1, 2](juan#c1-v2); [8, 58](juan#c8-v58)) y por el cual todo fue creado. Descubrimos así, en pleno Antiguo Testamento, nuevos capítulos del Evangelio, en que Jesús nos anticipa la revelación de sus misterios, así como en los Salmos nos hizo conocer anticipadamente su oración (Salmo [39, 7](salmos#c39-v7); cf. Hebreos [10, 5](hebreos#c10-v5) ss. y notas). ¿Puede haber mayor regalo? Es la gran verdad que San Agustín expresa diciendo que el Nuevo Testamento se esconde en el Antiguo, y este se manifiesta en el Nuevo. Véase Mateo [5, 17](mateo#c5-v17). Cf. Génesis1, 1 s. y notas.
+
+[[83]](#rn-83){:#n-83} [??, 27](#c??-v27) ss. Describe la cooperación de la Sabiduría eterna en la creación del mundo. La Liturgia aplica estos versos y los precedentes a la Santísima Virgen, la cual, siendo Madre de la Sabiduría encarnada, es el "trono de la Sabiduría". Claro está que se trata de un sentido acomodaticio, como vemos por el v. [22](#c??-v22) y nota. Véase igual sentido en Eclesiástico cap. [24](eclesiastico#c24).
+
+[[84]](#rn-84){:#n-84} [??, 31](#c??-v31) La Sabiduría "se recrea en contemplar sus obras y, sobre todo, en comunicarse a los hijos de los hombres, a fin de hacerlos sabios e inteligentes. El prólogo de San Juan y otros pasajes paralelos de San Pablo son explicaciones de este texto al hablarnos del Verbo, por quien todo fue creado y todo subsiste (Juan [1, 3](juan#c1-v3); Colosenses [1, 15](colosenses#c1-v15) ss.)". (Nácar-Colunga). Contemplando esta maravilla exclama San Buenaventura: "¡Oh sentencia verdaderamente maravillosa y admirable sobremanera! El Rey, cuya hermosura admiran el sol y la luna, cuya grandeza cielos y tierra reverencian, con cuya sabiduría son alumbrados los ejércitos de los espíritus celestiales, de cuya bondad se hartan los coros de los bienaventurados; Este tal y tan grande desea hospedarse en ti, alma mía, y codicia y apetece más tu cenáculo que el palacio del cielo" (Soliloquio, capítulo I).
+
+[[85]](#rn-85){:#n-85} [??, 36](#c??-v36) Así se cierra este grandioso canto, "que, en progresivo desarrollo doctrinal, desemboca, como un mar sin riberas, en una sabiduría que, intrínseca a Dios, por Él engendrada y junto a Él subsistiendo y obrando, es comienzo de realidad consumada en el Verbo, sabiduría del Padre" (Asensio, Estudios Bíblicos 1945, pág. 246).
+
+[[86]](#rn-86){:#n-86} [??, 1](#c??-v1) ss. "Hermosa descripción alegórica. En los Libros sagrados la unión íntima entre Dios y el hombre a menudo es representada bajo la figura de un suntuoso banquete. Cf. Salmo [22, 5](salmos#c22-v5); Isaías [25, 6](isaias#c25-v6); [65, 13](isaias#c65-v13); Sofonías [1, 7](sofonias#c1-v7)-8, etc." (Fillion).
+
+[[87]](#rn-87){:#n-87} [??, 4](#c??-v4) ¿Quién no reconoce aquí el lenguaje tantas veces usado por Jesús? (Mateo [19, 14](mateo#c19-v14); [18, 3](mateo#c18-v3) s.; Marcos [10, 15](marcos#c10-v15); Lucas [9, 46](lucas#c9-v46) ss.; [10, 21](lucas#c10-v21)). En este versículo y en Isaías [66, 13](isaias#c66-v13), se inspiró Santa Teresita al iniciar su vida de infancia espiritual, "¡Oh, carísima hermana mía!, exclama la Santa, después de oír tales expresiones, no hay más que callar y derramar lágrimas de reconocimiento y de amor. ¡Ah! Si las almas débiles e imperfectas, como la mía, sintieran lo que yo siento, ninguna de ellas desesperaría de llegar a la cima de la montaña del Amor, ya que Jesús no exige acciones valiosas, sino tan solo el abandono y la gratitud" (Historia de un alma IX, 19). Cf. Sabiduría [6, 6](sabiduria#c6-v6); Isaías [28, 9](isaias#c28-v9).
+
+[[88]](#rn-88){:#n-88} [??, 5](#c??-v5) La divina Sabiduría, que es Jesús ([1, 2](book#c1-v2)), se fabricó una casa e invita al banquete; esto significa, en opinión de los Santos Padres, que el Verbo encarnado funda el Reino de Dios, al cual todos los hombres están invitados a participar desde ahora mediante el banquete de la Sabiduría y el banquete Eucarístico aludido en este versículo. Jesús usó esta figura en Mateo [22, 2](mateo#c22-v2) y Lucas [14, 16](lucas#c14-v16), e invitó muchas veces al banquete de su Reino (véase Lucas [14, 13](lucas#c14-v13)-15; [22, 16](lucas#c22-v16)-18 y 29-30), que en Apocalipsis [19, 9](apocalipsis#c19-v9) es llamado "la cena de las Bodas del Cordero". Las siete columnas representan los siete dones del Espíritu Santo, que llenaron el Alma de Jesús, Sabiduría hecha Hombre, como lo vemos en Isaías [11, 1](isaias#c11-v1)-3. Como todo lo que es sabiduría, esta gran verdad exige hacerse pequeño (v. [4](#c??-v4)) para poder comprenderla bien; pues choca fuertemente con la sabiduría de la carne, a la cual el apóstol San Pablo llama muerte (Romanos [8, 6](romanos#c8-v6)). Solamente el hombre espiritual puede conocer las cosas que son del Espíritu de Dios (1 Corintios [2, 14](1-corintios#c2-v14)).
+
+[[89]](#rn-89){:#n-89} [??, 7](#c??-v7) ss. Misteriosa contradicción: el que más necesita la enseñanza, huye de ella; y solamente la acepta el que ya es sabio. Esta verdad se nos enseña de numerosas maneras en los Proverbios, con inmenso provecho para los jóvenes y para los maestros. Cf. [13, 1](#c13-v1); [15, 5](#c15-v5); [18, 2](book#c18-v2) s.; [19, 25](book#c19-v25) s.; [21, 29](book#c21-v29); [22, 17](book#c22-v17) s.; [23, 19](book#c23-v19); [24, 13](book#c24-v13) s.; [26, 12](book#c26-v12); [28, 23](book#c28-v23); 29, 1, 15, 19, etc.
+
+[[90]](#rn-90){:#n-90} [??, 10](#c??-v10) Conocer al Santo, es decir, a Dios. Vulgata: la ciencia de los santos. Cf. [1, 7](#c1-v7); Eclesiastés [12, 13](eclesiastes#c12-v13); Salmo [110, 10](salmos#c110-v10) y notas.
+
+[[91]](#rn-91){:#n-91} [??, 13](#c??-v13) s. Sigue la invitación de la necedad bajo la figura de una adúltera (véase [7, 10](#c7-v10) ss.) en contraste con la invitación de la Sabiduría (v. [3](#c??-v3) ss.). La necedad no tiene doncellas como la Sabiduría, derrama su invitación por los altoparlantes de entonces, los pregoneros y voceadores.
+
+[[92]](#rn-92){:#n-92} [??, 17](#c??-v17) Nótese el grafismo de las metáforas en que se vacían los pensamiento, los cuales, "una vez herida la conciencia del oyente, con dificultad se despegan de ella" (Cardenal Gomá). Tenemos aquí otra contradicción (cf. v. [7](#c??-v7) y nota) que muestra cuan depravada está nuestra naturaleza humana. Los antiguos ya la hacían notar, y el gran maestro Fray Luis de León dice: "sabroso cómo la fruta del cercado ajeno". Bastaría esta confesión de la humana perversidad, para destruir la doctrina de Rousseau, que se funda en la herejía pelagiana o semipelagiana de que el hombre es bueno o tiene capacidad propia para el bien, y por lo tanto no necesita de la gracia de Dios.
+
+[[93]](#rn-93){:#n-93} [??, 18](#c??-v18) Otros expositores traducen: No sabe que allí están los gigantes y que los convidados están en lo profundo del infierno. Véase Job [26, 5](job#c26-v5); Isaías [14, 9](isaias#c14-v9) y notas.
+
+[[94]](#rn-94){:#n-94} [??, 1](#c??-v1) Hasta aquí el sabio ha hablado del estudio de la sabiduría en general. Con el cap. 10 empiezan las sentencias particulares y preceptos especiales, empleando el autor sagrado con frecuencia la figura retórica de la antítesis entre el bien y el mal. En el texto hebreo y en los Setenta se lee aquí de nuevo el título: Parábolas de Salomón. Véase 1 Reyes [4, 32](1-reyes#c4-v32), donde se nos dice que el rey sabio escribió tres mil parábolas.
+
+[[95]](#rn-95){:#n-95} [??, 2](#c??-v2) Los tesoros de iniquidad: Jesús usa ese mismo término en la parábola del administrador desleal (Lucas [16, 9](lucas#c16-v9) y [11](lucas#c16-v11)). Las riquezas son llamadas riquezas de iniquidad, porque conducen al hombre a todos los vicios. Cf. Eclesiástico [5, 1](eclesiastico#c5-v1) y nota.
+
+[[96]](#rn-96){:#n-96} [??, 3](#c??-v3) David expone esta consoladora verdad en Salmo [36, 25](salmos#c36-v25); Salmo 40, etc. Jesús la confirma en Mateo [6, 33](mateo#c6-v33).
+
+[[97]](#rn-97){:#n-97} [??, 9](#c??-v9) Recordemos esta aparente paradoja. El que no alardea de habilidad tortuosa, y procede con esa simplicidad que Dios tanto ama (Juan [1, 47](juan#c1-v47); Santiago [4, 8](santiago#c4-v8)), tendrá el mayor éxito asegurado por Él. Sed sencillos como palomas, decía Jesús a los apóstoles (Mateo [10, 16](mateo#c10-v16)). La sencillez y rectitud del corazón es la condición de la fe viva, porque abraza lo que no puede comprender y lo que no puede ver. Santo Tomás encierra esta doctrina en el bello verso: "Quod non capis, quod non vides, animosa firmat fides" (Lauda Sion).
+
+[[98]](#rn-98){:#n-98} [??, 12](#c??-v12) Texto citado en 1 Pedro [4, 8](1-pedro#c4-v8). El amor no hace caso de las ofensas recibidas, sino que las perdona y olvida (cf. 1 Corintios [13, 4](1-corintios#c13-v4)). Santo Tomás (IV Contra Gentes, 21-22), explica admirablemente este concepto, haciendo notar que cuando se reconcilian dos amigos antes distanciados, ninguno recuerda los antiguos agravios. Así hace Dios con nosotros cuando recobramos su amistad mediante un acto de perfecta caridad, sea hacia Él o hacia el prójimo (que es como hecho hacia Cristo). V. gr.: el que perdona puede estar seguro de recibir perdón (véase Mateo [6, 14](mateo#c6-v14); [18, 35](mateo#c18-v35); Eclesiástico [28, 3](eclesiastico#c28-v3) ss.). Santa Teresa de Lisieux dice que hay un modo seguro de ganar indulgencia plenaria, sin otra condición, y es hacer un acto de caridad perfecta.
+
+[[99]](#rn-99){:#n-99} [??, 15](#c??-v15) El rico se siente audaz, y por ello expuesto a la injusticia; el pobre suele sentirse tímido y por eso expuesto al fracaso. La gran ventaja está, pues, en la modesta medianía ([15, 16](book#c15-v16); [28, 20](book#c28-v20); 30, 8; 1 Timoteo [6, 6](1-timoteo#c6-v6) s.).
+
+[[100]](#rn-100){:#n-100} [??, 19](#c??-v19) Lección harto grave. Sobre su importancia véase lo que dice Jesús en Mateo [12, 36](mateo#c12-v36) s.; Eclesiastés [5, 2](eclesiastes#c5-v2); Eclesiástico [20, 8](eclesiastico#c20-v8). Es hombre perfecto el que no peca con la lengua. Véase [18, 21](#c18-v21); Santiago [3, 2](santiago#c3-v2) ss. "Así como en el mucho hablar no falta pecado, del mismo modo el hablar poco y brevemente sirve para que el hombre se guarde del pecado. Y como del mucho hablar se sigue frecuentemente ofensa lo mismo a Dios que al prójimo, así, con el silencio se alimenta la justicia, de la que, como de un árbol, se recoge el fruto de la paz" (San Buenaventura, Vida perfecta).
+
+[[101]](#rn-101){:#n-101} [??, 24](#c??-v24) Es esta una de las tremendas maldiciones bíblicas contra la conciencia tortuosa que pretende engañar a Dios u ocultarse de Él (véase Isaías [66, 4](isaias#c66-v4); Job [15, 21](job#c15-v21)). Por ese camino lleva la soberbia a la desesperación. Y sin embargo, ¡cuán fácil es confesarse pecador y arrojarse en los brazos del Padre que está deseando perdonar! Cf. Salmo 50. A los justos se les concede, etc.: "De donde vemos, que muchos santos desearon muchas cosas en particular por Dios; es de fe que, siendo justo y verdadero su deseo, se les cumplió en la otra vida perfectamente" (San Juan de la Cruz).
+
+[[102]](#rn-102){:#n-102} [??, 26](#c??-v26) Abundan en la Biblia estas expresiones sarcásticas. Cf. [11, 22](#c11-v22); [19, 24](#c19-v24); [24, 30](book#c24-v30); [26, 14](book#c26-v14); Eclesiástico [22, 2](eclesiastico#c22-v2); etc.
+
+[[103]](#rn-103){:#n-103} [??, 28](#c??-v28) Dios ha hecho así el corazón del hombre, que goza ya "en esperanza el fruto cierto" (Fray Luis de León). Véase Salmo [118, 162](salmos#c118-v162) y nota. En cambio, como dice el adagio, "nadie navega contra la corriente de la esperanza". De ahí que San Pablo llame bienaventurada nuestra esperanza en el glorioso retorno de Cristo (Tito [2, 13](tito#c2-v13)), que el Catecismo Romano (I, 8, 2) nos señala como objeto de nuestro más vehemente anhelo, y nos mueve el Apóstol a gozarnos en esa esperanza (Romanos [12, 12](romanos#c12-v12)), la cual nos santifica (1 Juan [3, 3](1-juan#c3-v3)).
+
+[[104]](#rn-104){:#n-104} [??, 30](#c??-v30) Sobre esta promesa y esta amenaza véase [2, 21](#c2-v21); Mateo [5, 4](mateo#c5-v4); Salmo [36, 29](salmos#c36-v29); Salmo [1, 5](salmos#c1-v5), etc.
+
+[[105]](#rn-105){:#n-105} [??, 1](#c??-v1) Cf. [20, 10](#c20-v10); Levítico [19, 35](levitico#c19-v35) s.; Deuteronomio [25, 13](deuteronomio#c25-v13) ss. Es abominación. Ha de aplicarse a cada clase de injusticia. El hombre injusto devora a su prójimo y bebe su sangre (Sabiduría [12, 5](sabiduria#c12-v5)).
+
+[[106]](#rn-106){:#n-106} [??, 2](#c??-v2) Ignominia, es decir, exactamente lo contrario de la gloria que busca el soberbio. Habita con los humildes: La humildad, dice San Agustín, merece ser guiada por la luz de Dios, y la luz de Dios es el premio de la humildad. La humildad alcanza la gracia, y la hija de la humildad es la paz del corazón. Cf. Mateo [11, 29](mateo#c11-v29); Lucas [1, 48](lucas#c1-v48)-53; Santiago [4, 6](santiago#c4-v6).
+
+[[107]](#rn-107){:#n-107} [??, 3](#c??-v3) Su rectitud. Otros traducen: la sencillez. Es decir, el que obra con sencillez, con inocencia, sin doblez ni hipocresía, asegura su salvación. Se dice de los primeros cristianos que partían el pan por las casas de los fieles y tomaban el alimento con alegría y sencillez de corazón (Hechos de los Apóstoles 2, 46). Cf. [9, 4](#c9-v4) y nota.
+
+[[108]](#rn-108){:#n-108} [??, 4](#c??-v4) Sobre el día de la ira, o el día de la venganza (Vulgata) véase Salmo [2, 12](salmos#c2-v12) s.; Isaías [61, 1](isaias#c61-v1) ss.; Sofonías [1, 15](sofonias#c1-v15); Romanos [2, 5](romanos#c2-v5); Apocalipsis [6, 17](apocalipsis#c6-v17), etc. Puede entenderse también de la ira o celos de Dios cuando el alma desprecia su amor. Cf. Eclesiástico [5, 8](eclesiastico#c5-v8) s. Muerte: ha de pensarse no solamente en la muerte corporal, sino también en la muerte eterna, que San Juan llama muerte segunda (Apocalipsis [20, 6](apocalipsis#c20-v6), 14).
+
+[[109]](#rn-109){:#n-109} [??, 7](#c??-v7) Es lo que el Dante escribió lapidariamente en la tremenda puerta del infierno: "Lasciate ogni speranza, o voi ch'entrate" (Infierno III).
+
+[[110]](#rn-110){:#n-110} [??, 8](#c??-v8) Ejemplos son Job, David, Ester, Daniel, Susana y muchos otros. Véase Salmo [33, 20](salmos#c33-v20) y nota; Santiago [5, 11](santiago#c5-v11).
+
+[[111]](#rn-111){:#n-111} [??, 9](#c??-v9) Ciencia: Ella nos hace descubrir el fondo de los corazones y librarnos de los engaños. Cf. Lucas [2, 35](lucas#c2-v35). Por esta ciencia es preciso entender lo que el autor sagrado llama sabiduría, es decir, el conocimiento de Dios, de su amor, de las cosas divinas, de la gracia, del servicio de Dios, de la Escritura, del alma, de la salvación, de las postrimerías. "La ciencia de Dios es el manantial de todos los bienes..., La cosa más preciosa y más perfecta es el conocimiento de Dios" (San Gregorio Nacianceno).
+
+[[112]](#rn-112){:#n-112} [??, 12](#c??-v12) El varón prudente se calla. "El don más valioso y el más sublime, sobre todo para una mujer, es el silencio, la modestia y el retiro", dice San Jerónimo (Ad Marcellam).
+
+[[113]](#rn-113){:#n-113} [??, 14](#c??-v14) Gobernar es el arte de las artes; los sabios más grandes se han empeñado en elaborar sistemas y métodos aptos para gobernar a los pueblos (cf. por ejemplo, el escrito de Santo Tomás "El gobierno del príncipe"), pero más difícil es conducir las almas. Los que están destinados a corregir a otros, deben ser irreprensibles. Por eso los sacerdotes, mediadores entre Dios y el pueblo, deben tener una conciencia sin mancha ante Dios y una excelente reputación ante los hombres (Santo Tomás; cf. 1 Timoteo [3, 7](1-timoteo#c3-v7)).
+
+[[114]](#rn-114){:#n-114} [??, 15](#c??-v15) El que rehúsa dar fianzas. Vulgata: el que se guarda de lazos. Según esto, el sentido parece ir más allá de las fianzas y prevenirnos contra la credulidad en los hombres porque "Dios es veraz y todo hombre es mentiroso" (Romanos [3, 4](romanos#c3-v4)). Cf. [1, 17](#c1-v17); Salmo [115, 2](salmos#c115-v2) y notas.
+
+[[115]](#rn-115){:#n-115} [??, 20](#c??-v20) Si somos sinceros, el Padre hace de nosotros el objeto de sus complacencias, como lo es su Hijo Jesús. Véase Mateo [3, 17](mateo#c3-v17).
+
+[[116]](#rn-116){:#n-116} [??, 22](#c??-v22) Véase [10, 26](#c10-v26) y nota. La comparación es tan sabia como humorística.
+
+[[117]](#rn-117){:#n-117} [??, 24](#c??-v24) Anticipo de las promesas del Evangelio. Cf. Lucas [6, 38](lucas#c6-v38).
+
+[[118]](#rn-118){:#n-118} [??, 26](#c??-v26) Léanlo los acaparadores que amontonan mercaderías para sustraerlas a la circulación. Provocan así una escasez artificial con la subsiguiente alza de precios y venden después las mercaderías más caras, aprovechando la necesidad de los pobres: Pecado muy frecuente en tiempos de guerra y postguerra.
+
+[[119]](#rn-119){:#n-119} [??, 29](#c??-v29) Se refiere a un desorden culpable (cf. [15, 27](#c15-v27)). Hablando de lo espiritual, Jesús anuncia a sus discípulos muchas luchas domésticas. Véase Mateo [10, 36](mateo#c10-v36) s.; Lucas [12, 51](lucas#c12-v51)-53; [14, 26](lucas#c14-v26); Juan [7, 5](juan#c7-v5); [15, 20](juan#c15-v20); Mateo [10, 21](mateo#c10-v21) ss.
+
+[[120]](#rn-120){:#n-120} [??, 31](#c??-v31) Véase lo que Jesús dice a las hijas de Jerusalén (Lucas [23, 31](lucas#c23-v31)). San Pedro (I, 4, 18) usa esta misma comparación con respecto a la salvación eterna, y de ahí la toma el "Dies Irae", "Cum vix iustus sit securus."
+
+[[121]](#rn-121){:#n-121} [??, 1](#c??-v1) Insensato: El mundo, al revés, aplaude a los presuntuosos que confían en sí mismos y no aceptan corrección alguna. Convendría reconsiderar los modernos sistemas de educación.
+
+[[122]](#rn-122){:#n-122} [??, 6](#c??-v6) Precioso lema para un abogado cristiano.
+
+[[123]](#rn-123){:#n-123} [??, 9](#c??-v9) Elogia a los que ganan el sustento con el trabajo de sus manos (véase v. [11](#c??-v11)). Elogio tanto más notable cuanto menos se estimaba entre los antiguos el trabajo manual. Cf. v. [24](#c??-v24) y 27; [16, 26](book#c16-v26); [21, 25](book#c21-v25).
+
+[[124]](#rn-124){:#n-124} [??, 13](#c??-v13) Es lo que expresa el refrán: el pez por su boca muere. Véase [10, 19](#c10-v19); [18, 7](#c18-v7).
+
+[[125]](#rn-125){:#n-125} [??, 15](#c??-v15) No hay peor enfermo que el que se cree sano. No podrá curarse jamás, pues no recurre al médico. Tal es lo que Jesús increpó a los fariseos. Véase Mateo [9, 12](mateo#c9-v12) s.; Juan [9, 39](juan#c9-v39) ss.
+
+[[126]](#rn-126){:#n-126} [??, 16](#c??-v16) Disimula la afrenta: "Menos se sufriría, dice San Crisóstomo, viviendo con animales feroces que con hombres de carácter arrebatado. Puede amansarse el león, pero no aquel hombre." Cf. Ed. 7, 10; Santiago [1, 19](santiago#c1-v19) s. Jesús nos da sobre esto innumerables lecciones. Cuando se trata de la honra del Padre, se indigna terriblemente contra los fariseos y doctores que quieren arrebatársela, con apariencias de religiosidad. Pero en lo que es contra Él, guarda silencio (Mateo [26, 63](mateo#c26-v63); Isaías [53, 7](isaias#c53-v7); Hechos de los Apóstoles 8, 32) o responde con suavidad a las mayores ignominias (véase Juan [8, 48](juan#c8-v48) ss.; [18, 23](juan#c18-v23); Mateo [12, 24](mateo#c12-v24) ss.; etc.).
+
+[[127]](#rn-127){:#n-127} [??, 18](#c??-v18) La espada es la mala lengua. Cf. v. [13](#c??-v13). La Vulgata trae otro texto: Hay quien promete, y queda herida su conciencia como de una espada, mas la lengua de los sabios es sanidad.
+
+[[128]](#rn-128){:#n-128} [??, 20](#c??-v20) Bienaventurados los pacíficos (es decir, estos que llevan la paz), porque ellos serán llamados hijos de Dios (Mateo [5, 9](mateo#c5-v9)).
+
+[[129]](#rn-129){:#n-129} [??, 21](#c??-v21) Las pruebas no son desgracias, sino favores y remedios necesarios. El mal verdadero no existe sino en el pecado. Por eso "el justo no teme malas noticias" (Salmo [111, 7](salmos#c111-v7)). Santo Tomás enseña que en Jesucristo y en los justos la tristeza ha consistido en prever y sentir los males, pero no en turbarse por ellos (II-II, q. 136, art. 2).
+
+[[130]](#rn-130){:#n-130} [??, 23](#c??-v23) ¡Lo malo se muestra y lo bueno se oculta! Paradoja semejante a las de [9, 7](book#c9-v7) y [10, 9](book#c10-v9).
+
+[[131]](#rn-131){:#n-131} [??, 25](#c??-v25) Poderoso estímulo para el apostolado de la caridad. Sobre todo si sabemos que Jesús ora al Padre por la eficacia de nuestras palabras (Juan [17, 20](juan#c17-v20)).
+
+[[132]](#rn-132){:#n-132} [??, 27](#c??-v27) El holgazán no asa la caza: Admiremos la sabiduría de nuestro Padre y la suavidad de sus caminos: del trabajo doloroso, fruto del pecado. (Génesis3, 17 ss.), ha hecho una ley de felicidad, de higiene, de provecho. Véase v. [9](#c??-v9); 13, 11; Eclesiastés [5, 17](eclesiastes#c5-v17) ss.; [7, 10](eclesiastes#c7-v10) y notas. Cf. [6, 16](#c6-v16) y nota. "La ociosidad mata al cuerpo, y la indolencia al alma" (San Crisóstomo).
+
+[[133]](#rn-133){:#n-133} [??, 1](#c??-v1) El primer hemistiquio puede traducirse: El hijo sabio revela (con su aprovechamiento) la instrucción de su padre. En este pensamiento se funda el epitafio del rey don Alfonso el Sabio, enterrado junto a su padre San Fernando en Sevilla.
+
+[[134]](#rn-134){:#n-134} [??, 4](#c??-v4) Vulgata: Quiere y no quiere el perezoso. Es como en la fábula del célebre asno de Buridán, que murió entre dos fardos de heno, sin resolverse a empezar por uno u otro.
+
+[[135]](#rn-135){:#n-135} [??, 7](#c??-v7) Nueva paradoja: el pobre quiere ostentar riqueza, y el rico quiere esconderla.
+
+[[136]](#rn-136){:#n-136} [??, 8](#c??-v8) Se libra el rico de los peligros, a costa de dinero; mientras el pobre no teme ladrones y puede dormir a puertas abiertas.
+
+[[137]](#rn-137){:#n-137} [??, 9](#c??-v9) Luz y lámpara son símbolos de la felicidad. Cf. [24, 25](#c24-v25); Job [18, 5](job#c18-v5) s.; [21, 17](job#c21-v17).
+
+[[138]](#rn-138){:#n-138} [??, 10](#c??-v10) El que se deja aconsejar aprovecha toda la ciencia de los otros. Solo el insensato puede creer que no necesita consejo.
+
+[[139]](#rn-139){:#n-139} [??, 13](#c??-v13) Quien menosprecia la palabra, se pierde. Véase sobre esto la asombrosa revelación de Cristo en Juan [12, 47](juan#c12-v47) s.: "No vine a juzgar al mundo sino a salvarlo". La palabra de su amor despreciado, esa nos juzgará.
+
+[[140]](#rn-140){:#n-140} [??, 14](#c??-v14) "Las palabras que os he dado son espíritu y vida" (Juan [6, 63](juan#c6-v63); Vulgata 6, 64).
+
+[[141]](#rn-141){:#n-141} [??, 15](#c??-v15) Vulgata: La buena doctrina hace agradable al hombre; en el camino de los que la desprecian hay un precipicio.
+
+[[142]](#rn-142){:#n-142} [??, 19](#c??-v19) El necio abomina apartarse del mal. Es el problema de los fariseos que Jesús planteó en Juan [3, 19](juan#c3-v19).
+
+[[143]](#rn-143){:#n-143} [??, 20](#c??-v20) De aquí el proverbio: "Dime con quién paces y decirte he qué haces", y el otro: "dime con quién andas y te diré quién eres". Cf. [1, 15](#c1-v15) y nota. En la Sagrada Escritura está el origen de muchísimos refranes, que pasaron al pueblo en épocas de piedad.
+
+[[144]](#rn-144){:#n-144} [??, 22](#c??-v22) Véase la parábola de los cinco talentos, donde el que no trabaja pierde su talento en favor de los que han trabajado (Mateo [25, 28](mateo#c25-v28) s. Véase también Lucas [19, 26](lucas#c19-v26); [8, 18](lucas#c8-v18)).
+
+[[145]](#rn-145){:#n-145} [??, 23](#c??-v23) En vez de pobres traduce la Vulgata padres.
+
+[[146]](#rn-146){:#n-146} [??, 25](#c??-v25) El pobre come contento ([17, 1](book#c17-v1)) "con la salsa de su hambre" (Cervantes), mientras que al hedonista, estragado, nada le satisface. Cf. [15, 16](#c15-v16) s.; [16, 8](#c16-v8).
+
+[[147]](#rn-147){:#n-147} [??, 1](#c??-v1) Véase el cap. 31, 10 ss. que traza la semblanza de la mujer fuerte. "La misión de la mujer cristiana, dice Ozanam, tiene cierta analogía con los ángeles custodios; guían al mundo, pero, como ellos, son invisibles."
+
+[[148]](#rn-148){:#n-148} [??, 6](#c??-v6): El mofador no encuentra la sabiduría, porque no la hay sin temor de Dios. Véase [1, 7](#c1-v7).
+
+[[149]](#rn-149){:#n-149} [??, 7](#c??-v7) Es decir, ¿para qué te expondrías a la seducción? Los falsos profetas conquistan fácilmente. Véase Juan [5, 43](juan#c5-v43); 2 Tesalonicenses [2, 9](2-tesalonicenses#c2-v9) s.
+
+[[150]](#rn-150){:#n-150} [??, 8](#c??-v8) ¡Cuántos fracasos evitaría la juventud si meditara en esto y encomendara su camino a la Providencia! Véase Salmos [36, 5](salmos#c36-v5); [142, 8](salmos#c142-v8)-10.
+
+[[151]](#rn-151){:#n-151} [??, 9](#c??-v9) La gracia: Es la ley de Cristo: absolved y se os absolverá (Lucas [6, 37](lucas#c6-v37)). El que se siente débil no se burla de la caída de otros. ¡Sabe que pronto puede tocarle a él!
+
+[[152]](#rn-152){:#n-152} [??, 12](#c??-v12); ¡Qué decepción tremenda para tantos que quizá se creyeron llenos de méritos en vez de hacerse pequeños como los niños! (Mateo [18, 18](mateo#c18-v18), 1 ss.). La explicación la da San Pablo en 1 Corintios [13, 1](1-corintios#c13-v1) ss. al revelarnos que nuestras obras solo se valorizan por el amor. Lo primero que el amor busca no es ganar méritos ante el amado, sino saber lo que a este le agrada, para darle gusto. ¿No debería ser esto decisivo para movernos a querer saber lo que está escrito en ese largo y casi ignorado Libro de las divinas Escrituras para saber lo que a Dios le gusta? Isaías traía este problema tanto al principio (Isaías [1, 11](isaias#c1-v11)) como al fin (Isaías [66, 1](isaias#c66-v1) ss.).
+
+[[153]](#rn-153){:#n-153} [??, 13](#c??-v13) La risa está mezclada con el dolor. "Dios, dice San Agustín, mezcla las amarguras con las alegrías de la tierra, para que ansiemos aquella felicidad cuya dulzura nunca engaña."
+
+[[154]](#rn-154){:#n-154} [??, 15](#c??-v15) He aquí un punto que debe entenderse bien. Este simple no es el simple de corazón, que Dios tanto alaba (véase [11, 3](#c11-v3)), sino el tonto que cree en los hombres. Jesús nos enseña a desconfiar de ellos (Juan [2, 24](juan#c2-v24) s.) con prudencia de serpiente, guardando para con nuestro Padre celestial la sencillez de la paloma (Mateo [10, 16](mateo#c10-v16) s.). Véase 1 Juan [4, 1](1-juan#c4-v1); 1 Tesalonicenses [5, 21](1-tesalonicenses#c5-v21).
+
+[[155]](#rn-155){:#n-155} [??, 16](#c??-v16) Véase [1, 7](#c1-v7); Job [28, 28](job#c28-v28).
+
+[[156]](#rn-156){:#n-156} [??, 20](#c??-v20) Vieja verdad, que muestra una vez más la miseria de nuestro corazón. Ovidio la expresaba en célebres versos: "Mientras seas feliz, contarás con muchos amigos. En los tiempos sombríos te quedarás solo." Véase [19, 4](#c19-v4).
+
+[[157]](#rn-157){:#n-157} [??, 21](#c??-v21) Sobre el menosprecio véase en Mateo [5, 22](mateo#c5-v22) el extremo rigor de la caridad evangélica. La Vulgata agrega: el que cree en el Señor ama la misericordia, lo cual encierra una admirable doctrina. "Es decir que la fe y el conocimiento de Dios son el principio, la raíz de la misericordia; porque quien cree en Dios, en sus misterios, en sus bondades, en los destinos que ha dado al nombre, no podrá menos de ser piadoso con su prójimo; y de la virtud sobrenatural de la fe, brota la virtud sobrenatural del amor" (Rup. de Manresa). Véase Gálatas [5, 6](galatas#c5-v6); Job [31, 13](job#c31-v13); Eclesiástico [28, 1](eclesiastico#c28-v1)-14.
+
+[[158]](#rn-158){:#n-158} [??, 24](#c??-v24) Las riquezas usadas en honra de Dios y a favor del prójimo, sin poner en ellas el corazón. Véase Salmos [111, 3](salmos#c111-v3); [61, 11](salmos#c61-v11).
+
+[[159]](#rn-159){:#n-159} [??, 28](#c??-v28) Fundamento de la sabia máxima de Juan Bautista Alberdi: "Gobernar es poblar." Condenación, por lo tanto, del crimen anticoncepcionista. Cf. Salmo [127, 3](salmos#c127-v3) y nota.
+
+[[160]](#rn-160){:#n-160} [??, 29](#c??-v29) Así se define el mismo Dios: ¡sufrido y tardo en airarse! (Salmos [85, 15](salmos#c85-v15); [102, 8](salmos#c102-v8) s.; [144, 8](salmos#c144-v8)). Así hemos de ser nosotros (Santiago [1, 19](santiago#c1-v19)), a imitación del Padre (Lucas [6, 36](lucas#c6-v36) ss.; Efesios [4, 32](efesios#c4-v32)). Véase [19, 11](#c19-v11).
+
+[[161]](#rn-161){:#n-161} [??, 30](#c??-v30) La medicina moderna encarece la influencia de los nervios tranquilos sobre la salud general.
+
+[[162]](#rn-162){:#n-162} [??, 31](#c??-v31) Porque Dios es el defensor de los pobres (Salmo [71, 12](salmos#c71-v12)-14) y los ha elegido para hacerlos ricos en la fe (Santiago [2, 5](santiago#c2-v5)). De ahí que el amor de Dios nos lleve directamente a la caridad fraterna, es decir, a amar a los que Él ama. Medítese esto a la luz del Mandamiento Nuevo (Juan [13, 34](juan#c13-v34); [15, 12](juan#c15-v12); 1 Juan [4, 11](1-juan#c4-v11); Mateo [25, 40](mateo#c25-v40); Isaías [28, 12](isaias#c28-v12)).
+
+[[163]](#rn-163){:#n-163} [??, 32](#c??-v32) Cf. la célebre frase de Job ([13, 15](book#c13-v15)) y su confesión del Redentor ([19, 25](book#c19-v25)-27). Para llenarse de esperanza en la hora de la muerte, medítese el Salmo 30.
+
+[[164]](#rn-164){:#n-164} [??, 34](#c??-v34) El pecado es el oprobio de las naciones. Vulgata: el pecado hace miserables a los pueblos. "Los bárbaros sacan sus fuerzas de nuestros pecados", dice San Jerónimo (Epístola III ad Heliod.). Los mismos escritores romanos, especialmente Tácito, reconocen la alta moral de los bárbaros y los presentan a los decadentes romanos como modelo.
+
+[[165]](#rn-165){:#n-165} [??, 1](#c??-v1) Esta regla de oro debería figurar en carteles en las puertas de todos los despachos y oficinas. "Firmeza, energía, granítica entereza, pero nada de ímpetu brusco e irreflexivo, nada de estridencias y desplantes. Lo cortés no quita a lo valiente, reza el antiguo refrán español. Valentía sin descomedimiento. ¿Para qué lanzar frases amargas que ofenden y repelen, cuando tenemos razones que, propuestas con serena dignidad, pueden engendrar el convencimiento y conquistar simpatías?" (Fernández, Flor. Bibl. IX, 44).
+
+[[166]](#rn-166){:#n-166} [??, 2](#c??-v2) Cf. [29, 20](#c29-v20); Eclesiástico [10, 14](eclesiastico#c10-v14); [21, 28](eclesiastico#c21-v28).
+
+[[167]](#rn-167){:#n-167} [??, 8](#c??-v8) El sabio se refiere a las víctimas de la Ley Antigua, las cuales recibían su valor y su eficacia de la intención del que las ofrecía. Sobre el primer hemistiquio véase la indignación de Dios en Isaías [1, 11](isaias#c1-v11) ss. Sobre el segundo véase las promesas de Isaías [1, 16](isaias#c1-v16) ss.; [56, 7](isaias#c56-v7) s.; Salmos [50, 20](salmos#c50-v20) s.; [65, 15](salmos#c65-v15).
+
+[[168]](#rn-168){:#n-168} [??, 10](#c??-v10) Es el drama de los que "prefieren las tinieblas a la luz porque sus obras son malas" (Juan [3, 19](juan#c3-v19)).
+
+[[169]](#rn-169){:#n-169} [??, 11](#c??-v11) El scheol: Cf. Job [10, 21](job#c10-v21); [19, 25](job#c19-v25) s.; Eclesiástico [9, 5](eclesiastico#c9-v5) y notas. Vulgata; infierno.
+
+[[170]](#rn-170){:#n-170} [??, 13](#c??-v13) "La tristeza, dice el P. Faber, es una como endeblez y miseria espiritual; el melancólico y triste no será nunca más que un convaleciente en la casa de Dios; tal vez piense mucho en Dios, pero le adora muy poco" (Belén, IV).
+
+[[171]](#rn-171){:#n-171} [??, 16](#c??-v16) Es lo que dice el refrán: "Más vale poco y bien ganado, que mucho y mal allegado."
+
+[[172]](#rn-172){:#n-172} [??, 23](#c??-v23) Una palabra dicha a tiempo: la palabra oportuna. ¡Qué enseñanza tan admirable! Puede ahorrarnos mil intentos ilusorios de convencer al que no quiere ser convencido.
+
+[[173]](#rn-173){:#n-173} [??, 25](#c??-v25) La heredad: los campos de la viuda apetecidos por los vecinos, que se apoderaban de ellos trasponiendo los mojones y sobornando a los jueces. Se deduce de aquí el respeto debido al derecho de propiedad.
+
+[[174]](#rn-174){:#n-174} [??, 28](#c??-v28) El que no haya aprendido bien a obedecer, no sabe discutir ni juzgar (San Gregorio, lib. II in I Reg.).
+
+[[175]](#rn-175){:#n-175} [??, 29](#c??-v29) Dios está lejos de los impíos, de modo que son "hijos de la ira" (Efesios [2, 3](efesios#c2-v3)), objetos del castigo de Dios.
+
+[[176]](#rn-176){:#n-176} [??, 33](#c??-v33) A la gloria precede la humildad: No hay mejor ejemplo para esto que el mismo Jesucristo, quien no quiso entrar en la gloria antes de humillarse hasta la muerte. Véase Lucas [24, 26](lucas#c24-v26). "Creedme, dice San Cirilo de Jerusalén, el que se cree grande se hace abyecto, como el que se cree sabio se vuelve necio. Allí donde se halla una profunda humildad, está la dignidad suprema."
+
+[[177]](#rn-177){:#n-177} [??, 1](#c??-v1) Es muy importante la interpretación doctrinaria de este versículo, pues los pelagianos pretendieron apoyar en él su herejía de que el hombre precede a la gracia. "El hombre prepara ciertamente el corazón, pero no sin que Dios lo toque y lo mueva... Muchas obras buenas hace Dios en el hombre, que este no realiza; ninguna hace el hombre, que primero no haga Dios en él para que pueda hacerla" (San Agustín). Esta y otras sentencias del gran Doctor de Hipona, recocidas por San Próspero, son la materia de las definiciones que San Cesáreo de Arles propuso al II Concilio Arausicano (véase Denz. 174 ss.).
+
+[[178]](#rn-178){:#n-178} [??, 4](#c??-v4) "Dios no creó el mundo porque este le signifique algún provecho, sino por pura bondad suya" (Santo Tomás). Aun al impío para el día aciago, es decir, para el juicio, no para la condenación eterna, como sostienen los calvinistas, pues Dios da a todos la gracia necesaria para salvarse.
+
+[[179]](#rn-179){:#n-179} [??, 5](#c??-v5) La Vulgata añade: El principio del camino bueno es hacer justicia, porque delante de Dios es más acepta que ofrecer víctimas.
+
+[[180]](#rn-180){:#n-180} [??, 8](#c??-v8) Sobre la saludable medianía ("áurea mediocritas", "in medio stat virtus") véase [10, 15](#c10-v15); Salmo [36, 16](salmos#c36-v16) y notas.
+
+[[181]](#rn-181){:#n-181} [??, 9](#c??-v9) De aquí el proverbio: "El hombre propone y Dios dispone." Cf. [19, 21](#c19-v21). El Papa Celestino I invoca este texto en su Epístola contra los semipelagianos cap. 8. Véase v. [1](#c??-v1) y nota; 21, 1; Jeremías [10, 23](jeremias#c10-v23); etc.
+
+[[182]](#rn-182){:#n-182} [??, 10](#c??-v10) Oráculos: Así se llaman las leyes y órdenes del rey, "porque debemos respetarlas como salidas de Dios, y obedecerlas, no solo por el temor del castigo o pena que la ley impone, sino aún por principio de conciencia, conforme nos dijo San Pablo" (Páramo). El aludido y tan olvidado pasaje se halla en la Carta a los Romanos ([13, 5](book#c13-v5) ss.), donde el Apóstol nos inculca el deber de pagar religiosamente los tributos, impuestos y lo que el gobierno nos imponga, porque también las autoridades civiles son "ministros de Dios" (ibíd. v. [6](#c??-v6)).
+
+[[183]](#rn-183){:#n-183} [??, 11](#c??-v11) También el comercio se halla sometido a la ley de Dios. Las pesas de la bolsa son las que los comerciantes llevaban consigo para pesar las mercaderías.
+
+[[184]](#rn-184){:#n-184} [??, 15](#c??-v15) El bienestar del país depende del rey y su gobierno, así como las mieses dependen de la lluvia tardía (= la de primavera), cuya falta producía en Palestina sequedad y hambre.
+
+[[185]](#rn-185){:#n-185} [??, 18](#c??-v18) Véase [15, 33](#c15-v33) y nota.
+
+[[186]](#rn-186){:#n-186} [??, 20](#c??-v20) El término "palabra" significa también, en su equivalente hebreo, "obra". De ahí que los Setenta viertan "obras" lo mismo que la Ferrarense. No hay duda de que aquí se trata de la palabra de Dios. Cf. el Salmo 118 y sus notas.
+
+[[187]](#rn-187){:#n-187} [??, 22](#c??-v22) Fuente de vida es la sabiduría, si se orienta hacia Dios. "La más perfecta de todas las cosas es el conocimiento de Dios" (Gregorio Nacianceno). El conocimiento y el recuerdo de Dios excluyen todos los crímenes (San Jerónimo).
+
+[[188]](#rn-188){:#n-188} [??, 24](#c??-v24) Las raíces de la ciencia son amargas, dice Aristóteles, pero sus frutos son dulces. Si esto vale para las ciencias profanas, ¡cuánto más valdrá para la ciencia de las ciencias, que es el conocimiento de Dios! "Conocer a Dios es la plenitud de la ciencia; la plenitud de esta ciencia es la gloria, la consumación de la gracia y la perpetuidad de la vida". Cf. Juan [17, 3](juan#c17-v3).
+
+[[189]](#rn-189){:#n-189} [??, 26](#c??-v26) Su boca, es decir el hambre, obliga al hombre a trabajar (Génesis3, 19). Véase [12, 27](#c12-v27).
+
+[[190]](#rn-190){:#n-190} [??, 28](#c??-v28) Los amigos. Vulgata: los príncipes (véase Eclesiástico [1, 14](eclesiastico#c1-v14)). Es lo contrario de la bienaventuranza de 12, 20.
+
+[[191]](#rn-191){:#n-191} [??, 32](#c??-v32) "Toda la ascética cristiana viene glosando este proverbio salomónico; se adelanta, y de mucho, el que se vence a sí mismo, al que conquista reinos. También Ovidio decía: Fortior est qui se, quam qui fortissima vincit moenia" (P. Manresa).
+
+[[192]](#rn-192){:#n-192} [??, 33](#c??-v33) En el regazo: Es frecuente en la Escritura el echar suertes para conocer la divina voluntad. Véase Josué [7, 14](josue#c7-v14); 1 Samuel [10, 24](1-samuel#c10-v24); Hechos de los Apóstoles 1, 26. "No es malo echar suertes, dice San Agustín. Es cosa que, en duda humana, nos indica la voluntad divina" (In Psalmo XXX, 16). Cf. [18, 18](#c18-v18).
+
+[[193]](#rn-193){:#n-193} [??, 1](#c??-v1) Víctimas; porque en los sacrificios pacíficos una parte de la víctima servía para convite. Véase [7, 14](#c7-v14); [13, 25](#c13-v25) y notas.
+
+[[194]](#rn-194){:#n-194} [??, 3](#c??-v3) Véase [27, 21](#c27-v21); Salmo [25, 2](salmos#c25-v2); Jeremías [17, 10](jeremias#c17-v10); Malaquías [3, 3](malaquias#c3-v3); 1 Corintios [3, 12](1-corintios#c3-v12) ss.; 1 Pedro [1, 7](1-pedro#c1-v7).
+
+[[195]](#rn-195){:#n-195} [??, 5](#c??-v5) Dios es abogado de los pobres. Véase [14, 31](#c14-v31). Sobre el segundo hemistiquio véase [24, 17](#c24-v17); Job [31, 29](job#c31-v29).
+
+[[196]](#rn-196){:#n-196} [??, 8](#c??-v8) El segundo hemistiquio dice lo mismo que el refrán: "dádivas quebrantan peñas".
+
+[[197]](#rn-197){:#n-197} [??, 9](#c??-v9) "Por eso dice La Bruyère que no puede ser firme la amistad de aquellos que no están dispuestos a perdonarse las faltas" (Bover-Cantera).
+
+[[198]](#rn-198){:#n-198} [??, 11](#c??-v11) Un cruel mensaje. Otros: un cruel mensajero; Vulgata: un ángel cruel. Es el castigo que Dios le manda o le reserva.
+
+[[199]](#rn-199){:#n-199} [??, 12](#c??-v12) No hay amigo íntimo que nos diga la verdad sobre nuestros defectos tan crudamente, tan sabia y amorosamente como la Sagrada Escritura. Esta formidable burla contra los presumidos, es un remedio para curarnos de la ostentación, mostrándonos que allí donde creemos ser admirados, solo recogemos el ridículo. Véase el caso de Ezequías (2 Reyes [20, 13](2-reyes#c20-v13)-18).
+
+[[200]](#rn-200){:#n-200} [??, 14](#c??-v14) ¿No es cierto que la mayor parte de los homicidios empiezan en pequeñas disputas? Los pleitos, a no ser que se corten, se multiplican prodigiosamente y llegan a ser interminables. Cf. 2 Timoteo [2, 23](2-timoteo#c2-v23).
+
+[[201]](#rn-201){:#n-201} [??, 18](#c??-v18) Es una burla del crédulo que confía en los hombres. Véase [6, 1](#c6-v1) s.; [11, 15](#c11-v15); [20, 16](book#c20-v16); [22, 26](book#c22-v26); 27, 13.
+
+[[202]](#rn-202){:#n-202} [??, 19](#c??-v19) Otros: Ama el delito quien ama los pleitos (véase Mateo [5, 40](mateo#c5-v40); 1 Corintios [6, 7](1-corintios#c6-v7)). El segundo hemistiquio nos enseña la ruina segura del ambicioso. Véase 1 Timoteo [6, 9](1-timoteo#c6-v9) s.
+
+[[203]](#rn-203){:#n-203} [??, 22](#c??-v22) Cf. el magnífico elogio de la alegría en Eclesiástico [30, 23](eclesiastico#c30-v23). "No busques la alegría en los caminos del mundo; no la busques en los bailes, ni en las tabernas, ni en el alcohol, ni en el lodazal del pecado. Ahí no la encontrarás." Toda alegría impura se castiga con la pérdida de la verdadera alegría. "No hay miseria mayor que una falsa alegría", dice San Bernardo. "Busca la alegría donde seguramente la hallarás: en el estricto cumplimiento del deber; en el excelso camino de una vida cristiana, en el aire puro de la fe, en el calor radiante de la caridad... Ahí la encontrarás. No te contentes con creerlo. Puedes experimentarlo, comprobarlo y disfrutarlo" (Mons. Keppler, Más alegría).
+
+[[204]](#rn-204){:#n-204} [??, 24](#c??-v24) Los ojos de los necios reflejan el vacío de su alma. Buscan inútilmente un objeto, siempre asomados al balcón de la conciencia, sin mirar a su interior (véase Jeremías [12, 11](jeremias#c12-v11)). Dice San Gregorio Magno: "El alma que no está iluminada de Dios, siempre tiene los ojos bajos, y no desea más que la tierra."
+
+[[205]](#rn-205){:#n-205} [??, 28](#c??-v28) Verdadero secreto psicológico. Cf. Job [13, 5](job#c13-v5).
+
+[[206]](#rn-206){:#n-206} [??, 1](#c??-v1) Vulgata: Pretextos busca quien quiere retirarse del amigo; en todo tiempo será digno de vituperio. ¡Qué luz para los pedagogos! ¿Hay mayor verdad psicológica que esta?
+
+[[207]](#rn-207){:#n-207} [??, 2](#c??-v2) Se deja llevar por los gustos de su corazón: ¿No es esta la explicación de tanto libro inútil? Y cada crítico juzga la inteligencia de otro según esté o no de acuerdo con lo que él piensa.
+
+[[208]](#rn-208){:#n-208} [??, 3](#c??-v3) El primer hemistiquio reza en la Vulgata: El impío después de haber llegado al profundo de los pecados no hace caso. "Tantas veces como recae el pecador, otras tantas cadenas se fabrica", dice San Gregorio.
+
+[[209]](#rn-209){:#n-209} [??, 4](#c??-v4) Del hombre, es decir, del hombre sabio. Admirable elogio del poder de la palabra, que es el vehículo de la doctrina.
+
+[[210]](#rn-210){:#n-210} [??, 8](#c??-v8) El sentido es: Son sabrosas las palabras del maldiciente, y penetran hasta el fondo del corazón. Es el placer perverso que sentimos al escuchar la comidilla de la murmuración. Y lo fácilmente que corre el venticello de la calumnia. Y es que "algo de ella queda siempre".
+
+[[211]](#rn-211){:#n-211} [??, 10](#c??-v10) Ciudadela es el Nombre de Yahvé. Los Salmos 22 y 90 expresan ese delicioso reposo de la confianza. Véase también Salmos [19, 2](salmos#c19-v2); [60, 4](salmos#c60-v4); [70, 3](salmos#c70-v3); Joel [2, 32](joel#c2-v32) y Romanos [10, 13](romanos#c10-v13). En el Nuevo Testamento el Nombre de Jesús es igualmente fortaleza nuestra. "Hay en el nombre de Jesús, dice Orígenes, tanta fuerza contra los demonios, que al pronunciarlo se consigue el efecto deseado" (Contra Celso).
+
+[[212]](#rn-212){:#n-212} [??, 12](#c??-v12) Es toda la doctrina del Magníficat (Lucas [1, 48](lucas#c1-v48)-53). Véase [11, 2](#c11-v2); [15, 33](#c15-v33); 16, 18; Eclesiástico [10, 15](eclesiastico#c10-v15); [11, 8](eclesiastico#c11-v8); Mateo [23, 12](mateo#c23-v12).
+
+[[213]](#rn-213){:#n-213} [??, 14](#c??-v14) Es como si la sal pierde su sabor (Mateo [5, 13](mateo#c5-v13)). Jesús nos da el remedio en Marcos [14, 38](marcos#c14-v38).
+
+[[214]](#rn-214){:#n-214} [??, 17](#c??-v17) El sentido es: El que habla primero tiene razón, pero luego viene otro, su adversario, y examina lo que ha dicho el primero. Es decir: "No debemos oír una sola campana." La Vulgata vierte: El justo es el primer acusador de sí mismo; viene su amigo y lo sondeará. Según esto, se refiere a la humildad. El humilde se considera como el más indigno de todos, aunque viva más rectamente que los otros. El hombre verdaderamente humilde ignora su grandeza; y precisamente por ello Dios le ensalzará, y serán los últimos los primeros (Mateo [19, 30](mateo#c19-v30)).
+
+[[215]](#rn-215){:#n-215} [??, 21](#c??-v21) "La lengua contamina todo el cuerpo" (Santiago [3, 6](santiago#c3-v6)). Cf. [10, 19](#c10-v19) y nota.
+
+[[216]](#rn-216){:#n-216} [??, 22](#c??-v22) Cf. [19, 14](#c19-v14); [31, 10](#c31-v10) ss. La Vulgata agrega: Quien repudia a la mujer buena repudia la felicidad; mas el que retiene la adúltera es necio e impío.
+
+[[217]](#rn-217){:#n-217} [??, 2](#c??-v2) "No gozar de esta ciencia es la mayor desnudez y miseria; pero aquel que la ha logrado lo posee todo" (San Agustín, De Vita Beata).
+
+[[218]](#rn-218){:#n-218} [??, 3](#c??-v3) ¡Cuántos murmuran de la divina Providencia, porque no coinciden los designios de Dios con los mezquinos y caprichosos proyectos de los hombres! Y cuan frecuente es esta tremenda blasfemia: "¡Qué le he hecho yo a Dios para que me trate tan mal!" Y los que esto dicen, afirman tener fe católica, según la cual Dios nos ama hasta darnos su Hijo.
+
+[[219]](#rn-219){:#n-219} [??, 8](#c??-v8) Inteligencia y prudencia son sinónimos de sabiduría, y se refieren al conocimiento de Dios, porque este conocimiento es la misma bienaventuranza. Cf. Juan [17, 3](juan#c17-v3). "Si Jesum noscis, sat est, si caetera nescis; si Jesum nescis, nil est, si caetera noscis": "Si conoces a Jesús, basta esto, aunque ignores todo lo demás; pero si no le conoces, aunque tengas grandes conocimientos de todo lo demás, nada sabes."
+
+[[220]](#rn-220){:#n-220} [??, 10](#c??-v10) El necio y el ignorante no son capaces de ocupar un puesto importante. Platón combatía la demagogia, llamándola "gobierno del mayor número de los peores".
+
+[[221]](#rn-221){:#n-221} [??, 14](#c??-v14) Es lo que expresa el refrán: Boda y mortaja, del cielo bajan. Véase [18, 22](#c18-v22). Es el caso de Tobías.
+
+[[222]](#rn-222){:#n-222} [??, 17](#c??-v17) El Señor paga los intereses que el pobre no puede pagar. Por lo cual el que da al pobre, da a Dios, quien es buen pagador, como dice el refrán. San Juan Bosco decía que Dios hizo dueños del cielo a los pobres (Lucas [6, 20](lucas#c6-v20)), para que los ricos les compraran la entrada con la limosna.
+
+[[223]](#rn-223){:#n-223} [??, 18](#c??-v18) Hay esperanza: Consuelo de padres cristianos. Los hijos no se enderezan de un golpe, como un hierro, sino lentamente como un árbol vivo. Pasados los extravíos, florece y fructifica la semilla que en su alma infantil se deposita con la palabra, el ejemplo y la corrección. Véase [22, 15](#c22-v15).
+
+[[224]](#rn-224){:#n-224} [??, 19](#c??-v19) Texto oscuro que ha sufrido muy diversas interpretaciones. Vulgata: El que es impaciente soportará el daño, y cuando lo quitare añadirá otro. Esto coincide con el Salmo 36 (texto hebreo), que enseña a no impacientarse ni siquiera por causa de los malvados, para no empeorar el caso (v. [8](#c??-v8)). Véase [25, 28](#c25-v28); Job [5, 2](job#c5-v2).
+
+[[225]](#rn-225){:#n-225} [??, 20](#c??-v20) En tu fin: Vulgata: en tus postrimerías.
+
+[[226]](#rn-226){:#n-226} [??, 21](#c??-v21) Cf. [16, 9](#c16-v9) y nota.
+
+[[227]](#rn-227){:#n-227} [??, 22](#c??-v22) "Sabiendo lo que es dolor, aprendí a socorrer a los que sufren" (Virgilio, Eneida I). Crampón traduce: Lo que recomienda a un hombre es su bondad. Beethoven, después de haber sufrido, decía: "No reconozco otro signo de superioridad que la bondad." El mundo, empero, glorifica la inteligencia, y aun la fuerza bruta.
+
+[[228]](#rn-228){:#n-228} [??, 24](#c??-v24) Es el colmo de la pereza. El comentario está en 26, 15. Del plato a la boca hay tan poca distancia que hasta el haragán más obstinado podría salvarla. El sentido es: Aunque prepares al perezoso todo el trabajo, dejándole solamente el último retoque, no es capaz de hacerlo. Cf. [6, 6](#c6-v6); [15, 19](#c15-v19); [20, 4](book#c20-v4); [22, 13](book#c22-v13); 26, 13, etc.
+
+[[229]](#rn-229){:#n-229} [??, 25](#c??-v25) En el varón justo, un aviso produce más efecto que los azotes en el hombre impío. Cf. [21, 11](#c21-v11), 26. Cf. [20, 20](#c20-v20); [30, 17](#c30-v17); Éxodo [20, 12](exodo#c20-v12); Levítico [20, 9](levitico#c20-v9); Eclesiástico [3, 18](eclesiastico#c3-v18).
+
+[[230]](#rn-230){:#n-230} [??, 1](#c??-v1) El sabio no prohíbe beber vino. También Jesucristo bebía vino (Lucas [7, 34](lucas#c7-v34)), y San Pablo exhortaba a San Timoteo (que padecía dolor de estómago) a que bebiera un poco de vino (1 Timoteo [5, 23](1-timoteo#c5-v23)).
+
+[[231]](#rn-231){:#n-231} [??, 6](#c??-v6) ¡Profunda sentencia! El único verdaderamente misericordioso es el hombre fiel, según se ha visto en 14, 21 y nota. Luego los otros solo lo son en apariencia. Nótese que fiel viene de fe, esto es, el que cree de veras, como el fiel Abrahán, padre de los creyentes (Romanos [4, 16](romanos#c4-v16); Gálatas [3, 9](galatas#c3-v9)). (María la Virgo Fidelis, recibe este elogio de su prima Santa Isabel: ¡Bienaventurada tú, que creíste! (Lucas [1, 45](lucas#c1-v45)).
+
+[[232]](#rn-232){:#n-232} [??, 9](#c??-v9) Enseñanza fundamental. "¿Quién se podría gloriar que tiene corazón casto? Ni siquiera las estrellas están limpias ante los ojos del Señor; ¡cuánto menos los hombres cuya vida es una tentación continua!" (San Jerónimo, Ad Rusticum). Cf. [30, 12](#c30-v12); 1 Reyes [8, 46](1-reyes#c8-v46); Job [4, 17](job#c4-v17); Eclesiástico [7, 21](eclesiastico#c7-v21); 1 Juan [1, 8](1-juan#c1-v8) y notas.
+
+[[233]](#rn-233){:#n-233} [??, 10](#c??-v10) Cf. [11, 1](#c11-v1); [16, 11](#c16-v11) y notas. Quiere decir: peso doble y medida doble, para engañar a los incautos (v. [23](#c??-v23)). ¡Cuán propio de la justicia humana es tener una medida o criterio para lo que se da, y otro para lo que se recibe! De ahí que no puede haber justicia si no hay amor ni caridad. Véase lo que dice sobre esto el divino Juez que ha de juzgarnos: Marcos [4, 24](marcos#c4-v24); Lucas [6, 38](lucas#c6-v38); Mateo [7, 2](mateo#c7-v2) y Proverbios [21, 13](proverbios#c21-v13).
+
+[[234]](#rn-234){:#n-234} [??, 12](#c??-v12) El hombre tiene los sentidos para usarlos en el servicio del Creador que se los dio; véase la exhortación que nos hace el apóstol San Pablo (Romanos [12, 1](romanos#c12-v1)). ¡Cuántas veces son usados para ofenderlo! (1 Corintios [6, 13](1-corintios#c6-v13)-20).
+
+[[235]](#rn-235){:#n-235} [??, 13](#c??-v13) Hay aquí, además, una enseñanza higiénica, que expresa el adagio: "Dormir siete horas basta; ocho, nutre; nueve, pudre."
+
+[[236]](#rn-236){:#n-236} [??, 14](#c??-v14) Notemos cómo la caridad de Dios condena aquí a los llamados "pichincheros", que muy ufanos ostentan como habilidad y mérito el esquilmar al prójimo pagándole mucho menos de lo que vale su mercancía o su trabajo... y después quizá, se sienten caritativos porque dan limosnas. Véase v. [10](#c??-v10); 21, 3 y notas.
+
+[[237]](#rn-237){:#n-237} [??, 17](#c??-v17) El pan injustamente adquirido; literalmente: el pan de mentira: la ganancia adquirida por trampa. El que gana el pan de este modo, verá que es lleno de arena, que no se puede comer. Así el tramposo se castiga a sí mismo.
+
+[[238]](#rn-238){:#n-238} [??, 18](#c??-v18) "Cuando Dios quiere una obra, la demora no hace sino perfeccionarla" (San Vicente de Paúl).
+
+[[239]](#rn-239){:#n-239} [??, 19](#c??-v19) ¡Cuántas ruinas se habrían evitado y evitarían con esta norma!
+
+[[240]](#rn-240){:#n-240} [??, 20](#c??-v20) El tal merecía la muerte según la sabia ley dada por Dios a Israel (Levítico [20, 9](levitico#c20-v9)). Véase Catecismo Romano II, 8, 24; III, 7, 8. Es "el primer mandamiento que va con recompensa" (Efesios [6, 2](efesios#c6-v2)): la de una larga vida (Éxodo [20, 12](exodo#c20-v12); Deuteronomio [5, 16](deuteronomio#c5-v16)), y aun otras cosas (Eclesiástico [3, 6](eclesiastico#c3-v6) ss.). Cf. [19, 26](#c19-v26) y nota.
+
+[[241]](#rn-241){:#n-241} [??, 22](#c??-v22) "No os venguéis por vuestra cuenta, sino dad lugar a la ira de Dios puesto que escrito está: Mía es la venganza; Yo haré justicia, dice el Señor" (Romanos [12, 19](romanos#c12-v19)). Véase Salmos [9, 20](salmos#c9-v20); [65, 5](salmos#c65-v5); [108, 1](salmos#c108-v1) y notas.
+
+[[242]](#rn-242){:#n-242} [??, 24](#c??-v24) Sobre este punto importantísimo para nuestra fe, véase [21, 1](#c21-v1) y nota.
+
+[[243]](#rn-243){:#n-243} [??, 25](#c??-v25) El sentido es: Lazo es decir: esta cosa es consagrada a Dios, y después andar preguntando cómo librarse del voto. Gran luz es esta sobre la presunción, que se disfraza de santidad y en realidad nace del orgullo. Véase el precioso capítulo de la Imitación de Cristo (L. III, 7) y Romanos [7, 25](romanos#c7-v25); Eclesiástico [18, 25](eclesiastico#c18-v25); 1 Crónicas [29, 14](1-cronicas#c29-v14), etc.
+
+[[244]](#rn-244){:#n-244} [??, 26](#c??-v26) Hace pasar sobre ellos la rueda, con el fin de trillarlos y aplastarlos. Vulgata: encorva sobre ellos el arco.
+
+[[245]](#rn-245){:#n-245} [??, 27](#c??-v27) No ciertamente por propia capacidad (Mateo [26, 41](mateo#c26-v41)), sino por la luz de Dios (1 Corintios [2, 10](1-corintios#c2-v10) s.).
+
+[[246]](#rn-246){:#n-246} [??, 28](#c??-v28) Sobre esta sabia lección de política, véase el Salmo 100 y notas.
+
+[[247]](#rn-247){:#n-247} [??, 30](#c??-v30) Es la cirugía del cuerpo una figura (Romanos [11, 12](romanos#c11-v12)) de la cirugía espiritual del dolor, único medio a veces para extirpar el tumor de la soberbia y llevarnos a la paz de la verdadera contrición (Salmo [50, 19](salmos#c50-v19)).
+
+[5932] I. En una célebre meditación (Quince minutos en compañía de Jesús Sacramentado) se dice: "Soy, hijo mío, Dueño de los corazones y dulcemente los llevo, sin perjuicio de su libertad, a donde me place." Los Libros Santos están llenos de esta consoladora doctrina. Véase [2, 11](#c2-v11); [16, 1](#c16-v1) y 9; Ester [14, 12](ester#c14-v12); [15, 11](ester#c15-v11); Salmos [36, 23](salmos#c36-v23); [39, 3](salmos#c39-v3) s.; Jeremías [10, 23](jeremias#c10-v23); Hechos de los Apóstoles 5, 34-39 y notas.
+
+[[249]](#rn-249){:#n-249} [??, 3](#c??-v3) Dice el Señor: "Aprended lo que significa: misericordia quiero y no sacrificio" (Mateo [9, 13](mateo#c9-v13); Oseas [6, 6](oseas#c6-v6)). Hemos de ejercer en primer lugar la virtud de la caridad, la cual es el fundamento de la moral; después podemos hacer sacrificios voluntarios. Tal es el sentido de lo que la Escritura llama sacrificio de justicia (Salmo [4, 6](salmos#c4-v6)), o sea que la mejor ofrenda es cumplir bien la que está mandada, en vez de inventar otras y luego fallar en lo necesario (véase [20, 14](#c20-v14) y nota).
+
+[[250]](#rn-250){:#n-250} [??, 4](#c??-v4) Véase [6, 17](#c6-v17); [30, 13](#c30-v13). En cambio, si esos ojos se levantan, para ponerse "en Cristo, autor y consumador de nuestra fe" (Hebreos [12, 2](hebreos#c12-v2)), también se dilata el corazón, pero entonces nos hace "correr por el camino de los mandamientos". Salmo [118, 32](salmos#c118-v32). El segundo hemistiquio se traduce de muy diversas maneras. Vulgata: el fanal de los impíos es el pecado. Otros: la obra del malo es el pecado; o la roturación de los malos es pecado (Bover-Cantera). Parece que en el texto actual faltan algunos versos.
+
+[[251]](#rn-251){:#n-251} [??, 6](#c??-v6) s. Cf. Salmo [36, 21](salmos#c36-v21) y nota; Eclesiástico [29, 1](eclesiastico#c29-v1)-16.
+
+[[252]](#rn-252){:#n-252} [??, 9](#c??-v9) Véase otras comparaciones en los vv. [19](#c??-v19) y [11](#c??-v11), 22.
+
+[[253]](#rn-253){:#n-253} [??, 11](#c??-v11) ¡Feliz el que escarmienta en cabeza ajena! Vemos aquí que esto es un privilegio de los sencillos y de los sabios. Véase 19., 25.
+
+[[254]](#rn-254){:#n-254} [??, 13](#c??-v13) "Aguarda un juicio sin misericordia al que no usó de misericordia" (Santiago [2, 13](santiago#c2-v13)). Es la doctrina del Padrenuestro, en el cual decimos a Dios, cada día, que perdonamos todo agravio para que Él nos perdone. Si no lo hiciéramos, burlaríamos a Dios y le impediríamos que nos perdonase. Véase [20, 10](#c20-v10) y Mateo [18, 23](mateo#c18-v23)-25; [25, 41](mateo#c25-v41); Lucas [11, 14](lucas#c11-v14).
+
+[[255]](#rn-255){:#n-255} [??, 15](#c??-v15) Este gozo en la virtud, tan opuesto a nuestra maldad, que se goza en todo lo contrario, es el maravilloso fruto de la sabiduría que es un don del Espíritu Santo, "el cual concede a todos dulzura en adherirse y en creer a la Verdad".
+
+[[256]](#rn-256){:#n-256} [??, 16](#c??-v16) Con los muertos. Vulgata: con los gigantes; en hebreo Refaím, que tiene los dos significados: muertos (sombras) y gigantes. De ahí la diferencia en la traducción. Véase [9, 18](#c9-v18); Job [26, 5](job#c26-v5); Isaías [14, 9](isaias#c14-v9) y notas.
+
+[[257]](#rn-257){:#n-257} [??, 18](#c??-v18) Rescate del justo es el impío; es decir, ante Dios sucede al revés que en el mundo, donde el justo suele ser víctima del impío. Jesús lo dice en la parábola de las minas: Al que tiene, se le dará aun lo del otro (Lucas [19, 24](lucas#c19-v24) ss.).
+
+[[258]](#rn-258){:#n-258} [??, 19](#c??-v19) "Me parece cordura huir, como de una fiera, de la lengua de una mujer apasionada" (Santa Teresa, Carta 381, 7).
+
+[[259]](#rn-259){:#n-259} [??, 21](#c??-v21) Cf. Salmo [84, 11](salmos#c84-v11) y nota. La justicia de Dios no es como la de los hombres. De ahí nuestra esperanza de ser perdonados. "Su bondad es, como dice el Concilio de Trento, tan grande para con todos los hombres, que quiere que sea mérito de estos lo que es don suyo" (Sesión VI cap. 16).
+
+[[260]](#rn-260){:#n-260} [??, 22](#c??-v22) El sabio vale más que el fuerte. Cf. [15, 1](#c15-v1) y nota.
+
+[[261]](#rn-261){:#n-261} [??, 23](#c??-v23) Es célebre la sentencia del filósofo Séneca: "El que no sabe callar, no sabe hablar." Cf. [10, 19](#c10-v19); Salmo [33, 13](salmos#c33-v13) s.; Santiago cap. [3](santiago#c3) y notas.
+
+[[262]](#rn-262){:#n-262} [??, 25](#c??-v25) Otra norma de higiene: el que no está ocupado por el trabajo, se consume de cavilación y neurastenia. Véase [12, 9](#c12-v9); [19, 24](#c19-v24) y notas.
+
+[[263]](#rn-263){:#n-263} [??, 26](#c??-v26) El perezoso no deja de pedir limosna, el justo no deja de darlas.
+
+[[264]](#rn-264){:#n-264} [??, 28](#c??-v28) Quien escucha: quien aprende y es dócil. El segundo hemistiquio dice en la Vulgata: El hombre obediente cantará victoria, Nácar-Colunga. El hombre verdadero mantiene su palabra.
+
+[[265]](#rn-265){:#n-265} [??, 30](#c??-v30) "No hay regla que no tenga excepción, menos esta: Nada prevalece contra Dios" (San Francisco de Sales).
+
+[[266]](#rn-266){:#n-266} [??, 31](#c??-v31) La victoria viene de Yahvé, también en la vida espiritual. Véase Salmo [32, 17](salmos#c32-v17); Filipenses [4, 13](filipenses#c4-v13) y notas.
+
+[[267]](#rn-267){:#n-267} [??, 1](#c??-v1) Véase Eclesiástico [41, 15](eclesiastico#c41-v15). Esta verdad tan conocida ha pasado a ser adagio popular. San Pablo la confirma en Romanos [12, 17](romanos#c12-v17), pero también desprecia el juicio de los hombres (1 Corintios [4, 3](1-corintios#c4-v3)). No ha de tomársela, pues, en sentido mundano. "Ay de vosotros cuando los hombres os aplaudan... así hacían con los falsos profetas... Dichosos cuando os odiaren... reprobaren... abominaren vuestro nombre como malo por causa del Hijo del hombre" (Lucas [6, 22](lucas#c6-v22)-26). Los fariseos que reprobaron a Jesús eran los hombres más respetados del país.
+
+[[268]](#rn-268){:#n-268} [??, 2](#c??-v2) Ricos y pobres deben compadecerse unos de otros, porque todos son hijos del mismo Dios. Notemos cómo Dios enseña aquí la más perfecta solución de los desequilibrios sociales, que no está en la imposible nivelación, ni en suprimir a ricos o a pobres, sino en la colaboración. También se nos enseña que es Él quien da y quita la riqueza. Véase 2 Samuel [12, 7](2-samuel#c12-v7); Eclesiástico [11, 23](eclesiastico#c11-v23), etc.
+
+[[269]](#rn-269){:#n-269} [??, 3](#c??-v3) La audacia no es virtud, sino orgullosa confianza en sí mismo. El reverso está en el v. [4](#c??-v4).
+
+[[270]](#rn-270){:#n-270} [??, 7](#c??-v7) Vemos aquí cómo el prudente ha de huir del crédito que suele buscarse por esa ambición de riqueza, señalada por San Pablo como fuente de pecado y perdición (1 Timoteo [6, 9](1-timoteo#c6-v9)). El crédito, dice un proverbio, es un paraguas que nos prestan cuando hay sol y nos reclaman cuando llueve.
+
+[[271]](#rn-271){:#n-271} [??, 9](#c??-v9) Elogia la generosidad, no el soborno. La Vulgata agrega: Victoria y honor adquirirá quien da regalos, pues arrebata el alma de quienes los reciben.
+
+[[272]](#rn-272){:#n-272} [??, 10](#c??-v10) Es decir que las bromas no son cosa inocente como cree el mundo. Aquí y en 26, 20 aprendemos, cómo muchos males cunden porque nadie se atreve a remover a los culpables.
+
+[[273]](#rn-273){:#n-273} [??, 13](#c??-v13) El perezoso no sale a su trabajo tomando cualquier pretexto, por absurdo que sea: como si hubiera leones en las ciudades. Cf. [19, 24](#c19-v24); [26, 13](#c26-v13) y notas.
+
+[[274]](#rn-274){:#n-274} [??, 14](#c??-v14) La extraña: sinónimo de adúltera. Cf. [6, 20](#c6-v20) ss.; [7, 1](#c7-v1) ss.
+
+[[275]](#rn-275){:#n-275} [??, 15](#c??-v15) Lección fundamental para los padres. Cf. [19, 18](#c19-v18); [23, 13](#c23-v13) s.; 29, 15. La corrección es un espejo en que los niños ven las manchas que los desfiguran. Reprender y corregir, dice Clemente de Alejandría, es señal de benevolencia, y no de odio; el amigo y el enemigo nos humillan ambos; pero este lo hace por burla, aquel, en cambio, por afecto (Pedagogo I cap. 8).
+
+[[276]](#rn-276){:#n-276} [??, 16](#c??-v16) Admirable disposición de la Providencia, por la cual el que cree dañarnos nos favorece disponiéndonos a recibir de Dios mayores beneficios (v. [23](#c??-v23)).
+
+[[277]](#rn-277){:#n-277} [??, 17](#c??-v17) Aquí empieza una nueva recopilación de Proverbios, los llamados Dichos de los Sabios.
+
+[[278]](#rn-278){:#n-278} [??, 18](#c??-v18) Cosa dulce: Es el secreto de la sabiduría: se adquiere agradablemente, y una vez adquirida, ella hace fácil la virtud, que es pesadísima para el necio. Así es como se entiende la palabra de Jesús: "Mi yugo es suave" (Mateo [11, 30](mateo#c11-v30)). Lo es, para los que meditan sus enseñanzas. Véase [2, 10](#c2-v10); [3, 17](#c3-v17); Salmo [118, 11](salmos#c118-v11) y nota.
+
+[[279]](#rn-279){:#n-279} [??, 20](#c??-v20) Cosas excelentes. Vulgata: de tres maneras. Bover-Cantera: treinta. Nácar-Colunga: ya ayer y anteayer. Como se ve, la sagacidad de los traductores no ha logrado aún dar con un sentido indiscutible de este pasaje.
+
+[[280]](#rn-280){:#n-280} [??, 21](#c??-v21) Otros: para mostrarte la razón cierta de las cosas. ¿No es este el objeto de la filosofía en su acepción clásica? ¿Y quién podría gloriarse de haber llegado a eso, como lo hace aquí Dios?
+
+[[281]](#rn-281){:#n-281} [??, 26](#c??-v26) s. Con apretón de manos. Era esta la formalidad que tenía que cumplir el que salía por fiador. La Ley permitía que se quitara el lecho como prenda. Pero si se trataba de un pobre, lo recibía de vuelta al atardecer (Éxodo [25, 26](exodo#c25-v26); Deuteronomio [24, 12](deuteronomio#c24-v12) s.).
+
+[[282]](#rn-282){:#n-282} [??, 28](#c??-v28) Cf. [23, 10](#c23-v10); Deuteronomio [19, 14](deuteronomio#c19-v14); [27, 17](deuteronomio#c27-v17).
+
+[[283]](#rn-283){:#n-283} [??, 3](#c??-v3) Delante de un príncipe compórtate con modestia, porque él te juzgará por tu conducta en la mesa, o tal vez te quiera sobornar mediante un rico banquete.
+
+[[284]](#rn-284){:#n-284} [??, 4](#c??-v4) Sobre esta sabia norma de conducta véase [22, 7](#c22-v7) y nota; Eclesiástico [31, 8](eclesiastico#c31-v8) ss. Crampón traduce: abstente de aplicar a ello tu inteligencia. Triste es pensar que ella se aplica hoy más que nada a ese ideal de enriquecimiento como si fuera una obligación.
+
+[[285]](#rn-285){:#n-285} [??, 7](#c??-v7) Hace cálculos sobre los bocados que vas a tomar, y por envidia no puede alegrarse, si tú comes y bebes mucho.
+
+[[286]](#rn-286){:#n-286} [??, 9](#c??-v9) Utilísima advertencia sobre el celo indiscreto. Coincide con la de Jesús: "No queráis dar lo santo a los perros, ni echéis vuestras perlas a los cerdos" (Mateo [7, 6](mateo#c7-v6)). Lo más notable es lo que añade luego el Señor: no solo las pisotearán sino que devorarán a quien se las diere. Véase Salmos [111, 9](salmos#c111-v9) s.; [118, 51](salmos#c118-v51) y notas.
+
+[[287]](#rn-287){:#n-287} [??, 10](#c??-v10) Cf. [22, 28](#c22-v28) y nota.
+
+[[288]](#rn-288){:#n-288} [??, 11](#c??-v11) Vengador; en hebreo goël. Así se llamaba el pariente más próximo que tenía que vengar la muerte violenta de un miembro de su parentela. Quiere decir: Dios es el abogado de los huérfanos y de las viudas, y el vengador de los débiles oprimidos. Véase [22, 16](#c22-v16); Salmos [65, 5](salmos#c65-v5); [67, 6](salmos#c67-v6) y notas.
+
+[[289]](#rn-289){:#n-289} [??, 14](#c??-v14) Cf. [22, 15](#c22-v15) y nota. Librarás su alma del scheol (Vulgata: del infierno). Por donde vemos que no hay peor castigo que el dejarnos seguir esta triste libertad para el mal, que tanto solemos defender.
+
+[[290]](#rn-290){:#n-290} [??, 15](#c??-v15) Sabio en sentido bíblico: recto, religioso, estudioso de las cosas divinas. He aquí la satisfacción más grande de un padre cristiano. Cf. v. [19](#c??-v19) y 24 s.
+
+[[291]](#rn-291){:#n-291} [??, 20](#c??-v20) En los banquetes a escote se come y bebe más que en otros, por lo cual dan más lugar a la embriaguez (véase 29 ss.). San Pablo nos previene contra aquellos "cuyo dios es el vientre" (Filipenses [3, 19](filipenses#c3-v19)). Cf. [23, 31](#c23-v31) s.; [31, 4](#c31-v4); Eclesiástico [31, 30](eclesiastico#c31-v30) s.; [31, 38](eclesiastico#c31-v38)-40.
+
+[[292]](#rn-292){:#n-292} [??, 23](#c??-v23) No vendas la verdad, es decir, no la pospongas a tus intereses, como lo hizo Pilato en el proceso de Jesús.
+
+[[293]](#rn-293){:#n-293} [??, 24](#c??-v24) Este versículo es citado en la Misa de la Sagrada Familia (Introito).
+
+[[294]](#rn-294){:#n-294} [??, 26](#c??-v26) Véase [4, 23](#c4-v23). Esto es lo único que Dios nos pide, como todo padre a su hijo. ¿Qué otra cosa podría darle, siendo Él tan rico? (véase Salmo [15, 2](salmos#c15-v2); 49, 7-13). De ahí que Jesús llame a esto "el primero y gran mandamiento" (Mateo [22, 38](mateo#c22-v38); Deuteronomio [6, 5](deuteronomio#c6-v5)), y que su violación encienda tan terriblemente los celos de su Padre (Santiago [4, 5](santiago#c4-v5); Deuteronomio [4, 24](deuteronomio#c4-v24); Cantar de los Cantares [8, 6](cantar-de-los-cantares#c8-v6)). San Agustín lo entiende muy bien cuando dice: "¡Ama y haz lo que quieras!" Véase la queja de Jesús en Mateo [15, 8](mateo#c15-v8).
+
+[[295]](#rn-295){:#n-295} [??, 27](#c??-v27) Cf. [4, 20](#c4-v20) ss.; [6, 20](#c6-v20) ss.; [7, 1](book#c7-v1) ss.; [22, 14](book#c22-v14) y notas.
+
+[[296]](#rn-296){:#n-296} [??, 29](#c??-v29) ss. Espantoso cuadro de la embriaguez y sus efectos, que debiera colocarse en carteles a la vista del público. Pozo del infierno llama San Agustín a la embriaguez. Véase [31, 4](#c31-v4) ss.
+
+[[297]](#rn-297){:#n-297} [??, 35](#c??-v35) Son los pensamientos del ebrio al despertar de su modorra. Al ver las consecuencias del vino, cree haber sido azotado; sin embargo se alegra porque no siente dolor y vuelve a embriagarse.
+
+[[298]](#rn-298){:#n-298} [??, 1](#c??-v1) Concepto frecuente en la Escritura para inspirarnos el sabio desprecio de las prosperidades efímeras de los mundanos. Véase [23, 17](#c23-v17); Salmos [36, 1](salmos#c36-v1) ss.; [83, 11](salmos#c83-v11), etc.
+
+[[299]](#rn-299){:#n-299} [??, 5](#c??-v5) Más vale la sabiduría que la fuerza, porque "todos los demás bienes nos llegan juntamente con ella" (Sabiduría [7, 11](sabiduria#c7-v11)).
+
+[[300]](#rn-300){:#n-300} [??, 7](#c??-v7) Cosa demasiado alta; no obstante es agradable como vimos en 22, 18. Es que el necio, por el apego a sus propios pensamientos (v. [9](#c??-v9)), carece del sentido de lo sobrenatural (1 Corintios [2, 14](1-corintios#c2-v14)), semejante a un receptor de onda larga, que no puede captar las radiocomunicaciones lejanas, de onda corta.
+
+[[301]](#rn-301){:#n-301} [??, 11](#c??-v11) Se refiere a los inocentes y justos, a los cuales estamos obligados a ayudar cuando son acusados injustamente.
+
+[[302]](#rn-302){:#n-302} [??, 12](#c??-v12) ¡Cómo saberlo! Vulgata: no alcanzan mis fuerzas. Véase 1 Juan [3, 20](1-juan#c3-v20). "Todo lo puedo en Aquel que me conforta" (Filipenses [4, 13](filipenses#c4-v13)).
+
+[[303]](#rn-303){:#n-303} [??, 13](#c??-v13) La miel es figura apropiadísima de la sabiduría por su dulzura incomparable, que a un tiempo nutre y vitaminiza, y por la gratuidad con que la hallamos ya hecha, tal como se halla la sabiduría en la Palabra de Dios. Véase Salmos [18, 11](salmos#c18-v11); [118, 103](salmos#c118-v103); Eclesiástico [49, 2](eclesiastico#c49-v2); Isaías [7, 15](isaias#c7-v15), etc.
+
+[[304]](#rn-304){:#n-304} [??, 14](#c??-v14) Nótese que aquí se da una promesa de salvación y de santidad. La explicación está en Sabiduría [6, 18](sabiduria#c6-v18)-21, en forma de un perfecto silogismo.
+
+[[305]](#rn-305){:#n-305} [??, 16](#c??-v16) Vulgata: Siete veces cae el justo y se levanta. Cf. 1 Reyes [8, 46](1-reyes#c8-v46) y nota. San Agustín lo aplica, a los justos que Dios prueba, para que se conserven humildes. El número 7 es el número redondo entre los hebreos y significa: muchas veces. El sentido, según el hebreo, no es que todo justo caerá, sino que aunque cayere, se levantará siempre. En general se aplica esta palabra a las faltas diarias, la flaqueza humana, las culpas de las cuales siempre andamos llenos, pues "aunque no sea en lo mismo que nos culpan, nunca estamos sin culpa del todo" (Santa Teresa, Camino de Perfección cap. 15). Según el Cardenal Gomá se trata aquí en primer lugar de las aflicciones y no de las caídas morales (Biblia y Predicación, p. 272).
+
+[[306]](#rn-306){:#n-306} [??, 17](#c??-v17) Punto esencial, como todo lo que atañe a la caridad. Véase [17, 5](#c17-v5); Job [31, 29](job#c31-v29) y notas.
+
+[[307]](#rn-307){:#n-307} [??, 20](#c??-v20) La lámpara: la vida.
+
+[[308]](#rn-308){:#n-308} [??, 21](#c??-v21) En 1 Pedro [2, 17](1-pedro#c2-v17) se reitera este precepto, por donde vemos que nada más eficaz que la Religión, aun para formar buenos ciudadanos en el orden temporal.
+
+[[309]](#rn-309){:#n-309} [??, 23](#c??-v23) s. Comienza otra colección de sentencias de sabios que abarca hasta el fin del capítulo (véase [25, 1](#c25-v1)). Es cosa mala, etc.: Esta distinción o acepción de personas, tan característica y dominante en el mundo, es una de las iniquidades más combatidas por la Sagrada Escritura, como que va esencialmente contra la caridad. Véase [18, 5](#c18-v5); [19, 6](#c19-v6); 28, 21; Levítico [19, 15](levitico#c19-v15); Deuteronomio [1, 17](deuteronomio#c1-v17); [16, 19](deuteronomio#c16-v19); Eclesiástico [42, 1](eclesiastico#c42-v1); Santiago [2, 1](santiago#c2-v1), 9; Judas [16](judas#v16).
+
+[[310]](#rn-310){:#n-310} [??, 26](#c??-v26) El beso como saludo se ve en el episodio de la Magdalena (Lucas [7, 45](lucas#c7-v45)) y en Judas (Lucas [22, 48](lucas#c22-v48)). De los persas sabemos que solo entre iguales se besaban en los labios, a los inferiores se los besaba en las mejillas.
+
+[[311]](#rn-311){:#n-311} [??, 28](#c??-v28) De ligero: Más vale absolver a un culpable que condenar a un inocente. Tratándose de la caridad, que debe ser nuestra obsesión, la ligereza es intolerable y puede ocasionar, aun sin voluntad de dañar, males tan graves como el odio. Pilato es una tremenda lección a este respecto.
+
+[[312]](#rn-312){:#n-312} [??, 29](#c??-v29) ¡Cuán admirable es ver, desde el Antiguo Testamento, esta sublime doctrina de la fe y caridad, que Jesús llevó a su plenitud! Toda la técnica de la Redención está en esto: Si yo busco y exijo la simple justicia, como lo hace el derecho civil, Dios me tratará también según la justicia, y entonces mi condenación es segura. Para aprovechar la gracia de la Redención en la cual el Inocente pagó por mis culpas, debo perdonar yo también (Mateo [6, 12](mateo#c6-v12)-15; [18, 35](mateo#c18-v35); Eclesiástico [28, 3](eclesiastico#c28-v3) ss.) y esperar que Dios me vengue. Cf. Salmo [65, 5](salmos#c65-v5) y nota.
+
+[[313]](#rn-313){:#n-313} [??, 32](#c??-v32) El sabio cuida su viña y la cultiva, dice San Bernardo ("En Cantar de los Cantares 63"), es decir, cultiva la virtud.
+
+[[314]](#rn-314){:#n-314} [??, 33](#c??-v33) Cf. [6, 9](#c6-v9)-11; [19, 24](#c19-v24) y notas.
+
+[[315]](#rn-315){:#n-315} [??, 1](#c??-v1) Esta colección de Proverbios de Salomón comprende los caps. 25-29 y fue hecha por los encargados del rey Ezequías (721-693 a. C.). Véase [31, 1](#c31-v1) y nota.
+
+[[316]](#rn-316){:#n-316} [??, 2](#c??-v2) Una cosa: Así Vaccari; o las cosas (Crampón). Otros: una palabra. Es el misterio de los divinos designios y sus obras, que el mortal no puede juzgar, como lo dice Dios en su gran discurso en el Libro de Job (cap. 38 ss.), aunque su "penosísima investigación" (Eclesiastés [1, 13](eclesiastes#c1-v13)) ha quedado al hombre caído. En cuanto a la palabra de Dios, no está velada sino a los "sabios y prudentes, para descubrirla a los pequeños", según nos dice Jesús (Lucas [10, 21](lucas#c10-v21)). San Juan Crisóstomo explica que solo está escondida para los que no la aman, pues que si se tratara de un negocio temporal ya se ingeniarían todos para entenderla. El secreto de las obras de Dios hay que buscarlo en los Profetas, según se nos enseña en Amós [3, 7](amos#c3-v7). Véase Eclesiástico [39, 1](eclesiastico#c39-v1) ss.
+
+[[317]](#rn-317){:#n-317} [??, 7](#c??-v7) Jesús lo repite en Lucas [14, 10](lucas#c14-v10).
+
+[[318]](#rn-318){:#n-318} [??, 8](#c??-v8) La Vulgata trae otro texto: Lo que vieron tus ojos, no lo digas en la contienda, no sea que después de haber infamado a tu amigo, no puedas remediarlo. El sentido parece dirigirse contra los que, en el calor de la disputa, dejan escapar indiscreciones de las cuales tienen que arrepentirse luego.
+
+[[319]](#rn-319){:#n-319} [??, 9](#c??-v9) He aquí otra de las normas de prudencia temporal, que Dios nos da para nuestra felicidad. Véase v. [19](#c??-v19).
+
+[[320]](#rn-320){:#n-320} [??, 10](#c??-v10) La Vulgata trae más texto: La gracia y la amistad hacen libres; guárdalas para ti para que no caigas en desprecio.
+
+[[321]](#rn-321){:#n-321} [??, 13](#c??-v13) Véase lo que enseña Jesús en Juan [7, 18](juan#c7-v18) para conocer la veracidad de un enviado.
+
+[[322]](#rn-322){:#n-322} [??, 14](#c??-v14) Fórmula usada en 2 Pedro [2, 17](2-pedro#c2-v17) y Judas [12](judas#v12).
+
+[[323]](#rn-323){:#n-323} [??, 16](#c??-v16) El espíritu de sobriedad no se nos pide como imposición de un Dios que se goza en privarnos de algo, sino al contrario, se nos da como preciosa norma de salud. Véase [27, 7](#c27-v7); Salmo [24, 8](salmos#c24-v8) y nota.
+
+[[324]](#rn-324){:#n-324} [??, 18](#c??-v18) La Sagrada Escritura compara la lengua mentirosa a una espada, a un látigo, a una víbora, al fuego, al león, a la muerte y al infierno, para manifestarnos cuan peligroso es usar "mentiras piadosas" y proponer sistemas inventados para cohonestar la mentira. "Vuestro modo de hablar sea sí, sí, no, no; que lo que pasa de esto viene del Maligno", dice Jesús (Mateo [5, 37](mateo#c5-v37)).
+
+[[325]](#rn-325){:#n-325} [??, 20](#c??-v20) En la Vulgata leemos un dístico más: Como la polilla al vestido y la carcoma a la madera, así perjudica la tristeza el corazón del hombre. Admiremos la caridad de esta sabia discreción y respeto al dolor. Es frecuente en la Biblia esta condenación de la tristeza. Véase [12, 25](#c12-v25); [15, 13](#c15-v13); 17, 22; Eclesiástico [25, 17](eclesiastico#c25-v17); [30, 24](eclesiastico#c30-v24), etc.
+
+[[326]](#rn-326){:#n-326} [??, 22](#c??-v22) Amontonar ascuas sobre la cabeza de alguno, significa retribuir con beneficios el mal recibido. Véase Romanos [12, 20](romanos#c12-v20).
+
+[[327]](#rn-327){:#n-327} [??, 23](#c??-v23) El viento norte: en Sudamérica es el viento sur.
+
+[[328]](#rn-328){:#n-328} [??, 26](#c??-v26) Ante el impío: El sentido es: el justo que vacila delante del impío, no vale más que una fuente enturbiada (véase Ezequiel [34, 18](ezequiel#c34-v18)). Es la condenación del respeto humano, que seca la planta de la fe haciéndonos temblar ante la persecución que despierta la palabra divina. Véase Mateo [13, 21](mateo#c13-v21).
+
+[[329]](#rn-329){:#n-329} [??, 27](#c??-v27) He aquí los límites de la sabiduría humana. "Quien quiere escudriñar con su razón lo que es incomprensible, podrá cegarse con la grandeza de aquel divino resplandor" (P. Granada). Es para que busquemos en Dios su bondad y su amor. Entonces "el Espíritu lo penetra todo, hasta las profundidades de Dios" (1 Corintios [2, 10](1-corintios#c2-v10)).
+
+[[330]](#rn-330){:#n-330} [??, 28](#c??-v28) Parece referirse al hombre locuaz (véase [12, 13](#c12-v13), etc.), o al iracundo que no sabe dominarse (cf. [19, 19](#c19-v19)). Sobre la ira véase [14, 29](#c14-v29); [15, 18](#c15-v18); [16, 24](book#c16-v24); [17, 27](book#c17-v27), etc.
+
+[[331]](#rn-331){:#n-331} [??, 1](#c??-v1) "La gloria o el distinguido empleo que se confiere al necio, le daña a él, porque suele abusar de sus facultades, y daña al Estado porque enfría o apaga en muchos el amor a la sabiduría y a la virtud, siendo prueba de que el mérito no es atendido; de lo cual se sigue siempre la ruina del reino" (Páramo). Sin embargo, Jesús nos muestra que los necios y malos son los que más honores reciben, y que se aplaude a los falsos profetas (Lucas [6, 26](lucas#c6-v26)). Se acepta a los que buscan la propia gloria (Juan [5, 43](juan#c5-v43)); y los que explotan a los pueblos, son llamados sus bienhechores (Lucas [22, 25](lucas#c22-v25)).
+
+[[332]](#rn-332){:#n-332} [??, 2](#c??-v2) Es contra aquellos que creían que todas las palabras de maldición producían consecuencias nocivas en el maldito. Véase Deuteronomio [23, 5](deuteronomio#c23-v5); 2 Samuel [16, 12](2-samuel#c16-v12). Cf. Malaquías [2, 2](malaquias#c2-v2).
+
+[[333]](#rn-333){:#n-333} [??, 3](#c??-v3) El irracional solo responde a la fuerza ([29, 19](book#c29-v19); [18, 2](book#c18-v2)). Así suelen ser los jóvenes ([22, 15](book#c22-v15)), pues carecen de sabiduría propia, y solo la humildad podría hacerles aceptar la de otros, en cuyo caso también ellos serían sabios ([1, 4](book#c1-v4)). Véase [19, 18](#c19-v18).
+
+[[334]](#rn-334){:#n-334} [??, 4](#c??-v4) s. Tonto es remedar al necio, pero bueno es darle una lección de humildad.
+
+[[335]](#rn-335){:#n-335} [??, 6](#c??-v6) Cf. el refrán popular: El que quiere va; el que no quiere manda (a otro). Véase [25, 13](#c25-v13).
+
+[[336]](#rn-336){:#n-336} [??, 8](#c??-v8) El sentido es: no hagas cosas tan absurdas como el que ata la piedra a la honda, en vez de arrojarla. La Vulgata usa un giro popular, aludiendo a los montones de piedra que los viajeros levantaban junto a los caminos en honor de Mercurio, dios de los pasajeros y comerciantes.
+
+[[337]](#rn-337){:#n-337} [??, 11](#c??-v11) Citado por San Pedro para enseñarnos que el pecador reincidente cae más bajo que antes. Casi todos los que tienen la desgracia de vivir en la recaída y en la costumbre del pecado, mueren en este triste estado. El pecado, dice San Agustín, pone en una cárcel, la recaída cierra la puerta, y la costumbre la empareda (Confesiones.). Véase 2 Pedro [2, 22](2-pedro#c2-v22); Mateo [12, 45](mateo#c12-v45); Hebreos [6, 4](hebreos#c6-v4).
+
+[[338]](#rn-338){:#n-338} [??, 12](#c??-v12) El que se jacta de ser sabio, es más tonto que el ignorante. Meditemos la gravedad de esta afirmación hecha por el mismo Dios. El soberbio es para Dios lo peor de todo, en tanto que para el mundo resulta admirable. Véase v. [1](#c??-v1); Lucas [16, 15](lucas#c16-v15).
+
+[[339]](#rn-339){:#n-339} [??, 13](#c??-v13) ss. Para no salir a trabajar. Cf. [20, 4](#c20-v4); [22, 13](#c22-v13) y nota.
+
+[[340]](#rn-340){:#n-340} [??, 16](#c??-v16) "Cuando nos comparamos con otros, cosa muy habitual en el secreto del alma, es raro que no nos inclinemos a persuadirnos de nuestra superioridad. La pereza y la ignorancia se dan siempre las manos; y ambas engendran, por lo recular, la más necia presunción" (P. Manresa).
+
+[[341]](#rn-341){:#n-341} [??, 17](#c??-v17) Tal el personaje de Moliere que quiso apartar al leñador que golpeaba a su mujer, y salió golpeado por ambos. Notemos que se trata aquí de la intromisión imprudente, y no del empeño caritativo del pacificador, que es una de las bienaventuranzas (Mateo [5, 9](mateo#c5-v9)).
+
+[[342]](#rn-342){:#n-342} [??, 20](#c??-v20) s. Véase [22, 10](#c22-v10). Cf. [15, 18](#c15-v18); [29, 22](#c29-v22); Eclesiástico [8, 4](eclesiastico#c8-v4).
+
+[[343]](#rn-343){:#n-343} [??, 23](#c??-v23) Vulgata: Como si quisieras adornar una vasija de tierra con plata muy tomada, así son los labios hinchados acompañados de un corazón pésimo.
+
+[[344]](#rn-344){:#n-344} [??, 25](#c??-v25) No te fíes de él: Una de las grandes enseñanzas y frutos de la Escritura, es el no confiar en el hombre, empezando, claro está, por nosotros mismos. Véase Jeremías [17, 5](jeremias#c17-v5); Juan [2, 24](juan#c2-v24) s.; Mateo [10, 17](mateo#c10-v17); [7, 15](mateo#c7-v15); 1 Tesalonicenses [5, 21](1-tesalonicenses#c5-v21); 1 Juan [4, 1](1-juan#c4-v1); Salmos [93, 11](salmos#c93-v11); [117, 6](salmos#c117-v6)-9 y notas.
+
+[[345]](#rn-345){:#n-345} [??, 27](#c??-v27) También es frecuente en los Libros Santos este concepto, que el lenguaje popular traduce diciendo: "en el pecado está la penitencia", o sea el castigo. Véase Eclesiástico [10, 8](eclesiastico#c10-v8); Sabiduría [11, 17](sabiduria#c11-v17); Eclesiástico [27, 28](eclesiastico#c27-v28)-30; Salmo [7, 16](salmos#c7-v16) y nota.
+
+[[346]](#rn-346){:#n-346} [??, 28](#c??-v28) He aquí un interesante fenómeno psicológico. El odio a una persona aumenta en la medida en que la ofendemos, así como aumenta la afición a las personas si les hacemos bien.
+
+[[347]](#rn-347){:#n-347} [??, 1](#c??-v1) Igual pensamiento se halla en Santiago [4, 13](santiago#c4-v13)-15, donde se nos enseña a añadir siempre "si Dios quiere".
+
+[[348]](#rn-348){:#n-348} [??, 2](#c??-v2) El Nuevo Testamento confirma esta doctrina incesantemente; "Todo el que se levanta será abajado, y todo el que se abaja será levantado" (traducción Joüon). Véase Lucas [14, 11](lucas#c14-v11); [18, 14](lucas#c18-v14); Mateo [23, 12](mateo#c23-v12), etc. El Magnificat insiste en ella como doctrina central. Desgraciadamente son pocos los que descubren que en esto está el secreto que mueve el Corazón de Dios a colmarnos de bienes.
+
+[[349]](#rn-349){:#n-349} [??, 7](#c??-v7) ¿Quién no ha observado ese hastío producido por la hartura, y ese buen ánimo de los que comen "con la salsa de su hambre"? (Cervantes). Ya en la Grecia pagana se decía: "Si quieres ser rico, no aumentes tu oro: quítate necesidades." Véase [25, 16](#c25-v16) y nota; Job [6, 7](job#c6-v7).
+
+[[350]](#rn-350){:#n-350} [??, 8](#c??-v8) "No queráis andar pasando de casa en casa", nos dice Jesús (Lucas [10, 7](lucas#c10-v7)), y Él mismo nos da el ejemplo quedándose hasta la edad de 30 años en el silencio pacífico de Nazaret. Véase Eclesiástico [29, 28](eclesiastico#c29-v28) ss.; [36, 28](eclesiastico#c36-v28).
+
+[[351]](#rn-351){:#n-351} [??, 10](#c??-v10) No obstante confirmar plenamente el cuarto mandamiento del Decálogo, Jesús nos enseña muchas veces la prioridad e independencia del espíritu sobre todo lo que nace de la carne y sangre, y cómo esto suele conspirar contra aquello. Véase Juan [3, 6](juan#c3-v6); [6, 64](juan#c6-v64); Mateo [16, 17](mateo#c16-v17); [19, 29](mateo#c19-v29); [10, 36](mateo#c10-v36); Miqueas [7, 6](miqueas#c7-v6); Lucas [12, 51](lucas#c12-v51) ss., etc.
+
+[[352]](#rn-352){:#n-352} [??, 11](#c??-v11) Alegra mi corazón: Es Jesús, la Sabiduría encarnada ([1, 2](book#c1-v2)), quien se alegra cuando escuchamos sus palabras. Él le dice al Padre que en nosotros ha sido glorificado (Juan [17, 10](juan#c17-v10)), y nos revela que también el Padre es glorificado en que seamos discípulos de su Hijo (Juan [15, 8](juan#c15-v8); [14, 13](juan#c14-v13)).
+
+[[353]](#rn-353){:#n-353} [??, 13](#c??-v13) Habla de quien sale fiador inconsideradamente. Véase [20, 16](#c20-v16).
+
+[[354]](#rn-354){:#n-354} [??, 14](#c??-v14) Aguda observación psicológica.
+
+[[355]](#rn-355){:#n-355} [??, 15](#c??-v15) s. Véase otras comparaciones pintorescas en [11, 22](book#c11-v22); [19, 13](book#c19-v13); 21, 19.
+
+[[356]](#rn-356){:#n-356} [??, 19](#c??-v19) El corazón es un pequeño mundo, en el cual se recopilan todos los misterios humanos (Balmes).
+
+[[357]](#rn-357){:#n-357} [??, 20](#c??-v20) Sobre la ambición y soberbia insaciables véase [30, 15](#c30-v15); Eclesiástico [14, 9](eclesiastico#c14-v9); Habacuc [2, 5](habacuc#c2-v5). Scheol: sinónimo de la muerte y el infierno, lo mismo que abismo.
+
+[[358]](#rn-358){:#n-358} [??, 21](#c??-v21) La boca que alaba: la boca del adulador. El que no cree a los aduladores muestra que su virtud es perfecta. ¡Cuán rara es esta actitud! ¡Con qué gusto oímos las alabanzas de nuestra pobre persona! Hay gente que recorta los elogios, tan baratos, que los diarios prodigan a sus efímeros trabajos. La lengua de los aduladores, dice San Agustín, es más peligrosa que el cuchillo del verdugo. En la Vulgata se agrega a este versículo una observación muy atinada: El corazón del inicuo busca males; el corazón del hombre recto busca la sabiduría. Cf. [17, 3](#c17-v3); Salmo [15, 2](salmos#c15-v2); Jeremías [17, 10](jeremias#c17-v10); Malaquías [3, 3](malaquias#c3-v3).
+
+[[359]](#rn-359){:#n-359} [??, 23](#c??-v23) Así lo hace Jesús como Buen Pastor nuestro. Véase Juan [10, 12](juan#c10-v12)-14; 2 Timoteo [2, 19](2-timoteo#c2-v19).
+
+[[360]](#rn-360){:#n-360} [??, 25](#c??-v25) ss. Delicioso elogio de la vida sencilla. San Beda el Venerable lo aplica a los pastores de almas.
+
+[[361]](#rn-361){:#n-361} [??, 1](#c??-v1) Huye el impío: El terror infundado se nos muestra siempre como característica y castigo del alma distanciada del Padre celestial. Véase Génesis4, 14; Levítico [26, 17](levitico#c26-v17) y [36](levitico#c26-v36); Salmo [13, 5](salmos#c13-v5); Sabiduría [17, 11](sabiduria#c17-v11); Job [15, 21](job#c15-v21). Como león, mostrando que esa confianza no se funda en las propias fuerzas sino en la paternal protección del Dios Omnipotente. Véase Salmo 22 y notas.
+
+[[362]](#rn-362){:#n-362} [??, 2](#c??-v2) El frecuente cambio de reyes y de gobernantes es originado por los pecados de los hombres, disensiones, guerras, sublevaciones. Cf. vv. [15](#c??-v15) y [16](#c??-v16); [29, 4](book#c29-v4) y [14](book#c29-v14).
+
+[[363]](#rn-363){:#n-363} [??, 8](#c??-v8) A los israelitas les estaba prohibido cobrar intereses a otro israelita. Admirable disposición de la Providencia: las riquezas adquiridas por los usureros van a parar algún día a las manos de los justos y serán empleadas en bien de los pobres. Véase [13, 22](#c13-v22); Eclesiastés [2, 18](eclesiastes#c2-v18) s.; Job [27, 16](job#c27-v16).
+
+[[364]](#rn-364){:#n-364} [??, 9](#c??-v9) San Agustín explica que la oración ha de ser al Padre, en nombre y por los méritos de Jesús (Juan [16, 23](juan#c16-v23)), y no puede por tanto ser escuchada si Dios no reconoce a su Hijo en la imagen que de Él nos hemos formado.
+
+[[365]](#rn-365){:#n-365} [??, 10](#c??-v10) Jesús señala el pecado de escándalo como uno de los más espantables (Mateo [18, 7](mateo#c18-v7); Lucas [17, 1](lucas#c17-v1) ss.; 1 Corintios [8, 13](1-corintios#c8-v13)).
+
+[[366]](#rn-366){:#n-366} [??, 12](#c??-v12) La exaltación de los justos significa orden y justicia.
+
+[[367]](#rn-367){:#n-367} [??, 13](#c??-v13) Punto fundamental para la contrición que obtiene el perdón, es confesarse culpable. Véase Salmo 50 y notas; 1 Juan [1, 8](1-juan#c1-v8)-10. En el Salmo [31, 1](salmos#c31-v1)-5 pinta David la tragedia interior del hombre rebelde, hasta que reconoce su culpa y es perdonado.
+
+[[368]](#rn-368){:#n-368} [??, 14](#c??-v14) Temeroso, de ofender a Dios. Tal es el buen temor. Véase [1, 7](#c1-v7) y nota.
+
+[[369]](#rn-369){:#n-369} [??, 16](#c??-v16) He aquí una promesa bien concreta para los gobernantes que quieran asegurar la prosperidad de su obra. Cf. v. [2](#c??-v2) y nota; [29, 4](book#c29-v4) y [14](book#c29-v14).
+
+[[370]](#rn-370){:#n-370} [??, 20](#c??-v20) Esto mismo dice San Pablo en 1 Timoteo [6, 6](1-timoteo#c6-v6) s. Véase [10, 15](#c10-v15) y nota. El avaro es el común enemigo del género humano (San Crisóstomo).
+
+[[371]](#rn-371){:#n-371} [??, 21](#c??-v21) Sobre la acepción de personas véase [24, 23](#c24-v23).
+
+[[372]](#rn-372){:#n-372} [??, 22](#c??-v22) Es una magnífica ironía: al avaro le aguarda la miseria porque él mismo se privará de todo por atesorar. "No le pidas nunca a un avaro, porque es más pobre que tú." Cf. v. [20](#c??-v20) y nota.
+
+[[373]](#rn-373){:#n-373} [??, 24](#c??-v24) Véase un triste ejemplo de esto mismo en Marcos [7, 11](marcos#c7-v11).
+
+[[374]](#rn-374){:#n-374} [??, 27](#c??-v27) Es la recíproca de 22, 16. Se cuenta que San Juan el limosnero, célebre por su generosidad, cuanto más daba, más recibía por otra parte, y así corría una carrera con Dios diciéndole: Yo a dar, Señor, y tú a darme.
+
+[[375]](#rn-375){:#n-375} [??, 1](#c??-v1) De improviso. ¿Cómo no temblar ante esta amenaza? Así será también, inesperado y terrible, el Retorno de Cristo (Mateo [24, 42](mateo#c24-v42); 1 Tesalonicenses [5, 21](1-tesalonicenses#c5-v21); 2 Pedro [3, 18](2-pedro#c3-v18); Salmo [109, 5](salmos#c109-v5) s.), pero no para "los que aman su venida" (2 Timoteo [4, 8](2-timoteo#c4-v8). Cf. 1 Tesalonicenses [4, 16](1-tesalonicenses#c4-v16) s.; [5, 4](1-tesalonicenses#c5-v4); 2 Tesalonicenses [1, 10](2-tesalonicenses#c1-v10); Lucas [21, 36](lucas#c21-v36); Filipenses [3, 20](filipenses#c3-v20) s.).
+
+[[376]](#rn-376){:#n-376} [??, 5](#c??-v5) Cf. [27, 21](#c27-v21) y nota.
+
+[[377]](#rn-377){:#n-377} [??, 6](#c??-v6) El pecador no puede alegrarse como el justo, porque el pecado se castiga a sí mismo, acarreando muchos males y provocando remordimientos. Véase [1, 18](#c1-v18) y nota.
+
+[[378]](#rn-378){:#n-378} [??, 7](#c??-v7) La prueba del amor es el interés por saber lo que necesita el pobre. "Bienaventurado el que piensa en el necesitado y el pobre" (Salmo [40, 2](salmos#c40-v2)). Véase Job [29, 16](job#c29-v16).
+
+[[379]](#rn-379){:#n-379} [??, 9](#c??-v9) Gran lección para no discutir. Véase Tito [3, 10](tito#c3-v10); Mateo [7, 6](mateo#c7-v6); [11, 16](mateo#c11-v16)-19.
+
+[[380]](#rn-380){:#n-380} [??, 10](#c??-v10) Sobre el odio del impío al justo véase Salmo [111, 9](salmos#c111-v9) y nota. "Es la gran tragedia de la historia humana. Se repite sin cesar y en mil formas; y de ellas se sirve la divina Providencia para santificar a sus escogidos. Porque ello es así, que los espíritus avulgarados sienten horror a las eminencias; no conciben, no sufren la nobleza, la elevación, la perfección generosa de otros. Su sola presencia, y además la aureola que envuelve a esos espíritus selectos, causa indecible tormento a los espíritus mediocres; un viento de locura los gobierna. En cambio, el alma del justo es liberal y anchurada, se apasiona por las almas nobles y se hace su defensor y abogado, aun a costa de su bienestar y de la estima de muchos" (P. Manresa).
+
+[[381]](#rn-381){:#n-381} [??, 12](#c??-v12) Porque él mismo los estimula a mentir. "Como el rey, tal la grey."
+
+[[382]](#rn-382){:#n-382} [??, 13](#c??-v13) Quiere decir: Dios ha creado a todos, ricos y pobres. Por eso todos le han de dar cuenta de la vida para recibir lo merecido; los pobres recompensa (véase Salmo [71, 1](salmos#c71-v1) ss.), los usureros castigo. Véase [22, 2](#c22-v2) y nota.
+
+[[383]](#rn-383){:#n-383} [??, 16](#c??-v16) Verán la ruina: Véase Salmos [36, 34](salmos#c36-v34) ss.; [57, 11](salmos#c57-v11); [90, 8](salmos#c90-v8); 91, 12.
+
+[[384]](#rn-384){:#n-384} [??, 18](#c??-v18) La palabra profética; esto es, la explicación de la voluntad de Dios. "Él que profetiza, edifica a la Iglesia de Dios" (1 Corintios [14, 4](1-corintios#c14-v4)). "El pueblo se corrompe cuando no tiene ministros y sacerdotes que le den instrucción" (San Beda). Véase Jeremías [23, 1](jeremias#c23-v1) ss.; Ezequiel [13, 1](ezequiel#c13-v1) ss.; [33, 7](ezequiel#c33-v7) ss.
+
+[[385]](#rn-385){:#n-385} [??, 19](#c??-v19) He aquí una de esas luces definitivas que aclaran todo un horizonte. La Palabra de Dios está hecha para salvar (Romanos [1, 16](romanos#c1-v16); Santiago [1, 21](santiago#c1-v21)), como que es una semilla viva, y eficaz, y más penetrante que cualquier espada de dos filos (Marcos [4, 14](marcos#c4-v14); Hebreos [4, 12](hebreos#c4-v12)); pero no penetra por la fuerza en el alma que se cierra para no recibirla. De ahí que si Dios quiere salvar un alma rebelde, se ve obligado a postrarla con alguna prueba tremenda, como volteó a San Pablo. La religión del Dios que fue capaz de darnos su Hijo, no es un sistema de terror sino de amor (1 Juan [4, 18](1-juan#c4-v18)), es una vida de familia en que el Padre solo castiga porque el hijo quiere perderse (Hebreos [12, 6](hebreos#c12-v6) ss.). ¡Guay entonces con esas reprimendas del Amor ofendido! "Horrenda cosa es caer en manos de Dios vivo" (Hebreos [10, 31](hebreos#c10-v31)).
+
+[[386]](#rn-386){:#n-386} [??, 20](#c??-v20) Sobre la lengua suelta véase [10, 19](#c10-v19); [12, 13](#c12-v13); [18, 7](book#c18-v7); [21, 23](book#c21-v23), etc.
+
+[[387]](#rn-387){:#n-387} [??, 21](#c??-v21) Para los que se escandalizaren ante estas máximas del Dios de toda caridad (véase Eclesiástico [7, 23](eclesiastico#c7-v23); [10, 28](eclesiastico#c10-v28); [33, 31](eclesiastico#c33-v31), etc.), observemos aquí que el siervo es equiparado al hijo, por lo cual se le corrige (19, 10; Eclesiástico [33, 25](eclesiastico#c33-v25) ss.) lo mismo que a aquel ([22, 15](book#c22-v15); [23, 13](book#c23-v13); 26, 3; Hebreos [12, 7](hebreos#c12-v7) ss.).
+
+[[388]](#rn-388){:#n-388} [??, 22](#c??-v22) Cae en muchos pecados: Aunque puede darse el caso de una ira santa por el celo de las cosas de Dios (véase Números [25, 7](numeros#c25-v7); Salmo [105, 30](salmos#c105-v30); Mateo [21, 12](mateo#c21-v12); Juan [2, 15](juan#c2-v15)-17; Efesios [4, 26](efesios#c4-v26)), recojamos como regla esta verdad que el apóstol San Pablo expresa diciendo: "La ira del hombre no obra la justicia de Dios" (Santiago [1, 20](santiago#c1-v20)).
+
+[[389]](#rn-389){:#n-389} [??, 23](#c??-v23) Será ensalzado: Es lo que Jesús nos explica y recomienda en Lucas [14, 11](lucas#c14-v11).
+
+[[390]](#rn-390){:#n-390} [??, 24](#c??-v24) Odia su propia vida: Otros: odia su alma. El cómplice desprecia su vida porque está siempre en peligro de perderla. Oye la maldición y no dice nada: Después de descubrir un robo se solía maldecir primeramente al ladrón y todos sus cómplices (Jueces [17, 2](jueces#c17-v2) y Levítico [5, 1](levitico#c5-v1)).
+
+[[391]](#rn-391){:#n-391} [??, 25](#c??-v25) Se prepara un lazo. Vulgata: pronto caerá. Terminante condenación del respeto humano. Véase Lucas [12, 4](lucas#c12-v4); [16, 15](lucas#c16-v15); 1 Corintios [4, 3](1-corintios#c4-v3); Juan [5, 44](juan#c5-v44); Jeremías [17, 5](jeremias#c17-v5).
+
+[[392]](#rn-392){:#n-392} [??, 1](#c??-v1) La Vulgata traduce todos los nombres propios de este versículo según el sentido etimológico. Dice así: Palabras del que congrega, hijo del que rebosa saber. Visión que habló el varón, con quien está Dios, y que siendo fortificado por Dios, que mora con él, dijo. Los modernos traducen de diversas maneras. Kittel propone: Visión referida por un varón con quien está Dios y que fortificado por Dios, morador en él, dice.
+
+[[393]](#rn-393){:#n-393} [??, 2](#c??-v2) Este reconocimiento de la propia ignorancia es lo que lo hizo sabio. Contrasta con el v. [32](#c??-v32).
+
+[[394]](#rn-394){:#n-394} [??, 3](#c??-v3) Ciencia del Santo, es decir, ciencia de Dios y sus obras.
+
+[[395]](#rn-395){:#n-395} [??, 4](#c??-v4) Sobre los misterios impenetrables de la creación véase Job 38 s.; Eclesiástico [24, 5](eclesiastico#c24-v5) ss.; Isaías [40, 12](isaias#c40-v12) ss. Quién subió, etc.: Jesús se aplica a Sí mismo esta expresión (Juan [3, 13](juan#c3-v13)). ¿Qué nombre tiene su hijo? "Este nombre bendito del Hijo de Dios lo conocemos ahora gracias a revelaciones cada vez más esplendorosas, y gracias sobre todo al inefable misterio de la Encarnación del Verbo; pero estaba entonces escondido no obstante las luces asombrosas que supone este pasaje y 8, 22" (Fillion). Sobre los arcanos que solamente se revelaron en el Nuevo Testamento, véase Mateo [13, 35](mateo#c13-v35); Romanos [16, 25](romanos#c16-v25); Efesios [3, 9](efesios#c3-v9); Colosenses [1, 26](colosenses#c1-v26); 1 Pedro [1, 20](1-pedro#c1-v20).
+
+[[396]](#rn-396){:#n-396} [??, 5](#c??-v5) Acrisolada: Véase Salmos [11, 7](salmos#c11-v7); [17, 31](salmos#c17-v31) y todo el Salmo 118, que es el elogio de la Palabra de Dios.
+
+[[397]](#rn-397){:#n-397} [??, 6](#c??-v6) ¡No añadas nada! Punto gravísimo de meditación para todo el que enseña o predica las divinas palabras (Deuteronomio [4, 2](deuteronomio#c4-v2); [12, 32](deuteronomio#c12-v32)). Véanse las tremendas amenazas de Deuteronomio [18, 20](deuteronomio#c18-v20); Apocalipsis [22, 18](apocalipsis#c22-v18) s.; Jeremías Todo el cap. 23, etc.
+
+[[398]](#rn-398){:#n-398} [??, 8](#c??-v8) s. Elogio de la medianía (véase [10, 15](#c10-v15) y nota) y enseñanza contra la presunción de los estoicos (véase Eclesiástico [27, 1](eclesiastico#c27-v1); Cf. 1 Corintios [7, 5](1-corintios#c7-v5)).
+
+[[399]](#rn-399){:#n-399} [??, 11](#c??-v11) ss. Maravillosas lecciones que nos enseñan el fondo del corazón humano mejor que todos los tratados y laboratorios de psicología. Sobre el pecado contra los padres véase la enseñanza de Jesús en Marcos [7, 10](marcos#c7-v10) ss. Cf. v. [17](#c??-v17); 19, 26 y nota.
+
+[[400]](#rn-400){:#n-400} [??, 12](#c??-v12) Es la gran característica que Jesús nos muestra en los fariseos. Véase Lucas [18, 9](lucas#c18-v9) ss.; Mateo [23, 27](mateo#c23-v27); Isaías [65, 5](isaias#c65-v5); Proverbios [20, 9](proverbios#c20-v9).
+
+[[401]](#rn-401){:#n-401} [??, 13](#c??-v13) Sobre los ojos altivos véase [6, 17](#c6-v17); [21, 4](#c21-v4) y notas; Salmo [110, 5](salmos#c110-v5); Isaías [2, 11](isaias#c2-v11).
+
+[[402]](#rn-402){:#n-402} [??, 14](#c??-v14) Si pensamos en la Cruz que Cristo inocente llevó por caridad con nosotros culpables, vemos el abismo de iniquidad que significa, ante el Dios que nos dio su Hijo, esta malevolencia del hombre contra sus hermanos. Véase Salmos [56, 5](salmos#c56-v5); [13, 4](salmos#c13-v4). Job se gloría de haber quebrado esos dientes para arrancarles la presa (Job [29, 17](job#c29-v17)).
+
+[[403]](#rn-403){:#n-403} [??, 15](#c??-v15) s. La sanguijuela representa la insaciable concupiscencia (véase Eclesiastés [1, 8](eclesiastes#c1-v8)). Dame, dame: La repetición acentúa el ansia del deseo; "de donde está claro que los apetitos no ponen en el alma bien ninguno, sino que le quitan el que tiene, y si no los mortificare, no paran hasta hacer en ella lo que dicen que hacen a su madre los hijuelos de la víbora, que cuando van creciendo en el vientre, comen a su madre y la matan, quedando ellos vivos a costa de su madre" (San Juan de la Cruz, Subida I, 10). Es también una viva imagen de la avaricia, pues no se alegra el avaro de lo que tiene sino que se atormenta para poseer lo que no tiene. Se parece al perro, dice San Basilio, que tragando un bocado se ocupa solo en mirar el trozo que queda y en prepararse a comerlo.
+
+[[404]](#rn-404){:#n-404} [??, 19](#c??-v19) El rastro del hombre en la doncella. Como observa Manresa, parece aludir a la generación de la vida que es un misterio insondable para nosotros. Fray Luis de León, en sentido acomodaticio, lo aplica de manera hermosa al Nacimiento de Jesús, que no dejó rastro alguno en la virginidad de su Santísima Madre.
+
+[[405]](#rn-405){:#n-405} [??, 20](#c??-v20) Tal es también, o sea que su pecado no deja rastro. ¿No parece esto una alusión a las prácticas anticoncepcionales, pavorosamente generalizadas hoy como un desafío a los designios naturales y espirituales de Dios? Véase el castigo de Onán en Génesis38, 9 s.
+
+[[406]](#rn-406){:#n-406} [??, 22](#c??-v22) s. Semejante al consejo de San Pablo relativo al gobierno espiritual (1 Timoteo [3, 6](1-timoteo#c3-v6)), esta sabia norma de política se ha visto dolorosamente confirmada por todas las revoluciones de la historia. Véase [29, 21](#c29-v21) y nota.
+
+[[407]](#rn-407){:#n-407} [??, 29](#c??-v29) ss. "Hay que andar fuerte como el león; amante de los suyos como el gallo; dominar suave y magnánimamente como el cabrón; justo, mirando por el bien de los demás, como el rey" (Jünemann).
+
+[[408]](#rn-408){:#n-408} [??, 32](#c??-v32) Mano a la boca: Es como decir: Cubre los errores de tu vanidad y de tu orgullo.
+
+[[409]](#rn-409){:#n-409} [??, 1](#c??-v1) Lamuel, sabio desconocido. El texto y las circunstancias muestran que no es Salomón. Podría quizá ser Ezequías, último compilador de los Proverbios (véase [25, 1](#c25-v1)).
+
+[[410]](#rn-410){:#n-410} [??, 4](#c??-v4) ss. Sobre la embriaguez véase [23, 29](#c23-v29)-35.
+
+[[411]](#rn-411){:#n-411} [??, 6](#c??-v6) Nótese esta delicada norma de caridad con el afligido (véase Salmo [103, 15](salmos#c103-v15); Eclesiástico [31, 35](eclesiastico#c31-v35)). Los judíos solían llevar vino a los dolientes de luto, y también a los condenados, como dieron a Jesús vino con mirra (Marcos [15, 23](marcos#c15-v23)), único acto de piedad, que Él no aceptó, por cuanto rutinario.
+
+[[412]](#rn-412){:#n-412} [??, 8](#c??-v8) Mudo: quien no puede defenderse. Véase cómo Job cumplía esto (Job [29, 15](job#c29-v15)-17).
+
+[[413]](#rn-413){:#n-413} [??, 10](#c??-v10) ss. En hebreo los siguientes versos hasta el 31, son acrósticos, empezando cada uno con una letra del alfabeto en el orden del alfabeto hebreo. Este pasaje se llama "el alfabeto áureo" de la mujer, y se lee como Epístola en la Misa de muchas santas. Mujer fuerte: Al parecer ser mujer y ser fuerte es un contrasentido, pues la mujer es débil y siente necesidad de ser protegida. Sin embargo la Biblia alaba a la mujer fuerte, y la Iglesia la admira en sus Santas. Saben que en la mujer, aunque su físico sea débil, su alma puede ser grande, y para que llegue a ser grande tiene que ser fuerte: fuerte en sus conceptos sin ser dura; fuerte en su virtud sin ser orgullosa; fuerte en su convicción sin ser rígida; fuerte en el dolor sin ser fría; fuerte en el amor; pues el amor es fuerte como la muerte, y la muerte es invencible. Hace siempre bien: "Con estas pocas palabras describe el sabio toda una vida de abnegación, de renuncia y de amor, pues dar siempre gusto es renunciar a gustos propios; nunca dar disgustos indica que renuncia con alegría, que considera sobreentendido este renunciamiento, que su renunciar es la consecuencia de su amor. Pero estas palabras nos hablan también de su silencio. Solo la mujer callada no da disgustos. No protesta, ni se queja, ni siquiera pide lo que el esposo quizás tuviese que negarle. Ella calla y se conforma. Así le da siempre gusto, nunca disgustos, durante todo el tiempo de su vida" (Elpis).
+
+[[414]](#rn-414){:#n-414} [??, 11](#c??-v11) Fray Luis de León, quien explica este capítulo magistralmente en "La Perfecta Casada", dice que este versículo no ha de tomarse solamente en el sentido más estricto, porque "como a las aves les es naturaleza el volar, así las casadas han de tener por dote natural, en que no puede haber quiebra, el ser buenas y honestas; y han de estar persuadidas que lo contrario es suceso aborrecible y desventurado y hecho monstruoso; o por mejor decir, no han de imaginar que puede suceder lo contrario, más que ser el fuego frío o la nieve caliente; entendiendo que el quebrar la mujer a su marido la fe es perder las estrellas su luz y caerse los cielos, y quebrantar sus leyes la naturaleza". El verdadero sentido es más amplio, pues lo que quiere decir el Espíritu Santo con esta expresión es esto: "que la primera parte y la primera obra con que la mujer casada se perfecciona, es con hacer a su marido confiado y seguro, que, teniéndola a ella, para tener su casa abastada y rica, no tiene necesidad de correr la mar, ni de ir a la guerra, ni de dar sus dineros a logro, ni de enredarse en tratos viles e injustos" (ibíd.).
+
+[[415]](#rn-415){:#n-415} [??, 13](#c??-v13) ss. Vemos aquí que el tipo de la mujer perfecta y ejemplar, a los ojos de Dios, es esencialmente hogareño, que está en franca oposición con el concepto moderno de nuestro mundo y con el feminismo que tiende a equiparar cada día más los sexos sin detenerse ante las cosas que nos hacen "abominables ante Dios" (véase Deuteronomio [22, 5](deuteronomio#c22-v5)).
+
+[[416]](#rn-416){:#n-416} [??, 16](#c??-v16) No retiene para sí misma lo ahorrado y ganado por el trabajo de sus manos, sino que lo emplea para agrandar la propiedad. Oigamos sobre este punto una escritora moderna: "¿Con qué compra el campo? Lo compra con el sudor de sus manos. Hubiese podido emplear las riquezas para adornarse, para embellecerse, para ataviarse, pero con eso no hubiese aumentado las ganancias del esposo. La mujer fuerte piensa en él y no en sí misma, y piensa en él porque lo ama. Ve un campo que es fértil y que podría producir muchos frutos, y lo compra, renunciando a lo que podría adornarla, privándose de lo que podría hacerla más hermosa, de lo que podría hacer más cómoda su vida, hacerla majestuosa delante de la gente. Con el fruto de sus manos planta una viña. Planta una viña para el esposo, y por cuanto esta viña está plantada con el fruto de sus manos, la hace estimar más. Los frutos del campo procuran el alimento, el pan; y los frutos de la viña procuran la alegría y, además, el vino para el sacrificio. Y este vino no significa alegrías sacrificadas sino sacrificio de júbilo. Para que el esposo tenga alegrías y tenga también con qué ofrecer sacrificios de júbilo, la mujer fuerte, con el fruto de sus manos, planta una viña. Pues la mujer fuerte no vive para sí, vive para su esposo y su familia."
+
+[[417]](#rn-417){:#n-417} [??, 17](#c??-v17) "Tres cosas le pide aquí Salomón, y cada una en su verso: que sea trabajadora, lo primero; y lo segundo, que vele; y lo tercero, que hile... Por manera que, en suma y como en una palabra, el trabajo da a la mujer o el ser, o el ser buena; porque sin él, o no es mujer sino asco, o es tal mujer que sería menos mal que no fuese. Y si con esto que he dicho se persuaden a trabajar, no será menester que les diga y enseñe cómo han de tomar el huso y la rueca, ni me será necesario rogarles que velen, que son las otras dos cosas que les pide el Espíritu Santo, porque su misma afición buena se las enseñará (Fray Luis de León, 1, c.).
+
+[[418]](#rn-418){:#n-418} [??, 18](#c??-v18) s. No se apaga su lámpara. La lámpara es símbolo de la vigilancia y solicitud. La mujer fuerte descansa, pero solo para permanecer fuerte; duerme, pero solo para reponer sus fuerzas. Y cuando ella maneja la rueca y el huso, símbolos de la laboriosidad femenina, descansa espiritualmente en Dios, "está con Aquel que hace crecer el lino, con Aquel que viste los lirios del campo sin que hilen, con Aquel que pide para Su culto el casto lino de blancura inmaculada bordado con el azul de la fe y fidelidad, con el verde de la esperanza y con el rojo vivo del amor. Son solo sus manos las que toman la rueca y hacen bailar el huso; su alma está con Dios".
+
+[[419]](#rn-419){:#n-419} [??, 20](#c??-v20) Abre su mano al pobre: "A muy buen tiempo puso esto aquí Salomón, porque repitiendo tanto lo que toca a la granjería y aprovechamiento, y aconsejando a la mujer tantas veces y con tan encarecidas palabras que sea hacendosa y casera, la dejaba, al parecer, muy vecina a la avaricia y escasez, que son males que tienen parentesco con la granjería y que se le allegan no pocas veces... Dado que el ser piadoso y limosnero es virtud que conviene a todos los que se tienen por hombres, pero con particular razón las mujeres deben esta piedad a la blandura de su natural, entendiendo que ser una mujer de entrañas duras o secas con los necesitados, es en ella vituperable más que en hombre ninguno" (Fray Luis, ibíd.).
+
+[[420]](#rn-420){:#n-420} [??, 22](#c??-v22) Labra ella: ella misma, y no solamente sus criadas. Es decir que estas labores no están reñidas con la distinción de cualquier dama. La reina Isabel la Católica, la mujer más poderosa de su época, no se avergonzaba de coser y arreglar los trajes de su marido. Han cambiado los tiempos, pero no los principios, y mucho menos los principios que leemos en estos versos inspirados por el Espíritu Santo.
+
+[[421]](#rn-421){:#n-421} [??, 23](#c??-v23) En las puertas, en las asambleas públicas que se celebraban junto a la puerta de la ciudad. La virtud de la esposa acrecienta el prestigio del marido, así como una mujer vanidosa y ambiciosa dificulta la actividad pública de su esposo. Se habla hoy día mucho de la participación activa de la mujer en la vida pública, pero se piensa poco en la actividad indirecta que ella ejerce como madre y esposa por medio de sus hijos y de su marido. La investigación biológica ha demostrado que los grandes hombres de la historia deben su originalidad más a la madre que al padre, lo cual significa que la verdadera, pero invisible formadora de los pueblos es la madre, la madre humilde y abnegada, que ni siquiera transmite su nombre a las futuras generaciones. Sobre este tema véase Gertrud von Le Fort: "La mujer eterna".
+
+[[422]](#rn-422){:#n-422} [??, 24](#c??-v24) Mercader. Otra traducción cananeo, lo que significa aquí lo mismo. Los cananeos, y especialmente los fenicios, eran los intermediarios del comercio internacional de aquel entonces.
+
+[[423]](#rn-423){:#n-423} [??, 25](#c??-v25) s. Maravilloso cuadro de felicidad en el hogar que, como en el de Tobías, se multiplicaría si se volviese a buscar inspiración en la lectura diaria de la Sagrada Biblia en las familias, como tanto lo han deseado y enseñado los Sumos Pontífices, especialmente Pío X, Benedicto XV y Pío XII.
+
+[[424]](#rn-424){:#n-424} [??, 29](#c??-v29) Todo el poema, especialmente este versículo, pinta, en sentido figurativo, a la Santísima Virgen, la mujer fuerte por excelencia.
+
+[[425]](#rn-425){:#n-425} [??, 30](#c??-v30) Engañosa es la belleza; pero la mujer que teme a Dios, cuenta con la gracia divina que hace hermosa su alma. Como ramillete de otros avisos útiles para la mujer, señalamos estos textos: Proverbios [11, 22](proverbios#c11-v22); Eclesiastés [7, 27](eclesiastes#c7-v27); Eclesiástico caps. [9](eclesiastico#c9), 25 y 26; Judit 13; Lucas [8, 2](lucas#c8-v2) s.; I Corintios cap. 7; cap. [11, 4](book#c11-v4)-7; [14, 34](book#c14-v34) s.; Filipenses [4, 3](filipenses#c4-v3); Efesios [5, 22](efesios#c5-v22)-33; 1 Timoteo [2, 9](1-timoteo#c2-v9)-15; [5, 2](1-timoteo#c5-v2)-16; 1 Pedro [3, 1](1-pedro#c3-v1)-7, etc.
+
 <!--Total de referencias: 425-->
 <!--Rango original de referencias: 5685 - 6109-->

@@ -6,7 +6,7 @@ title: Evangelio según san Mateo
 
 ## Introducción
 
-De la vida de San Mateo, que antes se llamaba Leví, sabemos muy poco. Era publicano, es decir, recaudador de tributos, en Cafarnaúm, hasta que un día Jesús lo llamó al apostolado, diciéndole simplemente: "Sígueme"; y Leví "levantándose le siguió" (Mateo [9, 9](mateo#c9-v9)).
+De la vida de San Mateo, que antes se llamaba Leví, sabemos muy poco. Era publicano, es decir, recaudador de tributos, en Cafarnaúm, hasta que un día Jesús lo llamó al apostolado, diciéndole simplemente: «Sígueme»; y Leví «levantándose le siguió» (Mateo [9, 9](mateo#c9-v9)).
 
 Su vida apostólica se desarrolló primero en Palestina, al lado de los otros Apóstoles; más tarde predicó probablemente en Etiopía (África), donde a lo que parece también padeció el martirio. Su cuerpo se venera en la Catedral de Salerno (Italia); su fiesta se celebra el 21 de setiembre.
 
@@ -67,7 +67,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [22](#c1-v22){:#c1-v22} Todo esto sucedió para que se cumpliese la palabra que había dicho el Señor por el profeta:
 
-[23](#c1-v23){:#c1-v23} Ved ahí que la virgen concebirá y dará a luz un hijo [[6]](#n-6){:#rn-6}, y le pondrán el nombre de Emmanuel, que se traduce: "Dios con nosotros".
+[23](#c1-v23){:#c1-v23} Ved ahí que la virgen concebirá y dará a luz un hijo [[6]](#n-6){:#rn-6}, y le pondrán el nombre de Emmanuel, que se traduce: «Dios con nosotros».
 
 [24](#c1-v24){:#c1-v24} Cuando despertó del sueño, hizo José como el ángel del Señor le había mandado, y recibió a su esposa.
 
@@ -79,7 +79,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c2-v1){:#c2-v1} Cuando hubo nacido Jesús en Betlehem de Judea, en tiempo del rey Herodes, unos magos [[8]](#n-8){:#rn-8} del Oriente llegaron a Jerusalén,
 
-[2](#c2-v2){:#c2-v2} y preguntaron: "¿Dónde está el rey de los judíos [[9]](#n-9){:#rn-9} que ha nacido? Porque hemos visto su estrella en el Oriente y venimos a adorarlo".
+[2](#c2-v2){:#c2-v2} y preguntaron: «¿Dónde está el rey de los judíos [[9]](#n-9){:#rn-9} que ha nacido? Porque hemos visto su estrella en el Oriente y venimos a adorarlo».
 
 [3](#c2-v3){:#c2-v3} Oyendo esto, el rey Herodes se turbó y con él toda Jerusalén.
 
@@ -91,7 +91,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [7](#c2-v7){:#c2-v7} Entonces Herodes llamó en secreto a los magos y se informó exactamente de ellos acerca del tiempo en que la estrella había aparecido.
 
-[8](#c2-v8){:#c2-v8} Después los envió a Betlehem diciéndoles: "Id y buscad cuidadosamente al niño; y cuando lo hayáis encontrado, hacédmelo saber, para que vaya yo también a adorarlo".
+[8](#c2-v8){:#c2-v8} Después los envió a Betlehem diciéndoles: «Id y buscad cuidadosamente al niño; y cuando lo hayáis encontrado, hacédmelo saber, para que vaya yo también a adorarlo».
 
 [9](#c2-v9){:#c2-v9} Con estas palabras del rey, se pusieron en marcha, y he aquí que la estrella, que habían visto en el Oriente, iba delante de ellos, hasta que llegando se detuvo encima del lugar donde estaba el niño.
 
@@ -103,11 +103,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 #### Huida a Egipto
 
-[13](#c2-v13){:#c2-v13} Luego que partieron, un ángel del Señor se apareció en sueños a José y le dijo: "Levántate, toma contigo al niño y a su madre y huye a Egipto, donde permanecerás, hasta que yo te avise. Porque Herodes va a buscar al niño para matarlo."
+[13](#c2-v13){:#c2-v13} Luego que partieron, un ángel del Señor se apareció en sueños a José y le dijo: «Levántate, toma contigo al niño y a su madre y huye a Egipto, donde permanecerás, hasta que yo te avise. Porque Herodes va a buscar al niño para matarlo.»
 
 [14](#c2-v14){:#c2-v14} Y él se levantó, tomó al niño y a su madre, de noche, y salió para Egipto [[12]](#n-12){:#rn-12},
 
-[15](#c2-v15){:#c2-v15} y se quedó allí hasta la muerte de Herodes; para que se cumpliera lo que había dicho el Señor por el profeta [[13]](#n-13){:#rn-13}: "De Egipto llamé a mi hijo."
+[15](#c2-v15){:#c2-v15} y se quedó allí hasta la muerte de Herodes; para que se cumpliera lo que había dicho el Señor por el profeta [[13]](#n-13){:#rn-13}: «De Egipto llamé a mi hijo.»
 
 #### Degollación de los inocentes
 
@@ -115,19 +115,19 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [17](#c2-v17){:#c2-v17} Entonces se cumplió la palabra dicha por el profeta Jeremías:
 
-[18](#c2-v18){:#c2-v18} "Un clamor se hizo oír en Rama, llanto y alarido grande: Raquel llora a sus hijos y rehúsa todo consuelo, porque ellos no están más" [[14]](#n-14){:#rn-14}.
+[18](#c2-v18){:#c2-v18} «Un clamor se hizo oír en Rama, llanto y alarido grande: Raquel llora a sus hijos y rehúsa todo consuelo, porque ellos no están más» [[14]](#n-14){:#rn-14}.
 
 #### Regreso de la Sagrada Familia
 
 [19](#c2-v19){:#c2-v19} Muerto Herodes, un ángel del Señor se apareció en sueños a José en Egipto y le dijo:
 
-[20](#c2-v20){:#c2-v20} "Levántate, toma contigo al niño y a su madre y vuelve a la tierra de Israel, porque han muerto los que buscaban la vida del niño".
+[20](#c2-v20){:#c2-v20} «Levántate, toma contigo al niño y a su madre y vuelve a la tierra de Israel, porque han muerto los que buscaban la vida del niño».
 
 [21](#c2-v21){:#c2-v21} Él se levantó, tomó consigo al niño y a su madre y entró en tierra de Israel.
 
 [22](#c2-v22){:#c2-v22} Pero oyendo que Arquelao reinaba en Judea en el lugar de su padre Herodes, temió ir allí; y, advertido en sueños, se fue a la región de Galilea [[15]](#n-15){:#rn-15}.
 
-[23](#c2-v23){:#c2-v23} Y llegado allí se estableció en una ciudad llamada Nazaret [[16]](#n-16){:#rn-16}, para que se cumpliese la palabra de los profetas: "El será llamado Nazareno."
+[23](#c2-v23){:#c2-v23} Y llegado allí se estableció en una ciudad llamada Nazaret [[16]](#n-16){:#rn-16}, para que se cumpliese la palabra de los profetas: «Él será llamado Nazareno.»
 
 ## II. Preparación para la vida pública
 
@@ -137,9 +137,9 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c3-v1){:#c3-v1} En aquel tiempo apareció Juan el Bautista, predicando en el desierto de Judea,
 
-[2](#c3-v2){:#c3-v2} y decía: "Arrepentíos, porque el reino de los cielos [[17]](#n-17){:#rn-17} está cerca".
+[2](#c3-v2){:#c3-v2} y decía: «Arrepentíos, porque el reino de los cielos [[17]](#n-17){:#rn-17} está cerca».
 
-[3](#c3-v3){:#c3-v3} Este es de quien habló el profeta Isaías [[18]](#n-18){:#rn-18} cuando dijo: "Voz de uno que clama en el desierto: Preparad el camino del Señor, enderezad sus sendas".
+[3](#c3-v3){:#c3-v3} Este es de quien habló el profeta Isaías [[18]](#n-18){:#rn-18} cuando dijo: «Voz de uno que clama en el desierto: Preparad el camino del Señor, enderezad sus sendas».
 
 [4](#c3-v4){:#c3-v4} Juan tenía un vestido de pelos de camello, y un cinto de piel alrededor de su cintura; su comida eran langostas y miel silvestre.
 
@@ -151,7 +151,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [8](#c3-v8){:#c3-v8} Producid, pues, frutos propios del arrepentimiento.
 
-[9](#c3-v9){:#c3-v9} Y no creáis que podéis decir dentro de vosotros: "Tenemos por padre a Abrahán"; porque yo os digo: "Puede Dios de estas piedras hacer que nazcan hijos a Abrahán".
+[9](#c3-v9){:#c3-v9} Y no creáis que podéis decir dentro de vosotros: «Tenemos por padre a Abrahán»; porque yo os digo: «Puede Dios de estas piedras hacer que nazcan hijos a Abrahán».
 
 [10](#c3-v10){:#c3-v10} Ya el hacha está puesta a la raíz de los árboles; y todo árbol que no produce buen fruto será cortado y arrojado al fuego [[20]](#n-20){:#rn-20}.
 
@@ -163,13 +163,13 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [13](#c3-v13){:#c3-v13} Entonces Jesús fue de Galilea al Jordán a Juan para ser bautizado por él.
 
-[14](#c3-v14){:#c3-v14} Pero Juan quería impedírselo [[21]](#n-21){:#rn-21} y le decía: "Yo tengo necesidad de ser bautizado por Ti y ¿Tú vienes a mí?"
+[14](#c3-v14){:#c3-v14} Pero Juan quería impedírselo [[21]](#n-21){:#rn-21} y le decía: «Yo tengo necesidad de ser bautizado por Ti y ¿Tú vienes a mí?»
 
-[15](#c3-v15){:#c3-v15} Jesús le respondió y dijo: "Deja ahora; porque así conviene que nosotros cumplamos toda justicia". Entonces (Juan) le dejó.
+[15](#c3-v15){:#c3-v15} Jesús le respondió y dijo: «Deja ahora; porque así conviene que nosotros cumplamos toda justicia». Entonces (Juan) le dejó.
 
 [16](#c3-v16){:#c3-v16} Bautizado Jesús, salió al punto del agua, y he aquí que se le abrieron los cielos y vio al Espíritu de Dios, en figura de paloma, que descendía y venía sobre Él [[22]](#n-22){:#rn-22}.
 
-[17](#c3-v17){:#c3-v17} Y una voz del cielo decía: "Este es mi Hijo, el Amado, en quien me complazco" [[23]](#n-23){:#rn-23}.
+[17](#c3-v17){:#c3-v17} Y una voz del cielo decía: «Este es mi Hijo, el Amado, en quien me complazco» [[23]](#n-23){:#rn-23}.
 
 ### Mateo [4](#c4) {#c4}
 
@@ -179,24 +179,25 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [2](#c4-v2){:#c4-v2} Ayunó cuarenta días y cuarenta noches, después de lo cual tuvo hambre.
 
-[3](#c4-v3){:#c4-v3} Entonces el tentador se aproximó y le dijo: "Si Tú eres el Hijo de Dios, manda que estas piedras se vuelvan panes" [[25]](#n-25){:#rn-25}.
+[3](#c4-v3){:#c4-v3} Entonces el tentador se aproximó y le dijo: «Si Tú eres el Hijo de Dios, manda que estas piedras se vuelvan panes» [[25]](#n-25){:#rn-25}.
 
-[4](#c4-v4){:#c4-v4} Mas Él replicó y dijo: "Está escrito: "No de pan solo vivirá el hombre, sino de toda palabra que sale de la boca de Dios".
+[4](#c4-v4){:#c4-v4} Mas Él replicó y dijo: «Está escrito: "No de pan solo vivirá el hombre, sino de toda palabra que sale de la boca de Dios".»
 
 [5](#c4-v5){:#c4-v5} Entonces lo llevó el diablo a la Ciudad Santa y lo puso sobre el pináculo del Templo;
 
-[6](#c4-v6){:#c4-v6} y le dijo: "Si Tú eres el Hijo de. Dios, échate abajo, porque está escrito: "Él dará órdenes a sus ángeles acerca de Ti, y te llevarán en palmas, para que no lastimes tu pie contra alguna piedra".
+[6](#c4-v6){:#c4-v6} y le dijo: «Si Tú eres el Hijo de. Dios, échate abajo, porque está escrito: "Él dará órdenes a sus ángeles acerca de Ti, y te llevarán en palmas, para que no lastimes tu pie contra alguna piedra".»
 
-[7](#c4-v7){:#c4-v7} Respondiole Jesús: "También está escrito: "No tentarás al Señor tu Dios" [[26]](#n-26){:#rn-26}.
+[7](#c4-v7){:#c4-v7} Respondiole Jesús: «También está escrito: "No tentarás al Señor tu Dios" [[26]](#n-26){:#rn-26}.»
 
 [8](#c4-v8){:#c4-v8} De nuevo le llevó el diablo a una montaña muy alta, y mostrándole todos los reinos del mundo y su gloria,
 
-[9](#c4-v9){:#c4-v9} le dijo: "Yo te daré todo esto si postrándote me adoras".
+[9](#c4-v9){:#c4-v9} le dijo: «Yo te daré todo esto si postrándote me adoras».
 
-[10](#c4-v10){:#c4-v10} Entonces [[27]](#n-27){:#rn-27} Jesús le dijo: "Vete, Satanás, porque está escrito: "Adorarás al Señor tu Dios, y a Él solo servirás".
+[10](#c4-v10){:#c4-v10} Entonces [[27]](#n-27){:#rn-27} Jesús le dijo: «Vete, Satanás, porque está escrito: "Adorarás al Señor tu Dios, y a Él solo servirás".»
 
 [11](#c4-v11){:#c4-v11} Le dejó entonces el diablo, y he aquí que ángeles se acercaron para servirle.
-## III. Ministerio de jesús en galilea
+
+## III. Ministerio de Jesús en Galilea
 
 #### Comienzo de la vida pública
 
@@ -212,11 +213,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 #### Los primeros discípulos
 
-[17](#c4-v17){:#c4-v17} Desde entonces Jesús comenzó a predicar y a decir: "Arrepentíos porque el reino de los cielos está cerca".
+[17](#c4-v17){:#c4-v17} Desde entonces Jesús comenzó a predicar y a decir: «Arrepentíos porque el reino de los cielos está cerca».
 
 [18](#c4-v18){:#c4-v18} Caminando junto al mar de Galilea vio a dos hermanos, Simón el llamado Pedro y Andrés su hermano, que echaban la red en el mar, pues eran pescadores,
 
-[19](#c4-v19){:#c4-v19} y díjoles: "Venid en pos de Mí y os haré pescadores de hombres".
+[19](#c4-v19){:#c4-v19} y díjoles: «Venid en pos de Mí y os haré pescadores de hombres».
 
 [20](#c4-v20){:#c4-v20} Al instante, dejando las redes, le siguieron.
 
@@ -240,7 +241,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [2](#c5-v2){:#c5-v2} Entonces, abrió su boca, y se puso a enseñarles así:
 
-[3](#c5-v3){:#c5-v3} "Bienaventurados los pobres en el espíritu [[32]](#n-32){:#rn-32}, porque a ellos pertenece el reino de los cielos.
+[3](#c5-v3){:#c5-v3} «Bienaventurados los pobres en el espíritu [[32]](#n-32){:#rn-32}, porque a ellos pertenece el reino de los cielos.
 
 [4](#c5-v4){:#c5-v4} Bienaventurados los afligidos, porque serán consolados.
 
@@ -258,31 +259,31 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [11](#c5-v11){:#c5-v11} Dichosos seréis cuando os insultaren, cuando os persiguieren, cuando dijeren mintiendo todo mal contra vosotros, por causa mía.
 
-[12](#c5-v12){:#c5-v12} Gozaos y alegraos, porque vuestra recompensa es grande en los cielos, pues así persiguieron a los profetas que fueron antes de vosotros".
+[12](#c5-v12){:#c5-v12} Gozaos y alegraos, porque vuestra recompensa es grande en los cielos, pues así persiguieron a los profetas que fueron antes de vosotros».
 
 #### Vosotros sois la sal de la tierra
 
-[13](#c5-v13){:#c5-v13} "Vosotros sois la sal de la tierra. Mas si la sal pierde su sabor, ¿con qué será salada? Para nada vale ya, sino para que, tirada fuera, la pisen los hombres [[36]](#n-36){:#rn-36}.
+[13](#c5-v13){:#c5-v13} «Vosotros sois la sal de la tierra. Mas si la sal pierde su sabor, ¿con qué será salada? Para nada vale ya, sino para que, tirada fuera, la pisen los hombres [[36]](#n-36){:#rn-36}.
 
 [14](#c5-v14){:#c5-v14} Vosotros sois la luz del mundo. No puede esconderse una ciudad situada sobre una montaña.
 
 [15](#c5-v15){:#c5-v15} Y no se enciende una candela para ponerla debajo del celemín, sino sobre el candelero, y (así) alumbra a todos los que están en la casa.
 
-[16](#c5-v16){:#c5-v16} Así brille [[37]](#n-37){:#rn-37} vuestra luz ante los hombres, de modo tal que, viendo vuestras obras buenas, glorifiquen a vuestro Padre del cielo".
+[16](#c5-v16){:#c5-v16} Así brille [[37]](#n-37){:#rn-37} vuestra luz ante los hombres, de modo tal que, viendo vuestras obras buenas, glorifiquen a vuestro Padre del cielo».
 
 #### Jesús perfecciona la Ley Antigua
 
-[17](#c5-v17){:#c5-v17} "No vayáis a pensar que he venido a abolir la Ley y los Profetas [[38]](#n-38){:#rn-38}. Yo no he venido para abolir, sino para dar cumplimiento.
+[17](#c5-v17){:#c5-v17} «No vayáis a pensar que he venido a abolir la Ley y los Profetas [[38]](#n-38){:#rn-38}. Yo no he venido para abolir, sino para dar cumplimiento.
 
 [18](#c5-v18){:#c5-v18} En verdad os digo, hasta que pasen el cielo y la tierra, ni una jota [[39]](#n-39){:#rn-39}, ni un ápice de la Ley pasará, sin que todo se haya cumplido.
 
 [19](#c5-v19){:#c5-v19} Por lo tanto, quien violare uno de estos mandamientos, (aun) los mínimos, y enseñare así a los hombres, será llamado el mínimo en el reino de los cielos; mas quien los observare y los enseñare, este será llamado grande en el reino de los cielos.
 
-[20](#c5-v20){:#c5-v20} Os digo, pues, que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos".
+[20](#c5-v20){:#c5-v20} Os digo, pues, que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos.
 
-[21](#c5-v21){:#c5-v21} "Oísteis que fue dicho a los antepasados: *No matarás*; el que matare será reo de condenación".
+[21](#c5-v21){:#c5-v21} Oísteis que fue dicho a los antepasados: "No matarás; el que matare será reo de condenación".
 
-[22](#c5-v22){:#c5-v22} Mas Yo os digo: "Todo aquel que se encoleriza contra su hermano, merece la condenación; quien dice a su hermano *racá* merece el sanhedrín; quien le dice *necio* merece la gehenna del fuego [[40]](#n-40){:#rn-40}.
+[22](#c5-v22){:#c5-v22} Mas Yo os digo: Todo aquel que se encoleriza contra su hermano, merece la condenación; quien dice a su hermano "*racá*" merece el sanhedrín; quien le dice "*necio*" merece la gehenna del fuego [[40]](#n-40){:#rn-40}.
 
 [23](#c5-v23){:#c5-v23} Si, pues, estás presentando tu ofrenda sobre el altar, y allí te acuerdas de que tu hermano tiene algo que reprocharte,
 
@@ -290,21 +291,21 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [25](#c5-v25){:#c5-v25} Ponte en paz, sin tardar, con tu adversario mientras vas con él por el camino, no sea que él te entregue al juez y el juez al alguacil; y te pongan en la cárcel.
 
-[26](#c5-v26){:#c5-v26} En verdad te digo, que no saldrás de allí sin que hayas pagado hasta el último centavo".
+[26](#c5-v26){:#c5-v26} En verdad te digo, que no saldrás de allí sin que hayas pagado hasta el último centavo.
 
-[27](#c5-v27){:#c5-v27} "Oísteis que fue dicho: *No cometerás adulterio* [[42]](#n-42){:#rn-42}.
+[27](#c5-v27){:#c5-v27} Oísteis que fue dicho: "No cometerás adulterio" [[42]](#n-42){:#rn-42}.
 
-[28](#c5-v28){:#c5-v28} Mas Yo os digo: "Quienquiera mire a una mujer codiciándola, ya cometió con ella adulterio en su corazón [[43]](#n-43){:#rn-43}.
+[28](#c5-v28){:#c5-v28} Mas Yo os digo: Quienquiera mire a una mujer codiciándola, ya cometió con ella adulterio en su corazón [[43]](#n-43){:#rn-43}.
 
 [29](#c5-v29){:#c5-v29} Si, pues, tu ojo derecho [[44]](#n-44){:#rn-44} te hace tropezar, arráncatelo y arrójalo lejos de ti; más te vale que se pierda uno de tus miembros y no que sea echado todo tu cuerpo en la gehenna.
 
-[30](#c5-v30){:#c5-v30} Y si tu mano derecha te es ocasión de tropiezo, córtala y arrójala lejos de ti; más te vale que se pierda uno de tus miembros y no que sea echado todo tu cuerpo en la gehenna".
+[30](#c5-v30){:#c5-v30} Y si tu mano derecha te es ocasión de tropiezo, córtala y arrójala lejos de ti; más te vale que se pierda uno de tus miembros y no que sea echado todo tu cuerpo en la gehenna.
 
-[31](#c5-v31){:#c5-v31} "También ha sido dicho: *Si alguno repudia a su mujer, que le dé un acta de repudio*.
+[31](#c5-v31){:#c5-v31} También ha sido dicho: "Si alguno repudia a su mujer, que le dé un acta de repudio".
 
-[32](#c5-v32){:#c5-v32} Mas Yo os digo: "Quienquiera repudie a su mujer, si no es por causa de fornicación, se hace causa de que se cometa adulterio con ella; y el que toma a una mujer repudiada comete adulterio" [[45]](#n-45){:#rn-45}.
+[32](#c5-v32){:#c5-v32} Mas Yo os digo: Quienquiera repudie a su mujer, si no es por causa de fornicación, se hace causa de que se cometa adulterio con ella; y el que toma a una mujer repudiada comete adulterio [[45]](#n-45){:#rn-45}.
 
-[33](#c5-v33){:#c5-v33} "Oísteis también que fue dicho a los antepasados: *No perjurarás, sino que cumplirás al Señor lo que has jurado*.
+[33](#c5-v33){:#c5-v33} Oísteis también que fue dicho a los antepasados: "No perjurarás, sino que cumplirás al Señor lo que has jurado".
 
 [34](#c5-v34){:#c5-v34} Mas Yo os digo que no juréis de ningún modo [[46]](#n-46){:#rn-46}: ni por el cielo, porque es el trono de Dios;
 
@@ -312,9 +313,9 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [36](#c5-v36){:#c5-v36} Ni jures tampoco por tu cabeza, porque eres incapaz de hacer blanco o negro uno solo de tus cabellos.
 
-[37](#c5-v37){:#c5-v37} Diréis (solamente): Sí, sí; No, no. Todo lo que excede a esto, viene del Maligno".
+[37](#c5-v37){:#c5-v37} Diréis (solamente): "Sí, sí; No, no". Todo lo que excede a esto, viene del Maligno.
 
-[38](#c5-v38){:#c5-v38} "Oísteis que fue dicho: *Ojo por ojo y diente por diente* [[47]](#n-47){:#rn-47}.
+[38](#c5-v38){:#c5-v38} Oísteis que fue dicho: "Ojo por ojo y diente por diente" [[47]](#n-47){:#rn-47}.
 
 [39](#c5-v39){:#c5-v39} Mas Yo os digo: no resistir al que es malo; antes bien, si alguien te abofeteare en la mejilla derecha, preséntale también la otra.
 
@@ -322,11 +323,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [41](#c5-v41){:#c5-v41} Y si alguno te quiere llevar por fuerza una milla, ve con él dos.
 
-[42](#c5-v42){:#c5-v42} Da a quien te pide [[49]](#n-49){:#rn-49}, y no vuelvas la espalda a quien quiera tomar prestado de ti".
+[42](#c5-v42){:#c5-v42} Da a quien te pide [[49]](#n-49){:#rn-49}, y no vuelvas la espalda a quien quiera tomar prestado de ti.
 
-[43](#c5-v43){:#c5-v43} "Oísteis que fue dicho: *Amarás a tu prójimo, y odiarás a tu enemigo* [[50]](#n-50){:#rn-50}.
+[43](#c5-v43){:#c5-v43} Oísteis que fue dicho: "Amarás a tu prójimo, y odiarás a tu enemigo" [[50]](#n-50){:#rn-50}.
 
-[44](#c5-v44){:#c5-v44} Mas Yo os digo: "Amad a vuestros enemigos, y rogad por los que os persiguen [[51]](#n-51){:#rn-51},
+[44](#c5-v44){:#c5-v44} Mas Yo os digo: Amad a vuestros enemigos, y rogad por los que os persiguen [[51]](#n-51){:#rn-51},
 
 [45](#c5-v45){:#c5-v45} a fin de que seáis hijos de vuestro Padre celestial, que hace levantar su sol sobre malos y buenos, y descender su lluvia sobre justos e injustos.
 
@@ -334,23 +335,23 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [47](#c5-v47){:#c5-v47} Y si no saludáis más que a vuestros hermanos, ¿qué hacéis vosotros de particular? ¿No hacen otro tanto los gentiles?
 
-[48](#c5-v48){:#c5-v48} Sed, pues, vosotros perfectos como vuestro Padre celestial es perfecto" [[52]](#n-52){:#rn-52}.
+[48](#c5-v48){:#c5-v48} Sed, pues, vosotros perfectos como vuestro Padre celestial es perfecto [[52]](#n-52){:#rn-52}.»
 
 ### Mateo [6](#c6) {#c6}
 
 #### De la recta intención
 
-[1](#c6-v1){:#c6-v1} "Cuidad de no practicar vuestra justicia a la vista de los hombres con el objeto de ser mirados por ellos; de otra manera no tendréis recompensa de vuestro Padre celestial.
+[1](#c6-v1){:#c6-v1} «Cuidad de no practicar vuestra justicia a la vista de los hombres con el objeto de ser mirados por ellos; de otra manera no tendréis recompensa de vuestro Padre celestial.
 
 [2](#c6-v2){:#c6-v2} Cuando, pues, haces limosna, no toques la bocina [[53]](#n-53){:#rn-53} delante de ti, como hacen los hipócritas en las sinagogas y en las calles, para ser glorificados por los hombres; en verdad os digo, ya tienen su paga.
 
 [3](#c6-v3){:#c6-v3} Tú, al contrario, cuando haces limosna, que tu mano izquierda no sepa lo que hace tu mano derecha [[54]](#n-54){:#rn-54},
 
-[4](#c6-v4){:#c6-v4} para que tu limosna quede oculta, y tu Padre, que ve en lo secreto, te lo pagará".
+[4](#c6-v4){:#c6-v4} para que tu limosna quede oculta, y tu Padre, que ve en lo secreto, te lo pagará».
 
 #### La oración dominical
 
-[5](#c6-v5){:#c6-v5} "Cuando oréis, no seáis como los hipócritas, que gustan orar de pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres; en verdad os digo, ya tienen su paga.
+[5](#c6-v5){:#c6-v5} «Cuando oréis, no seáis como los hipócritas, que gustan orar de pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres; en verdad os digo, ya tienen su paga.
 
 [6](#c6-v6){:#c6-v6} Tú, al contrario, cuando quieras orar entra en tu aposento, corre el cerrojo de la puerta, y ora a tu Padre que está en lo secreto, y tu Padre, que ve en lo secreto, te lo pagará [[55]](#n-55){:#rn-55}.
 
@@ -370,37 +371,37 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [14](#c6-v14){:#c6-v14} Si, pues, vosotros perdonáis a los hombres sus ofensas, vuestro Padre celestial os perdonará también [[62]](#n-62){:#rn-62};
 
-[15](#c6-v15){:#c6-v15} pero si vosotros no perdonáis a los hombres, tampoco vuestro Padre perdonará vuestros pecados".
+[15](#c6-v15){:#c6-v15} pero si vosotros no perdonáis a los hombres, tampoco vuestro Padre perdonará vuestros pecados».
 
 #### El ayuno
 
-[16](#c6-v16){:#c6-v16} "Cuando ayunéis [[63]](#n-63){:#rn-63}, no pongáis cara triste, como los hipócritas, que fingen un rostro escuálido para que las gentes noten que ellos ayunan; en verdad, os digo, ya tienen su paga.
+[16](#c6-v16){:#c6-v16} «Cuando ayunéis [[63]](#n-63){:#rn-63}, no pongáis cara triste, como los hipócritas, que fingen un rostro escuálido para que las gentes noten que ellos ayunan; en verdad, os digo, ya tienen su paga.
 
 [17](#c6-v17){:#c6-v17} Mas tú, cuando ayunes, perfuma tu cabeza y lava tu rostro,
 
-[18](#c6-v18){:#c6-v18} a fin de que tu ayuno sea visto, no de las gentes, sino de tu Padre, que está en lo secreto; y tu Padre, que ve en lo secreto, te lo pagará".
+[18](#c6-v18){:#c6-v18} a fin de que tu ayuno sea visto, no de las gentes, sino de tu Padre, que está en lo secreto; y tu Padre, que ve en lo secreto, te lo pagará».
 
 #### Las verdaderas riquezas
 
-[19](#c6-v19){:#c6-v19} "No os amontonéis tesoros en la tierra, donde polilla y herrumbre (los) destruyen, y donde los ladrones horadan los muros y roban.
+[19](#c6-v19){:#c6-v19} «No os amontonéis tesoros en la tierra, donde polilla y herrumbre (los) destruyen, y donde los ladrones horadan los muros y roban.
 
 [20](#c6-v20){:#c6-v20} Amontonaos tesoros en el cielo, donde ni polilla ni herrumbre destruyen, y donde ladrones no horadan ni roban.
 
-[21](#c6-v21){:#c6-v21} Porque allí donde está tu tesoro, allí también estará tu corazón" [[64]](#n-64){:#rn-64}.
+[21](#c6-v21){:#c6-v21} Porque allí donde está tu tesoro, allí también estará tu corazón [[64]](#n-64){:#rn-64}.
 
-[22](#c6-v22){:#c6-v22} "La lámpara del cuerpo es el ojo: Si tu ojo está sencillo, todo tu cuerpo gozará de la luz [[65]](#n-65){:#rn-65};
+[22](#c6-v22){:#c6-v22} La lámpara del cuerpo es el ojo: Si tu ojo está sencillo, todo tu cuerpo gozará de la luz [[65]](#n-65){:#rn-65};
 
-[23](#c6-v23){:#c6-v23} pero si tu ojo está inservible, todo tu cuerpo estará en tinieblas. Luego, si la luz que hay en ti es tiniebla, ¿las tinieblas mismas, cuán grandes serán?".
+[23](#c6-v23){:#c6-v23} pero si tu ojo está inservible, todo tu cuerpo estará en tinieblas. Luego, si la luz que hay en ti es tiniebla, ¿las tinieblas mismas, cuán grandes serán?
 
-[24](#c6-v24){:#c6-v24} "Nadie puede servir a dos señores; porque odiará al uno y amará al otro; o se adherirá al uno y despreciará al otro. Vosotros no podéis servir a Dios y a Mammón" [[66]](#n-66){:#rn-66}.
+[24](#c6-v24){:#c6-v24} Nadie puede servir a dos señores; porque odiará al uno y amará al otro; o se adherirá al uno y despreciará al otro. Vosotros no podéis servir a Dios y a Mammón [[66]](#n-66){:#rn-66}.»
 
 #### Confianza en la providencia del divino Padre
 
-[25](#c6-v25){:#c6-v25} "Por esto os digo: no os preocupéis por vuestra vida: qué comeréis o qué beberéis; ni por vuestro cuerpo, con qué lo vestiréis [[67]](#n-67){:#rn-67}. ¿No vale más la vida que el alimento? ¿y el cuerpo más que el vestido?
+[25](#c6-v25){:#c6-v25} «Por esto os digo: no os preocupéis por vuestra vida: qué comeréis o qué beberéis; ni por vuestro cuerpo, con qué lo vestiréis [[67]](#n-67){:#rn-67}. ¿No vale más la vida que el alimento? ¿y el cuerpo más que el vestido?
 
 [26](#c6-v26){:#c6-v26} Mirad las aves del cielo, que no siembran ni siegan, ni juntan en graneros; y vuestro Padre celestial las alimenta [[68]](#n-68){:#rn-68}. ¿No valéis vosotros mucho más que ellas?
 
-[27](#c6-v27){:#c6-v27} ¿Y quién de vosotros puede, por mucho que se afane, añadir un codo a su estatura [[69]](#n-69){:#rn-69} ?
+[27](#c6-v27){:#c6-v27} ¿Y quién de vosotros puede, por mucho que se afane, añadir un codo a su estatura [[69]](#n-69){:#rn-69}?
 
 [28](#c6-v28){:#c6-v28} y por el vestido, ¿por qué preocuparos? Aprended de los lirios del campo: cómo crecen; no trabajan, ni hilan,
 
@@ -408,19 +409,19 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [30](#c6-v30){:#c6-v30} Si, pues, la hierba del campo, que hoy aparece y mañana es echada al horno, Dios así la engalana ¿no (hará Él) mucho más a vosotros, hombres de poca fe?
 
-[31](#c6-v31){:#c6-v31} No os preocupéis, por consiguiente, diciendo: "¿Qué tendremos para comer [[71]](#n-71){:#rn-71} ? ¿Qué tendremos para beber? ¿Qué tendremos para vestirnos?"
+[31](#c6-v31){:#c6-v31} No os preocupéis, por consiguiente, diciendo: "¿Qué tendremos para comer [[71]](#n-71){:#rn-71}? ¿Qué tendremos para beber? ¿Qué tendremos para vestirnos?"
 
 [32](#c6-v32){:#c6-v32} Porque todas estas cosas las codician los paganos. Vuestro Padre celestial ya sabe [[72]](#n-72){:#rn-72} que tenéis necesidad de todo eso.
 
 [33](#c6-v33){:#c6-v33} Buscad, pues, primero el reino de Dios y su justicia, y todo eso se os dará por añadidura [[73]](#n-73){:#rn-73}.
 
-[34](#c6-v34){:#c6-v34} No os preocupéis, entonces, del mañana. El mañana se preocupará de sí mismo. A cada día le basta su propia pena [[74]](#n-74){:#rn-74} ".
+[34](#c6-v34){:#c6-v34} No os preocupéis, entonces, del mañana. El mañana se preocupará de sí mismo. A cada día le basta su propia pena [[74]](#n-74){:#rn-74}.»
 
 ### Mateo [7](#c7) {#c7}
 
 #### No Juzgar
 
-[1](#c7-v1){:#c7-v1} "No juzguéis [[75]](#n-75){:#rn-75}, para que no seáis juzgados.
+[1](#c7-v1){:#c7-v1} «No juzguéis [[75]](#n-75){:#rn-75}, para que no seáis juzgados.
 
 [2](#c7-v2){:#c7-v2} Porque el juicio que vosotros hacéis, se aplicará a vosotros [[76]](#n-76){:#rn-76}, y la medida que usáis, se usará para vosotros.
 
@@ -428,13 +429,13 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [4](#c7-v4){:#c7-v4} ¿O cómo puedes decir a tu hermano: "Déjame quitar la pajuela de tu ojo", mientras hay una viga en el tuyo?
 
-[5](#c7-v5){:#c7-v5} Hipócrita, quita primero la viga de tu ojo, y entonces verás bien para sacar la pajuela del ojo de tu hermano".
+[5](#c7-v5){:#c7-v5} Hipócrita, quita primero la viga de tu ojo, y entonces verás bien para sacar la pajuela del ojo de tu hermano.
 
-[6](#c7-v6){:#c7-v6} "No deis a los perros lo que es santo y no echéis vuestras perlas ante los puercos, no sea que las pisoteen con sus pies, y después, volviéndose, os despedacen" [[78]](#n-78){:#rn-78}.
+[6](#c7-v6){:#c7-v6} No deis a los perros lo que es santo y no echéis vuestras perlas ante los puercos, no sea que las pisoteen con sus pies, y después, volviéndose, os despedacen [[78]](#n-78){:#rn-78}.»
 
 #### Poder de la oración
 
-[7](#c7-v7){:#c7-v7} "Pedid y se os dará; buscad y encontraréis; golpead y se os abrirá [[79]](#n-79){:#rn-79}.
+[7](#c7-v7){:#c7-v7} «Pedid y se os dará; buscad y encontraréis; golpead y se os abrirá [[79]](#n-79){:#rn-79}.
 
 [8](#c7-v8){:#c7-v8} Porque todo el que pide obtiene; y el que busca encuentra; y al que golpea, se le abre.
 
@@ -444,17 +445,17 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [11](#c7-v11){:#c7-v11} Si, pues, vosotros, que sois malos, sabéis dar a vuestros hijos cosas buenas, ¡cuánto más vuestro Padre celestial dará cosas buenas a los que le pidan [[80]](#n-80){:#rn-80} !
 
-[12](#c7-v12){:#c7-v12} Así que, todo cuanto queréis que los hombres os hagan, hacedlo también vosotros a ellos [[81]](#n-81){:#rn-81}; esta es la Ley y los Profetas".
+[12](#c7-v12){:#c7-v12} Así que, todo cuanto queréis que los hombres os hagan, hacedlo también vosotros a ellos [[81]](#n-81){:#rn-81}; esta es la Ley y los Profetas».
 
 #### Los dos caminos
 
-[13](#c7-v13){:#c7-v13} "Entrad por la puerta estrecha, porque ancha es la puerta y espacioso el camino que lleva a la perdición y muchos son los que entran por él.
+[13](#c7-v13){:#c7-v13} «Entrad por la puerta estrecha, porque ancha es la puerta y espacioso el camino que lleva a la perdición y muchos son los que entran por él.
 
-[14](#c7-v14){:#c7-v14} Porque angosta es la puerta [[82]](#n-82){:#rn-82} y estrecho el camino que lleva a la vida, y pocos son los que lo encuentran".
+[14](#c7-v14){:#c7-v14} Porque angosta es la puerta [[82]](#n-82){:#rn-82} y estrecho el camino que lleva a la vida, y pocos son los que lo encuentran».
 
 #### Prevención sobre los falsos profetas
 
-[15](#c7-v15){:#c7-v15} "Guardaos de los falsos profetas [[83]](#n-83){:#rn-83}, los cuales vienen a vosotros disfrazados de ovejas, mas por dentro son lobos rapaces.
+[15](#c7-v15){:#c7-v15} «Guardaos de los falsos profetas [[83]](#n-83){:#rn-83}, los cuales vienen a vosotros disfrazados de ovejas, mas por dentro son lobos rapaces.
 
 [16](#c7-v16){:#c7-v16} Los conoceréis por sus frutos. ¿Acaso se recogen uvas de los espinos o higos de los abrojos?
 
@@ -464,23 +465,23 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [19](#c7-v19){:#c7-v19} Todo árbol que no produce buen fruto, es cortado y echado al fuego.
 
-[20](#c7-v20){:#c7-v20} De modo que por sus frutos los conoceréis".
+[20](#c7-v20){:#c7-v20} De modo que por sus frutos los conoceréis.
 
-[21](#c7-v21){:#c7-v21} "No todo el que me dice: "Señor, Señor", entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre celestial [[84]](#n-84){:#rn-84}.
+[21](#c7-v21){:#c7-v21} No todo el que me dice: "Señor, Señor", entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre celestial [[84]](#n-84){:#rn-84}.
 
 [22](#c7-v22){:#c7-v22} Muchos me dirán en aquel día [[85]](#n-85){:#rn-85}: "Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre lanzamos demonios, y en tu nombre hicimos cantidad de prodigios?"
 
-[23](#c7-v23){:#c7-v23} Entonces les declararé: "Jamás os conocí. ¡Alejaos de Mí, obradores de iniquidad!" [[86]](#n-86){:#rn-86}.
+[23](#c7-v23){:#c7-v23} Entonces les declararé: "Jamás os conocí. ¡Alejaos de Mí, obradores de iniquidad!" [[86]](#n-86){:#rn-86}.»
 
 #### Necesidad de poner en práctica el Evangelio
 
-[24](#c7-v24){:#c7-v24} Así pues, todo el que oye estas palabras mías y las pone en práctica, se asemejará a un varón sensato que ha edificado su casa sobre la roca:
+[24](#c7-v24){:#c7-v24} «Así pues, todo el que oye estas palabras mías y las pone en práctica, se asemejará a un varón sensato que ha edificado su casa sobre la roca:
 
 [25](#c7-v25){:#c7-v25} Las lluvias cayeron, los torrentes vinieron, los vientos soplaron y se arrojaron contra aquella casa, pero ella no cayó, porque estaba fundada sobre la roca.
 
 [26](#c7-v26){:#c7-v26} Y todo el que oye estas palabras mías y no las pone en práctica, se asemejará a un varón insensato que ha edificado su casa sobre la arena:
 
-[27](#c7-v27){:#c7-v27} Las lluvias cayeron, los torrentes vinieron, los vientos soplaron y se arrojaron contra aquella casa, y cayó, y su ruina fue grande".
+[27](#c7-v27){:#c7-v27} Las lluvias cayeron, los torrentes vinieron, los vientos soplaron y se arrojaron contra aquella casa, y cayó, y su ruina fue grande».
 
 [28](#c7-v28){:#c7-v28} Y sucedió que, cuando Jesús hubo acabado este discurso, las multitudes estaban poseídas de admiración por su doctrina;
 
@@ -492,29 +493,29 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c8-v1){:#c8-v1} Cuando bajó de la montaña, le fueron siguiendo grandes muchedumbres.
 
-[2](#c8-v2){:#c8-v2} Y he aquí que un leproso se aproximó, se prosternó delante de Él y le dijo: "Señor, si Tú quieres, puedes limpiarme".
+[2](#c8-v2){:#c8-v2} Y he aquí que un leproso se aproximó, se prosternó delante de Él y le dijo: «Señor, si Tú quieres, puedes limpiarme».
 
-[3](#c8-v3){:#c8-v3} Y Él, tendiéndole su mano, lo tocó y le dijo: "Quiero, queda limpio", y al punto fue sanado de su lepra.
+[3](#c8-v3){:#c8-v3} Y Él, tendiéndole su mano, lo tocó y le dijo: «Quiero, queda limpio», y al punto fue sanado de su lepra.
 
-[4](#c8-v4){:#c8-v4} Díjole entonces Jesús: "Mira, no lo digas a nadie; sino ve a mostrarte al sacerdote y presenta la ofrenda prescrita por Moisés, para que les sirva de testimonio [[87]](#n-87){:#rn-87} ".
+[4](#c8-v4){:#c8-v4} Díjole entonces Jesús: «Mira, no lo digas a nadie; sino ve a mostrarte al sacerdote y presenta la ofrenda prescrita por Moisés, para que les sirva de testimonio [[87]](#n-87){:#rn-87}».
 
 [5](#c8-v5){:#c8-v5} Cuando hubo entrado en Cafarnaúm, se le aproximó un centurión [[88]](#n-88){:#rn-88} y le suplicó,
 
-[6](#c8-v6){:#c8-v6} diciendo: "Señor, mi criado está en casa, postrado, paralítico, y sufre terriblemente".
+[6](#c8-v6){:#c8-v6} diciendo: «Señor, mi criado está en casa, postrado, paralítico, y sufre terriblemente».
 
-[7](#c8-v7){:#c8-v7} Y Él le dijo: "Yo iré y lo sanaré".
+[7](#c8-v7){:#c8-v7} Y Él le dijo: «Yo iré y lo sanaré».
 
-[8](#c8-v8){:#c8-v8} Pero el centurión replicó diciendo: "Señor, yo no soy digno de que entres bajo mi techo, mas solamente dilo con una palabra y quedará sano mi criado [[89]](#n-89){:#rn-89}.
+[8](#c8-v8){:#c8-v8} Pero el centurión replicó diciendo: «Señor, yo no soy digno de que entres bajo mi techo, mas solamente dilo con una palabra y quedará sano mi criado [[89]](#n-89){:#rn-89}.
 
-[9](#c8-v9){:#c8-v9} Porque también yo, que soy un subordinado, tengo soldados a mis órdenes, y digo a este: "Ve" y él va; a aquel: "Ven", y viene; y a mi criado: "Haz esto", y lo hace".
+[9](#c8-v9){:#c8-v9} Porque también yo, que soy un subordinado, tengo soldados a mis órdenes, y digo a este: "Ve" y él va; a aquel: "Ven", y viene; y a mi criado: "Haz esto", y lo hace».
 
-[10](#c8-v10){:#c8-v10} Jesús se admiró al oírlo, y dijo a los que le seguían: "En verdad, os digo, en ninguno de Israel he hallado tanta fe".
+[10](#c8-v10){:#c8-v10} Jesús se admiró al oírlo, y dijo a los que le seguían: «En verdad, os digo, en ninguno de Israel he hallado tanta fe».
 
-[11](#c8-v11){:#c8-v11} Os digo pues: "Muchos llegarán del Oriente y del Occidente y se reclinarán a la mesa con Abrahán, Isaac y Jacob en el reino de los cielos,
+[11](#c8-v11){:#c8-v11} Os digo pues: «Muchos llegarán del Oriente y del Occidente y se reclinarán a la mesa con Abrahán, Isaac y Jacob en el reino de los cielos,
 
-[12](#c8-v12){:#c8-v12} mientras que los hijos del reino serán echados a las tinieblas de afuera; allá será el llanto y el rechinar de dientes".
+[12](#c8-v12){:#c8-v12} mientras que los hijos del reino serán echados a las tinieblas de afuera; allá será el llanto y el rechinar de dientes».
 
-[13](#c8-v13){:#c8-v13} Y dijo Jesús al centurión: "Anda; como creíste, se te cumpla". Y el criado en esa misma hora fue sanado.
+[13](#c8-v13){:#c8-v13} Y dijo Jesús al centurión: «Anda; como creíste, se te cumpla». Y el criado en esa misma hora fue sanado.
 
 [14](#c8-v14){:#c8-v14} Entró Jesús en casa de Pedro y vio a la suegra de este, en cama, con fiebre.
 
@@ -522,17 +523,17 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [16](#c8-v16){:#c8-v16} Caída ya la tarde, le trajeron muchos endemoniados y expulsó a los espíritus con su palabra, y sanó a todos los enfermos.
 
-[17](#c8-v17){:#c8-v17} De modo que se cumplió lo dicho por medio del profeta Isaías [[90]](#n-90){:#rn-90}: "Él quitó nuestras dolencias, y llevó sobre Sí nuestras flaquezas".
+[17](#c8-v17){:#c8-v17} De modo que se cumplió lo dicho por medio del profeta Isaías [[90]](#n-90){:#rn-90}: «Él quitó nuestras dolencias, y llevó sobre Sí nuestras flaquezas».
 
 [18](#c8-v18){:#c8-v18} Y Jesús, viéndose rodeado por una, multitud, mandó pasar a la otra orilla.
 
-[19](#c8-v19){:#c8-v19} Entonces un escriba se acercó y le dijo: "Maestro, te seguiré adonde quiera que vayas".
+[19](#c8-v19){:#c8-v19} Entonces un escriba se acercó y le dijo: «Maestro, te seguiré adonde quiera que vayas».
 
-[20](#c8-v20){:#c8-v20} Jesús le dijo: "Las zorras tienen sus guaridas, y las aves del cielo sus nidos, mas el Hijo del hombre [[91]](#n-91){:#rn-91} no tiene dónde reclinar la cabeza".
+[20](#c8-v20){:#c8-v20} Jesús le dijo: «Las zorras tienen sus guaridas, y las aves del cielo sus nidos, mas el Hijo del hombre [[91]](#n-91){:#rn-91} no tiene dónde reclinar la cabeza».
 
-[21](#c8-v21){:#c8-v21} Otro de sus discípulos, le dijo: "Señor, permíteme ir primero a enterrar a mi padre".
+[21](#c8-v21){:#c8-v21} Otro de sus discípulos, le dijo: «Señor, permíteme ir primero a enterrar a mi padre».
 
-[22](#c8-v22){:#c8-v22} Respondiole Jesús: "Sígueme, y deja a los muertos enterrar a sus muertos".
+[22](#c8-v22){:#c8-v22} Respondiole Jesús: «Sígueme, y deja a los muertos enterrar a sus muertos».
 
 #### Jesús calma la tempestad del mar
 
@@ -540,23 +541,23 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [24](#c8-v24){:#c8-v24} Y de pronto el mar se puso muy agitado, al punto que las olas llegaban a cubrir la barca; Él, en tanto, dormía.
 
-[25](#c8-v25){:#c8-v25} Acercáronse y lo despertaron diciendo: "Señor, sálvanos, que nos perdemos".
+[25](#c8-v25){:#c8-v25} Acercáronse y lo despertaron diciendo: «Señor, sálvanos, que nos perdemos».
 
-[26](#c8-v26){:#c8-v26} Él les dijo: "¿Por qué tenéis miedo, desconfiados?" Entonces se levantó e increpó a los vientos y al mar, y se hizo una gran calma.
+[26](#c8-v26){:#c8-v26} Él les dijo: «¿Por qué tenéis miedo, desconfiados?» Entonces se levantó e increpó a los vientos y al mar, y se hizo una gran calma.
 
-[27](#c8-v27){:#c8-v27} Y los hombres se maravillaron y decían: "¿Quién es Este, que aun los vientos y el mar le obedecen?".
+[27](#c8-v27){:#c8-v27} Y los hombres se maravillaron y decían: «¿Quién es Este, que aun los vientos y el mar le obedecen?».
 
 #### Expulsión de demonios
 
 [28](#c8-v28){:#c8-v28} Y cuando llegó a la otra orilla, al país de los gadarenos [[92]](#n-92){:#rn-92}, vinieron a su encuentro dos endemoniados que salían de unos sepulcros y eran en extremo feroces, tanto, que nadie podía pasar por aquel camino.
 
-[29](#c8-v29){:#c8-v29} y se pusieron a gritar: "¿Qué tenemos que ver contigo, Hijo de Dios? ¿Viniste aquí para atormentarnos antes de tiempo?"
+[29](#c8-v29){:#c8-v29} y se pusieron a gritar: «¿Qué tenemos que ver contigo, Hijo de Dios? ¿Viniste aquí para atormentarnos antes de tiempo?»
 
 [30](#c8-v30){:#c8-v30} Lejos de ellos pacía una piara de muchos puercos.
 
-[31](#c8-v31){:#c8-v31} Los demonios le hicieron, pues, esta súplica: "Si nos echas, envíanos a la piara de puercos".
+[31](#c8-v31){:#c8-v31} Los demonios le hicieron, pues, esta súplica: «Si nos echas, envíanos a la piara de puercos».
 
-[32](#c8-v32){:#c8-v32} Él les dijo: "Andad"; a lo cual ellos salieron y se fueron a los puercos. Y he aquí que la piara entera se lanzó por el precipicio al mar, y pereció en las aguas.
+[32](#c8-v32){:#c8-v32} Él les dijo: «Andad»; a lo cual ellos salieron y se fueron a los puercos. Y he aquí que la piara entera se lanzó por el precipicio al mar, y pereció en las aguas.
 
 [33](#c8-v33){:#c8-v33} Los porqueros huyeron, y yendo a la ciudad refirieron todo esto, y también lo que había sucedido a los endemoniados.
 
@@ -568,15 +569,15 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c9-v1){:#c9-v1} Subiendo a la barca, pasó al otro lado y vino a su ciudad.
 
-[2](#c9-v2){:#c9-v2} Y he aquí que le presentaron un paralítico, postrado en una camilla. Al ver la fe de ellos, dijo Jesús al paralítico: "Confía, hijo, te son perdonados los pecados".
+[2](#c9-v2){:#c9-v2} Y he aquí que le presentaron un paralítico, postrado en una camilla. Al ver la fe de ellos, dijo Jesús al paralítico: «Confía, hijo, te son perdonados los pecados».
 
-[3](#c9-v3){:#c9-v3} Entonces algunos escribas comenzaron a decir interiormente: "Este blasfema".
+[3](#c9-v3){:#c9-v3} Entonces algunos escribas comenzaron a decir interiormente: «Este blasfema».
 
-[4](#c9-v4){:#c9-v4} Mas Jesús, viendo sus pensamientos, dijo: "¿Por qué pensáis mal en vuestros corazones? ¿Qué es más fácil, decir: "Te son perdonados los pecados", o decir:
+[4](#c9-v4){:#c9-v4} Mas Jesús, viendo sus pensamientos, dijo: «¿Por qué pensáis mal en vuestros corazones? ¿Qué es más fácil, decir: "Te son perdonados los pecados", o decir:
 
-[5](#c9-v5){:#c9-v5} "Levántate y camina?
+[5](#c9-v5){:#c9-v5} "Levántate y camina"?
 
-[6](#c9-v6){:#c9-v6} ¡Y bien! para que sepáis que tiene poder el Hijo del hombre, sobre la tierra, de perdonar pecados —dijo, entonces, al paralítico—: "Levántate, cárgate la camilla y vete a tu casa" [[94]](#n-94){:#rn-94}.
+[6](#c9-v6){:#c9-v6} ¡Y bien! para que sepáis que tiene poder el Hijo del hombre, sobre la tierra, de perdonar pecados —dijo, entonces, al paralítico—: "Levántate, cárgate la camilla y vete a tu casa" [[94]](#n-94){:#rn-94}.»
 
 [7](#c9-v7){:#c9-v7} Y se levantó y se volvió a su casa.
 
@@ -584,41 +585,41 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 #### Vocación de Mateo
 
-[9](#c9-v9){:#c9-v9} Pasando de allí, vio Jesús a un hombre llamado Mateo, sentado en la recaudación de los tributos, y le dijo: "Sígueme". Y él se levantó y le siguió.
+[9](#c9-v9){:#c9-v9} Pasando de allí, vio Jesús a un hombre llamado Mateo, sentado en la recaudación de los tributos, y le dijo: «Sígueme». Y él se levantó y le siguió.
 
 [10](#c9-v10){:#c9-v10} Y sucedió que estando Él a la mesa en la casa de Mateo, muchos publicanos y pecadores vinieron a reclinarse con Jesús y sus discípulos.
 
-[11](#c9-v11){:#c9-v11} Viendo lo cual, los fariseos dijeron a los discípulos: "¿Por qué vuestro maestro come con los publicanos y los pecadores?" [[95]](#n-95){:#rn-95}.
+[11](#c9-v11){:#c9-v11} Viendo lo cual, los fariseos dijeron a los discípulos: «¿Por qué vuestro maestro come con los publicanos y los pecadores?» [[95]](#n-95){:#rn-95}.
 
-[12](#c9-v12){:#c9-v12} Él los oyó y dijo: "No son los sanos los que tienen necesidad de médico, sino los enfermos.
+[12](#c9-v12){:#c9-v12} Él los oyó y dijo: «No son los sanos los que tienen necesidad de médico, sino los enfermos.
 
-[13](#c9-v13){:#c9-v13} Id, pues, y aprended lo que significa: "Misericordia quiero y no sacrificio" [[96]](#n-96){:#rn-96}. Porque no he venido a llamar justos, sino pecadores".
+[13](#c9-v13){:#c9-v13} Id, pues, y aprended lo que significa: "Misericordia quiero y no sacrificio" [[96]](#n-96){:#rn-96}. Porque no he venido a llamar justos, sino pecadores.»
 
 #### Los discípulos del Bautista
 
-[14](#c9-v14){:#c9-v14} Entonces, se acercaron a Él los discípulos de Juan y le dijeron: "¿Por qué nosotros y los fariseos ayunamos mucho, y tus discípulos no ayunan?"
+[14](#c9-v14){:#c9-v14} Entonces, se acercaron a Él los discípulos de Juan y le dijeron: «¿Por qué nosotros y los fariseos ayunamos mucho, y tus discípulos no ayunan?»
 
-[15](#c9-v15){:#c9-v15} Respondioles Jesús: "¿Pueden los hijos del esposo afligirse mientras el esposo está con ellos? Pero vendrán días en que el esposo [[97]](#n-97){:#rn-97} les será quitado, y entonces ayunarán.
+[15](#c9-v15){:#c9-v15} Respondioles Jesús: «¿Pueden los hijos del esposo afligirse mientras el esposo está con ellos? Pero vendrán días en que el esposo [[97]](#n-97){:#rn-97} les será quitado, y entonces ayunarán.
 
 [16](#c9-v16){:#c9-v16} Nadie pone un remiendo de paño nuevo en un vestido viejo, porque aquel pedazo entero tira del vestido, y se hace peor la rotura.
 
-[17](#c9-v17){:#c9-v17} Ni tampoco se echa vino nuevo en cueros viejos; de otra manera, los cueros revientan, y el vino se derrama, y los cueros se pierden; sino que el vino nuevo se echa en cueros nuevos, y así ambos se conservan".
+[17](#c9-v17){:#c9-v17} Ni tampoco se echa vino nuevo en cueros viejos; de otra manera, los cueros revientan, y el vino se derrama, y los cueros se pierden; sino que el vino nuevo se echa en cueros nuevos, y así ambos se conservan».
 
 #### Jesús sana a la hemorroisa y resucita a la hija de Jairo
 
-[18](#c9-v18){:#c9-v18} Mientras les decía estas cosas, un magistrado [[98]](#n-98){:#rn-98} se le acercó, se prosternó y le dijo: "Mi hija acaba de morir, pero ven a poner sobre ella tu mano y revivirá".
+[18](#c9-v18){:#c9-v18} Mientras les decía estas cosas, un magistrado [[98]](#n-98){:#rn-98} se le acercó, se prosternó y le dijo: «Mi hija acaba de morir, pero ven a poner sobre ella tu mano y revivirá».
 
 [19](#c9-v19){:#c9-v19} Jesús se levantó y lo siguió; y también sus discípulos.
 
 [20](#c9-v20){:#c9-v20} Y he ahí que una mujer que padecía un flujo de sangre hacía doce años, se aproximó a Él por detrás y tocó la franja de su vestido.
 
-[21](#c9-v21){:#c9-v21} Porque ella se decía: "Con que toque solamente su vestido, quedaré sana".
+[21](#c9-v21){:#c9-v21} Porque ella se decía: «Con que toque solamente su vestido, quedaré sana».
 
-[22](#c9-v22){:#c9-v22} Mas Jesús, volviéndose, la miró y dijo: "Confianza, hija, tu fe te ha sanado" [[99]](#n-99){:#rn-99}. Y quedó sana desde aquella hora.
+[22](#c9-v22){:#c9-v22} Mas Jesús, volviéndose, la miró y dijo: «Confianza, hija, tu fe te ha sanado» [[99]](#n-99){:#rn-99}. Y quedó sana desde aquella hora.
 
 [23](#c9-v23){:#c9-v23} Cuando Jesús llegó a la casa del magistrado, vio a los flautistas, y al gentío que hacía alboroto,
 
-[24](#c9-v24){:#c9-v24} y dijo: "¡Retiraos! La niña no ha muerto sino que duerme". Y se reían de Él.
+[24](#c9-v24){:#c9-v24} y dijo: «¡Retiraos! La niña no ha muerto sino que duerme». Y se reían de Él.
 
 [25](#c9-v25){:#c9-v25} Después, echada fuera la turba, entró Él, tomó la mano de la niña, y esta se levantó.
 
@@ -626,13 +627,13 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 #### Jesús da vista a dos ciegos
 
-[27](#c9-v27){:#c9-v27} Cuando salía Jesús de allí, dos ciegos lo siguieron, gritando: "¡Ten piedad de nosotros, Hijo de David [[100]](#n-100){:#rn-100} !"
+[27](#c9-v27){:#c9-v27} Cuando salía Jesús de allí, dos ciegos lo siguieron, gritando: «¡Ten piedad de nosotros, Hijo de David [[100]](#n-100){:#rn-100} !»
 
-[28](#c9-v28){:#c9-v28} Y al llegar a la casa, los ciegos se le acercaron, y Jesús les dijo: "¿Creéis que puedo hacer eso?" Respondiéronle: "Sí, Señor".
+[28](#c9-v28){:#c9-v28} Y al llegar a la casa, los ciegos se le acercaron, y Jesús les dijo: «¿Creéis que puedo hacer eso?» Respondiéronle: «Sí, Señor».
 
-[29](#c9-v29){:#c9-v29} Entonces les tocó los ojos diciendo: "Os sea hecho según vuestra fe". Y sus ojos se abrieron.
+[29](#c9-v29){:#c9-v29} Entonces les tocó los ojos diciendo: «Os sea hecho según vuestra fe». Y sus ojos se abrieron.
 
-[30](#c9-v30){:#c9-v30} Y Jesús les ordenó rigurosamente: "¡Mirad que nadie lo sepa!".
+[30](#c9-v30){:#c9-v30} Y Jesús les ordenó rigurosamente: «¡Mirad que nadie lo sepa!».
 
 [31](#c9-v31){:#c9-v31} Pero ellos, luego que salieron, hablaron de Él por toda aquella tierra.
 
@@ -640,17 +641,17 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [32](#c9-v32){:#c9-v32} Cuando ellos hubieron salido, le presentaron un mudo endemoniado.
 
-[33](#c9-v33){:#c9-v33} Y echado el demonio, habló el mudo, y las multitudes, llenas de admiración, se pusieron a decir: "Jamás se ha visto cosa parecida en Israel".
+[33](#c9-v33){:#c9-v33} Y echado el demonio, habló el mudo, y las multitudes, llenas de admiración, se pusieron a decir: «Jamás se ha visto cosa parecida en Israel».
 
-[34](#c9-v34){:#c9-v34} Pero los fariseos decían: "Por obra del príncipe de los demonios lanza a los demonios".
+[34](#c9-v34){:#c9-v34} Pero los fariseos decían: «Por obra del príncipe de los demonios lanza a los demonios».
 
 [35](#c9-v35){:#c9-v35} Y Jesús recorría todas las ciudades y las aldeas, enseñando en sus sinagogas y proclamando la Buena Nueva del Reino, y sanando toda enfermedad y toda dolencia.
 
 [36](#c9-v36){:#c9-v36} Y viendo a las muchedumbres, tuvo compasión de ellas, porque estaban como ovejas que no tienen pastor [[101]](#n-101){:#rn-101}, esquilmadas y abatidas.
 
-[37](#c9-v37){:#c9-v37} Entonces dijo a sus discípulos: "La mies es grande, mas los obreros son pocos [[102]](#n-102){:#rn-102}.
+[37](#c9-v37){:#c9-v37} Entonces dijo a sus discípulos: «La mies es grande, mas los obreros son pocos [[102]](#n-102){:#rn-102}.
 
-[38](#c9-v38){:#c9-v38} Rogad pues al Dueño de la mies que envíe obreros a su mies".
+[38](#c9-v38){:#c9-v38} Rogad pues al Dueño de la mies que envíe obreros a su mies.»
 
 ### Mateo [10](#c10) {#c10}
 
@@ -666,7 +667,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 #### Misión de los doce
 
-[5](#c10-v5){:#c10-v5} Estos son los Doce que Jesús envió, después de haberles dado instrucciones, diciendo: "No vayáis hacia los gentiles y no entréis en ninguna ciudad de samaritanos [[105]](#n-105){:#rn-105},
+[5](#c10-v5){:#c10-v5} Estos son los Doce que Jesús envió, después de haberles dado instrucciones, diciendo: «No vayáis hacia los gentiles y no entréis en ninguna ciudad de samaritanos [[105]](#n-105){:#rn-105},
 
 [6](#c10-v6){:#c10-v6} sino id más bien a las ovejas perdidas de la casa de Israel [[106]](#n-106){:#rn-106}.
 
@@ -686,11 +687,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [14](#c10-v14){:#c10-v14} Y si alguno no quiere recibiros ni escuchar vuestras palabras, salid de aquella casa o de aquella ciudad y sacudid el polvo de vuestros pies.
 
-[15](#c10-v15){:#c10-v15} En verdad, os digo, que en el día del juicio (el destino) será más tolerable para la tierra de Sodoma y Gomorra que para aquella ciudad".
+[15](#c10-v15){:#c10-v15} En verdad, os digo, que en el día del juicio (el destino) será más tolerable para la tierra de Sodoma y Gomorra que para aquella ciudad.»
 
 #### Predicción de persecuciones
 
-[16](#c10-v16){:#c10-v16} "Mirad que Yo os envío como ovejas en medio de lobos. Sed, pues, prudentes como las serpientes, y sencillos como las palomas [[109]](#n-109){:#rn-109}.
+[16](#c10-v16){:#c10-v16} «Mirad que Yo os envío como ovejas en medio de lobos. Sed, pues, prudentes como las serpientes, y sencillos como las palomas [[109]](#n-109){:#rn-109}.
 
 [17](#c10-v17){:#c10-v17} Guardaos de los hombres, porque os entregarán a los sanhedrines y os azotarán en sus sinagogas,
 
@@ -704,9 +705,9 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [22](#c10-v22){:#c10-v22} Y seréis odiados de todos por causa de mi nombre; pero el que perseverare hasta el fin, ese será salvo.
 
-[23](#c10-v23){:#c10-v23} Cuando os persiguieren en una ciudad, huid a otra. En verdad, os digo, no acabaréis (de predicar en) las ciudades de Israel antes que venga el Hijo del Hombre" [[111]](#n-111){:#rn-111}.
+[23](#c10-v23){:#c10-v23} Cuando os persiguieren en una ciudad, huid a otra. En verdad, os digo, no acabaréis (de predicar en) las ciudades de Israel antes que venga el Hijo del Hombre [[111]](#n-111){:#rn-111}.
 
-[24](#c10-v24){:#c10-v24} "El discípulo no es mejor que su maestro [[112]](#n-112){:#rn-112}, ni el siervo mejor que su amo.
+[24](#c10-v24){:#c10-v24} El discípulo no es mejor que su maestro [[112]](#n-112){:#rn-112}, ni el siervo mejor que su amo.
 
 [25](#c10-v25){:#c10-v25} Basta al discípulo ser como su maestro, y al siervo ser como su amo. Si al dueño de casa llamaron Beelzebul [[113]](#n-113){:#rn-113}, ¿cuánto más a los de su casa?
 
@@ -720,11 +721,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [30](#c10-v30){:#c10-v30} En cuanto a vosotros, todos los cabellos de vuestra cabeza están contados.
 
-[31](#c10-v31){:#c10-v31} No temáis, pues vosotros valéis más que muchos gorriones".
+[31](#c10-v31){:#c10-v31} No temáis, pues vosotros valéis más que muchos gorriones.»
 
 #### Exhortaciones y consuelos
 
-[32](#c10-v32){:#c10-v32} "A todo aquel que me confiese delante de los hombres, Yo también lo confesaré delante de mi Padre celestial;
+[32](#c10-v32){:#c10-v32} «A todo aquel que me confiese delante de los hombres, Yo también lo confesaré delante de mi Padre celestial;
 
 [33](#c10-v33){:#c10-v33} mas a quien me niegue delante de los hombres, Yo también lo negaré delante de mi Padre celestial.
 
@@ -738,13 +739,13 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [38](#c10-v38){:#c10-v38} Quien no toma su cruz y me sigue [[118]](#n-118){:#rn-118}, no es digno de Mí.
 
-[39](#c10-v39){:#c10-v39} Quien halla su vida [[119]](#n-119){:#rn-119}, la perderá; y quien pierde su vida por Mí, la hallará".
+[39](#c10-v39){:#c10-v39} Quien halla su vida [[119]](#n-119){:#rn-119}, la perderá; y quien pierde su vida por Mí, la hallará.
 
 [40](#c10-v40){:#c10-v40} Quien a vosotros recibe, a Mí me recibe [[120]](#n-120){:#rn-120}, y quien me recibe a Mí, recibe a Aquel que me envió.
 
 [41](#c10-v41){:#c10-v41} Quien recibe a un profeta a título de profeta, recibirá la recompensa de profeta; quien recibe a un justo a título de justo, recibirá la recompensa del justo.
 
-[42](#c10-v42){:#c10-v42} y quienquiera diere de beber tan solo un vaso de agua fría a uno de estos pequeños, a título de discípulo, en verdad os digo, no perderá su recompensa [[121]](#n-121){:#rn-121} ".
+[42](#c10-v42){:#c10-v42} y quienquiera diere de beber tan solo un vaso de agua fría a uno de estos pequeños, a título de discípulo, en verdad os digo, no perderá su recompensa [[121]](#n-121){:#rn-121}.»
 
 ### Mateo [11](#c11) {#c11}
 
@@ -754,15 +755,15 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [2](#c11-v2){:#c11-v2} Y Juan, al oír en su prisión las obras de Cristo, le envió a preguntar por medio de sus discípulos:
 
-[3](#c11-v3){:#c11-v3} "¿Eres Tú *El que viene* [[122]](#n-122){:#rn-122}, o debemos esperar a otro?"
+[3](#c11-v3){:#c11-v3} «¿Eres Tú *El que viene* [[122]](#n-122){:#rn-122}, o debemos esperar a otro?»
 
-[4](#c11-v4){:#c11-v4} Jesús les respondió y dijo: "Id y anunciad a Juan lo que oís y veis:
+[4](#c11-v4){:#c11-v4} Jesús les respondió y dijo: «Id y anunciad a Juan lo que oís y veis:
 
 [5](#c11-v5){:#c11-v5} Ciegos ven, cojos andan, leprosos son curados, sordos oyen, muertos resucitan, y pobres son evangelizados [[123]](#n-123){:#rn-123};
 
-[6](#c11-v6){:#c11-v6} ¡y dichoso el que no se escandalizare de Mí [[124]](#n-124){:#rn-124} !"
+[6](#c11-v6){:#c11-v6} ¡y dichoso el que no se escandalizare de Mí [[124]](#n-124){:#rn-124}!»
 
-[7](#c11-v7){:#c11-v7} Y cuando ellos se retiraron, Jesús se puso a decir a las multitudes a propósito de Juan: "¿Qué salisteis a ver al desierto? ¿Acaso una caña sacudida por el viento?
+[7](#c11-v7){:#c11-v7} Y cuando ellos se retiraron, Jesús se puso a decir a las multitudes a propósito de Juan: «¿Qué salisteis a ver al desierto? ¿Acaso una caña sacudida por el viento?
 
 [8](#c11-v8){:#c11-v8} Y si no, ¿qué fuisteis a ver? ¿Un hombre ataviado con vestidos lujosos? Pero los que llevan vestidos lujosos están en las casas de los reyes.
 
@@ -778,43 +779,43 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [14](#c11-v14){:#c11-v14} y, si queréis creerlo, él mismo es Elías, el que debía venir [[127]](#n-127){:#rn-127}.
 
-[15](#c11-v15){:#c11-v15} ¡Quién tiene oídos oiga!"
+[15](#c11-v15){:#c11-v15} ¡Quién tiene oídos oiga!»
 
 #### Terquedad del pueblo
 
-[16](#c11-v16){:#c11-v16} "¿Pero, con quien comparar la raza esta? Es semejante a muchachos que, sentados en las plazas, gritan a sus camaradas:
+[16](#c11-v16){:#c11-v16} «¿Pero, con quien comparar la raza esta? Es semejante a muchachos que, sentados en las plazas, gritan a sus camaradas:
 
 [17](#c11-v17){:#c11-v17} Os tocamos la flauta y no danzasteis, entonamos cantos fúnebres y no plañisteis.
 
-[18](#c11-v18){:#c11-v18} Porque; vino Juan, que ni comía ni bebía, y dicen: "Está endemoniado".
+[18](#c11-v18){:#c11-v18} Porque vino Juan, que ni comía ni bebía, y dicen: "Está endemoniado".
 
-[19](#c11-v19){:#c11-v19} Vino el Hijo del Hombre [[128]](#n-128){:#rn-128}, que come y bebe, y dicen: "Es un glotón y borracho, amigo de publicanos y de pecadores". Mas la Sabiduría ha sido justificada por sus obras".
+[19](#c11-v19){:#c11-v19} Vino el Hijo del Hombre [[128]](#n-128){:#rn-128}, que come y bebe, y dicen: "Es un glotón y borracho, amigo de publicanos y de pecadores". Mas la Sabiduría ha sido justificada por sus obras.»
 
 #### ¡Ay de las ciudades impenitentes!
 
 [20](#c11-v20){:#c11-v20} Entonces se puso a maldecir a las ciudades donde había hecho el mayor número de sus milagros, porque no se habían arrepentido:
 
-[21](#c11-v21){:#c11-v21} "¡Ay de ti Corazín! ¡Ay de ti Betsaida! porque si en Tiro y en Sidón [[129]](#n-129){:#rn-129} se hubiesen hecho los prodigios que han sido hechos en vosotras, desde hace mucho tiempo se habrían arrepentido en saco y en ceniza.
+[21](#c11-v21){:#c11-v21} «¡Ay de ti Corazín! ¡Ay de ti Betsaida! porque si en Tiro y en Sidón [[129]](#n-129){:#rn-129} se hubiesen hecho los prodigios que han sido hechos en vosotras, desde hace mucho tiempo se habrían arrepentido en saco y en ceniza.
 
 [22](#c11-v22){:#c11-v22} Por eso os digo, que el día del juicio será más soportable para Tiro y Sidón que para vosotras.
 
 [23](#c11-v23){:#c11-v23} Y tú, Cafarnaúm, ¿acaso habrás de ser exaltada hasta el cielo? Hasta el abismo serás abatida. Porque si en Sodoma hubiesen sucedido las maravillas que han sido hechas en ti, aún estaría ella en pie el día de hoy.
 
-[24](#c11-v24){:#c11-v24} Por eso te digo que el día del juicio será más soportable para la tierra de Sodoma que para ti".
+[24](#c11-v24){:#c11-v24} Por eso te digo que el día del juicio será más soportable para la tierra de Sodoma que para ti.»
 
 #### Infancia espiritual
 
-[25](#c11-v25){:#c11-v25} Por aquel tiempo Jesús dio una respuesta, diciendo: "Yo te alabo, oh Padre, Señor del cielo y de la tierra, porque encubres estas cosas a los sabios y a los prudentes, y las revelas a los pequeños [[130]](#n-130){:#rn-130}.
+[25](#c11-v25){:#c11-v25} Por aquel tiempo Jesús dio una respuesta, diciendo: «Yo te alabo, oh Padre, Señor del cielo y de la tierra, porque encubres estas cosas a los sabios y a los prudentes, y las revelas a los pequeños [[130]](#n-130){:#rn-130}.
 
 [26](#c11-v26){:#c11-v26} Así es, oh Padre, porque esto es lo que te agrada a Ti.
 
-[27](#c11-v27){:#c11-v27} A Mí me ha sido transmitido todo por mi Padre, y nadie conoce bien al Hijo sino el Padre, ni al Padre conoce bien nadie sino el Hijo y aquel a quien el Hijo quisiere revelar (lo).
+[27](#c11-v27){:#c11-v27} A Mí me ha sido transmitido todo por mi Padre, y nadie conoce bien al Hijo sino el Padre, ni al Padre conoce bien nadie sino el Hijo y aquel a quien el Hijo (lo) quisiere revelar.
 
 [28](#c11-v28){:#c11-v28} Venid a Mí todos los agobiados y los cargados [[131]](#n-131){:#rn-131}, y Yo os haré descansar.
 
 [29](#c11-v29){:#c11-v29} Tomad sobre vosotros el yugo mío, y dejaos instruir por Mí, porque manso [[132]](#n-132){:#rn-132} soy y humilde en el corazón; y encontrareis reposo para vuestras vidas.
 
-[30](#c11-v30){:#c11-v30} Porque mi yugo es excelente [[133]](#n-133){:#rn-133}; y mi carga es liviana".
+[30](#c11-v30){:#c11-v30} Porque mi yugo es excelente [[133]](#n-133){:#rn-133}; y mi carga es liviana.»
 
 ### Mateo [12](#c12) {#c12}
 
@@ -822,9 +823,9 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c12-v1){:#c12-v1} Por aquel tiempo, Jesús iba pasando un día de sábado, a través de los sembrados; y sus discípulos, teniendo hambre, se pusieron a arrancar algunas espigas y a comerlas.
 
-[2](#c12-v2){:#c12-v2} Viendo esto, los fariseos le dijeron: "Tus discípulos hacen lo que no es lícito hacer en sábado."
+[2](#c12-v2){:#c12-v2} Viendo esto, los fariseos le dijeron: «Tus discípulos hacen lo que no es lícito hacer en sábado.»
 
-[3](#c12-v3){:#c12-v3} Jesús les dijo: "¿No habéis leído, pues, lo que hizo David cuando tuvo hambre él y los que estaban con él,
+[3](#c12-v3){:#c12-v3} Jesús les dijo: «¿No habéis leído, pues, lo que hizo David cuando tuvo hambre él y los que estaban con él,
 
 [4](#c12-v4){:#c12-v4} cómo entró en la casa de Dios y comió los panes de la proposición, que no era lícito comer ni a él, ni a sus compañeros, sino solamente a los sacerdotes [[134]](#n-134){:#rn-134} ?
 
@@ -834,17 +835,17 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [7](#c12-v7){:#c12-v7} Si hubieseis comprendido lo que significa: "Misericordia quiero, y no sacrificio", no condenaríais a unos inocentes [[135]](#n-135){:#rn-135}.
 
-[8](#c12-v8){:#c12-v8} Porque Señor del sábado es el Hijo del hombre".
+[8](#c12-v8){:#c12-v8} Porque Señor del sábado es el Hijo del hombre.»
 
 [9](#c12-v9){:#c12-v9} De allí se fue a la sinagoga de ellos; y he aquí un hombre que tenía una mano seca.
 
-[10](#c12-v10){:#c12-v10} Y le propusieron esta cuestión: "¿Es lícito curar el día de sábado?" —a fin de poder acusarlo—.
+[10](#c12-v10){:#c12-v10} Y le propusieron esta cuestión: «¿Es lícito curar el día de sábado?» —a fin de poder acusarlo—.
 
-[11](#c12-v11){:#c12-v11} Él les dijo: "¿Cuál será de entre vosotros el que teniendo una sola oveja, si esta cae en un foso, el día de sábado, no irá a tomarla y levantarla?
+[11](#c12-v11){:#c12-v11} Él les dijo: «¿Cuál será de entre vosotros el que teniendo una sola oveja, si esta cae en un foso, el día de sábado, no irá a tomarla y levantarla?
 
-[12](#c12-v12){:#c12-v12} Ahora bien, ¡cuánto más vale el hombre que una oveja! Por consiguiente, es lícito hacer bien el día de sábado".
+[12](#c12-v12){:#c12-v12} Ahora bien, ¡cuánto más vale el hombre que una oveja! Por consiguiente, es lícito hacer bien el día de sábado».
 
-[13](#c12-v13){:#c12-v13} Entonces dijo al hombre: "Extiende tu mano". Él la extendió, y le fue restituida como la otra.
+[13](#c12-v13){:#c12-v13} Entonces dijo al hombre: «Extiende tu mano». Él la extendió, y le fue restituida como la otra.
 
 [14](#c12-v14){:#c12-v14} Pero los fariseos salieron y deliberaron contra Él sobre el modo de hacerlo perecer.
 
@@ -854,23 +855,23 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [17](#c12-v17){:#c12-v17} para que se cumpliese la palabra del profeta Isaías que dijo:
 
-[18](#c12-v18){:#c12-v18} "He aquí a mi siervo, a quien elegí, el Amado, en quien mi alma se complace. Pondré mi Espíritu sobre Él, y anunciará el juicio a las naciones [[136]](#n-136){:#rn-136}.
+[18](#c12-v18){:#c12-v18} «He aquí a mi siervo, a quien elegí, el Amado, en quien mi alma se complace. Pondré mi Espíritu sobre Él, y anunciará el juicio a las naciones [[136]](#n-136){:#rn-136}.
 
 [19](#c12-v19){:#c12-v19} No disputará, ni gritará, y nadie oirá su voz en las plazas [[137]](#n-137){:#rn-137}.
 
 [20](#c12-v20){:#c12-v20} No quebrará la caña cascada, ni extinguirá la mecha que aún humea, hasta que lleve el juicio a la victoria;
 
-[21](#c12-v21){:#c12-v21} y en su nombre pondrán las naciones su esperanza".
+[21](#c12-v21){:#c12-v21} y en su nombre pondrán las naciones su esperanza.»
 
 #### El pecado contra el Espíritu
 
 [22](#c12-v22){:#c12-v22} Entonces le trajeron un endemoniado ciego y mudo, y lo sanó, de modo que hablaba y veía.
 
-[23](#c12-v23){:#c12-v23} Y todas las multitudes quedaron estupefactas y dijeron: "¿Será este el Hijo de David?"
+[23](#c12-v23){:#c12-v23} Y todas las multitudes quedaron estupefactas y dijeron: «¿Será este el Hijo de David?»
 
-[24](#c12-v24){:#c12-v24} Mas los fariseos, oyendo esto, dijeron: "Él no echa los demonios sino por Beelzebul [[138]](#n-138){:#rn-138}, el príncipe de los demonios".
+[24](#c12-v24){:#c12-v24} Mas los fariseos, oyendo esto, dijeron: «Él no echa los demonios sino por Beelzebul [[138]](#n-138){:#rn-138}, el príncipe de los demonios».
 
-[25](#c12-v25){:#c12-v25} Conociendo sus pensamientos, les dijo entonces: "Todo reino dividido contra sí mismo, está arruinado, y toda ciudad o casa dividida contra sí misma, no puede subsistir.
+[25](#c12-v25){:#c12-v25} Conociendo sus pensamientos, les dijo entonces: «Todo reino dividido contra sí mismo, está arruinado, y toda ciudad o casa dividida contra sí misma, no puede subsistir.
 
 [26](#c12-v26){:#c12-v26} Si Satanás arroja a Satanás, contra sí mismo está dividido: entonces, ¿cómo podrá subsistir su reino?
 
@@ -880,9 +881,9 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [29](#c12-v29){:#c12-v29} ¿O si no, cómo puede alguien entrar en la casa del hombre fuerte y quitarle sus bienes, si primeramente no ata al fuerte? Solamente entonces saqueará su casa.
 
-[30](#c12-v30){:#c12-v30} Quien no está conmigo, está contra Mí, y quien no amontona conmigo, desparrama".
+[30](#c12-v30){:#c12-v30} Quien no está conmigo, está contra Mí, y quien no amontona conmigo, desparrama.
 
-[31](#c12-v31){:#c12-v31} "Por eso, os digo, todo pecado y toda blasfemia será perdonada a los hombres, pero la blasfemia contra el Espíritu no será perdonada [[139]](#n-139){:#rn-139}.
+[31](#c12-v31){:#c12-v31} Por eso, os digo, todo pecado y toda blasfemia será perdonada a los hombres, pero la blasfemia contra el Espíritu no será perdonada [[139]](#n-139){:#rn-139}.
 
 [32](#c12-v32){:#c12-v32} Y si alguno habla contra el Hijo del hombre, esto le será perdonado; pero al que hablare contra el Espíritu Santo, no le será perdonado ni en este siglo ni en el venidero.
 
@@ -894,39 +895,39 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [36](#c12-v36){:#c12-v36} Os digo, que de toda palabra ociosa que se diga se deberá dar cuenta en el día del juicio.
 
-[37](#c12-v37){:#c12-v37} Según tus palabras serás declarado justo, según tus palabras serás condenado".
+[37](#c12-v37){:#c12-v37} Según tus palabras serás declarado justo, según tus palabras serás condenado.»
 
 #### Los enemigos piden una señal
 
-[38](#c12-v38){:#c12-v38} Entonces algunos de los escribas y fariseos respondieron, diciendo: "Maestro, queremos ver de Ti una señal".
+[38](#c12-v38){:#c12-v38} Entonces algunos de los escribas y fariseos respondieron, diciendo: «Maestro, queremos ver de Ti una señal».
 
-[39](#c12-v39){:#c12-v39} Replicoles Jesús y dijo: "Una raza mala y adúltera requiere una señal: no le será dada otra que la del profeta Jonás.
+[39](#c12-v39){:#c12-v39} Replicoles Jesús y dijo: «Una raza mala y adúltera requiere una señal: no le será dada otra que la del profeta Jonás.
 
 [40](#c12-v40){:#c12-v40} Pues así como Jonás estuvo en el vientre del pez tres días y tres noches, así también el Hijo del hombre estará en el seno de la tierra tres días y tres noches [[141]](#n-141){:#rn-141}.
 
 [41](#c12-v41){:#c12-v41} Los ninivitas se levantarán, en el día del juicio, con esta raza y la condenarán, porque ellos se arrepintieron a la predicación de Jonás; ahora bien, hay aquí más que Jonás.
 
-[42](#c12-v42){:#c12-v42} La reina del Mediodía [[142]](#n-142){:#rn-142} se levantará, en el juicio, con la generación esta y la condenará, porque vino de las extremidades de la tierra para escuchar la sabiduría de Salomón; ahora bien, hay aquí más que Salomón".
+[42](#c12-v42){:#c12-v42} La reina del Mediodía [[142]](#n-142){:#rn-142} se levantará, en el juicio, con la generación esta y la condenará, porque vino de las extremidades de la tierra para escuchar la sabiduría de Salomón; ahora bien, hay aquí más que Salomón.»
 
 #### La estrategia de Satanás
 
-[43](#c12-v43){:#c12-v43} "Cuando el espíritu inmundo ha salido del hombre, recorre los lugares áridos, buscando reposo, pero no lo halla.
+[43](#c12-v43){:#c12-v43} «Cuando el espíritu inmundo ha salido del hombre, recorre los lugares áridos, buscando reposo, pero no lo halla.
 
 [44](#c12-v44){:#c12-v44} Entonces se dice: "Voy a volver a mi casa, de donde salí". A su llegada, la encuentra desocupada, barrida y adornada.
 
-[45](#c12-v45){:#c12-v45} Entonces se va a tomar consigo otros siete espíritus aún más malos que él; entran y se aposentan allí, y el estado último de ese hombre viene a ser peor que el primero. Así también acaecerá a esta raza perversa".
+[45](#c12-v45){:#c12-v45} Entonces se va a tomar consigo otros siete espíritus aún más malos que él; entran y se aposentan allí, y el estado último de ese hombre viene a ser peor que el primero. Así también acaecerá a esta raza perversa.»
 
 #### Los parientes de Cristo
 
 [46](#c12-v46){:#c12-v46} Mientras Él todavía hablaba a las multitudes, he ahí que su madre y sus hermanos [[143]](#n-143){:#rn-143} estaban fuera buscando hablarle.
 
-[47](#c12-v47){:#c12-v47} Díjole alguien: "Mira, tu madre y tus hermanos están de pie afuera buscando hablar contigo" [[144]](#n-144){:#rn-144}.
+[47](#c12-v47){:#c12-v47} Díjole alguien: «Mira, tu madre y tus hermanos están de pie afuera buscando hablar contigo [[144]](#n-144){:#rn-144}.»
 
-[48](#c12-v48){:#c12-v48} Mas Él respondió al que se lo decía: "¿Quién es mi madre y quiénes son mis hermanos?"
+[48](#c12-v48){:#c12-v48} Mas Él respondió al que se lo decía: «¿Quién es mi madre y quiénes son mis hermanos?»
 
-[49](#c12-v49){:#c12-v49} Y extendiendo la mano hacia sus discípulos, dijo: "He aquí a mi madre y mis hermanos.
+[49](#c12-v49){:#c12-v49} Y extendiendo la mano hacia sus discípulos, dijo: «He aquí a mi madre y mis hermanos.
 
-[50](#c12-v50){:#c12-v50} Quienquiera que hace la voluntad de mi Padre celestial, este es mi hermano, hermana o madre".
+[50](#c12-v50){:#c12-v50} Quienquiera que hace la voluntad de mi Padre celestial, este es mi hermano, hermana o madre.»
 
 ### Mateo [13](#c13) {#c13}
 
@@ -936,7 +937,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [2](#c13-v2){:#c13-v2} Y se reunieron junto a Él muchedumbres tan numerosas, que hubo de entrar en una barca y sentarse, mientras que toda la gente se colocaba sobre la ribera.
 
-[3](#c13-v3){:#c13-v3} Y les habló muchas cosas en parábolas [[146]](#n-146){:#rn-146} diciendo: "He ahí que el sembrador salió a sembrar.
+[3](#c13-v3){:#c13-v3} Y les habló muchas cosas en parábolas [[146]](#n-146){:#rn-146} diciendo: «He ahí que el sembrador salió a sembrar.
 
 [4](#c13-v4){:#c13-v4} Y, al sembrar, unas semillas cayeron a lo largo del camino, y los pájaros vinieron y las comieron.
 
@@ -948,11 +949,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [8](#c13-v8){:#c13-v8} Otras cayeron sobre tierra buena, y dieron fruto, una ciento, otra sesenta, otra treinta.
 
-[9](#c13-v9){:#c13-v9} ¡Quien tiene oídos, oiga! [[147]](#n-147){:#rn-147} "
+[9](#c13-v9){:#c13-v9} ¡Quien tiene oídos, oiga! [[147]](#n-147){:#rn-147}»
 
-[10](#c13-v10){:#c13-v10} Aproximáronse sus discípulos y le dijeron: "¿Por qué les hablas en parábolas?"
+[10](#c13-v10){:#c13-v10} Aproximáronse sus discípulos y le dijeron: «¿Por qué les hablas en parábolas?»
 
-[11](#c13-v11){:#c13-v11} Respondioles y dijo: "A vosotros es dado conocer los misterios del reino de los cielos, pero no a ellos.
+[11](#c13-v11){:#c13-v11} Respondioles y dijo: «A vosotros es dado conocer los misterios del reino de los cielos, pero no a ellos.
 
 [12](#c13-v12){:#c13-v12} Porque a quien tiene, se le dará y tendrá abundancia; y al que no tiene, aun lo que tiene le será quitado [[148]](#n-148){:#rn-148}.
 
@@ -964,9 +965,9 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [16](#c13-v16){:#c13-v16} Pero vosotros, ¡felices de vuestros ojos porque ven, vuestros oídos porque oyen!
 
-[17](#c13-v17){:#c13-v17} En verdad, os digo, muchos profetas y justos desearon ver lo que vosotros veis, y no lo vieron; oír lo que vosotros oís y no lo oyeron".
+[17](#c13-v17){:#c13-v17} En verdad, os digo, muchos profetas y justos desearon ver lo que vosotros veis, y no lo vieron; oír lo que vosotros oís y no lo oyeron.
 
-[18](#c13-v18){:#c13-v18} "Escuchad pues, vosotros la parábola del sembrador.
+[18](#c13-v18){:#c13-v18} Escuchad pues, vosotros la parábola del sembrador:
 
 [19](#c13-v19){:#c13-v19} Sucede a todo el que oye la palabra del reino y no la comprende [[150]](#n-150){:#rn-150}, que viene el maligno y arrebata lo que ha sido sembrado en su corazón: este es el sembrado a lo largo del camino.
 
@@ -976,13 +977,13 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [22](#c13-v22){:#c13-v22} El sembrado entre los abrojos, este es el hombre que oye la palabra, pero la preocupación de este siglo y el engaño de las riquezas sofocan la palabra, y ella queda sin fruto.
 
-[23](#c13-v23){:#c13-v23} Pero el sembrado en tierra buena, este es el hombre que oye la palabra y la comprende [[151]](#n-151){:#rn-151}: él sí que fructifica y produce ya ciento, ya sesenta, ya treinta".
+[23](#c13-v23){:#c13-v23} Pero el sembrado en tierra buena, este es el hombre que oye la palabra y la comprende [[151]](#n-151){:#rn-151}: él sí que fructifica y produce ya ciento, ya sesenta, ya treinta.»
 
 #### Parábola de la cizaña
 
 [[152]](#n-152){:#rn-152}.
 
-[24](#c13-v24){:#c13-v24} Otra parábola les propuso, diciendo: "El reino de los cielos es semejante a un hombre que sembró grano bueno en su campo.
+[24](#c13-v24){:#c13-v24} Otra parábola les propuso, diciendo: «El reino de los cielos es semejante a un hombre que sembró grano bueno en su campo.
 
 [25](#c13-v25){:#c13-v25} Pero, mientras la gente dormía, vino su enemigo, sobresembró cizaña entre el trigo, y se fue.
 
@@ -994,27 +995,27 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [29](#c13-v29){:#c13-v29} Mas él respondió: "No, no sea, que al recoger la cizaña, desarraiguéis también el trigo.
 
-[30](#c13-v30){:#c13-v30} Dejadlos crecer juntamente hasta la siega. Y al momento de la siega, diré a los segadores: Recoged primero la cizaña y atadla en gavillas para quemarla, y al trigo juntadlo en mi granero" [[153]](#n-153){:#rn-153}.
+[30](#c13-v30){:#c13-v30} Dejadlos crecer juntamente hasta la siega. Y al momento de la siega, diré a los segadores: Recoged primero la cizaña y atadla en gavillas para quemarla, y al trigo juntadlo en mi granero" [[153]](#n-153){:#rn-153}.»
 
 #### Parábola del grano de mostaza
 
-[31](#c13-v31){:#c13-v31} Les propuso esta otra parábola: "El reino de los cielos es semejante a un grano de mostaza, que un hombre tomó y sembró en su campo [[154]](#n-154){:#rn-154}.
+[31](#c13-v31){:#c13-v31} Les propuso esta otra parábola: «El reino de los cielos es semejante a un grano de mostaza, que un hombre tomó y sembró en su campo [[154]](#n-154){:#rn-154}.
 
-[32](#c13-v32){:#c13-v32} Es el más pequeño de todos los granos, pero cuando ha crecido es más grande que las legumbres, y viene a ser un árbol, de modo que los pájaros del cielo llegan a anidar en sus ramas".
+[32](#c13-v32){:#c13-v32} Es el más pequeño de todos los granos, pero cuando ha crecido es más grande que las legumbres, y viene a ser un árbol, de modo que los pájaros del cielo llegan a anidar en sus ramas.»
 
 #### Parábola de la levadura
 
-[33](#c13-v33){:#c13-v33} Otra parábola les dijo: "El reino de los cielos es semejante a la levadura, que una mujer tomó y escondió [[155]](#n-155){:#rn-155} en tres medidas de harina, hasta que todo fermentó".
+[33](#c13-v33){:#c13-v33} Otra parábola les dijo: «El reino de los cielos es semejante a la levadura, que una mujer tomó y escondió [[155]](#n-155){:#rn-155} en tres medidas de harina, hasta que todo fermentó».
 
 [34](#c13-v34){:#c13-v34} Todo esto, lo decía Jesús a las multitudes en parábolas, y nada les hablaba sin parábola,
 
-[35](#c13-v35){:#c13-v35} para que se cumpliese lo que había sido dicho por medio del profeta: "Abriré mis labios en parábolas; narraré cosas escondidas desde la fundación del mundo" [[156]](#n-156){:#rn-156}.
+[35](#c13-v35){:#c13-v35} para que se cumpliese lo que había sido dicho por medio del profeta: «Abriré mis labios en parábolas; narraré cosas escondidas desde la fundación del mundo» [[156]](#n-156){:#rn-156}.
 
 #### Interpretación de la parábola de la cizaña
 
-[36](#c13-v36){:#c13-v36} Entonces, despidió a la multitud y volvió a la casa. Y los discípulos se acercaron a Él y dijeron: "Explícanos la parábola de la cizaña del campo".
+[36](#c13-v36){:#c13-v36} Entonces, despidió a la multitud y volvió a la casa. Y los discípulos se acercaron a Él y dijeron: «Explícanos la parábola de la cizaña del campo».
 
-[37](#c13-v37){:#c13-v37} Respondioles y dijo: "El que siembra la buena semilla, es el Hijo del hombre.
+[37](#c13-v37){:#c13-v37} Respondioles y dijo: «El que siembra la buena semilla, es el Hijo del hombre.
 
 [38](#c13-v38){:#c13-v38} El campo es el mundo. La buena semilla, esos son los hijos del reino. La cizaña son los hijos del maligno.
 
@@ -1026,11 +1027,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [42](#c13-v42){:#c13-v42} y los arrojarán en el horno de fuego; allí será el llanto y el rechinar de dientes.
 
-[43](#c13-v43){:#c13-v43} Entonces los justos resplandecerán como el sol en el reino de su Padre. ¡Quien tiene oídos, oiga!"
+[43](#c13-v43){:#c13-v43} Entonces los justos resplandecerán como el sol en el reino de su Padre. ¡Quien tiene oídos, oiga!»
 
 #### Parábolas del tesoro escondido, de la perla y de la red
 
-[44](#c13-v44){:#c13-v44} "El reino de los cielos es semejante a un tesoro escondido [[157]](#n-157){:#rn-157} en un campo; un hombre, habiéndolo descubierto, lo volvió a esconder, y en su gozo fue y vendió todo lo que tenía, y compró aquel campo.
+[44](#c13-v44){:#c13-v44} «El reino de los cielos es semejante a un tesoro escondido [[157]](#n-157){:#rn-157} en un campo; un hombre, habiéndolo descubierto, lo volvió a esconder, y en su gozo fue y vendió todo lo que tenía, y compró aquel campo.
 
 [45](#c13-v45){:#c13-v45} También, el reino de los cielos es semejante a un mercader en busca de perlas finas [[158]](#n-158){:#rn-158}.
 
@@ -1044,21 +1045,21 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [50](#c13-v50){:#c13-v50} y los echarán en el horno de fuego; allí será el llanto y el rechinar de dientes.
 
-[51](#c13-v51){:#c13-v51} ¿Habéis entendido todo esto? [[161]](#n-161){:#rn-161} " Le dijeron: "Sí".
+[51](#c13-v51){:#c13-v51} ¿Habéis entendido todo esto? [[161]](#n-161){:#rn-161}» Le dijeron: «Sí».
 
-[52](#c13-v52){:#c13-v52} Entonces, les dijo: "Así todo escriba que ha llegado a ser discípulo del reino de los cielos, es semejante al dueño de casa que saca de su tesoro lo nuevo y lo viejo".
+[52](#c13-v52){:#c13-v52} Entonces, les dijo: «Así todo escriba que ha llegado a ser discípulo del reino de los cielos, es semejante al dueño de casa que saca de su tesoro lo nuevo y lo viejo».
 
 #### Jesús predicando en Nazaret
 
 [53](#c13-v53){:#c13-v53} Y cuando Jesús hubo acabado estas parábolas, partió de este lugar,
 
-[54](#c13-v54){:#c13-v54} y fue a su patria [[162]](#n-162){:#rn-162}, y les enseñaba en la sinagoga de ellos; de tal manera que estaban poseídos de admiración y decían: "¿De dónde tiene Este la sabiduría esa y los milagros?
+[54](#c13-v54){:#c13-v54} y fue a su patria [[162]](#n-162){:#rn-162}, y les enseñaba en la sinagoga de ellos; de tal manera que estaban poseídos de admiración y decían: «¿De dónde tiene Este la sabiduría esa y los milagros?
 
 [55](#c13-v55){:#c13-v55} ¿No es Este el hijo del carpintero? ¿No se llama su madre María, y sus hermanos Santiago, José, Simón y Judas?
 
-[56](#c13-v56){:#c13-v56} ¿Y sus hermanas no están todas entre nosotros? Entonces, ¿de dónde le viene todo esto?"
+[56](#c13-v56){:#c13-v56} ¿Y sus hermanas no están todas entre nosotros? Entonces, ¿de dónde le viene todo esto?»
 
-[57](#c13-v57){:#c13-v57} Y se escandalizaban de Él [[163]](#n-163){:#rn-163}. Mas Jesús les dijo: "Un profeta no está sin honor sino en su país y en su familia".
+[57](#c13-v57){:#c13-v57} Y se escandalizaban de Él [[163]](#n-163){:#rn-163}. Mas Jesús les dijo: «Un profeta no está sin honor sino en su país y en su familia».
 
 [58](#c13-v58){:#c13-v58} Y no hizo allí muchos milagros, a causa de su falta de fe.
 
@@ -1068,11 +1069,11 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c14-v1){:#c14-v1} En aquel tiempo, Herodes el tetrarca [[164]](#n-164){:#rn-164} oyó hablar de Jesús,
 
-[2](#c14-v2){:#c14-v2} y dijo a sus servidores: "Este es Juan el Bautista, que ha resucitado de entre los muertos, y por eso las virtudes operan en él".
+[2](#c14-v2){:#c14-v2} y dijo a sus servidores: «Este es Juan el Bautista, que ha resucitado de entre los muertos, y por eso las virtudes operan en él».
 
 [3](#c14-v3){:#c14-v3} Porque Herodes había prendido a Juan, encadenándolo y puesto en prisión, a causa de Herodías, la mujer de su hermano Filipo [[165]](#n-165){:#rn-165}.
 
-[4](#c14-v4){:#c14-v4} Pues Juan le decía: "No te es permitido tenerla".
+[4](#c14-v4){:#c14-v4} Pues Juan le decía: «No te es permitido tenerla».
 
 [5](#c14-v5){:#c14-v5} Y quería quitarle la vida, pero temía al pueblo, que lo consideraba como profeta.
 
@@ -1080,7 +1081,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [7](#c14-v7){:#c14-v7} quien le prometió, con juramento, darle lo que pidiese.
 
-[8](#c14-v8){:#c14-v8} Y ella instruida por su madre: "Dame aquí, dijo, sobre un plato, la cabeza de Juan el Bautista".
+[8](#c14-v8){:#c14-v8} Y ella instruida por su madre: «Dame aquí, dijo, sobre un plato, la cabeza de Juan el Bautista».
 
 [9](#c14-v9){:#c14-v9} A pesar de que se afligió el rey, en atención a su juramento, y a los convidados, ordenó que se le diese [[166]](#n-166){:#rn-166}.
 
@@ -1096,13 +1097,13 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [14](#c14-v14){:#c14-v14} Y cuando desembarcó, vio un gran gentío; y teniendo compasión de ellos, les sanó a los enfermos.
 
-[15](#c14-v15){:#c14-v15} Como venía la tarde, sus discípulos se llegaron a Él diciendo: "Este lugar es desierto, y la hora ya ha pasado. Despide, pues, a la gente, para que vaya a las aldeas a comprarse comida".
+[15](#c14-v15){:#c14-v15} Como venía la tarde, sus discípulos se llegaron a Él diciendo: «Este lugar es desierto, y la hora ya ha pasado. Despide, pues, a la gente, para que vaya a las aldeas a comprarse comida».
 
-[16](#c14-v16){:#c14-v16} Mas Jesús les dijo: "No necesitan irse; dadles vosotros de comer".
+[16](#c14-v16){:#c14-v16} Mas Jesús les dijo: «No necesitan irse; dadles vosotros de comer».
 
-[17](#c14-v17){:#c14-v17} Ellos le dijeron: "No tenemos aquí más que cinco panes y dos peces".
+[17](#c14-v17){:#c14-v17} Ellos le dijeron: «No tenemos aquí más que cinco panes y dos peces».
 
-[18](#c14-v18){:#c14-v18} Díjoles: "Traédmelos aquí".
+[18](#c14-v18){:#c14-v18} Díjoles: «Traédmelos aquí».
 
 [19](#c14-v19){:#c14-v19} Y habiendo mandado que las gentes se acomodasen sobre la hierba, tomó los cinco panes y los dos peces, mirando al cielo los bendijo [[167]](#n-167){:#rn-167} y, habiendo partido los panes, los dio a los discípulos y los discípulos a las gentes.
 
@@ -1122,19 +1123,19 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [26](#c14-v26){:#c14-v26} Mas los discípulos viéndolo andar sobre el mar, se turbaron diciendo: Es un fantasma; y en su miedo, se pusieron a gritar.
 
-[27](#c14-v27){:#c14-v27} Pero en seguida les habló Jesús y dijo: "¡Ánimo! soy Yo. No temáis".
+[27](#c14-v27){:#c14-v27} Pero en seguida les habló Jesús y dijo: «¡Ánimo! soy Yo. No temáis».
 
-[28](#c14-v28){:#c14-v28} Entonces, respondió Pedro y le dijo: "Señor, si eres Tú, mándame ir a Ti sobre las aguas".
+[28](#c14-v28){:#c14-v28} Entonces, respondió Pedro y le dijo: «Señor, si eres Tú, mándame ir a Ti sobre las aguas».
 
-[29](#c14-v29){:#c14-v29} Él le dijo: "¡Ven!". Y Pedro saliendo de la barca, y andando sobre las aguas, caminó hacia Jesús.
+[29](#c14-v29){:#c14-v29} Él le dijo: «¡Ven!». Y Pedro saliendo de la barca, y andando sobre las aguas, caminó hacia Jesús.
 
-[30](#c14-v30){:#c14-v30} Pero, viendo la violencia del viento, se amedrentó, y como comenzase a hundirse, gritó: "¡Señor, sálvame!"
+[30](#c14-v30){:#c14-v30} Pero, viendo la violencia del viento, se amedrentó, y como comenzase a hundirse, gritó: «¡Señor, sálvame!»
 
-[31](#c14-v31){:#c14-v31} Al punto Jesús tendió la mano, y asió de él diciéndole: "Hombre de poca fe, ¿por qué has dudado?"
+[31](#c14-v31){:#c14-v31} Al punto Jesús tendió la mano, y asió de él diciéndole: «Hombre de poca fe, ¿por qué has dudado?»
 
 [32](#c14-v32){:#c14-v32} Y cuando subieron a la barca, el viento se calmó.
 
-[33](#c14-v33){:#c14-v33} Entonces los que estaban en la barca se prosternaron ante Él diciendo: "Tú eres verdaderamente el Hijo de Dios".
+[33](#c14-v33){:#c14-v33} Entonces los que estaban en la barca se prosternaron ante Él diciendo: «Tú eres verdaderamente el Hijo de Dios».
 
 [34](#c14-v34){:#c14-v34} Y habiendo hecho la travesía, llegaron a la tierra de Genesaret.
 
@@ -1148,35 +1149,35 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [1](#c15-v1){:#c15-v1} Entonces se acercaron a Jesús algunos fariseos y escribas venidos de Jerusalén, los cuales le dijeron [[169]](#n-169){:#rn-169}:
 
-[2](#c15-v2){:#c15-v2} "¿Por qué tus discípulos quebrantan la tradición de los antepasados?, ¿por qué no se lavan las manos antes de comer?"
+[2](#c15-v2){:#c15-v2} «¿Por qué tus discípulos quebrantan la tradición de los antepasados?, ¿por qué no se lavan las manos antes de comer?»
 
-[3](#c15-v3){:#c15-v3} Él les respondió y dijo: "Y vosotros ¿por qué traspasáis el mandamiento de Dios por vuestra tradición? [[170]](#n-170){:#rn-170}
+[3](#c15-v3){:#c15-v3} Él les respondió y dijo: «Y vosotros ¿por qué traspasáis el mandamiento de Dios por vuestra tradición? [[170]](#n-170){:#rn-170}
 
 [4](#c15-v4){:#c15-v4} Dios ha dicho: "Honra a tu padre y a tu madre", y: "El que maldice a su padre o a su madre, sea condenado a muerte" [[171]](#n-171){:#rn-171}.
 
-[5](#c15-v5){:#c15-v5} Vosotros, al contrario, decís: "Cualquiera que diga a su padre o a su madre: "Es ofrenda (para el Templo) aquello con lo cual yo te podría haber socorrido,
+[5](#c15-v5){:#c15-v5} Vosotros, al contrario, decís: "Cualquiera que diga a su padre o a su madre: 'Es ofrenda (para el Templo) aquello con lo cual yo te podría haber socorrido',
 
-[6](#c15-v6){:#c15-v6} —no tendrá que honrar a su padre o a su madre". Y vosotros habéis anulado la palabra de Dios por vuestra tradición [[172]](#n-172){:#rn-172}.
+[6](#c15-v6){:#c15-v6} no tendrá que honrar a su padre o a su madre". Y vosotros habéis anulado la palabra de Dios por vuestra tradición [[172]](#n-172){:#rn-172}.
 
 [7](#c15-v7){:#c15-v7} Hipócritas, con razón Isaías profetizó de vosotros diciendo:
 
 [8](#c15-v8){:#c15-v8} "Este pueblo con los labios me honra, pero su corazón está lejos de Mí.
 
-[9](#c15-v9){:#c15-v9} En vano me rinden culto, pues que enseñan doctrinas que son mandamientos de hombres" [[173]](#n-173){:#rn-173}.
+[9](#c15-v9){:#c15-v9} En vano me rinden culto, pues que enseñan doctrinas que son mandamientos de hombres" [[173]](#n-173){:#rn-173}.»
 
-[10](#c15-v10){:#c15-v10} Y habiendo llamado a la multitud, les dijo: "¡Oíd y entended!
+[10](#c15-v10){:#c15-v10} Y habiendo llamado a la multitud, les dijo: «¡Oíd y entended!
 
-[11](#c15-v11){:#c15-v11} No lo que entra en la boca mancha al hombre; sino lo que sale de la boca, eso mancha al hombre".
+[11](#c15-v11){:#c15-v11} No lo que entra en la boca mancha al hombre; sino lo que sale de la boca, eso mancha al hombre.»
 
-[12](#c15-v12){:#c15-v12} Entonces sus discípulos vinieron a Él y le dijeron: "¿Sabes que los fariseos, al oír aquel dicho, se escandalizaron?"
+[12](#c15-v12){:#c15-v12} Entonces sus discípulos vinieron a Él y le dijeron: «¿Sabes que los fariseos, al oír aquel dicho, se escandalizaron?»
 
-[13](#c15-v13){:#c15-v13} Les respondió: "Toda planta que no haya plantado mi Padre celestial, será arrancada [[174]](#n-174){:#rn-174}.
+[13](#c15-v13){:#c15-v13} Les respondió: «Toda planta que no haya plantado mi Padre celestial, será arrancada [[174]](#n-174){:#rn-174}.
 
-[14](#c15-v14){:#c15-v14} Dejadlos: son ciegos que guían a ciegos. Si un ciego guía a otro ciego, caerán los dos en el hoyo".
+[14](#c15-v14){:#c15-v14} Dejadlos: son ciegos que guían a ciegos. Si un ciego guía a otro ciego, caerán los dos en el hoyo.»
 
-[15](#c15-v15){:#c15-v15} Pedro, entonces, le respondió y dijo: "Explícanos esa parábola".
+[15](#c15-v15){:#c15-v15} Pedro, entonces, le respondió y dijo: «Explícanos esa parábola».
 
-[16](#c15-v16){:#c15-v16} Y dijo Jesús: "¿Todavía estáis vosotros también faltos de entendimiento?
+[16](#c15-v16){:#c15-v16} Y dijo Jesús: «¿Todavía estáis vosotros también faltos de entendimiento?
 
 [17](#c15-v17){:#c15-v17} ¿No sabéis que todo lo que entra en la boca, pasa al vientre y se echa en lugar aparte?
 
@@ -1184,25 +1185,25 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [19](#c15-v19){:#c15-v19} Porque del corazón salen pensamientos malos, homicidios, adulterios, fornicaciones, hurtos, falsos testimonios, blasfemias.
 
-[20](#c15-v20){:#c15-v20} He aquí lo que mancha al hombre; mas el comer sin lavarse las manos, no mancha al hombre".
+[20](#c15-v20){:#c15-v20} He aquí lo que mancha al hombre; mas el comer sin lavarse las manos, no mancha al hombre.»
 
 #### La cananea
 
 [21](#c15-v21){:#c15-v21} Partiendo de este lugar, se retiró Jesús a la región de Tiro y de Sidón.
 
-[22](#c15-v22){:#c15-v22} Y he ahí que una mujer cananea venida de ese territorio, dio voces diciendo: "¡Ten piedad de mí, Señor, Hijo de David! Mi hija está atormentada por un demonio".
+[22](#c15-v22){:#c15-v22} Y he ahí que una mujer cananea venida de ese territorio, dio voces diciendo: «¡Ten piedad de mí, Señor, Hijo de David! Mi hija está atormentada por un demonio».
 
-[23](#c15-v23){:#c15-v23} Pero Él no le respondió nada. Entonces los discípulos, acercándose, le rogaron: "Despídela, porque nos persigue con sus gritos".
+[23](#c15-v23){:#c15-v23} Pero Él no le respondió nada. Entonces los discípulos, acercándose, le rogaron: «Despídela, porque nos persigue con sus gritos».
 
-[24](#c15-v24){:#c15-v24} Mas Él respondió y dijo: "No he sido enviado sino a las ovejas perdidas de la casa de Israel" [[175]](#n-175){:#rn-175}.
+[24](#c15-v24){:#c15-v24} Mas Él respondió y dijo: «No he sido enviado sino a las ovejas perdidas de la casa de Israel» [[175]](#n-175){:#rn-175}.
 
-[25](#c15-v25){:#c15-v25} Ella, no obstante, vino a prosternarse delante de Él y dijo: "¡Señor, socórreme!"
+[25](#c15-v25){:#c15-v25} Ella, no obstante, vino a prosternarse delante de Él y dijo: «¡Señor, socórreme!»
 
-[26](#c15-v26){:#c15-v26} Mas Él respondió: "No está bien tomar el pan de los hijos para echarlo a los perros".
+[26](#c15-v26){:#c15-v26} Mas Él respondió: «No está bien tomar el pan de los hijos para echarlo a los perros».
 
-[27](#c15-v27){:#c15-v27} Y ella dijo: "Sí, Señor, pero los perritos también comen las migajas que caen de la mesa de sus dueños".
+[27](#c15-v27){:#c15-v27} Y ella dijo: «Sí, Señor, pero los perritos también comen las migajas que caen de la mesa de sus dueños».
 
-[28](#c15-v28){:#c15-v28} Entonces Jesús respondiendo le dijo: "Oh mujer, grande es tu fe; hágasete como quieres". Y su hija quedó sana, desde aquel momento.
+[28](#c15-v28){:#c15-v28} Entonces Jesús respondiendo le dijo: «Oh mujer, grande es tu fe; hágasete como quieres». Y su hija quedó sana, desde aquel momento.
 
 [29](#c15-v29){:#c15-v29} Partiendo de allí, Jesús llegó al mar de Galilea, subió a la montaña y se sentó.
 
