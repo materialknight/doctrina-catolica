@@ -19,7 +19,7 @@ contenido:
         enlace: catecismo/prologo#p-r5
       - encabezado: VI. Las necesarias adaptaciones
         enlace: catecismo/prologo#p-r6
-  - encabezado: "Primera parte: La profesión de la Fe (26-1065)"
+  - encabezado: "Primera parte: La profesión de la Fe"
     enlace: catecismo/p1#
     sublista:
       - encabezado: "Primera sección: «Creo» - «Creemos» (26)"
@@ -41,7 +41,7 @@ contenido:
           - encabezado: "Capítulo segundo: Dios al encuentro del hombre (50-141)"
             enlace: catecismo/p1-s1-c2#
             sublista:
-              - encabezado: "Artículo 1: La Revelación de Dios (51-73)"
+              - encabezado: "Artículo 1: La Revelación de Dios"
                 enlace: catecismo/p1-s1-c2#a1
                 sublista: # numerales romanos:
                   - encabezado: I. Dios revela su designio amoroso
@@ -52,7 +52,7 @@ contenido:
                     enlace: catecismo/p1-s1-c2#a1-t3
                   - encabezado: Resumen
                     enlace: catecismo/p1-s1-c2#a1-t4
-              - encabezado: "Artículo 2: La transmisión de la Revelación divina (74-100)"
+              - encabezado: "Artículo 2: La transmisión de la Revelación divina"
                 enlace: catecismo/p1-s1-c2#a2
                 sublista: # numerales romanos:
                   - encabezado: I. La Tradición apostólica
@@ -63,7 +63,7 @@ contenido:
                     enlace: catecismo/p1-s1-c2#a2-t3
                   - encabezado: Resumen
                     enlace: catecismo/p1-s1-c2#a2-t4
-              - encabezado: "Artículo 3: La Sagrada Escritura (101-141)"
+              - encabezado: "Artículo 3: La Sagrada Escritura"
                 enlace: catecismo/p1-s1-c2#a3
                 sublista: # numerales romanos:
                   - encabezado: I. Cristo - Palabra única de la Sagrada Escritura
@@ -78,10 +78,10 @@ contenido:
                     enlace: catecismo/p1-s1-c2#a3-t5
                   - encabezado: Resumen
                     enlace: catecismo/p1-s1-c2#a3-t6
-          - encabezado: "Capítulo tercero: La respuesta del hombre a Dios (142-143)"
+          - encabezado: "Capítulo tercero: La respuesta del hombre a Dios (142-184)"
             enlace: catecismo/p1-s1-c3#
             sublista:
-              - encabezado: "Artículo 1: Creo (144-165)"
+              - encabezado: "Artículo 1: Creo"
                 enlace: catecismo/p1-s1-c3#a1
                 sublista: # numerales romanos:
                   - encabezado: I. La obediencia de la Fe
@@ -90,7 +90,7 @@ contenido:
                     enlace: catecismo/p1-s1-c3#a1-t2
                   - encabezado: Las características de la fe
                     enlace: catecismo/p1-s1-c3#a1-t3
-              - encabezado: "Artículo 2: Creemos (166-184)"
+              - encabezado: "Artículo 2: Creemos"
                 enlace: catecismo/p1-s1-c3#a2
                 sublista: # numerales romanos:
                   - encabezado: I. “Mira, Señor, la fe de tu Iglesia”
@@ -103,18 +103,18 @@ contenido:
                     enlace: catecismo/p1-s1-c3#a2-t4
                   - encabezado: El Credo
                     enlace: catecismo/p1-s1-c3#a2-t5
-      - encabezado: "Segunda sección: La profesión de la Fe Cristiana (185-197)"
+      - encabezado: "Segunda sección: La profesión de la Fe Cristiana"
         enlace: catecismo/p1#s2
         sublista:
-          - encabezado: Los Símbolos de la Fe
+          - encabezado: "Los Símbolos de la Fe (185-197)"
             enlace: catecismo/p1#s2-t1
-          - encabezado: "Capítulo primero: Creo en Dios Padre (198)"
+          - encabezado: "Capítulo primero: Creo en Dios Padre (198-421)"
             enlace: catecismo/p1-s2-c1#
             sublista:
               - encabezado: "Artículo 1: «Creo en Dios, Padre todopoderoso, creador del cielo y de la tierra»"
                 enlace: catecismo/p1-s2-c1#a1
                 sublista:
-                  - encabezado: "Párrafo 1: Creo en Dios (199-231)"
+                  - encabezado: "Párrafo 1: Creo en Dios"
                     enlace: catecismo/p1-s2-c1#a1-p1
                     sublista: # numerales romanos:
                       - encabezado: I. «Creo en un solo Dios»
@@ -127,7 +127,7 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p1-t4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p1-t5
-                  - encabezado: "Párrafo 2: El Padre (232-267)"
+                  - encabezado: "Párrafo 2: El Padre"
                     enlace: catecismo/p1-s2-c1#a1-p2
                     sublista: # numerales romanos:
                       - encabezado: I. «En el nombre del Padre y del Hijo y del Espíritu Santo»
@@ -140,12 +140,12 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p2-t4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p2-t5
-                  - encabezado: "Párrafo 3: El Todopoderoso (268-278)"
+                  - encabezado: "Párrafo 3: El Todopoderoso"
                     enlace: catecismo/p1-s2-c1#a1-p3
                     sublista:
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p3-t1
-                  - encabezado: "Párrafo 4: El Creador (279-324)"
+                  - encabezado: "Párrafo 4: El Creador"
                     enlace: catecismo/p1-s2-c1#a1-p4
                     sublista: # numerales romanos
                       - encabezado: I. La catequesis sobre la Creación
@@ -160,7 +160,7 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p4-t5
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p4-t6
-                  - encabezado: "Párrafo 5: El cielo y la tierra (325-354)"
+                  - encabezado: "Párrafo 5: El cielo y la tierra"
                     enlace: catecismo/p1-s2-c1#a1-p5
                     sublista: # numerales romanos:
                       - encabezado: I. Los ángeles
@@ -169,7 +169,7 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p5-t2
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p5-t3
-                  - encabezado: "Párrafo 6: El hombre (355-384)"
+                  - encabezado: "Párrafo 6: El hombre"
                     enlace: catecismo/p1-s2-c1#a1-p6
                     sublista: # numerales romanos:
                       - encabezado: I. «A imagen de Dios»
@@ -182,7 +182,7 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p6-t4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p6-t5
-                  - encabezado: "Párrafo 7: La caída (385-421)"
+                  - encabezado: "Párrafo 7: La caída"
                     enlace: catecismo/p1-s2-c1#a1-p7
                     sublista: # numerales romanos:
                       - encabezado: I. Donde abundó el pecado, sobreabundó la gracia
@@ -195,10 +195,16 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p7-t4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p7-t5
-          - encabezado: "Capítulo segundo: Creo en Jesucristo, Hijo único de Dios (422-429)"
+          - encabezado: "Capítulo segundo: Creo en Jesucristo, Hijo único de Dios (422-682)"
             enlace: catecismo/p1-s2-c2#
             sublista:
-              - encabezado: "Artículo 2: «Y en Jesucristo, su único Hijo, Nuestro Señor» (430-455)"
+              - encabezado: "La Buena Nueva: Dios ha enviado a su Hijo"
+                enlace: catecismo/p1-s2-c2#t1
+              - encabezado: «Anunciar... la inescrutable riqueza de Cristo» (Ef 3, 8)
+                enlace: catecismo/p1-s2-c2#t2
+              - encabezado: "En el centro de la catequesis: Cristo"
+                enlace: catecismo/p1-s2-c2#t3
+              - encabezado: "Artículo 2: «Y en Jesucristo, su único Hijo, Nuestro Señor»"
                 enlace: catecismo/p1-s2-c2#a2
                 sublista: # numerales romanos:
                   - encabezado: I. Jesús
@@ -211,7 +217,7 @@ contenido:
                     enlace: catecismo/p1-s2-c2#a2-t4
                   - encabezado: Resumen
                     enlace: catecismo/p1-s2-c2#a2-t5
-              - encabezado: "Artículo 3: «Jesucristo fue concebido por obra y gracia del Espíritu Santo y nació de Santa María Virgen» (456-483)"
+              - encabezado: "Artículo 3: «Jesucristo fue concebido por obra y gracia del Espíritu Santo y nació de Santa María Virgen»"
                 enlace: catecismo/p1-s2-c2#a3
                 sublista:
                   - encabezado: "Párrafo 1: El Hijo de Dios se hizo hombre"
@@ -227,7 +233,7 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a3-p1-t4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p1-t5
-                  - encabezado: "Párrafo 2: «…Concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen» (484-511)"
+                  - encabezado: "Párrafo 2: «…Concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen»"
                     enlace: catecismo/p1-s2-c2#a3-p2
                     sublista: # numerales romanos:
                       - encabezado: I. Concebido por obra y gracia del Espíritu Santo…
@@ -236,7 +242,7 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a3-p2-t2
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p2-t3
-                  - encabezado: "Párrafo 3: Los misterios de la vida de Cristo (512-570)"
+                  - encabezado: "Párrafo 3: Los misterios de la vida de Cristo"
                     enlace: catecismo/p1-s2-c2#a3-p3
                     sublista: # numerales romanos:
                       - encabezado: I. Toda la vida de Cristo es misterio
@@ -247,7 +253,7 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a3-p3-t3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p3-t4
-              - encabezado: "Artículo 4: «Jesucristo padeció bajo Poncio Pilato, fue crucificado, muerto y sepultado» (571-594)"
+              - encabezado: "Artículo 4: «Jesucristo padeció bajo Poncio Pilato, fue crucificado, muerto y sepultado»"
                 enlace: catecismo/p1-s2-c2#a4
                 sublista:
                   - encabezado: "Párrafo 1: Jesús e Israel"
@@ -261,7 +267,7 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a4-p1-t3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a4-p1-t4
-                  - encabezado: "Párrafo 2: Jesús murió crucificado (595-623)"
+                  - encabezado: "Párrafo 2: Jesús murió crucificado"
                     enlace: catecismo/p1-s2-c2#a4-p2
                     sublista: # numerales romanos:
                       - encabezado: I. El proceso de Jesús
@@ -272,12 +278,12 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a4-p2-t3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a4-p2-t4
-                  - encabezado: "Párrafo 3: Jesucristo fue sepultado (624-630)"
+                  - encabezado: "Párrafo 3: Jesucristo fue sepultado"
                     enlace: catecismo/p1-s2-c2#a4-p3
                     sublista:
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a4-p3-t1
-              - encabezado: "Artículo 5: «Jesucristo descendió a los infiernos, al tercer día resucitó de entre los muertos» (631-637)"
+              - encabezado: "Artículo 5: «Jesucristo descendió a los infiernos, al tercer día resucitó de entre los muertos»"
                 enlace: catecismo/p1-s2-c2#a5
                 sublista:
                   - encabezado: "Párrafo 1: Cristo descendió a los infiernos"
@@ -285,7 +291,7 @@ contenido:
                     sublista:
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a5-p1-t1
-                  - encabezado: "Párrafo 2: Al tercer día resucitó de entre los muertos (638-658)"
+                  - encabezado: "Párrafo 2: Al tercer día resucitó de entre los muertos"
                     enlace: catecismo/p1-s2-c2#a5-p2
                     sublista: # numerales romanos:
                       - encabezado: I. El acontecimiento histórico y transcendente
@@ -296,12 +302,12 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a5-p2-t3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a5-p2-t4
-              - encabezado: "Artículo 6: «Jesucristo subió a los cielos, y está sentado a la derecha de Dios, Padre Todopoderoso» (659-667)"
+              - encabezado: "Artículo 6: «Jesucristo subió a los cielos, y está sentado a la derecha de Dios, Padre Todopoderoso»"
                 enlace: catecismo/p1-s2-c2#a6
                 sublista:
                   - encabezado: Resumen
                     enlace: catecismo/p1-s2-c2#a6-t1
-              - encabezado: "Artículo 7: «Desde allí ha de venir a juzgar a vivos y a muertos» (668-682)"
+              - encabezado: "Artículo 7: «Desde allí ha de venir a juzgar a vivos y a muertos»"
                 enlace: catecismo/p1-s2-c2#a7
                 sublista: # numerales romanos:
                   - encabezado: I. Volverá en gloria
@@ -313,71 +319,207 @@ contenido:
           - encabezado: "Capítulo tercero: Creo en el Espíritu Santo (683-1065)"
             enlace: catecismo/p1-s2-c3#
             sublista:
-              - encabezado: "Artículo 8: «Creo en el Espíritu Santo» (687-747)"
+              - encabezado: "Artículo 8: «Creo en el Espíritu Santo»"
                 enlace: catecismo/p1-s2-c3#a8
                 sublista: # numerales romanos:
                   - encabezado: I. La misión conjunta del Hijo y del Espíritu
                     enlace: catecismo/p1-s2-c3#a8-t1
                   - encabezado: II. Nombre, apelativos y símbolos del Espíritu Santo
                     enlace: catecismo/p1-s2-c3#a8-t2
+                    sublista:
+                      - encabezado: El nombre propio del Espíritu Santo
+                        enlace: catecismo/p1-s2-c3#a8-t2-s1
+                      - encabezado: Los apelativos del Espíritu Santo
+                        enlace: catecismo/p1-s2-c3#a8-t2-s2
+                      - encabezado: Los símbolos del Espíritu Santo
+                        enlace: catecismo/p1-s2-c3#a8-t2-s3
                   - encabezado: III. El Espíritu y la Palabra de Dios en el tiempo de las promesas
                     enlace: catecismo/p1-s2-c3#a8-t3
+                    sublista:
+                      - encabezado: En la Creación
+                        enlace: catecismo/p1-s2-c3#a8-t3-s1
+                      - encabezado: El Espíritu de la promesa
+                        enlace: catecismo/p1-s2-c3#a8-t3-s2
+                      - encabezado: En las Teofanías y en la Ley
+                        enlace: catecismo/p1-s2-c3#a8-t3-s3
+                      - encabezado: En el Reino y en el Exilio
+                        enlace: catecismo/p1-s2-c3#a8-t3-s4
+                      - encabezado: La espera del Mesías y de su Espíritu
+                        enlace: catecismo/p1-s2-c3#a8-t3-s5
                   - encabezado: IV. El Espíritu de Cristo en la plenitud de los tiempos
                     enlace: catecismo/p1-s2-c3#a8-t4
+                    sublista:
+                      - encabezado: Juan, Precursor, Profeta y Bautista
+                        enlace: catecismo/p1-s2-c3#a8-t4-s1
+                      - encabezado: «Alégrate, llena de gracia»
+                        enlace: catecismo/p1-s2-c3#a8-t4-s2
+                      - encabezado: Cristo Jesús
+                        enlace: catecismo/p1-s2-c3#a8-t4-s3
                   - encabezado: V. El Espíritu y la Iglesia en los últimos tiempos
                     enlace: catecismo/p1-s2-c3#a8-t5
+                    sublista:
+                      - encabezado: Pentecostés
+                        enlace: catecismo/p1-s2-c3#a8-t5-s1
+                      - encabezado: El Espíritu Santo, el don de Dios
+                        enlace: catecismo/p1-s2-c3#a8-t5-s2
+                      - encabezado: El Espíritu Santo y la Iglesia
+                        enlace: catecismo/p1-s2-c3#a8-t5-s3
                   - encabezado: Resumen
                     enlace: catecismo/p1-s2-c3#a8-t6
-              - encabezado: "Artículo 9: «Creo en la Santa Iglesia Católica» (748-750)"
+              - encabezado: "Artículo 9: «Creo en la Santa Iglesia Católica»"
                 enlace: catecismo/p1-s2-c3#a9
                 sublista:
-                  - encabezado: "Párrafo 1: La Iglesia en el designio de Dios (751-780)"
+                  - encabezado: "Párrafo 1: La Iglesia en el designio de Dios"
                     enlace: catecismo/p1-s2-c3#a9-p1
                     sublista: # numerales romanos:
                       - encabezado: I. Los nombres y las imágenes de la Iglesia
                         enlace: catecismo/p1-s2-c3#a9-p1-t1
+                        sublista:
+                          - encabezado: Los símbolos de la Iglesia
+                            enlace: catecismo/p1-s2-c3#a9-p1-t1-s1
                       - encabezado: II. Origen, fundación y misión de la Iglesia
                         enlace: catecismo/p1-s2-c3#a9-p1-t2
+                        sublista:
+                          - encabezado: Un designio nacido en el corazón del Padre
+                            enlace: catecismo/p1-s2-c3#a9-p1-t2-s1
+                          - encabezado: La Iglesia, prefigurada desde el origen del mundo
+                            enlace: catecismo/p1-s2-c3#a9-p1-t2-s2
+                          - encabezado: La Iglesia, preparada en la Antigua Alianza
+                            enlace: catecismo/p1-s2-c3#a9-p1-t2-s3
+                          - encabezado: La Iglesia, instituida por Cristo Jesús
+                            enlace: catecismo/p1-s2-c3#a9-p1-t2-s4
+                          - encabezado: La Iglesia, manifestada por el Espíritu Santo
+                            enlace: catecismo/p1-s2-c3#a9-p1-t2-s5
+                          - encabezado: La Iglesia, consumada en la gloria
+                            enlace: catecismo/p1-s2-c3#a9-p1-t2-s6
                       - encabezado: III. El misterio de la Iglesia
                         enlace: catecismo/p1-s2-c3#a9-p1-t3
+                        sublista:
+                          - encabezado: La Iglesia, a la vez visible y espiritual
+                            enlace: catecismo/p1-s2-c3#a9-p1-t3-s1
+                          - encabezado: La Iglesia, misterio de la unión de los hombres con Dios
+                            enlace: catecismo/p1-s2-c3#a9-p1-t3-s2
+                          - encabezado: La Iglesia, sacramento universal de la salvación
+                            enlace: catecismo/p1-s2-c3#a9-p1-t3-s3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c3#a9-p1-t4
-                  - encabezado: "Párrafo 2: La Iglesia, Pueblo de Dios, Cuerpo de Cristo, Templo del Espíritu Santo (781-810)"
+                  - encabezado: "Párrafo 2: La Iglesia, Pueblo de Dios, Cuerpo de Cristo, Templo del Espíritu Santo"
                     enlace: catecismo/p1-s2-c3#a9-p2
                     sublista: # numerales romanos:
                       - encabezado: I. La Iglesia, Pueblo de Dios
                         enlace: catecismo/p1-s2-c3#a9-p2-t1
+                        sublista:
+                          - encabezado: Las características del Pueblo de Dios
+                            enlace: catecismo/p1-s2-c3#a9-p2-t1-s1
+                          - encabezado: Un pueblo sacerdotal, profético y real
+                            enlace: catecismo/p1-s2-c3#a9-p2-t1-s2
                       - encabezado: II. La Iglesia, Cuerpo de Cristo
                         enlace: catecismo/p1-s2-c3#a9-p2-t2
+                        sublista:
+                          - encabezado: La Iglesia es comunión con Jesús
+                            enlace: catecismo/p1-s2-c3#a9-p2-t2-s1
+                          - encabezado: «Un solo cuerpo»
+                            enlace: catecismo/p1-s2-c3#a9-p2-t2-s2
+                          - encabezado: Cristo, Cabeza de este Cuerpo
+                            enlace: catecismo/p1-s2-c3#a9-p2-t2-s3
+                          - encabezado: La Iglesia es la Esposa de Cristo
+                            enlace: catecismo/p1-s2-c3#a9-p2-t2-s4
                       - encabezado: III. La Iglesia, Templo del Espíritu Santo
                         enlace: catecismo/p1-s2-c3#a9-p2-t3
+                        sublista:
+                          - encabezado: Los carismas
+                            enlace: catecismo/p1-s2-c3#a9-p2-t3-s1
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c3#a9-p2-t4
-                  - encabezado: "Párrafo 3: La Iglesia es una, santa, católica y apostólica (811-870)"
+                  - encabezado: "Párrafo 3: La Iglesia es una, santa, católica y apostólica"
                     enlace: catecismo/p1-s2-c3#a9-p3
                     sublista: # numerales romanos:
                       - encabezado: I. La Iglesia es una
                         enlace: catecismo/p1-s2-c3#a9-p3-t1
+                        sublista:
+                          - encabezado: «El sagrado misterio de la unidad de la Iglesia» (UR 2)
+                            enlace: catecismo/p1-s2-c3#a9-p3-t1-s1
+                          - encabezado: Las heridas de la unidad
+                            enlace: catecismo/p1-s2-c3#a9-p3-t1-s2
+                          - encabezado: Hacia la unidad
+                            enlace: catecismo/p1-s2-c3#a9-p3-t1-s3
                       - encabezado: II. La Iglesia es santa
                         enlace: catecismo/p1-s2-c3#a9-p3-t2
                       - encabezado: III. La Iglesia es católica
                         enlace: catecismo/p1-s2-c3#a9-p3-t3
+                        sublista:
+                          - encabezado: ¿Qué quiere decir «católica»?
+                            enlace: catecismo/p1-s2-c3#a9-p3-t3-s1
+                          - encabezado: Cada una de las Iglesias particulares es «católica»
+                            enlace: catecismo/p1-s2-c3#a9-p3-t3-s2
+                          - encabezado: ¿Quién pertenece a la Iglesia católica?
+                            enlace: catecismo/p1-s2-c3#a9-p3-t3-s3
+                          - encabezado: La Iglesia y los no cristianos
+                            enlace: catecismo/p1-s2-c3#a9-p3-t3-s4
+                          - encabezado: «Fuera de la Iglesia no hay salvación»
+                            enlace: catecismo/p1-s2-c3#a9-p3-t3-s5
+                          - encabezado: La misión, exigencia de la catolicidad de la Iglesia
+                            enlace: catecismo/p1-s2-c3#a9-p3-t3-s6
                       - encabezado: IV. La Iglesia es apostólica
                         enlace: catecismo/p1-s2-c3#a9-p3-t4
+                        sublista:
+                          - encabezado: La misión de los Apóstoles
+                            enlace: catecismo/p1-s2-c3#a9-p3-t4-s1
+                          - encabezado: Los obispos sucesores de los Apóstoles
+                            enlace: catecismo/p1-s2-c3#a9-p3-t4-s2
+                          - encabezado: El apostolado
+                            enlace: catecismo/p1-s2-c3#a9-p3-t4-s3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c3#a9-p3-t5
-                  - encabezado: "Párrafo 4: Los fieles de Cristo: jerarquía, laicos, vida consagrada (871-945)"
+                  - encabezado: "Párrafo 4: Los fieles de Cristo: jerarquía, laicos, vida consagrada"
                     enlace: catecismo/p1-s2-c3#a9-p4
                     sublista: # numerales romanos:
                       - encabezado: I. La constitución jerárquica de la Iglesia
                         enlace: catecismo/p1-s2-c3#a9-p4-t1
+                        sublista:
+                          - encabezado: Razón del ministerio eclesial
+                            enlace: catecismo/p1-s2-c3#a9-p4-t1-s1
+                          - encabezado: El colegio episcopal y su cabeza, el Papa
+                            enlace: catecismo/p1-s2-c3#a9-p4-t1-s2
+                          - encabezado: La misión de enseñar
+                            enlace: catecismo/p1-s2-c3#a9-p4-t1-s3
+                          - encabezado: La misión de santificar
+                            enlace: catecismo/p1-s2-c3#a9-p4-t1-s4
+                          - encabezado: La misión de gobernar
+                            enlace: catecismo/p1-s2-c3#a9-p4-t1-s5
                       - encabezado: II. Los fieles cristianos laicos
                         enlace: catecismo/p1-s2-c3#a9-p4-t2
+                        sublista:
+                          - encabezado: La vocación de los laicos
+                            enlace: catecismo/p1-s2-c3#a9-p4-t2-s1
+                          - encabezado: La participación de los laicos en la misión sacerdotal de Cristo
+                            enlace: catecismo/p1-s2-c3#a9-p4-t2-s2
+                          - encabezado: Su participación en la misión profética de Cristo
+                            enlace: catecismo/p1-s2-c3#a9-p4-t2-s3
+                          - encabezado: Su participación en la misión real de Cristo
+                            enlace: catecismo/p1-s2-c3#a9-p4-t2-s4
                       - encabezado: III. La vida consagrada
                         enlace: catecismo/p1-s2-c3#a9-p4-t3
+                        sublista:
+                          - encabezado: Consejos evangélicos, vida consagrada
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s1
+                          - encabezado: Un gran árbol, múltiples ramas
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s2
+                          - encabezado: La vida eremítica
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s3
+                          - encabezado: Las vírgenes y las viudas consagradas
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s4
+                          - encabezado: La vida religiosa
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s5
+                          - encabezado: Los institutos seculares
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s6
+                          - encabezado: Las sociedades de vida apostólica
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s7
+                          - encabezado: "Consagración y misión: anunciar al Rey que viene"
+                            enlace: catecismo/p1-s2-c3#a9-p4-t3-s8
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c3#a9-p4-t4
-                  - encabezado: "Párrafo 5: La comunión de los santos (946-962)"
+                  - encabezado: "Párrafo 5: La comunión de los santos"
                     enlace: catecismo/p1-s2-c3#a9-p5
                     sublista: # numerales romanos
                       - encabezado: I. La comunión de los bienes espirituales
@@ -386,18 +528,25 @@ contenido:
                         enlace: catecismo/p1-s2-c3#a9-p5-t2
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c3#a9-p5-t3
-                  - encabezado: "Párrafo 6: María, Madre de Cristo, Madre de la Iglesia (963-975)"
+                  - encabezado: "Párrafo 6: María, Madre de Cristo, Madre de la Iglesia"
                     enlace: catecismo/p1-s2-c3#a9-p6
                     sublista: # numerales romanos
                       - encabezado: I. La maternidad de María respecto de la Iglesia
                         enlace: catecismo/p1-s2-c3#a9-p6-t1
+                        sublista:
+                          - encabezado: Totalmente unida a su Hijo...
+                            enlace: catecismo/p1-s2-c3#a9-p6-t1-s1
+                          - encabezado: ... también en su Asunción...
+                            enlace: catecismo/p1-s2-c3#a9-p6-t1-s2
+                          - encabezado: ... ella es nuestra Madre en el orden de la gracia
+                            enlace: catecismo/p1-s2-c3#a9-p6-t1-s3
                       - encabezado: II. El culto a la Santísima Virgen
                         enlace: catecismo/p1-s2-c3#a9-p6-t2
                       - encabezado: III. María, icono escatológico de la Iglesia
                         enlace: catecismo/p1-s2-c3#a9-p6-t3
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c3#a9-p6-t4
-              - encabezado: "Artículo 10: «Creo en el perdón de los pecados» (976-987)"
+              - encabezado: "Artículo 10: «Creo en el perdón de los pecados»"
                 enlace: catecismo/p1-s2-c3#a10
                 sublista: # numerales romanos:
                   - encabezado: I. Un solo Bautismo para el perdón de los pecados
@@ -406,16 +555,28 @@ contenido:
                     enlace: catecismo/p1-s2-c3#a10-t2
                   - encabezado: Resumen
                     enlace: catecismo/p1-s2-c3#a10-t3
-              - encabezado: "Artículo 11: «Creo en la resurrección de la carne» (988-1019)"
+              - encabezado: "Artículo 11: «Creo en la resurrección de la carne»"
                 enlace: catecismo/p1-s2-c3#a11
                 sublista: # numerales romanos:
                   - encabezado: I. La Resurrección de Cristo y la nuestra
                     enlace: catecismo/p1-s2-c3#a11-t1
+                    sublista:
+                      - encabezado: Revelación progresiva de la Resurrección
+                        enlace: catecismo/p1-s2-c3#a11-t1-s1
+                      - encabezado: ¿Cómo resucitan los muertos?
+                        enlace: catecismo/p1-s2-c3#a11-t1-s2
+                      - encabezado: Resucitados con Cristo
+                        enlace: catecismo/p1-s2-c3#a11-t1-s3
                   - encabezado: II. Morir en Cristo Jesús
                     enlace: catecismo/p1-s2-c3#a11-t2
+                    sublista:
+                      - encabezado: La muerte
+                        enlace: catecismo/p1-s2-c3#a11-t2-s1
+                      - encabezado: El sentido de la muerte cristiana
+                        enlace: catecismo/p1-s2-c3#a11-t2-s2
                   - encabezado: Resumen
                     enlace: catecismo/p1-s2-c3#a11-t3
-              - encabezado: "Artículo 12: «Creo en la vida eterna» (1020-1065)"
+              - encabezado: "Artículo 12: «Creo en la vida eterna»"
                 enlace: catecismo/p1-s2-c3#a12
                 sublista: # numerales romanos:
                   - encabezado: I. El juicio particular
@@ -437,24 +598,52 @@ contenido:
   - encabezado: "Segunda parte: La celebración del Misterio Cristiano (1066-1075)"
     enlace: catecismo/p2#
     sublista:
+      - encabezado: Razón de ser de la Liturgia (1066-1068)
+        enlace: catecismo/p2#t1
+      - encabezado: Significación de la palabra «Liturgia» (1069-1070)
+        enlace: catecismo/p2#t2
+      - encabezado: La Liturgia como fuente de Vida (1071-1072)
+        enlace: catecismo/p2#t3
+      - encabezado: Oración y Liturgia (1073)
+        enlace: catecismo/p2#t4
+      - encabezado: Catequesis y Liturgia (1074-1075)
+        enlace: catecismo/p2#t5
       - encabezado: "Primera sección: La Economía Sacramental (1076)"
         enlace: catecismo/p2#s1
         sublista:
-          - encabezado: "Capítulo primero: El Misterio Pascual en el tiempo de la Iglesia (1077-1112)"
+          - encabezado: "Capítulo primero: El Misterio Pascual en el tiempo de la Iglesia (1077-1134)"
             enlace: catecismo/p2-s1-c1#
             sublista:
-              - encabezado: "Artículo 1: La liturgia, obra de la Santísima Trinidad"
+              - encabezado: "Artículo 1: La Liturgia, obra de la Santísima Trinidad"
                 enlace: catecismo/p2-s1-c1#a1
                 sublista: # numerales romanos:
                   - encabezado: I. El Padre, fuente y fin de la Liturgia
                     enlace: catecismo/p2-s1-c1#a1-t1
                   - encabezado: II. La obra de Cristo en la Liturgia
                     enlace: catecismo/p2-s1-c1#a1-t2
+                    sublista:
+                      - encabezado: Cristo glorificado...
+                        enlace: catecismo/p2-s1-c1#a1-t2-s1
+                      - encabezado: ... desde la Iglesia de los Apóstoles...
+                        enlace: catecismo/p2-s1-c1#a1-t2-s2
+                      - encabezado: ... está presente en la Liturgia terrena...
+                        enlace: catecismo/p2-s1-c1#a1-t2-s3
+                      - encabezado: ... la cual participa en la Liturgia celestial
+                        enlace: catecismo/p2-s1-c1#a1-t2-s4
                   - encabezado: III. El Espíritu Santo y la Iglesia en la Liturgia
                     enlace: catecismo/p2-s1-c1#a1-t3
+                    sublista:
+                      - encabezado: El Espíritu Santo prepara a recibir a Cristo
+                        enlace: catecismo/p2-s1-c1#a1-t3-s1
+                      - encabezado: El Espíritu Santo recuerda el Misterio de Cristo
+                        enlace: catecismo/p2-s1-c1#a1-t3-s2
+                      - encabezado: El Espíritu Santo actualiza el Misterio de Cristo
+                        enlace: catecismo/p2-s1-c1#a1-t3-s3
+                      - encabezado: La comunión en el Espíritu Santo
+                        enlace: catecismo/p2-s1-c1#a1-t3-s4
                   - encabezado: Resumen
                     enlace: catecismo/p2-s1-c1#a1-t4
-              - encabezado: "Artículo 2: El Misterio Pascual en los sacramentos de la Iglesia (1113-1134)"
+              - encabezado: "Artículo 2: El Misterio Pascual en los sacramentos de la Iglesia"
                 enlace: catecismo/p2-s1-c1#a2
                 sublista: # numerales romanos:
                   - encabezado: I. Sacramentos de Cristo
@@ -469,59 +658,124 @@ contenido:
                     enlace: catecismo/p2-s1-c1#a2-t5
                   - encabezado: Resumen
                     enlace: catecismo/p2-s1-c1#a2-t6
-          - encabezado: "Capítulo segundo: La celebración sacramental del Misterio Pascual (1135)"
+          - encabezado: "Capítulo segundo: La celebración sacramental del Misterio Pascual (1135-1209)"
             enlace: catecismo/p2-s1-c2#
             sublista:
-              - encabezado: "Artículo 1: Celebrar la Liturgia de la Iglesia (1136-1199)"
+              - encabezado: "Artículo 1: Celebrar la Liturgia de la Iglesia"
                 enlace: catecismo/p2-s1-c2#a1
                 sublista: # numerales romanos:
                   - encabezado: I. ¿Quién celebra?
                     enlace: catecismo/p2-s1-c2#a1-t1
+                    sublista:
+                      - encabezado: Los celebrantes de la liturgia celestial
+                        enlace: catecismo/p2-s1-c2#a1-t1-s1
+                      - encabezado: Los celebrantes de la liturgia sacramental
+                        enlace: catecismo/p2-s1-c2#a1-t1-s2
                   - encabezado: II. ¿Cómo celebrar?
                     enlace: catecismo/p2-s1-c2#a1-t2
+                    sublista:
+                      - encabezado: Signos y símbolos
+                        enlace: catecismo/p2-s1-c2#a1-t2-s1
+                      - encabezado: Palabras y acciones
+                        enlace: catecismo/p2-s1-c2#a1-t2-s2
+                      - encabezado: Canto y música
+                        enlace: catecismo/p2-s1-c2#a1-t2-s3
+                      - encabezado: Imágenes sagradas
+                        enlace: catecismo/p2-s1-c2#a1-t2-s4
                   - encabezado: III. ¿Cuándo celebrar?
                     enlace: catecismo/p2-s1-c2#a1-t3
+                    sublista:
+                      - encabezado: El tiempo litúrgico
+                        enlace: catecismo/p2-s1-c2#a1-t3-s1
+                      - encabezado: El día del Señor
+                        enlace: catecismo/p2-s1-c2#a1-t3-s2
+                      - encabezado: El año litúrgico
+                        enlace: catecismo/p2-s1-c2#a1-t3-s3
+                      - encabezado: El santoral en el año litúrgico
+                        enlace: catecismo/p2-s1-c2#a1-t3-s4
+                      - encabezado: La Liturgia de las Horas
+                        enlace: catecismo/p2-s1-c2#a1-t3-s5
                   - encabezado: IV. ¿Dónde celebrar?
                     enlace: catecismo/p2-s1-c2#a1-t4
                   - encabezado: Resumen
                     enlace: catecismo/p2-s1-c2#a1-t5
-              - encabezado: "Artículo 2: Diversidad litúrgica y unidad del Misterio (1200-1209)"
+              - encabezado: "Artículo 2: Diversidad litúrgica y unidad del Misterio"
                 enlace: catecismo/p2-s1-c2#a2
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: Tradiciones litúrgicas y catolicidad de la Iglesia
                     enlace: catecismo/p2-s1-c2#a2-t1
+                  - encabezado: Liturgia y culturas
+                    enlace: catecismo/p2-s1-c2#a2-t2
+                  - encabezado: Resumen
+                    enlace: catecismo/p2-s1-c2#a2-t3
       - encabezado: "Segunda sección: «Los siete sacramentos de la Iglesia» (1210-1211)"
         enlace: catecismo/p2#s2
         sublista:
-          - encabezado: "Capítulo primero: Los sacramentos del la iniciación cristiana (1212)"
+          - encabezado: "Capítulo primero: Los sacramentos del la iniciación cristiana (1212-1419)"
             enlace: catecismo/p2-s2-c1#
             sublista:
-              - encabezado: "Artículo 1: El sacramento del Bautismo (1213-1284)"
+              - encabezado: "Artículo 1: El sacramento del Bautismo"
                 enlace: catecismo/p2-s2-c1#a1
                 sublista: # numerales romanos:
                   - encabezado: I. El nombre de este sacramento
                     enlace: catecismo/p2-s2-c1#a1-t1
                   - encabezado: II. El Bautismo en la economía de la salvación
                     enlace: catecismo/p2-s2-c1#a1-t2
+                    sublista:
+                      - encabezado: Las prefiguraciones del Bautismo en la Antigua Alianza
+                        enlace: catecismo/p2-s2-c1#a1-t2-s1
+                      - encabezado: El Bautismo de Cristo
+                        enlace: catecismo/p2-s2-c1#a1-t2-s2
+                      - encabezado: El Bautismo en la Iglesia
+                        enlace: catecismo/p2-s2-c1#a1-t2-s3
                   - encabezado: III. La celebración del sacramento del Bautismo
                     enlace: catecismo/p2-s2-c1#a1-t3
+                    sublista:
+                      - encabezado: La iniciación cristiana
+                        enlace: catecismo/p2-s2-c1#a1-t3-s1
+                      - encabezado: La mistagogia de la celebración
+                        enlace: catecismo/p2-s2-c1#a1-t3-s2
                   - encabezado: IV. Quién puede recibir el Bautismo
                     enlace: catecismo/p2-s2-c1#a1-t4
+                    sublista:
+                      - encabezado: El Bautismo de adultos
+                        enlace: catecismo/p2-s2-c1#a1-t4-s1
+                      - encabezado: El Bautismo de niños
+                        enlace: catecismo/p2-s2-c1#a1-t4-s2
+                      - encabezado: Fe y Bautismo
+                        enlace: catecismo/p2-s2-c1#a1-t4-s3
                   - encabezado: V. Quién puede bautizar
                     enlace: catecismo/p2-s2-c1#a1-t5
                   - encabezado: VI. La necesidad del Bautismo
                     enlace: catecismo/p2-s2-c1#a1-t6
                   - encabezado: VII. La gracia del Bautismo
                     enlace: catecismo/p2-s2-c1#a1-t7
+                    sublista:
+                      - encabezado: Para la remisión de los pecados...
+                        enlace: catecismo/p2-s2-c1#a1-t7-s1
+                      - encabezado: «Una criatura nueva»
+                        enlace: catecismo/p2-s2-c1#a1-t7-s2
+                      - encabezado: Incorporados a la Iglesia, Cuerpo de Cristo
+                        enlace: catecismo/p2-s2-c1#a1-t7-s3
+                      - encabezado: Vínculo sacramental de la unidad de los cristianos
+                        enlace: catecismo/p2-s2-c1#a1-t7-s4
+                      - encabezado: Sello espiritual indeleble...
+                        enlace: catecismo/p2-s2-c1#a1-t7-s5
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c1#a1-t8
-              - encabezado: "Artículo 2: El sacramento de la Confirmación (1285-1321)"
+              - encabezado: "Artículo 2: El sacramento de la Confirmación"
                 enlace: catecismo/p2-s2-c1#a2
                 sublista: # numerales romanos:
                   - encabezado: I. La Confirmación en la economía de la salvación
                     enlace: catecismo/p2-s2-c1#a2-t1
+                    sublista:
+                      - encabezado: "Dos tradiciones: Oriente y Occidente"
+                        enlace: catecismo/p2-s2-c1#a2-t1-s1
                   - encabezado: II. Los signos y el rito de la Confirmación
                     enlace: catecismo/p2-s2-c1#a2-t2
+                    sublista:
+                      - encabezado: La celebración de la Confirmación
+                        enlace: catecismo/p2-s2-c1#a2-t2-s1
                   - encabezado: III. Los efectos de la Confirmación
                     enlace: catecismo/p2-s2-c1#a2-t3
                   - encabezado: IV. Quién puede recibir este sacramento
@@ -530,7 +784,7 @@ contenido:
                     enlace: catecismo/p2-s2-c1#a2-t5
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c1#a2-t6
-              - encabezado: "Artículo 3: El sacramento de la Eucaristía (1322-1419)"
+              - encabezado: "Artículo 3: El sacramento de la Eucaristía"
                 enlace: catecismo/p2-s2-c1#a3
                 sublista: # numerales romanos:
                   - encabezado: I. La Eucaristía, fuente y culmen de la vida eclesial
@@ -539,20 +793,44 @@ contenido:
                     enlace: catecismo/p2-s2-c1#a3-t2
                   - encabezado: III. La Eucaristía en la economía de la salvación
                     enlace: catecismo/p2-s2-c1#a3-t3
+                    sublista:
+                      - encabezado: Los signos del pan y del vino
+                        enlace: catecismo/p2-s2-c1#a3-t3-s1
+                      - encabezado: La institución de la Eucaristía
+                        enlace: catecismo/p2-s2-c1#a3-t3-s2
+                      - encabezado: «Haced esto en memoria mía»
+                        enlace: catecismo/p2-s2-c1#a3-t3-s3
                   - encabezado: IV. La celebración litúrgica de la Eucaristía
                     enlace: catecismo/p2-s2-c1#a3-t4
+                    sublista:
+                      - encabezado: La misa de todos los siglos
+                        enlace: catecismo/p2-s2-c1#a3-t4-s1
+                      - encabezado: El desarrollo de la celebración
+                        enlace: catecismo/p2-s2-c1#a3-t4-s2
                   - encabezado: "V. El sacrificio sacramental: acción de gracias, memorial, presencia"
                     enlace: catecismo/p2-s2-c1#a3-t5
+                    sublista:
+                      - encabezado: La acción de gracias y la alabanza al Padre
+                        enlace: catecismo/p2-s2-c1#a3-t5-s1
+                      - encabezado: El memorial sacrificial de Cristo y de su Cuerpo, que es la Iglesia
+                        enlace: catecismo/p2-s2-c1#a3-t5-s2
+                      - encabezado: La presencia de Cristo por el poder de su Palabra y del Espíritu Santo
+                        enlace: catecismo/p2-s2-c1#a3-t5-s3
                   - encabezado: VI. El banquete pascual
                     enlace: catecismo/p2-s2-c1#a3-t6
+                    sublista:
+                      - encabezado: "«Tomad y comed todos de él»: la comunión"
+                        enlace: catecismo/p2-s2-c1#a3-t6-s1
+                      - encabezado: Los frutos de la comunión
+                        enlace: catecismo/p2-s2-c1#a3-t6-s2
                   - encabezado: VII. La Eucaristía, «Pignus futurae gloriae»
                     enlace: catecismo/p2-s2-c1#a3-t7
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c1#a3-t8
-          - encabezado: "Capítulo segundo: Los sacramentos de curación (1420-1421)"
+          - encabezado: "Capítulo segundo: Los sacramentos de curación (1420-1532)"
             enlace: catecismo/p2-s2-c2#
             sublista:
-              - encabezado: "Artículo 4: El sacramento de la Penitencia y de la Reconciliación (1422-1498)"
+              - encabezado: "Artículo 4: El sacramento de la Penitencia y de la Reconciliación"
                 enlace: catecismo/p2-s2-c2#a4
                 sublista: # numerales romanos:
                   - encabezado: I. El nombre de este sacramento
@@ -567,25 +845,64 @@ contenido:
                     enlace: catecismo/p2-s2-c2#a4-t5
                   - encabezado: VI. El sacramento de la Penitencia y de la Reconciliación
                     enlace: catecismo/p2-s2-c2#a4-t6
+                    sublista:
+                      - encabezado: Sólo Dios perdona el pecado
+                        enlace: catecismo/p2-s2-c2#a4-t6-s1
+                      - encabezado: Reconciliación con la Iglesia
+                        enlace: catecismo/p2-s2-c2#a4-t6-s2
+                      - encabezado: El sacramento del perdón
+                        enlace: catecismo/p2-s2-c2#a4-t6-s3
                   - encabezado: VII. Los actos del penitente
                     enlace: catecismo/p2-s2-c2#a4-t7
+                    sublista:
+                      - encabezado: La contrición
+                        enlace: catecismo/p2-s2-c2#a4-t7-s1
+                      - encabezado: La confesión de los pecados
+                        enlace: catecismo/p2-s2-c2#a4-t7-s2
+                      - encabezado: La satisfacción
+                        enlace: catecismo/p2-s2-c2#a4-t7-s3
                   - encabezado: VIII. El ministro de este sacramento
                     enlace: catecismo/p2-s2-c2#a4-t8
                   - encabezado: IX. Los efectos de este sacramento
                     enlace: catecismo/p2-s2-c2#a4-t9
                   - encabezado: X. Las indulgencias
                     enlace: catecismo/p2-s2-c2#a4-t10
+                    sublista:
+                      - encabezado: Qué son las indulgencias
+                        enlace: catecismo/p2-s2-c2#a4-t10-s1
+                      - encabezado: Las penas del pecado
+                        enlace: catecismo/p2-s2-c2#a4-t10-s2
+                      - encabezado: En la comunión de los santos
+                        enlace: catecismo/p2-s2-c2#a4-t10-s3
+                      - encabezado: La indulgencia de Dios se obtiene por medio de la Iglesia
+                        enlace: catecismo/p2-s2-c2#a4-t10-s4
                   - encabezado: XI. La celebración del sacramento de la Penitencia
                     enlace: catecismo/p2-s2-c2#a4-t11
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c2#a4-t12
-              - encabezado: "Artículo 5: La Unción de los Enfermos (1499-1532)"
+              - encabezado: "Artículo 5: La Unción de los Enfermos"
                 enlace: catecismo/p2-s2-c2#a5
                 sublista: # numerales romanos:
                   - encabezado: I. Fundamentos en la economía de la salvación
                     enlace: catecismo/p2-s2-c2#a5-t1
+                    sublista:
+                      - encabezado: La enfermedad en la vida humana
+                        enlace: catecismo/p2-s2-c2#a5-t1-s1
+                      - encabezado: El enfermo ante Dios
+                        enlace: catecismo/p2-s2-c2#a5-t1-s2
+                      - encabezado: Cristo, médico
+                        enlace: catecismo/p2-s2-c2#a5-t1-s3
+                      - encabezado: «Sanad a los enfermos…»
+                        enlace: catecismo/p2-s2-c2#a5-t1-s4
+                      - encabezado: Un sacramento de los enfermos
+                        enlace: catecismo/p2-s2-c2#a5-t1-s5
                   - encabezado: II. Quién recibe y quién administra este sacramento
                     enlace: catecismo/p2-s2-c2#a5-t2
+                    sublista:
+                      - encabezado: En caso de grave enfermedad...
+                        enlace: catecismo/p2-s2-c2#a5-t2-s1
+                      - encabezado: «...llame a los presbíteros de la Iglesia»
+                        enlace: catecismo/p2-s2-c2#a5-t2-s2
                   - encabezado: III. La celebración del sacramento
                     enlace: catecismo/p2-s2-c2#a5-t3
                   - encabezado: IV. Efectos de la celebración de este sacramento
@@ -594,18 +911,36 @@ contenido:
                     enlace: catecismo/p2-s2-c2#a5-t5
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c2#a5-t6
-          - encabezado: "Capítulo tercero: Los sacramentos al servicio de la comunidad (1533-1535)"
+          - encabezado: "Capítulo tercero: Los sacramentos al servicio de la comunidad (1533-1666)"
             enlace: catecismo/p2-s2-c3#
             sublista:
-              - encabezado: "Artículo 6: El sacramento del Orden (1536-1600)"
+              - encabezado: "Artículo 6: El sacramento del Orden"
                 enlace: catecismo/p2-s2-c3#a6
                 sublista: # numerales romanos:
                   - encabezado: I. El nombre de sacramento del Orden
                     enlace: catecismo/p2-s2-c3#a6-t1
                   - encabezado: II. El sacramento del Orden en la economía de la salvación
                     enlace: catecismo/p2-s2-c3#a6-t2
+                    sublista:
+                      - encabezado: El sacerdocio de la Antigua Alianza
+                        enlace: catecismo/p2-s2-c3#a6-t2-s1
+                      - encabezado: El único sacerdocio de Cristo
+                        enlace: catecismo/p2-s2-c3#a6-t2-s2
+                      - encabezado: Dos modos de participar en el único sacerdocio de Cristo
+                        enlace: catecismo/p2-s2-c3#a6-t2-s3
+                      - encabezado: <i>In persona Christi Capitis</i>...
+                        enlace: catecismo/p2-s2-c3#a6-t2-s4
+                      - encabezado: «<i>In nomine totius Ecclesiae</i>»
+                        enlace: catecismo/p2-s2-c3#a6-t2-s5
                   - encabezado: III. Los tres grados del sacramento del Orden
                     enlace: catecismo/p2-s2-c3#a6-t3
+                    sublista:
+                      - encabezado: La ordenación episcopal, plenitud del sacramento del Orden
+                        enlace: catecismo/p2-s2-c3#a6-t3-s1
+                      - encabezado: La ordenación de los presbíteros, cooperadores de los obispos
+                        enlace: catecismo/p2-s2-c3#a6-t3-s2
+                      - encabezado: La ordenación de los diáconos, «en orden al ministerio»
+                        enlace: catecismo/p2-s2-c3#a6-t3-s3
                   - encabezado: IV. La celebración de este sacramento
                     enlace: catecismo/p2-s2-c3#a6-t4
                   - encabezado: V. El ministro de este sacramento
@@ -614,34 +949,71 @@ contenido:
                     enlace: catecismo/p2-s2-c3#a6-t6
                   - encabezado: VII. Efectos del sacramento del Orden
                     enlace: catecismo/p2-s2-c3#a6-t7
+                    sublista:
+                      - encabezado: El carácter indeleble
+                        enlace: catecismo/p2-s2-c3#a6-t7-s1
+                      - encabezado: La gracia del Espíritu Santo
+                        enlace: catecismo/p2-s2-c3#a6-t7-s2
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c3#a6-t8
-              - encabezado: "Artículo 7: El sacramento del Matrimonio (1601-1666)"
+              - encabezado: "Artículo 7: El sacramento del Matrimonio"
                 enlace: catecismo/p2-s2-c3#a7
                 sublista: # numerales romanos:
                   - encabezado: I. El Matrimonio en el plan de Dios
                     enlace: catecismo/p2-s2-c3#a7-t1
+                    sublista:
+                      - encabezado: El matrimonio en el orden de la creación
+                        enlace: catecismo/p2-s2-c3#a7-t1-s1
+                      - encabezado: El matrimonio bajo la esclavitud del pecado
+                        enlace: catecismo/p2-s2-c3#a7-t1-s2
+                      - encabezado: El matrimonio bajo la pedagogía de la antigua Ley
+                        enlace: catecismo/p2-s2-c3#a7-t1-s3
+                      - encabezado: El matrimonio en el Señor
+                        enlace: catecismo/p2-s2-c3#a7-t1-s4
+                      - encabezado: La virginidad por el Reino de Dios
+                        enlace: catecismo/p2-s2-c3#a7-t1-s5
                   - encabezado: II. La celebración del Matrimonio
                     enlace: catecismo/p2-s2-c3#a7-t2
                   - encabezado: III. El consentimiento matrimonial
                     enlace: catecismo/p2-s2-c3#a7-t3
+                    sublista:
+                      - encabezado: Matrimonios mixtos y disparidad de culto
+                        enlace: catecismo/p2-s2-c3#a7-t3-s1
                   - encabezado: IV. Los efectos del sacramento del Matrimonio
                     enlace: catecismo/p2-s2-c3#a7-t4
+                    sublista:
+                      - encabezado: El vínculo matrimonial
+                        enlace: catecismo/p2-s2-c3#a7-t4-s1
+                      - encabezado: La gracia del sacramento del Matrimonio
+                        enlace: catecismo/p2-s2-c3#a7-t4-s2
                   - encabezado: V. Los bienes y las exigencias del amor conyugal
                     enlace: catecismo/p2-s2-c3#a7-t5
+                    sublista:
+                      - encabezado: Unidad e indisolubilidad del matrimonio
+                        enlace: catecismo/p2-s2-c3#a7-t5-s1
+                      - encabezado: La fidelidad del amor conyugal
+                        enlace: catecismo/p2-s2-c3#a7-t5-s2
+                      - encabezado: La apertura a la fecundidad
+                        enlace: catecismo/p2-s2-c3#a7-t5-s3
                   - encabezado: VI. La Iglesia doméstica
                     enlace: catecismo/p2-s2-c3#a7-t6
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c3#a7-t7
-          - encabezado: "Capítulo cuarto: Otras celebraciones litúrgicas (1667-1679)"
+          - encabezado: "Capítulo cuarto: Otras celebraciones litúrgicas (1667-1690)"
             enlace: catecismo/p2-s2-c4#
             sublista:
               - encabezado: "Artículo 1: Los sacramentales"
                 enlace: catecismo/p2-s2-c4#a1
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: Características de los sacramentales
                     enlace: catecismo/p2-s2-c4#a1-t1
-              - encabezado: "Artículo 2: Las exequias cristianas (1680-1690)"
+                  - encabezado: Diversas formas de sacramentales
+                    enlace: catecismo/p2-s2-c4#a1-t2
+                  - encabezado: La religiosidad popular
+                    enlace: catecismo/p2-s2-c4#a1-t3
+                  - encabezado: Resumen
+                    enlace: catecismo/p2-s2-c4#a1-t4
+              - encabezado: "Artículo 2: Las exequias cristianas"
                 enlace: catecismo/p2-s2-c4#a2
                 sublista: # numerales romanos:
                   - encabezado: I. La última Pascua del cristiano
@@ -654,15 +1026,15 @@ contenido:
       - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu (1699)"
         enlace: catecismo/p3#s1
         sublista:
-          - encabezado: "Capítulo primero: La dignidad de la persona humana (1700)"
+          - encabezado: "Capítulo primero: La dignidad de la persona humana (1700-1876)"
             enlace: catecismo/p3-s1-c1#
             sublista:
-              - encabezado: "Artículo 1: El hombre, imagen de Dios (1701-1715)"
+              - encabezado: "Artículo 1: El hombre, imagen de Dios"
                 enlace: catecismo/p3-s1-c1#a1
                 sublista:
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a1-t1
-              - encabezado: "Artículo 2: Nuestra vocación a la bienaventuranza (1716-1729)"
+              - encabezado: "Artículo 2: Nuestra vocación a la bienaventuranza"
                 enlace: catecismo/p3-s1-c1#a2
                 sublista: # numerales romanos:
                   - encabezado: I. Las bienaventuranzas
@@ -673,7 +1045,7 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a2-t3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a2-t4
-              - encabezado: "Artículo 3: La libertad del hombre (1730-1748)"
+              - encabezado: "Artículo 3: La libertad del hombre"
                 enlace: catecismo/p3-s1-c1#a3
                 sublista: # numerales romanos:
                   - encabezado: I. Libertad y responsabilidad
@@ -682,7 +1054,7 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a3-t2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a3-t3
-              - encabezado: "Artículo 4: La moralidad de los actos humanos (1749-1761)"
+              - encabezado: "Artículo 4: La moralidad de los actos humanos"
                 enlace: catecismo/p3-s1-c1#a4
                 sublista: # numerales romanos:
                   - encabezado: I. Fuentes de la moralidad
@@ -691,7 +1063,7 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a4-t2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a4-t3
-              - encabezado: "Artículo 5: La moralidad de las pasiones (1762-1775)"
+              - encabezado: "Artículo 5: La moralidad de las pasiones"
                 enlace: catecismo/p3-s1-c1#a5
                 sublista: # numerales romanos:
                   - encabezado: I. Las pasiones
@@ -700,7 +1072,7 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a5-t2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a5-t3
-              - encabezado: "Artículo 6: La conciencia moral (1776-1802)"
+              - encabezado: "Artículo 6: La conciencia moral"
                 enlace: catecismo/p3-s1-c1#a6
                 sublista: # numerales romanos:
                   - encabezado: I. El dictamen de la conciencia
@@ -713,18 +1085,30 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a6-t4
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a6-t5
-              - encabezado: "Artículo 7: Las virtudes (1803-1845)"
+              - encabezado: "Artículo 7: Las virtudes"
                 enlace: catecismo/p3-s1-c1#a7
                 sublista: # numerales romanos:
                   - encabezado: I. Las virtudes humanas
                     enlace: catecismo/p3-s1-c1#a7-t1
+                    sublista:
+                      - encabezado: Distinción de las virtudes cardinales
+                        enlace: catecismo/p3-s1-c1#a7-t1-s1
+                      - encabezado: Las virtudes y la gracia
+                        enlace: catecismo/p3-s1-c1#a7-t1-s2
                   - encabezado: II. Las virtudes teologales
                     enlace: catecismo/p3-s1-c1#a7-t2
+                    sublista:
+                      - encabezado: La fe
+                        enlace: catecismo/p3-s1-c1#a7-t2-s1
+                      - encabezado: La esperanza
+                        enlace: catecismo/p3-s1-c1#a7-t2-s2
+                      - encabezado: La caridad
+                        enlace: catecismo/p3-s1-c1#a7-t2-s3
                   - encabezado: III. Dones y frutos del Espíritu Santo
                     enlace: catecismo/p3-s1-c1#a7-t3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a7-t4
-              - encabezado: "Artículo 8: El pecado (1846-1876)"
+              - encabezado: "Artículo 8: El pecado"
                 enlace: catecismo/p3-s1-c1#a8
                 sublista: # numerales romanos:
                   - encabezado: I. La misericordia y el pecado
@@ -739,10 +1123,10 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a8-t5
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a8-t6
-          - encabezado: "Capítulo segundo: La comunidad humana (1877)"
+          - encabezado: "Capítulo segundo: La comunidad humana (1877-1948)"
             enlace: catecismo/p3-s1-c2#
             sublista:
-              - encabezado: "Artículo 1: La persona y la sociedad (1878-1896)"
+              - encabezado: "Artículo 1: La persona y la sociedad"
                 enlace: catecismo/p3-s1-c2#a1
                 sublista: # numerales romanos:
                   - encabezado: I. Carácter comunitario de la vocación humana
@@ -751,7 +1135,7 @@ contenido:
                     enlace: catecismo/p3-s1-c2#a1-t2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c2#a1-t3
-              - encabezado: "Artículo 2: La participación en la vida social (1897-1927)"
+              - encabezado: "Artículo 2: La participación en la vida social"
                 enlace: catecismo/p3-s1-c2#a2
                 sublista: # numerales romanos:
                   - encabezado: I. La autoridad
@@ -762,7 +1146,7 @@ contenido:
                     enlace: catecismo/p3-s1-c2#a2-t3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c2#a2-t4
-              - encabezado: "Artículo 3: La justicia social (1928-1948)"
+              - encabezado: "Artículo 3: La justicia social"
                 enlace: catecismo/p3-s1-c2#a3
                 sublista: # numerales romanos:
                   - encabezado: I. El respeto de la persona humana
@@ -773,10 +1157,10 @@ contenido:
                     enlace: catecismo/p3-s1-c2#a3-t3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c2#a3-t4
-          - encabezado: "Capítulo tercero: La salvación de Dios: La ley y la gracia (1949)"
+          - encabezado: "Capítulo tercero: La salvación de Dios: La ley y la gracia (1949-2051)"
             enlace: catecismo/p3-s1-c3#
             sublista:
-                  - encabezado: "Artículo 1: La ley moral (1950-1986)"
+                  - encabezado: "Artículo 1: La ley moral"
                     enlace: catecismo/p3-s1-c3#a1
                     sublista: # numerales romanos:
                       - encabezado: I. La Ley moral natural
@@ -787,7 +1171,7 @@ contenido:
                         enlace: catecismo/p3-s1-c3#a1-t3
                       - encabezado: Resumen
                         enlace: catecismo/p3-s1-c3#a1-t4
-                  - encabezado: "Artículo 2: Gracia y justificación (1987-2029)"
+                  - encabezado: "Artículo 2: Gracia y justificación"
                     enlace: catecismo/p3-s1-c3#a2
                     sublista: # numerales romanos:
                       - encabezado: I. La justificación
@@ -800,7 +1184,7 @@ contenido:
                         enlace: catecismo/p3-s1-c3#a2-t4
                       - encabezado: Resumen
                         enlace: catecismo/p3-s1-c3#a2-t5
-                  - encabezado: "Artículo 3: La Iglesia, madre y maestra (2030-2051)"
+                  - encabezado: "Artículo 3: La Iglesia, madre y maestra"
                     enlace: catecismo/p3-s1-c3#a3
                     sublista: # numerales romanos:
                       - encabezado: I. Vida moral y magisterio de la Iglesia
@@ -813,28 +1197,73 @@ contenido:
                         enlace: catecismo/p3-s1-c3#a3-t4
                       - encabezado: Los Diez Mandamientos
                         enlace: catecismo/p3-s1-c3#a3-t5
-      - encabezado: "Segunda sección: Los diez mandamientos (2052-2082)"
+      - encabezado: "Segunda sección: Los diez mandamientos"
         enlace: catecismo/p3#s2
         sublista:
-          - encabezado: Resumen
+          - encabezado: «Maestro, ¿qué he de hacer...?» (2052-2055)
             enlace: catecismo/p3#s2-t1
-          - encabezado: "Capítulo primero: «Amarás al señor tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas» (2083)"
+          - encabezado: El Decálogo en la Sagrada Escritura (2056-2063)
+            enlace: catecismo/p3#s2-t2
+          - encabezado: El Decálogo en la Tradición de la Iglesia (2064-2068)
+            enlace: catecismo/p3#s2-t3
+          - encabezado: La unidad del Decálogo (2069)
+            enlace: catecismo/p3#s2-t4
+          - encabezado: El Decálogo y la ley natural (2070-2071)
+            enlace: catecismo/p3#s2-t5
+          - encabezado: La obligación del Decálogo (2072-2073)
+            enlace: catecismo/p3#s2-t6
+          - encabezado: «Sin mí no podéis hacer nada» (2074)
+            enlace: catecismo/p3#s2-t7
+          - encabezado: Resumen (2075-2082)
+            enlace: catecismo/p3#s2-t8
+          - encabezado: "Capítulo primero: «Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas» (2083-2195)"
             enlace: catecismo/p3-s2-c1#
             sublista:
-              - encabezado: "Artículo 1: El primer mandamiento (2084-2141)"
+              - encabezado: "Artículo 1: El primer mandamiento"
                 enlace: catecismo/p3-s2-c1#a1
                 sublista: # numerales romanos:
                   - encabezado: I. «Adorarás al Señor tu Dios, y le servirás»
                     enlace: catecismo/p3-s2-c1#a1-t1
+                    sublista:
+                      - encabezado: La fe
+                        enlace: catecismo/p3-s2-c1#a1-t1-s1
+                      - encabezado: La esperanza
+                        enlace: catecismo/p3-s2-c1#a1-t1-s2
+                      - encabezado: La caridad
+                        enlace: catecismo/p3-s2-c1#a1-t1-s3
                   - encabezado: II. «A Él sólo darás culto»
                     enlace: catecismo/p3-s2-c1#a1-t2
+                    sublista:
+                      - encabezado: La adoración
+                        enlace: catecismo/p3-s2-c1#a1-t2-s1
+                      - encabezado: La oración
+                        enlace: catecismo/p3-s2-c1#a1-t2-s2
+                      - encabezado: El sacrificio
+                        enlace: catecismo/p3-s2-c1#a1-t2-s3
+                      - encabezado: Promesas y votos
+                        enlace: catecismo/p3-s2-c1#a1-t2-s4
+                      - encabezado: El deber social de la religión y el derecho a la libertad religiosa
+                        enlace: catecismo/p3-s2-c1#a1-t2-s5
                   - encabezado: III. «No habrá para ti otros dioses delante de mí»
                     enlace: catecismo/p3-s2-c1#a1-t3
+                    sublista:
+                      - encabezado: La superstición
+                        enlace: catecismo/p3-s2-c1#a1-t3-s1
+                      - encabezado: La idolatría
+                        enlace: catecismo/p3-s2-c1#a1-t3-s2
+                      - encabezado: Adivinación y magia
+                        enlace: catecismo/p3-s2-c1#a1-t3-s3
+                      - encabezado: La irreligión
+                        enlace: catecismo/p3-s2-c1#a1-t3-s4
+                      - encabezado: El ateísmo
+                        enlace: catecismo/p3-s2-c1#a1-t3-s5
+                      - encabezado: El agnosticismo
+                        enlace: catecismo/p3-s2-c1#a1-t3-s6
                   - encabezado: IV. «No te harás escultura alguna…»
                     enlace: catecismo/p3-s2-c1#a1-t4
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c1#a1-t5
-              - encabezado: "Artículo 2: El segundo mandamiento (2142-2167)"
+              - encabezado: "Artículo 2: El segundo mandamiento"
                 enlace: catecismo/p3-s2-c1#a2
                 sublista: # numerales romanos:
                   - encabezado: I. El Nombre del Señor es santo
@@ -845,64 +1274,147 @@ contenido:
                     enlace: catecismo/p3-s2-c1#a2-t3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c1#a2-t4
-              - encabezado: "Artículo 3: El tercer mandamiento (2168-2195)"
+              - encabezado: "Artículo 3: El tercer mandamiento"
                 enlace: catecismo/p3-s2-c1#a3
                 sublista: # numerales romanos:
                   - encabezado: I. El día del sábado
                     enlace: catecismo/p3-s2-c1#a3-t1
                   - encabezado: II. El día del Señor
                     enlace: catecismo/p3-s2-c1#a3-t2
+                    sublista:
+                      - encabezado: "El día de la Resurrección: la nueva creación"
+                        enlace: catecismo/p3-s2-c1#a3-t2-s1
+                      - encabezado: El domingo, plenitud del sábado
+                        enlace: catecismo/p3-s2-c1#a3-t2-s2
+                      - encabezado: La Eucaristía dominical
+                        enlace: catecismo/p3-s2-c1#a3-t2-s3
+                      - encabezado: La obligación del domingo
+                        enlace: catecismo/p3-s2-c1#a3-t2-s4
+                      - encabezado: Día de gracia y de descanso
+                        enlace: catecismo/p3-s2-c1#a3-t2-s5
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c1#a3-t3
-          - encabezado: "Capítulo segundo: «Amarás a tu prójimo como a ti mismo» (2196)"
+          - encabezado: "Capítulo segundo: «Amarás a tu prójimo como a ti mismo» (2196-2557)"
             enlace: catecismo/p3-s2-c2#
             sublista:
-              - encabezado: "Artículo 4: El cuarto mandamiento (2197-2257)"
+              - encabezado: "Artículo 4: El cuarto mandamiento"
                 enlace: catecismo/p3-s2-c2#a4
                 sublista: # numerales romanos:
                   - encabezado: I. La familia en el plan de Dios
                     enlace: catecismo/p3-s2-c2#a4-t1
+                    sublista:
+                      - encabezado: La familia cristiana
+                        enlace: catecismo/p3-s2-c2#a4-t1-s1
                   - encabezado: II. La familia y la sociedad
                     enlace: catecismo/p3-s2-c2#a4-t2
                   - encabezado: III. Deberes de los miembros de la familia
                     enlace: catecismo/p3-s2-c2#a4-t3
+                    sublista:
+                      - encabezado: Deberes de los hijos
+                        enlace: catecismo/p3-s2-c2#a4-t3-s1
+                      - encabezado: Deberes de los padres
+                        enlace: catecismo/p3-s2-c2#a4-t3-s2
                   - encabezado: IV. La familia y el Reino de Dios
                     enlace: catecismo/p3-s2-c2#a4-t4
                   - encabezado: V. Las autoridades en la sociedad civil
                     enlace: catecismo/p3-s2-c2#a4-t5
+                    sublista:
+                      - encabezado: Deberes de las autoridades civiles
+                        enlace: catecismo/p3-s2-c2#a4-t5-s1
+                      - encabezado: Deberes de los ciudadanos
+                        enlace: catecismo/p3-s2-c2#a4-t5-s2
+                      - encabezado: La comunidad política y la Iglesia
+                        enlace: catecismo/p3-s2-c2#a4-t5-s3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a4-t6
-              - encabezado: "Artículo 5: El quinto mandamiento (2258-2330)"
+              - encabezado: "Artículo 5: El quinto mandamiento"
                 enlace: catecismo/p3-s2-c2#a5
                 sublista: # numerales romanos:
                   - encabezado: I. El respeto de la vida humana
                     enlace: catecismo/p3-s2-c2#a5-t1
+                    sublista:
+                      - encabezado: El testimonio de la historia sagrada
+                        enlace: catecismo/p3-s2-c2#a5-t1-s1
+                      - encabezado: La legítima defensa
+                        enlace: catecismo/p3-s2-c2#a5-t1-s2
+                      - encabezado: El homicidio voluntario
+                        enlace: catecismo/p3-s2-c2#a5-t1-s3
+                      - encabezado: El aborto
+                        enlace: catecismo/p3-s2-c2#a5-t1-s4
+                      - encabezado: La eutanasia
+                        enlace: catecismo/p3-s2-c2#a5-t1-s5
+                      - encabezado: El suicidio
+                        enlace: catecismo/p3-s2-c2#a5-t1-s6
                   - encabezado: II. El respeto de la dignidad de las personas
                     enlace: catecismo/p3-s2-c2#a5-t2
+                    sublista:
+                      - encabezado: "El respeto del alma del prójimo: el escándalo"
+                        enlace: catecismo/p3-s2-c2#a5-t2-s1
+                      - encabezado: El respeto de la salud
+                        enlace: catecismo/p3-s2-c2#a5-t2-s2
+                      - encabezado: El respeto de la persona y la investigación científica
+                        enlace: catecismo/p3-s2-c2#a5-t2-s3
+                      - encabezado: El respeto de la integridad corporal
+                        enlace: catecismo/p3-s2-c2#a5-t2-s4
+                      - encabezado: El respeto a los muertos
+                        enlace: catecismo/p3-s2-c2#a5-t2-s5
                   - encabezado: III. La defensa de la paz
                     enlace: catecismo/p3-s2-c2#a5-t3
+                    sublista:
+                      - encabezado: La paz
+                        enlace: catecismo/p3-s2-c2#a5-t3-s1
+                      - encabezado: Evitar la guerra
+                        enlace: catecismo/p3-s2-c2#a5-t3-s2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a5-t4
-              - encabezado: "Artículo 6: El sexto mandamiento (2331-2400)"
+              - encabezado: "Artículo 6: El sexto mandamiento"
                 enlace: catecismo/p3-s2-c2#a6
                 sublista: # numerales romanos:
                   - encabezado: I. «Hombre y mujer los creó…»
                     enlace: catecismo/p3-s2-c2#a6-t1
                   - encabezado: II. La vocación a la castidad
                     enlace: catecismo/p3-s2-c2#a6-t2
+                    sublista:
+                      - encabezado: La integridad de la persona
+                        enlace: catecismo/p3-s2-c2#a6-t2-s1
+                      - encabezado: La integridad del don de sí
+                        enlace: catecismo/p3-s2-c2#a6-t2-s2
+                      - encabezado: Los diversos regímenes de la castidad
+                        enlace: catecismo/p3-s2-c2#a6-t2-s3
+                      - encabezado: Las ofensas a la castidad
+                        enlace: catecismo/p3-s2-c2#a6-t2-s4
+                      - encabezado: Castidad y homosexualidad
+                        enlace: catecismo/p3-s2-c2#a6-t2-s5
                   - encabezado: III. El amor de los esposos
                     enlace: catecismo/p3-s2-c2#a6-t3
+                    sublista:
+                      - encabezado: La fidelidad conyugal
+                        enlace: catecismo/p3-s2-c2#a6-t3-s1
+                      - encabezado: La fecundidad del matrimonio
+                        enlace: catecismo/p3-s2-c2#a6-t3-s2
+                      - encabezado: El don del hijo
+                        enlace: catecismo/p3-s2-c2#a6-t3-s3
                   - encabezado: IV. Las ofensas a la dignidad del matrimonio
                     enlace: catecismo/p3-s2-c2#a6-t4
+                    sublista:
+                      - encabezado: El divorcio
+                        enlace: catecismo/p3-s2-c2#a6-t4-s1
+                      - encabezado: Otras ofensas a la dignidad del matrimonio
+                        enlace: catecismo/p3-s2-c2#a6-t4-s2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a6-t5
-              - encabezado: "Artículo 7: El séptimo mandamiento (2401-2463)"
+              - encabezado: "Artículo 7: El séptimo mandamiento"
                 enlace: catecismo/p3-s2-c2#a7
                 sublista: # numerales romanos:
                   - encabezado: I. El destino universal y la propiedad privada de los bienes
                     enlace: catecismo/p3-s2-c2#a7-t1
                   - encabezado: II. El respeto de las personas y de sus bienes
                     enlace: catecismo/p3-s2-c2#a7-t2
+                    sublista:
+                      - encabezado: El respeto de los bienes ajenos
+                        enlace: catecismo/p3-s2-c2#a7-t2-s1
+                      - encabezado: El respeto de la integridad de la creación
+                        enlace: catecismo/p3-s2-c2#a7-t2-s2
                   - encabezado: III. La doctrina social de la Iglesia
                     enlace: catecismo/p3-s2-c2#a7-t3
                   - encabezado: IV. Actividad económica y justicia social
@@ -913,7 +1425,7 @@ contenido:
                     enlace: catecismo/p3-s2-c2#a7-t6
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a7-t7
-              - encabezado: "Artículo 8: El octavo mandamiento (2464-2513)"
+              - encabezado: "Artículo 8: El octavo mandamiento"
                 enlace: catecismo/p3-s2-c2#a8
                 sublista: # numerales romanos:
                   - encabezado: I. Vivir en la verdad
@@ -930,7 +1442,7 @@ contenido:
                     enlace: catecismo/p3-s2-c2#a8-t6
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a8-t7
-              - encabezado: "Artículo 9: El noveno mandamiento (2514-2533)"
+              - encabezado: "Artículo 9: El noveno mandamiento"
                 enlace: catecismo/p3-s2-c2#a9
                 sublista: # numerales romanos:
                   - encabezado: I. La purificación del corazón
@@ -939,7 +1451,7 @@ contenido:
                     enlace: catecismo/p3-s2-c2#a9-t2
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a9-t3
-              - encabezado: "Artículo 10: El décimo mandamiento (2534-2557)"
+              - encabezado: "Artículo 10: El décimo mandamiento"
                 enlace: catecismo/p3-s2-c2#a10
                 sublista: # numerales romanos:
                   - encabezado: I. El desorden de la concupiscencia
@@ -952,30 +1464,57 @@ contenido:
                     enlace: catecismo/p3-s2-c2#a10-t4
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a10-t5
-  - encabezado: "Cuarta parte: La oración cristiana (2558-2565)"
+  - encabezado: "Cuarta parte: La oración cristiana"
     enlace: catecismo/p4#
     sublista:
-      - encabezado: "Primera sección: La oración en la vida cristiana"
+      - encabezado: "Primera sección: La oración en la vida cristiana (2558)"
         enlace: catecismo/p4#s1
         sublista:
-          - encabezado: ¿Qué es la oración?
+          - encabezado: ¿Qué es la oración? (2559-2565)
             enlace: catecismo/p4#s1-t1
-          - encabezado: "Capítulo primero: La revelación de la oración (2566-2567)"
+            sublista:
+              - encabezado: La oración como don de Dios
+                enlace: catecismo/p4#s1-t1-s1
+              - encabezado: La oración como Alianza
+                enlace: catecismo/p4#s1-t1-s2
+              - encabezado: La oración como comunión
+                enlace: catecismo/p4#s1-t1-s3
+          - encabezado: "Capítulo primero: La revelación de la oración (2566-2649)"
             enlace: catecismo/p4-s1-c1#
             sublista:
               - encabezado: Vocación universal a la oración
                 enlace: catecismo/p4-s1-c1#t1
-              - encabezado: "Artículo 1: En el Antiguo Testamento (2568-2597)"
+              - encabezado: "Artículo 1: En el Antiguo Testamento"
                 enlace: catecismo/p4-s1-c1#a1
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: La creación, fuente de la oración
                     enlace: catecismo/p4-s1-c1#a1-t1
-              - encabezado: "Artículo 2: En la plenitud de los tiempos (2598-2622)"
+                  - encabezado: La Promesa y la oración de la fe
+                    enlace: catecismo/p4-s1-c1#a1-t2
+                  - encabezado: Moisés y la oración del mediador
+                    enlace: catecismo/p4-s1-c1#a1-t3
+                  - encabezado: David y la oración del rey
+                    enlace: catecismo/p4-s1-c1#a1-t4
+                  - encabezado: Elías, los profetas y la conversión del corazón
+                    enlace: catecismo/p4-s1-c1#a1-t5
+                  - encabezado: Los Salmos, oración de la Asamblea
+                    enlace: catecismo/p4-s1-c1#a1-t6
+                  - encabezado: Resumen
+                    enlace: catecismo/p4-s1-c1#a1-t7
+              - encabezado: "Artículo 2: En la plenitud de los tiempos"
                 enlace: catecismo/p4-s1-c1#a2
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: Jesús ora
                     enlace: catecismo/p4-s1-c1#a2-t1
-              - encabezado: "Artículo 3: En el tiempo de la Iglesia (2623-2649)"
+                  - encabezado: Jesús enseña a orar
+                    enlace: catecismo/p4-s1-c1#a2-t2
+                  - encabezado: Jesús escucha la oración
+                    enlace: catecismo/p4-s1-c1#a2-t3
+                  - encabezado: La oración de la Virgen María
+                    enlace: catecismo/p4-s1-c1#a2-t4
+                  - encabezado: Resumen
+                    enlace: catecismo/p4-s1-c1#a2-t5
+              - encabezado: "Artículo 3: En el tiempo de la Iglesia"
                 enlace: catecismo/p4-s1-c1#a3
                 sublista: # numerales romanos:
                   - encabezado: I. La bendición y la adoración
@@ -990,28 +1529,50 @@ contenido:
                     enlace: catecismo/p4-s1-c1#a3-t5
                   - encabezado: Resumen
                     enlace: catecismo/p4-s1-c1#a3-t6
-          - encabezado: "Capítulo segundo: La tradición de la oración (2650-2651)"
+          - encabezado: "Capítulo segundo: La tradición de la oración (2650-2696)"
             enlace: catecismo/p4-s1-c2#
             sublista:
-              - encabezado: "Artículo 1: Fuentes de la oración (2652-2662)"
+              - encabezado: "Artículo 1: Fuentes de la oración"
                 enlace: catecismo/p4-s1-c2#a1
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: La Palabra de Dios
                     enlace: catecismo/p4-s1-c2#a1-t1
-              - encabezado: "Artículo 2: El camino de la oración (2663-2682)"
+                  - encabezado: La Liturgia de la Iglesia
+                    enlace: catecismo/p4-s1-c2#a1-t2
+                  - encabezado: Las virtudes teologales
+                    enlace: catecismo/p4-s1-c2#a1-t3
+                  - encabezado: «Hoy»
+                    enlace: catecismo/p4-s1-c2#a1-t4
+                  - encabezado: Resumen
+                    enlace: catecismo/p4-s1-c2#a1-t5
+              - encabezado: "Artículo 2: El camino de la oración"
                 enlace: catecismo/p4-s1-c2#a2
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: La oración al Padre
                     enlace: catecismo/p4-s1-c2#a2-t1
-              - encabezado: "Artículo 3: Maestros de oración (2683-2696)"
+                  - encabezado: La oración a Jesús
+                    enlace: catecismo/p4-s1-c2#a2-t2
+                  - encabezado: «Ven, Espíritu Santo»
+                    enlace: catecismo/p4-s1-c2#a2-t3
+                  - encabezado: En comunión con la santa Madre de Dios
+                    enlace: catecismo/p4-s1-c2#a2-t4
+                  - encabezado: Resumen
+                    enlace: catecismo/p4-s1-c2#a2-t5
+              - encabezado: "Artículo 3: Maestros y lugares de oración"
                 enlace: catecismo/p4-s1-c2#a3
                 sublista:
-                  - encabezado: Resumen
+                  - encabezado: Una pléyade de testigos
                     enlace: catecismo/p4-s1-c2#a3-t1
-          - encabezado: "Capítulo tercero: La vida de oración (2697-2699)"
+                  - encabezado: Servidores de la oración
+                    enlace: catecismo/p4-s1-c2#a3-t2
+                  - encabezado: Lugares favorables para la oración
+                    enlace: catecismo/p4-s1-c2#a3-t3
+                  - encabezado: Resumen
+                    enlace: catecismo/p4-s1-c2#a3-t4
+          - encabezado: "Capítulo tercero: La vida de oración (2697-2758)"
             enlace: catecismo/p4-s1-c3#
             sublista:
-              - encabezado: "Artículo 1: Expresiones de la oración (2700-2724)"
+              - encabezado: "Artículo 1: Expresiones de la oración"
                 enlace: catecismo/p4-s1-c3#a1
                 sublista: # numerales romanos:
                   - encabezado: I. La oración vocal
@@ -1022,19 +1583,30 @@ contenido:
                     enlace: catecismo/p4-s1-c3#a1-t3
                   - encabezado: Resumen
                     enlace: catecismo/p4-s1-c3#a1-t4
-              - encabezado: "Artículo 2: El combate de la oración (2725-2758)"
+              - encabezado: "Artículo 2: El combate de la oración"
                 enlace: catecismo/p4-s1-c3#a2
                 sublista: # numerales romanos:
                   - encabezado: I. Obstáculos para la oración
                     enlace: catecismo/p4-s1-c3#a2-t1
                   - encabezado: II. La humilde vigilancia de la oración
                     enlace: catecismo/p4-s1-c3#a2-t2
+                    sublista:
+                      - encabezado: Frente a las dificultades de la oración
+                        enlace: catecismo/p4-s1-c3#a2-t2-s1
+                      - encabezado: Frente a las tentaciones en la oración
+                        enlace: catecismo/p4-s1-c3#a2-t2-s2
                   - encabezado: III. La confianza filial
                     enlace: catecismo/p4-s1-c3#a2-t3
+                    sublista:
+                      - encabezado: Queja por la oración no escuchada
+                        enlace: catecismo/p4-s1-c3#a2-t3-s1
+                      - encabezado: Para que nuestra oración sea eficaz
+                        enlace: catecismo/p4-s1-c3#a2-t3-s2
                   - encabezado: IV. Perseverar en el amor
                     enlace: catecismo/p4-s1-c3#a2-t4
-                  - encabezado: La oración de la Hora de Jesús
-                    enlace: catecismo/p4-s1-c3#a2-t5
+                    sublista:
+                      - encabezado: La oración de la Hora de Jesús
+                        enlace: catecismo/p4-s1-c3#a2-t4-s1
                   - encabezado: Resumen
                     enlace: catecismo/p4-s1-c3#a2-t6
       - encabezado: "Segunda sección: La oración del Señor: «Padre Nuestro» (2759-2760)"
@@ -1077,6 +1649,11 @@ contenido:
                 enlace: catecismo/p4-s2#a3-t4
               - encabezado: V. «Perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden»
                 enlace: catecismo/p4-s2#a3-t5
+                sublista:
+                  - encabezado: «Perdona nuestras ofensas»...
+                    enlace: catecismo/p4-s2#a3-t5-s1
+                  - encabezado: ... «como también nosotros perdonamos a los que nos ofenden»
+                    enlace: catecismo/p4-s2#a3-t5-s2
               - encabezado: VI. «No nos dejes caer en la tentación»
                 enlace: catecismo/p4-s2#a3-t6
               - encabezado: VII. «Y líbranos del mal»

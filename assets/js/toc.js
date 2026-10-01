@@ -96,6 +96,11 @@ function mark_toc() {
 function scroll_toc(toggle_ev) {
    if (toggle_ev.newState === "open")
    {
-      toc.querySelector(".visible-toc-entry").scrollIntoView({ block: "center" })
+      const entry = toc.querySelector(".visible-toc-entry")
+      const entry_rect = entry.getBoundingClientRect()
+      const toc_rect = toc.getBoundingClientRect()
+      entry.scrollIntoView({ block: entry_rect.height > toc_rect.height ? "start" : "center" })
+
+      // toc.querySelector(".visible-toc-entry").scrollIntoView({ block: "center" })
    }
 }

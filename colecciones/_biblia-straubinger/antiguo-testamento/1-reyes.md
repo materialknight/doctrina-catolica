@@ -4,28 +4,6 @@ title: 1 Reyes (III Reyes)
 
 {% include bible/toc-auto.html %}
 
-## Introducción
-
-Los Libros III y IV de los Reyes que en algunas versiones se llaman libros I y II de los Reyes (porque los dos libros que preceden se llaman a veces libros de Samuel), han de considerarse como continuación de esos dos libros históricos a los cuales se agregan.
-
-Empiezan con el advenimiento de Salomón al trono y cierran con la caída del reino de Judá, abarcando, por consiguiente, más de cuatro siglos (X-VI a. C.).
-
-El primero, a saber el Libro III (3°) de los Reyes, trae en su primera parte la historia de Salomón (Capítulo 1-11), en la segunda la de los reinos de Judá e Israel hasta el rey Ococías de Israel (Capítulo 12-22).
-
-El Libro IV describe la historia de los dos reinos hasta la destrucción de Samaria y del reino de Israel (Capítulo 1-17), refiriendo luego los acontecimientos que siguieran en Judá, hasta el cautiverio babilónico.
-
-No es el objeto de estos libros ofrecernos una historia exclusivamente política. Lo que el autor quiere mostrar es cómo los reyes observaron o no las normas de la Ley y de qué manera Dios cumplió sus promesas y amenazas. A la posición que toma cada rey respecto de la Ley, corresponde su suerte personal y la de su reino. Aquel rey es grande, que cumple la Ley, aquel es pequeño e impío, que la descuida. Este es el esquema según el cual cada rey es juzgado.
-
-El autor debe haber sido uno de los profetas. Según la tradición judía fue Jeremías, con lo cual coinciden algunos ilustres exégetas modernos. En todo caso, ha de reconocerse el parentesco de estilo entre el libro de Jeremías y estos dos de los Reyes.
-
-El tiempo de la composición de los dos libros ha de fijarse entre el año 562 y el año 538 a. C. Pues el autor menciona la liberación del rey Jeconías acaecida el año 562, pero no el fin del cautiverio (año 538).
-
-El autor ha tenido a su disposición fuentes escritas, los anales de los reyes de Judá, citados por él 15 veces, y los anales de los reyes de Israel citados 11 veces. De estas fuentes ha entresacado lo que creía conveniente para su objeto.
-
-Un problema para los exégetas es la cronología de los dos libros. Consiste ella en indicar la edad del rey que sube al trono y la duración de su reinado, y, además, su sincronización con el reinado del rey contemporáneo de Israel o de Judá, respectivamente. Pero si se suman los años de los reyes de Judá con los del reino de Israel desde el cisma hasta el cautiverio de Israel, resulta una diferencia de 19 años. Para solucionar esta dificultad se han propuesto varios sistemas.
-
-
-
 ## I. Salomón
 
 ### 1 Reyes [1](#c1) {#c1}
@@ -34,7 +12,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c1-v1){:#c1-v1} El rey David era ya viejo y de edad avanzada, por lo cual lo cubrían con ropas, pero no podía entrar en calor.
 
-[2](#c1-v2){:#c1-v2} Entonces sus siervos le dijeron: "Búsquese para el rey, nuestro señor, una joven, virgen, que sirva al rey. Ella te cuide y se acueste en tu seno, para que nuestro señor, el rey, consiga calor.
+[2](#c1-v2){:#c1-v2} Entonces sus siervos le dijeron: «Búsquese para el rey, nuestro señor, una joven, virgen, que sirva al rey. Ella te cuide y se acueste en tu seno, para que nuestro señor, el rey, consiga calor.»
 
 [3](#c1-v3){:#c1-v3} [[1]](#n-1){:#rn-1} Buscaron, pues, una joven hermosa en todos los territorios de Israel; y hallaron a Abisag, sunamita, y la trajeron al rey.
 
@@ -42,9 +20,9 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### Conspiración de Adonías
 
-[5](#c1-v5){:#c1-v5} [[2]](#n-2){:#rn-2} Entonces Adonías, hijo de Hagit, dijo en su orgullo: "Yo seré rey"; y se procuró una carroza, gente de a caballo, y cincuenta hombres que corriesen delante de él.
+[5](#c1-v5){:#c1-v5} [[2]](#n-2){:#rn-2} Entonces Adonías, hijo de Hagit, dijo en su orgullo: «Yo seré rey»; y se procuró una carroza, gente de a caballo, y cincuenta hombres que corriesen delante de él.
 
-[6](#c1-v6){:#c1-v6} Su padre nunca en todos sus días se lo reprochaba, preguntándole: "¿Por qué haces esto?" Adonías era de muy hermosa presencia y (su madre) le había dado a luz después de Absalón.
+[6](#c1-v6){:#c1-v6} Su padre nunca en todos sus días se lo reprochaba, preguntándole: «¿Por qué haces esto?» Adonías era de muy hermosa presencia y (su madre) le había dado a luz después de Absalón.
 
 [7](#c1-v7){:#c1-v7} Conspiraba con Joab, hijo de Sarvia, y con el sacerdote Abiatar, los cuales siguieron el partido de Adonías.
 
@@ -56,19 +34,19 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### Intervención de Natán
 
-[11](#c1-v11){:#c1-v11} Entonces habló Natán a Betsabee, madre de Salomón, y le dijo: "¿No sabes que reina Adonías, hijo de Hagit, sin que nuestro señor David lo sepa?
+[11](#c1-v11){:#c1-v11} Entonces habló Natán a Betsabee, madre de Salomón, y le dijo: «¿No sabes que reina Adonías, hijo de Hagit, sin que nuestro señor David lo sepa?
 
 [12](#c1-v12){:#c1-v12} Ven, pues, ahora y te daré un consejo, para que puedas salvar tu vida y la vida de tu hijo Salomón.
 
-[13](#c1-v13){:#c1-v13} Anda, preséntate al rey David, y dile: *Señor mío y rey, ¿no juraste tú a tu sierva, diciendo: Salomón, tu hijo, reinará después de mí, y él se sentará sobre mi trono? ¿Por qué, pues, reina Adonías?*
+[13](#c1-v13){:#c1-v13} Anda, preséntate al rey David, y dile: "Señor mío y rey, ¿no juraste tú a tu sierva, diciendo: Salomón, tu hijo, reinará después de mí, y él se sentará sobre mi trono? ¿Por qué, pues, reina Adonías?"
 
-[14](#c1-v14){:#c1-v14} Y he aquí que mientras tú estuvieres aún hablando allí con el rey, entraré yo tras de ti, y confirmaré tus palabras."
+[14](#c1-v14){:#c1-v14} Y he aquí que mientras tú estuvieres aún hablando allí con el rey, entraré yo tras de ti, y confirmaré tus palabras.»
 
 [15](#c1-v15){:#c1-v15} Entró, pues, Betsabee en el aposento del rey, el cual era ya muy viejo, y Abisag la sunamita servía al rey.
 
-[16](#c1-v16){:#c1-v16} Se inclinó Betsabee y se postró ante el rey; y dijo el rey: "¿Qué quieres?"
+[16](#c1-v16){:#c1-v16} Se inclinó Betsabee y se postró ante el rey; y dijo el rey: «¿Qué quieres?»
 
-[17](#c1-v17){:#c1-v17} Respondió ella: "Señor mío, tú juraste a tu sierva por Yahvé, tu Dios, diciendo: *Salomón, tu hijo, reinará después de mí, y él se sentará sobre mi trono.*
+[17](#c1-v17){:#c1-v17} Respondió ella: «Señor mío, tú juraste a tu sierva por Yahvé, tu Dios, diciendo: "Salomón, tu hijo, reinará después de mí, y él se sentará sobre mi trono."
 
 [18](#c1-v18){:#c1-v18} Mas ahora he aquí que Adonías se ha hecho rey, y tú, señor mío, y rey, no lo sabes.
 
@@ -76,53 +54,53 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [20](#c1-v20){:#c1-v20} En ti, oh rey y señor mío, están ahora puestos los ojos de todo Israel, para que les hagas saber quién ha de sentarse sobre el trono de mi señor el rey después de él.
 
-[21](#c1-v21){:#c1-v21} [[4]](#n-4){:#rn-4} De lo contrario, cuando el rey mi señor duerma con sus padres, yo y Salomón, mi hijo, seremos (tratados como) criminales."
+[21](#c1-v21){:#c1-v21} [[4]](#n-4){:#rn-4} De lo contrario, cuando el rey mi señor duerma con sus padres, yo y Salomón, mi hijo, seremos (tratados como) criminales.»
 
 [22](#c1-v22){:#c1-v22} Ella estaba todavía hablando con el rey, cuando he aquí llegó el profeta Natán.
 
-[23](#c1-v23){:#c1-v23} Y avisaron al rey, diciendo: "Ahí está el profeta Natán." Entró, pues, este a la presencia del rey y se postró delante del rey, rostro en tierra.
+[23](#c1-v23){:#c1-v23} Y avisaron al rey, diciendo: «Ahí está el profeta Natán.» Entró, pues, este a la presencia del rey y se postró delante del rey, rostro en tierra.
 
-[24](#c1-v24){:#c1-v24} Y dijo Natán: "Señor mío y rey, ¿has dicho tú: *Adonías ha de reinar después de mí, y se sentará sobre mi trono*?
+[24](#c1-v24){:#c1-v24} Y dijo Natán: «Señor mío y rey, ¿has dicho tú: "Adonías ha de reinar después de mí, y se sentará sobre mi trono"?
 
 [25](#c1-v25){:#c1-v25} Porque ha bajado hoy y ha sacrificado bueyes y novillos cebados y ovejas en gran número, y ha convidado a todos los hijos del rey, a los capitanes del ejército y al sacerdote Abiatar; y he aquí que están comiendo y bebiendo con él y exclaman: ¡Viva el rey Adonías!
 
 [26](#c1-v26){:#c1-v26} Pero no me ha convidado a mí, tu siervo, ni al sacerdote Sadoc, ni a Banaías, hijo de Joiadá, ni a Salomón tu siervo.
 
-[27](#c1-v27){:#c1-v27} ¿Se hace esto por orden de nuestro señor el rey, sin comunicar a tus siervos quién ha de sentarse sobre el trono de mi señor el rey después de él?"
+[27](#c1-v27){:#c1-v27} ¿Se hace esto por orden de nuestro señor el rey, sin comunicar a tus siervos quién ha de sentarse sobre el trono de mi señor el rey después de él?»
 
-[28](#c1-v28){:#c1-v28} Respondió el rey David, diciendo: "Llamadme a Betsabee"; y ella entró a la presencia del rey y estuvo de pie ante el rey.
+[28](#c1-v28){:#c1-v28} Respondió el rey David, diciendo: «Llamadme a Betsabee»; y ella entró a la presencia del rey y estuvo de pie ante el rey.
 
-[29](#c1-v29){:#c1-v29} Entonces hizo el rey este juramento: "¡Vive Yahvé que ha librado mi alma de toda angustia,
+[29](#c1-v29){:#c1-v29} Entonces hizo el rey este juramento: «¡Vive Yahvé que ha librado mi alma de toda angustia,
 
-[30](#c1-v30){:#c1-v30} que así como te he jurado por Yahvé, el Dios de Israel, diciendo: Salomón tu hijo, reinará después de mí, y él se sentara sobre mi trono en mi lugar, así haré hoy mismo!"
+[30](#c1-v30){:#c1-v30} que así como te he jurado por Yahvé, el Dios de Israel, diciendo: Salomón tu hijo, reinará después de mí, y él se sentara sobre mi trono en mi lugar, así haré hoy mismo!»
 
-[31](#c1-v31){:#c1-v31} Entonces Betsabee inclinó el rostro hasta la tierra, y prosternándose delante del rey, dijo: "¡Viva mi señor, el rey David, para siempre!"
+[31](#c1-v31){:#c1-v31} Entonces Betsabee inclinó el rostro hasta la tierra, y prosternándose delante del rey, dijo: «¡Viva mi señor, el rey David, para siempre!»
 
 #### Salomón es ungido rey
 
-[32](#c1-v32){:#c1-v32} Después dijo el rey David: "Llamadme al sacerdote Sadoc, al profeta Natán, y a Banaías, hijo de Joiadá." Cuando ellos se habían presentado delante del rey,
+[32](#c1-v32){:#c1-v32} Después dijo el rey David: «Llamadme al sacerdote Sadoc, al profeta Natán, y a Banaías, hijo de Joiadá.» Cuando ellos se habían presentado delante del rey,
 
-[33](#c1-v33){:#c1-v33} [[5]](#n-5){:#rn-5} les dijo este: "Tomad con vosotros a los siervos de vuestro señor, y haced montar a Salomón mi hijo sobre mi mula, y conducidle al Gihón.
+[33](#c1-v33){:#c1-v33} [[5]](#n-5){:#rn-5} les dijo este: «Tomad con vosotros a los siervos de vuestro señor, y haced montar a Salomón mi hijo sobre mi mula, y conducidle al Gihón.
 
 [34](#c1-v34){:#c1-v34} Allí el sacerdote Sadoc y el profeta Natán le ungirán por rey sobre Israel; y tocaréis la trompeta, y diréis: "¡Viva el rey Salomón!"
 
-[35](#c1-v35){:#c1-v35} Luego subiréis en pos de él; y vendrá y se sentará sobre mi trono. El será rey en mi lugar, porque a él le instituyo príncipe sobre Israel y Judá."
+[35](#c1-v35){:#c1-v35} Luego subiréis en pos de él; y vendrá y se sentará sobre mi trono. El será rey en mi lugar, porque a él le instituyo príncipe sobre Israel y Judá.»
 
-[36](#c1-v36){:#c1-v36} Respondió Banaías, hijo de Joiadá, al rey, diciendo: "¡Amén! ¡Así lo confirme Yahvé, el Dios de mi señor el rey!
+[36](#c1-v36){:#c1-v36} Respondió Banaías, hijo de Joiadá, al rey, diciendo: «¡Amén! ¡Así lo confirme Yahvé, el Dios de mi señor el rey!
 
-[37](#c1-v37){:#c1-v37} ¡Como Yahvé ha estado con mi señor, el rey, así esté con Salomón; y ensalce su trono más que el trono de mi señor, el rey David!"
+[37](#c1-v37){:#c1-v37} ¡Como Yahvé ha estado con mi señor, el rey, así esté con Salomón; y ensalce su trono más que el trono de mi señor, el rey David!»
 
 [38](#c1-v38){:#c1-v38} [[6]](#n-6){:#rn-6} Bajaron, pues, el sacerdote Sadoc, el profeta Natán y Banaías, hijo de Joiadá, con los cereteos y feleteos, e hicieron montar a Salomón sobre la mula del rey David y le condujeron al Gihón.
 
-[39](#c1-v39){:#c1-v39} [[7]](#n-7){:#rn-7} El sacerdote Sadoc tomó del Tabernáculo el cuerno de óleo, con el cual ungió a Salomón; y al son de la trompeta exclamó todo el pueblo: "¡Viva el rey Salomón!"
+[39](#c1-v39){:#c1-v39} [[7]](#n-7){:#rn-7} El sacerdote Sadoc tomó del Tabernáculo el cuerno de óleo, con el cual ungió a Salomón; y al son de la trompeta exclamó todo el pueblo: «¡Viva el rey Salomón!»
 
 [40](#c1-v40){:#c1-v40} Después subió con él todo el pueblo, tocando flautas, y haciendo gran fiesta de modo que parecía hendirse la tierra por el ruido de sus aclamaciones.
 
-[41](#c1-v41){:#c1-v41} Lo oyó Adonías y todos los convidados que con él estaban, en el momento en que acababan de comer. Y como oyese Joab el sonido de la trompeta, dijo: "¿Qué significa este ruido de la ciudad alborotada?"
+[41](#c1-v41){:#c1-v41} Lo oyó Adonías y todos los convidados que con él estaban, en el momento en que acababan de comer. Y como oyese Joab el sonido de la trompeta, dijo: «¿Qué significa este ruido de la ciudad alborotada?»
 
-[42](#c1-v42){:#c1-v42} Estaba todavía hablando, cuando he aquí que llegó Jonatán, hijo del sacerdote Abiatar. "Ven, le dijo Adonías, porque tú eres hombre valiente y traes buenas nuevas."
+[42](#c1-v42){:#c1-v42} Estaba todavía hablando, cuando he aquí que llegó Jonatán, hijo del sacerdote Abiatar. «Ven —le dijo Adonías—, porque tú eres hombre valiente y traes buenas nuevas.»
 
-[43](#c1-v43){:#c1-v43} Jonatán respondió y dijo a Adonías: "Sí, por cierto, pues nuestro señor, el rey David, ha hecho rey a Salomón.
+[43](#c1-v43){:#c1-v43} Jonatán respondió y dijo a Adonías: «Sí, por cierto, pues nuestro señor, el rey David, ha hecho rey a Salomón.
 
 [44](#c1-v44){:#c1-v44} El rey ha enviado con él al sacerdote Sadoc, al profeta Natán y a Banaías, hijo de Joiadá, con los cereteos y feleteos, y ellos le hicieron montar sobre la mula del rey.
 
@@ -130,9 +108,9 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [46](#c1-v46){:#c1-v46} Y Salomón no solo se ha sentado en el trono del reino,
 
-[47](#c1-v47){:#c1-v47} [[8]](#n-8){:#rn-8} sino que también los servidores del rey han venido a felicitar a nuestro señor, el rey David, diciendo: *¡Haga tu Dios el nombre de Salomón más grande que tu nombre y ensalce su trono sobre el trono tuyo!* Y el mismo rey se prosternó sobre su lecho
+[47](#c1-v47){:#c1-v47} [[8]](#n-8){:#rn-8} sino que también los servidores del rey han venido a felicitar a nuestro señor, el rey David, diciendo: "¡Haga tu Dios el nombre de Salomón más grande que tu nombre y ensalce su trono sobre el trono tuyo!" Y el mismo rey se prosternó sobre su lecho
 
-[48](#c1-v48){:#c1-v48} y habló de esta manera: *¡Bendito sea Yahvé, el Dios de Israel, que hoy me ha concedido ver con mis ojos al sucesor sobre mi trono!*"
+[48](#c1-v48){:#c1-v48} y habló de esta manera: "¡Bendito sea Yahvé, el Dios de Israel, que hoy me ha concedido ver con mis ojos al sucesor sobre mi trono!"»
 
 #### Adonías se somete al nuevo rey
 
@@ -140,11 +118,11 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [50](#c1-v50){:#c1-v50} [[9]](#n-9){:#rn-9} También Adonías, teniendo miedo de Salomón, se levantó y fue a asirse de los cuernos del altar.
 
-[51](#c1-v51){:#c1-v51} Y se le dio a Salomón esta noticia: "He aquí que Adonías teme al rey Salomón; se ha asido de los cuernos del altar y dice: *¡Júreme hoy el rey Salomón que no hará morir a su siervo al filo de la espada!*"
+[51](#c1-v51){:#c1-v51} Y se le dio a Salomón esta noticia: «He aquí que Adonías teme al rey Salomón; se ha asido de los cuernos del altar y dice: "¡Júreme hoy el rey Salomón que no hará morir a su siervo al filo de la espada!"»
 
-[52](#c1-v52){:#c1-v52} El rey Salomón respondió: "Si fuere hombre de bien, no caerá a tierra ni un cabello suyo; pero si se hallare maldad en él, morirá."
+[52](#c1-v52){:#c1-v52} El rey Salomón respondió: «Si fuere hombre de bien, no caerá a tierra ni un cabello suyo; pero si se hallare maldad en él, morirá.»
 
-[53](#c1-v53){:#c1-v53} [[10]](#n-10){:#rn-10} Envió, pues, el rey Salomón gente que lo sacasen del altar; y él vino y se postró ante el rey Salomón. Y le dijo Salomón: "Vete a tu casa."
+[53](#c1-v53){:#c1-v53} [[10]](#n-10){:#rn-10} Envió, pues, el rey Salomón gente que lo sacasen del altar; y él vino y se postró ante el rey Salomón. Y le dijo Salomón: «Vete a tu casa.»
 
 ### 1 Reyes [2](#c2) {#c2}
 
@@ -152,21 +130,21 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c2-v1){:#c2-v1} Estando ya cerca los días de su muerte, dio David a su hijo Salomón estas órdenes:
 
-[2](#c2-v2){:#c2-v2} "Yo me voy por el camino de todos los mortales; muéstrate fuerte y sé hombre.
+[2](#c2-v2){:#c2-v2} «Yo me voy por el camino de todos los mortales; muéstrate fuerte y sé hombre.
 
 [3](#c2-v3){:#c2-v3} [[11]](#n-11){:#rn-11} Observa las obligaciones para con Yahvé, tu Dios, siguiendo sus caminos y cumpliendo sus mandamientos, sus leyes, sus preceptos y testimonios, como están escritos en la Ley de Moisés, para que aciertes en cuanto hagas y adondequiera que dirijas tus pasos,
 
-[4](#c2-v4){:#c2-v4} [[12]](#n-12){:#rn-12} a fin de que Yahvé cumpla la palabra que pronunció respecto de mi persona, diciendo: *Si tus hijos observan el recto camino, andando fielmente delante de Mí, con todo su corazón y con toda su alma, nunca te faltará hombre (de tu linaje) sobre el trono de Israel.*
+[4](#c2-v4){:#c2-v4} [[12]](#n-12){:#rn-12} a fin de que Yahvé cumpla la palabra que pronunció respecto de mi persona, diciendo: "Si tus hijos observan el recto camino, andando fielmente delante de Mí, con todo su corazón y con toda su alma, nunca te faltará hombre (de tu linaje) sobre el trono de Israel."
 
 [5](#c2-v5){:#c2-v5} [[13]](#n-13){:#rn-13} Ya sabes también tú lo que me ha hecho Joab, hijo de Sarvia; lo que hizo a los dos jefes del ejército de Israel: a Abner, hijo de Ner, y a Amasá, hijo de Jéter, cómo los mató, derramando sangre de guerra en tiempo de paz, y echando sangre de guerra sobre el cinturón ceñido a sus lomos, y sobre los zapatos que llevaba en sus pies.
 
-[6](#c2-v6){:#c2-v6} Harás conforme a tu sabiduría, y no permitas que desciendan sus canas en paz al scheol.
+[6](#c2-v6){:#c2-v6} Harás conforme a tu sabiduría, y no permitas que desciendan sus canas en paz al *scheol*.
 
 [7](#c2-v7){:#c2-v7} [[14]](#n-14){:#rn-14} Con los hijos de Barzillai, el galaadita, usarás de benevolencia, y serán ellos (de) los que comen a tu mesa; porque de la misma manera me atendieron ellos a mí, cuando iba huyendo de Absalón, tu hermano.
 
-[8](#c2-v8){:#c2-v8} Tienes también contigo a Semeí, hijo de Gerá, benjaminita, de Bahurim, el cual me maldijo con maldición horrenda en el día de mí huida a Mahanaim. Pero cuando descendió al Jordán a mi encuentro, yo le juré por Yahvé, diciendo: *No te haré morir a espada*.
+[8](#c2-v8){:#c2-v8} Tienes también contigo a Semeí, hijo de Gerá, benjaminita, de Bahurim, el cual me maldijo con maldición horrenda en el día de mi huida a Mahanaim. Pero cuando descendió al Jordán a mi encuentro, yo le juré por Yahvé, diciendo: "No te haré morir a espada".
 
-[9](#c2-v9){:#c2-v9} Ahora, empero, no le dejes impune, ya que eres sabio y entiendes lo que debes hacer con él; harás, pues, que sus canas bajen con sangre al scheol."
+[9](#c2-v9){:#c2-v9} Ahora, empero, no le dejes impune, ya que eres sabio y entiendes lo que debes hacer con él; harás, pues, que sus canas bajen con sangre al *scheol*.»
 
 #### Muerte de David
 
@@ -178,35 +156,35 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### Muerte de Adonías
 
-[13](#c2-v13){:#c2-v13} Adonías, hijo de Hagit, fue a ver a Betsabee, madre de Salomón. Le preguntó ella: "¿Vienes en paz?" "En paz", respondió él.
+[13](#c2-v13){:#c2-v13} Adonías, hijo de Hagit, fue a ver a Betsabee, madre de Salomón. Le preguntó ella: «¿Vienes en paz?» «En paz», respondió él.
 
-[14](#c2-v14){:#c2-v14} Y dijo: "Tengo una cosa que decirte." Ella respondió: "Habla."
+[14](#c2-v14){:#c2-v14} Y dijo: «Tengo una cosa que decirte.» Ella respondió: «Habla.»
 
-[15](#c2-v15){:#c2-v15} Dijo pues: "Bien sabes que el reino era mío y que todo Israel tenía puesta en mí la mirada para que yo reinara. Pero el reino ha sido transferido y vino a ser de mi hermano, porque le correspondía por voluntad de Yahvé.
+[15](#c2-v15){:#c2-v15} Dijo pues: «Bien sabes que el reino era mío y que todo Israel tenía puesta en mí la mirada para que yo reinara. Pero el reino ha sido transferido y vino a ser de mi hermano, porque le correspondía por voluntad de Yahvé.
 
-[16](#c2-v16){:#c2-v16} Ahora una sola cosa te pido; no me la niegues." Y ella le dijo: "Habla."
+[16](#c2-v16){:#c2-v16} Ahora una sola cosa te pido; no me la niegues.» Y ella le dijo: «Habla.»
 
-[17](#c2-v17){:#c2-v17} Entonces dijo: "Di por favor al rey Salomón —porque él no te lo negará— que me dé a Abisag, la sunamita, por mujer."
+[17](#c2-v17){:#c2-v17} Entonces dijo: «Di por favor al rey Salomón —porque él no te lo negará— que me dé a Abisag, la sunamita, por mujer.»
 
-[18](#c2-v18){:#c2-v18} "Bien, respondió Betsabee, yo hablaré por ti con el rey."
+[18](#c2-v18){:#c2-v18} «Bien, respondió Betsabee, yo hablaré por ti con el rey.»
 
 [19](#c2-v19){:#c2-v19} Se presentó Betsabee ante el rey Salomón, para hablar con él en favor de Adonías. Y se levantó el rey para salir a su encuentro, y se inclinó ante ella. Luego se sentó en su trono, e hizo poner un trono para la madre del rey, la cual se sentó a su diestra.
 
-[20](#c2-v20){:#c2-v20} Y le dijo: "Vengo a pedirte una pequeña cosa, no me la niegues." "Pide, madre mía, dijo el rey, que no te la negaré."
+[20](#c2-v20){:#c2-v20} Y le dijo: «Vengo a pedirte una pequeña cosa, no me la niegues.» «Pide, madre mía —dijo el rey—, que no te la negaré.»
 
-[21](#c2-v21){:#c2-v21} Dijo ella: "Dese Abisag, la sunamita, por mujer a Adonías, tu hermano."
+[21](#c2-v21){:#c2-v21} Dijo ella: «Dese Abisag, la sunamita, por mujer a Adonías, tu hermano.»
 
-[22](#c2-v22){:#c2-v22} Entonces respondió el rey Salomón y dijo a su madre: "¿Por qué pides (solamente) a Abisag, la sunamita, para Adonías? Pide también para él el reino —puesto que es mi hermano mayor—, para él, para el sacerdote Abiatar y para Joab, hijo de Sarvia."
+[22](#c2-v22){:#c2-v22} Entonces respondió el rey Salomón y dijo a su madre: «¿Por qué pides (solamente) a Abisag, la sunamita, para Adonías? Pide también para él el reino —puesto que es mi hermano mayor—, para él, para el sacerdote Abiatar y para Joab, hijo de Sarvia.»
 
-[23](#c2-v23){:#c2-v23} Y el rey Salomón juró por Yahvé, diciendo: "Esto haga Dios conmigo, y más aún, si Adonías no ha hablado en daño de su propia vida.
+[23](#c2-v23){:#c2-v23} Y el rey Salomón juró por Yahvé, diciendo: «Esto haga Dios conmigo, y más aún, si Adonías no ha hablado en daño de su propia vida.
 
-[24](#c2-v24){:#c2-v24} [[16]](#n-16){:#rn-16} Ahora pues, ¡vive Yahvé! que me ha confirmado y sentado sobre el trono de mi padre David y que según su promesa me ha fundado casa, que hoy mismo morirá Adonías."
+[24](#c2-v24){:#c2-v24} [[16]](#n-16){:#rn-16} Ahora pues, ¡vive Yahvé! que me ha confirmado y sentado sobre el trono de mi padre David y que según su promesa me ha fundado casa, que hoy mismo morirá Adonías.»
 
 [25](#c2-v25){:#c2-v25} Y envió el rey Salomón a Banaías, hijo de Joiadá, el cual se arrojó sobre él; y así murió.
 
 #### Destierro de Abiatar
 
-[26](#c2-v26){:#c2-v26} Al sacerdote Abiatar le dijo el rey: "Vete a Anatot, a tus posesiones, pues eres digno de muerte; pero no te quito hoy la vida, por cuanto llevaste el arca de Yahvé, el Señor, delante de mi padre David y has tomado parte en todo lo que padeció mi padre."
+[26](#c2-v26){:#c2-v26} Al sacerdote Abiatar le dijo el rey: «Vete a Anatot, a tus posesiones, pues eres digno de muerte; pero no te quito hoy la vida, por cuanto llevaste el arca de Yahvé, el Señor, delante de mi padre David y has tomado parte en todo lo que padeció mi padre.»
 
 [27](#c2-v27){:#c2-v27} [[17]](#n-17){:#rn-17} Y Salomón expulsó a Abiatar para que no fuese sacerdote de Yahvé, cumpliendo así la palabra que Yahvé había dicho contra la casa de Helí en Silo.
 
@@ -214,15 +192,15 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [28](#c2-v28){:#c2-v28} [[18]](#n-18){:#rn-18} Llegó la noticia de esto a Joab, el cual había seguido el partido de Adonías, bien que no se había acogido a Absalón. Huyó, pues, Joab al Tabernáculo de Yahvé, donde se asió de los cuernos del altar.
 
-[29](#c2-v29){:#c2-v29} Se le dijo al rey Salomón: "Joab ha huido al Tabernáculo de Yahvé, y he aquí qué está al lado del altar." Entonces Salomón envió a Banaías, hijo de Joiadá, diciendo: "Ve y arrójate sobre él."
+[29](#c2-v29){:#c2-v29} Se le dijo al rey Salomón: «Joab ha huido al Tabernáculo de Yahvé, y he aquí qué está al lado del altar.» Entonces Salomón envió a Banaías, hijo de Joiadá, diciendo: «Ve y arrójate sobre él.»
 
-[30](#c2-v30){:#c2-v30} Fue, pues, Banaías al Tabernáculo de Yahvé, y dijo: "Así ordena el rey: ¡Sal!" Mas él respondió: "No, sino que moriré aquí." Banaías llevó esta respuesta al rey, diciendo: "Así ha dicho Joab, y así me ha contestado."
+[30](#c2-v30){:#c2-v30} Fue, pues, Banaías al Tabernáculo de Yahvé, y dijo: «Así ordena el rey: ¡Sal!» Mas él respondió: «No, sino que moriré aquí.» Banaías llevó esta respuesta al rey, diciendo: «Así ha dicho Joab, y así me ha contestado.»
 
-[31](#c2-v31){:#c2-v31} Respondiole el rey: "Haz como él ha dicho; acomételo, y después entiérrale; así quitarás de sobre mí y de sobre la casa de mi padre la sangre inocente que Joab ha derramado.
+[31](#c2-v31){:#c2-v31} Respondiole el rey: «Haz como él ha dicho; acomételo, y después entiérrale; así quitarás de sobre mí y de sobre la casa de mi padre la sangre inocente que Joab ha derramado.
 
 [32](#c2-v32){:#c2-v32} Así Yahvé hace recaer su delito de sangre sobre su misma cabeza; puesto que asaltó a dos hombres, más justos y mejores que él, y los mató a espada, sin que mi padre David lo supiese: a Abner, hijo de Ner, jefe del ejército de Israel, y a Amasá, hijo de Jéter, jefe del ejército de Judá.
 
-[33](#c2-v33){:#c2-v33} Recaiga, pues, la sangre de ellos sobre la cabeza de Joab y sobre la cabeza de su linaje para siempre; pero sobre David y su linaje, sobre su casa y su trono, haya paz sempiterna de parte de Yahvé!"
+[33](#c2-v33){:#c2-v33} Recaiga, pues, la sangre de ellos sobre la cabeza de Joab y sobre la cabeza de su linaje para siempre; pero sobre David y su linaje, sobre su casa y su trono, haya paz sempiterna de parte de Yahvé!»
 
 [34](#c2-v34){:#c2-v34} [[19]](#n-19){:#rn-19} Subió, pues, Banaías, hijo de Joiadá, y arrojándose sobre él le mató; y fue sepultado en su misma posesión, en el desierto.
 
@@ -230,25 +208,25 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### Castigo de Semeí
 
-[36](#c2-v36){:#c2-v36} El rey hizo llamar a Semeí y le dijo: "Edifícate una casa en Jerusalén y habita en ella, y no salgas de allí a ninguna parte;
+[36](#c2-v36){:#c2-v36} El rey hizo llamar a Semeí y le dijo: «Edifícate una casa en Jerusalén y habita en ella, y no salgas de allí a ninguna parte;
 
-[37](#c2-v37){:#c2-v37} pues ten bien entendido que morirás sin remedio el día en que salgas y pases el torrente Cedrón. Tu sangre recaerá entonces sobre tu propia cabeza."
+[37](#c2-v37){:#c2-v37} pues ten bien entendido que morirás sin remedio el día en que salgas y pases el torrente Cedrón. Tu sangre recaerá entonces sobre tu propia cabeza.»
 
-[38](#c2-v38){:#c2-v38} Respondió Semeí al rey: "La orden es buena. Como ha dicho mi señor el rey, así lo hará tu siervo." Y habitó Semeí en Jerusalén largo tiempo.
+[38](#c2-v38){:#c2-v38} Respondió Semeí al rey: «La orden es buena. Como ha dicho mi señor el rey, así lo hará tu siervo.» Y habitó Semeí en Jerusalén largo tiempo.
 
-[39](#c2-v39){:#c2-v39} Al cabo de tres años aconteció que dos esclavos de Semeí se escaparon yéndose a Aquís, hijo de Maacá, rey de Gat. Le avisaron a Semeí, diciendo: "He aquí que tus esclavos se hallan en Gat."
+[39](#c2-v39){:#c2-v39} Al cabo de tres años aconteció que dos esclavos de Semeí se escaparon yéndose a Aquís, hijo de Maacá, rey de Gat. Le avisaron a Semeí, diciendo: «He aquí que tus esclavos se hallan en Gat.»
 
 [40](#c2-v40){:#c2-v40} Con esto Semeí se levantó y aparejó su asno para dirigirse a Gat, a Aquís, en busca de sus siervos. Así, pues, Semeí marchó y trajo a sus siervos de Gat.
 
 [41](#c2-v41){:#c2-v41} Mas fue informado Salomón de que Semeí había ido de Jerusalén a Gat, y estaba de vuelta.
 
-[42](#c2-v42){:#c2-v42} Entonces el rey hizo llamar a Semeí y le dijo: "¿No te hice jurar por Yahvé y te advertí, diciendo: Ten bien entendido que el día en que salgas para ir a cualquier parte morirás sin remedio? Y tú mismo me respondiste: *Buena es la orden que acabo de oír*.
+[42](#c2-v42){:#c2-v42} Entonces el rey hizo llamar a Semeí y le dijo: «¿No te hice jurar por Yahvé y te advertí, diciendo: Ten bien entendido que el día en que salgas para ir a cualquier parte morirás sin remedio? Y tú mismo me respondiste: "Buena es la orden que acabo de oír".
 
-[43](#c2-v43){:#c2-v43} ¿Por qué pues no has cumplido el juramento de Yahvé, y el precepto que yo te puse?"
+[43](#c2-v43){:#c2-v43} ¿Por qué pues no has cumplido el juramento de Yahvé, y el precepto que yo te puse?»
 
-[44](#c2-v44){:#c2-v44} Dijo también el rey a Semeí: "Tú sabes todo el mal —y tú misma conciencia lo reconoce— que hiciste a mi padre David. Por eso Yahvé hace recaer tu maldad sobre tu propia cabeza.
+[44](#c2-v44){:#c2-v44} Dijo también el rey a Semeí: «Tú sabes todo el mal —y tú misma conciencia lo reconoce— que hiciste a mi padre David. Por eso Yahvé hace recaer tu maldad sobre tu propia cabeza.
 
-[45](#c2-v45){:#c2-v45} Mas el rey Salomón será bendito, y el trono de David estable ante Yahvé para siempre."
+[45](#c2-v45){:#c2-v45} Mas el rey Salomón será bendito, y el trono de David estable ante Yahvé para siempre.»
 
 [46](#c2-v46){:#c2-v46} [[21]](#n-21){:#rn-21} Y el rey mandó a Banaías, hijo de Joiadá, el cual salió y se arrojó sobre él de suerte que murió. Así el reino se afianzó en manos de Salomón.
 
@@ -266,25 +244,25 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [4](#c3-v4){:#c3-v4} Fue el rey a Gabaón para ofrecer allí sacrificios, porque era este el más principal de los lugares altos. Mil holocaustos ofreció Salomón sobre aquel altar.
 
-[5](#c3-v5){:#c3-v5} En Gabaón se apareció Yahvé a Salomón en sueños durante la noche, y dijo Dios: "Pide lo que quieres que Yo te otorgue."
+[5](#c3-v5){:#c3-v5} En Gabaón se apareció Yahvé a Salomón en sueños durante la noche, y dijo Dios: «Pide lo que quieres que Yo te otorgue.»
 
-[6](#c3-v6){:#c3-v6} A lo que respondió Salomón: "Tú has hecho gran misericordia a tu siervo David, mi padre, conforme caminaba él en tu presencia en fidelidad, en justicia y en rectitud de corazón para contigo, y le has conservado esta gran misericordia, dándole un hijo que se sentara sobre su trono, como hoy (se verifica).
+[6](#c3-v6){:#c3-v6} A lo que respondió Salomón: «Tú has hecho gran misericordia a tu siervo David, mi padre, conforme caminaba él en tu presencia en fidelidad, en justicia y en rectitud de corazón para contigo, y le has conservado esta gran misericordia, dándole un hijo que se sentara sobre su trono, como hoy (se verifica).
 
 [7](#c3-v7){:#c3-v7} [[24]](#n-24){:#rn-24} Ahora pues, oh Yahvé, Dios mío, tú has hecho rey a tu siervo en lugar de mi padre David, a pesar de ser yo todavía un niño pequeño que no sabe cómo conducirse.
 
 [8](#c3-v8){:#c3-v8} [[25]](#n-25){:#rn-25} Y sin embargo, tu siervo está en medio de tu pueblo que Tú escogiste, un pueblo grande, que por su muchedumbre no puede contarse ni numerarse.
 
-[9](#c3-v9){:#c3-v9} Da, pues, a tu siervo un corazón dócil, para juzgar a tu pueblo, para distinguir entre el bien y el mal; porque ¿quién puede juzgar este pueblo tan grande?"
+[9](#c3-v9){:#c3-v9} Da, pues, a tu siervo un corazón dócil, para juzgar a tu pueblo, para distinguir entre el bien y el mal; porque ¿quién puede juzgar este pueblo tan grande?»
 
 [10](#c3-v10){:#c3-v10} Estas palabras agradaron al Señor, por haber pedido Salomón semejante cosa,
 
-[11](#c3-v11){:#c3-v11} [[26]](#n-26){:#rn-26} y le dijo Dios: "Por cuanto has pedido esto, y no has pedido para ti larga vida, ni riquezas, ni la muerte de tus enemigos; sino que has pedido para ti inteligencia a fin de aprender justicia,
+[11](#c3-v11){:#c3-v11} [[26]](#n-26){:#rn-26} y le dijo Dios: «Por cuanto has pedido esto, y no has pedido para ti larga vida, ni riquezas, ni la muerte de tus enemigos; sino que has pedido para ti inteligencia a fin de aprender justicia,
 
 [12](#c3-v12){:#c3-v12} sábete que te hago según tu palabra; he aquí que te doy un corazón tan sabio e inteligente, como no ha habido antes de ti, ni lo habrá igual después de ti.
 
 [13](#c3-v13){:#c3-v13} Y aun lo que no pediste te lo doy: riqueza y gloria, de suerte que no habrá entre los reyes ninguno como tú en todos tus días.
 
-[14](#c3-v14){:#c3-v14} Y si siguieres mis caminos, guardando mis leyes y mis mandamientos, como lo hizo tu padre David, prolongaré tus días."
+[14](#c3-v14){:#c3-v14} Y si siguieres mis caminos, guardando mis leyes y mis mandamientos, como lo hizo tu padre David, prolongaré tus días.»
 
 [15](#c3-v15){:#c3-v15} Se despertó Salomón y (comprendió) que era un sueño. De vuelta a Jerusalén, se presentó delante del Arca de la Alianza del Señor, ofreció holocaustos y sacrificios pacíficos y dio un banquete a todos sus servidores.
 
@@ -292,7 +270,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [16](#c3-v16){:#c3-v16} Vinieron entonces al rey dos mujeres rameras, y presentándose delante de él,
 
-[17](#c3-v17){:#c3-v17} dijo la primera: "¡Óyeme, señor mío! Yo y esta mujer habitábamos en la misma casa; y di a luz un niño, junto a ella en la casa.
+[17](#c3-v17){:#c3-v17} dijo la primera: «¡Óyeme, señor mío! Yo y esta mujer habitábamos en la misma casa; y di a luz un niño, junto a ella en la casa.
 
 [18](#c3-v18){:#c3-v18} Tres días después de mi parto, dio a luz también esta mujer. Permanecíamos juntas; ninguna persona extraña se hallaba con nosotras en casa, sino que tan solo nosotras dos estábamos en casa.
 
@@ -300,19 +278,19 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [20](#c3-v20){:#c3-v20} Y levantándose ella a medianoche, quitó mi niño de junto a mí, estando dormida tu sierva, y lo puso en su seno, en tanto que a su hijo muerto lo puso en mi seno.
 
-[21](#c3-v21){:#c3-v21} Cuando me levanté por la mañana a dar el pecho a mi hijo, vi que estaba muerto. Mas mirándole con mayor atención, a la luz del día; reconocí que no era el hijo mío, el que yo había dado a luz."
+[21](#c3-v21){:#c3-v21} Cuando me levanté por la mañana a dar el pecho a mi hijo, vi que estaba muerto. Mas mirándole con mayor atención, a la luz del día; reconocí que no era el hijo mío, el que yo había dado a luz.»
 
-[22](#c3-v22){:#c3-v22} Respondió la otra mujer: "¡No, sino que mi hijo es el vivo, y tu hijo el muerto!" La primera, empero, decía: "¡No, sino que tu hijo es el muerto, y el mío el Vivo!" Y así altercaban ante el rey.
+[22](#c3-v22){:#c3-v22} Respondió la otra mujer: «¡No, sino que mi hijo es el vivo, y tu hijo el muerto!» La primera, empero, decía: «¡No, sino que tu hijo es el muerto, y el mío el Vivo!» Y así altercaban ante el rey.
 
-[23](#c3-v23){:#c3-v23} Entonces dijo el rey: "Esta dice: Mi hijo es el vivo, y tu hijo el muerto; y aquella dice: No, sino que tu hijo es el muerto, y el mío el vivo."
+[23](#c3-v23){:#c3-v23} Entonces dijo el rey: «Esta dice: Mi hijo es el vivo, y tu hijo el muerto; y aquella dice: No, sino que tu hijo es el muerto, y el mío el vivo.»
 
-[24](#c3-v24){:#c3-v24} Y ordenó el rey: "Traedme una espada", y trajeron la espada ante el rey,
+[24](#c3-v24){:#c3-v24} Y ordenó el rey: «Traedme una espada», y trajeron la espada ante el rey,
 
-[25](#c3-v25){:#c3-v25} el cual dijo: "Partid el niño vivo en dos, y dad la mitad a la una, y la otra mitad a la otra."
+[25](#c3-v25){:#c3-v25} el cual dijo: «Partid el niño vivo en dos, y dad la mitad a la una, y la otra mitad a la otra.»
 
-[26](#c3-v26){:#c3-v26} En este momento la mujer cuyo niño era el vivo, habló al rey —porque se le conmovían las entrañas por amor a su hijo— y dijo: "¡Óyeme, señor mío! ¡Dadle a ella el niño vivo, y de ninguna manera lo matéis!"; en tanto que la otra decía: "¡No ha de ser ni mío ni tuyo, sino divídase!"
+[26](#c3-v26){:#c3-v26} En este momento la mujer cuyo niño era el vivo, habló al rey —porque se le conmovían las entrañas por amor a su hijo— y dijo: «¡Óyeme, señor mío! ¡Dadle a ella el niño vivo, y de ninguna manera lo matéis!»; en tanto que la otra decía: «¡No ha de ser ni mío ni tuyo, sino divídase!»
 
-[27](#c3-v27){:#c3-v27} Entonces tomó el rey la palabra y dijo: "¡Dad a la primera el niño vivo, y no lo matéis; ella es su madre!"
+[27](#c3-v27){:#c3-v27} Entonces tomó el rey la palabra y dijo: «¡Dad a la primera el niño vivo, y no lo matéis; ella es su madre!»
 
 [28](#c3-v28){:#c3-v28} Oyó todo Israel el fallo que había dictado el rey; y todos tuvieron profundo respeto al rey, porque vieron que había en él sabiduría de Dios para administrar justicia.
 
@@ -402,15 +380,15 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [2](#c5-v2){:#c5-v2} Salomón, por su parte, envió a decir a Hiram:
 
-[3](#c5-v3){:#c5-v3} "Bien sabes que David mi padre no pudo edificar la Casa al Nombre de Yahvé, su Dios, a causa de las guerras (con los enemigos) que le rodearon, hasta que Yahvé los puso bajo las plantas de sus pies.
+[3](#c5-v3){:#c5-v3} «Bien sabes que David mi padre no pudo edificar la Casa al Nombre de Yahvé, su Dios, a causa de las guerras (con los enemigos) que le rodearon, hasta que Yahvé los puso bajo las plantas de sus pies.
 
 [4](#c5-v4){:#c5-v4} Mas ahora Yahvé, mi Dios, me ha dado reposo por todos lados; no hay más enemigo ni obstáculo adverso.
 
-[5](#c5-v5){:#c5-v5} Por lo cual, he aquí que yo me propongo edificar una Casa al Nombre de Yahvé, mi Dios, como Yahvé lo ha ordenado a mi padre David, diciendo: 'Tu hijo que Yo pondré en tu lugar sobre tu trono, ese edificará la Casa a mi Nombre.'
+[5](#c5-v5){:#c5-v5} Por lo cual, he aquí que yo me propongo edificar una Casa al Nombre de Yahvé, mi Dios, como Yahvé lo ha ordenado a mi padre David, diciendo: "Tu hijo que Yo pondré en tu lugar sobre tu trono, ese edificará la Casa a mi Nombre."
 
-[6](#c5-v6){:#c5-v6} [[37]](#n-37){:#rn-37} Manda, pues, que se me corten cedros en el Líbano; y mis siervos estarán con tus siervos, y te pagaré el salario de tus siervos conforme a todo lo que pidieres; porque bien sabes que no hay entre nosotros quien sepa cortar las maderas como los sidonios."
+[6](#c5-v6){:#c5-v6} [[37]](#n-37){:#rn-37} Manda, pues, que se me corten cedros en el Líbano; y mis siervos estarán con tus siervos, y te pagaré el salario de tus siervos conforme a todo lo que pidieres; porque bien sabes que no hay entre nosotros quien sepa cortar las maderas como los sidonios.»
 
-[7](#c5-v7){:#c5-v7} [[38]](#n-38){:#rn-38} Cuando Hiram oyó estas palabras de Salomón, se alegró mucho y exclamó: "¡Bendito sea hoy Yahvé que ha dado a David un hijo sabio sobre este pueblo tan grande!"
+[7](#c5-v7){:#c5-v7} [[38]](#n-38){:#rn-38} Cuando Hiram oyó estas palabras de Salomón, se alegró mucho y exclamó: «¡Bendito sea hoy Yahvé que ha dado a David un hijo sabio sobre este pueblo tan grande!»
 
 [8](#c5-v8){:#c5-v8} Y envió Hiram a decir a Salomón: "He tomado nota de lo que me has mandado a decir. Cumpliré todos tus deseos en cuanto a las maderas de cedro y las maderas de ciprés.
 
@@ -670,35 +648,35 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [11](#c8-v11){:#c8-v11} y los sacerdotes no pudieron permanecer (allí) para ejercer su ministerio, a causa de la nube; pues la gloria de Yahvé llenaba la Casa de Yahvé.
 
-[12](#c8-v12){:#c8-v12} [[68]](#n-68){:#rn-68} Entonces dijo Salomón: "Yahvé ha dicho que moraría en la oscuridad.
+[12](#c8-v12){:#c8-v12} [[68]](#n-68){:#rn-68} Entonces dijo Salomón: «Yahvé ha dicho que moraría en la oscuridad.
 
-[13](#c8-v13){:#c8-v13} Pues bien, yo he edificado una casa que sea morada para Ti, el lugar de tu morada para siempre."
+[13](#c8-v13){:#c8-v13} Pues bien, yo he edificado una casa que sea morada para Ti, el lugar de tu morada para siempre.»
 
 #### Oración de Salomón
 
 [14](#c8-v14){:#c8-v14} Y volviéndose el rey bendijo a toda la asamblea de Israel, mientras toda la asamblea de Israel se tenía en pie.
 
-[15](#c8-v15){:#c8-v15} Dijo: "¡Bendito sea Yahvé!, el Dios de Israel, que habló con su boca a mi padre David y con su mano lo cumplió, diciendo:
+[15](#c8-v15){:#c8-v15} Dijo: «¡Bendito sea Yahvé!, el Dios de Israel, que habló con su boca a mi padre David y con su mano lo cumplió, diciendo:
 
-[16](#c8-v16){:#c8-v16} *Desde el día que saqué de Egipto a Israel, mi pueblo, no he escogido ciudad de entre las tribus de Israel para edificar una casa donde resida mi Nombre, aunque escogí a David para que reinase sobre Israel, mi pueblo.*
+[16](#c8-v16){:#c8-v16} "Desde el día que saqué de Egipto a Israel, mi pueblo, no he escogido ciudad de entre las tribus de Israel para edificar una casa donde resida mi Nombre, aunque escogí a David para que reinase sobre Israel, mi pueblo."
 
 [17](#c8-v17){:#c8-v17} David, mi padre, tuvo el propósito de edificar una casa al Nombre de Yahvé, el Dios de Israel;
 
-[18](#c8-v18){:#c8-v18} mas Yahvé dijo a mi padre David: *Teniendo tú el propósito de edificar una casa a mi Nombre, has ideado un buen proyecto.
+[18](#c8-v18){:#c8-v18} mas Yahvé dijo a mi padre David: "Teniendo tú el propósito de edificar una casa a mi Nombre, has ideado un buen proyecto.
 
-[19](#c8-v19){:#c8-v19} Con todo, no edificarás tú la Casa, sino que un hijo tuyo, que saldrá de tus entrañas, edificará la Casa a mi Nombre.*
+[19](#c8-v19){:#c8-v19} Con todo, no edificarás tú la Casa, sino que un hijo tuyo, que saldrá de tus entrañas, edificará la Casa a mi Nombre."
 
 [20](#c8-v20){:#c8-v20} Yahvé ha cumplido la palabra que prometió; pues me he levantado yo en el lugar de David, mi padre —y heme sentado sobre el trono de Israel, como Yahvé lo ha anunciado—, y he edificado la Casa al Nombre de Yahvé, el Dios de Israel.
 
-[21](#c8-v21){:#c8-v21} [[69]](#n-69){:#rn-69} He establecido allí un lugar para el Arca, donde se halla la Alianza que Yahvé hizo con nuestros padres al sacarlos del país de Egipto."
+[21](#c8-v21){:#c8-v21} [[69]](#n-69){:#rn-69} He establecido allí un lugar para el Arca, donde se halla la Alianza que Yahvé hizo con nuestros padres al sacarlos del país de Egipto.»
 
 [22](#c8-v22){:#c8-v22} Luego, poniéndose Salomón delante del altar de Yahvé, frente a toda la asamblea de Israel, extendió las manos hacia el cielo,
 
-[23](#c8-v23){:#c8-v23} [[70]](#n-70){:#rn-70} y dijo: "Yahvé, Dios de Israel, no hay Dios como Tú, ni arriba en el cielo, ni abajo en la tierra, porque Tú guardas la Alianza y la misericordia con tus siervos que andan en tu presencia de todo corazón.
+[23](#c8-v23){:#c8-v23} [[70]](#n-70){:#rn-70} y dijo: «Yahvé, Dios de Israel, no hay Dios como Tú, ni arriba en el cielo, ni abajo en la tierra, porque Tú guardas la Alianza y la misericordia con tus siervos que andan en tu presencia de todo corazón.
 
 [24](#c8-v24){:#c8-v24} Tú has cumplido con tu siervo David, mi padre, lo que prometiste; y lo que con tu boca prometiste, con tu mano lo has puesto por obra, como se ve en este día.
 
-[25](#c8-v25){:#c8-v25} [[71]](#n-71){:#rn-71} Ahora, pues, oh Yahvé, Dios de Israel, guarda la promesa que has dado a tu siervo David, mi padre, diciendo: *Nunca te faltará varón delante de Mí que se siente sobre el trono de Israel, con tal que tus hijos vigilen sobre sus caminos y anden delante de Mí, como tú has andado en mi presencia.*
+[25](#c8-v25){:#c8-v25} [[71]](#n-71){:#rn-71} Ahora, pues, oh Yahvé, Dios de Israel, guarda la promesa que has dado a tu siervo David, mi padre, diciendo: "Nunca te faltará varón delante de Mí que se siente sobre el trono de Israel, con tal que tus hijos vigilen sobre sus caminos y anden delante de Mí, como tú has andado en mi presencia."
 
 [26](#c8-v26){:#c8-v26} Cúmplase ahora, oh Dios de Israel, la promesa que diste a tu siervo David, mi padre.
 
@@ -706,57 +684,57 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [28](#c8-v28){:#c8-v28} Con todo vuelve tu rostro a la oración de tu siervo y a su súplica, oh Yahvé, Dios mío, para escuchar el clamor y la oración que tu siervo hace hoy delante de Ti.
 
-[29](#c8-v29){:#c8-v29} Que estén abiertos tus ojos, noche y día, hacia esta Casa y este lugar, acerca del cual has dicho: *Estará allí mi Nombre, para escuchar la oración que tu siervo haga en este lugar*.
+[29](#c8-v29){:#c8-v29} Que estén abiertos tus ojos, noche y día, hacia esta Casa y este lugar, acerca del cual has dicho: "Estará allí mi Nombre, para escuchar la oración que tu siervo haga en este lugar".
 
-[30](#c8-v30){:#c8-v30} Oye, pues, la súplica de tu siervo y de Israel, tu pueblo, cuando oraren en este lugar. Oye Tú desde el lugar de tu morada, el cielo; escucha y perdona."
+[30](#c8-v30){:#c8-v30} Oye, pues, la súplica de tu siervo y de Israel, tu pueblo, cuando oraren en este lugar. Oye Tú desde el lugar de tu morada, el cielo; escucha y perdona.»
 
 #### Primera petición
 
-[31](#c8-v31){:#c8-v31} [[73]](#n-73){:#rn-73} "Cuando pecare alguno contra su prójimo, y se le impusiere juramento, haciéndole jurar, y él viniere a jurar ante tu altar en esta Casa,
+[31](#c8-v31){:#c8-v31} [[73]](#n-73){:#rn-73} «Cuando pecare alguno contra su prójimo, y se le impusiere juramento, haciéndole jurar, y él viniere a jurar ante tu altar en esta Casa,
 
-[32](#c8-v32){:#c8-v32} óyelo Tú desde el cielo, y obra; juzga a tus siervos, condenando al inicuo y haciendo recaer su conducta sobre su misma cabeza, justificando, en cambio, al justo y premiándolo conforme a su justicia."
+[32](#c8-v32){:#c8-v32} óyelo Tú desde el cielo, y obra; juzga a tus siervos, condenando al inicuo y haciendo recaer su conducta sobre su misma cabeza, justificando, en cambio, al justo y premiándolo conforme a su justicia.»
 
 #### Segunda petición
 
-[33](#c8-v33){:#c8-v33} "Cuando Israel, tu pueblo, fuere vencido por un enemigo, por haber pecado contra Ti, y ellos vueltos a Ti confesaren tu Nombre y oraren, suplicándote en esta Casa,
+[33](#c8-v33){:#c8-v33} «Cuando Israel, tu pueblo, fuere vencido por un enemigo, por haber pecado contra Ti, y ellos vueltos a Ti confesaren tu Nombre y oraren, suplicándote en esta Casa,
 
-[34](#c8-v34){:#c8-v34} óyelo Tú en el cielo, y perdona el pecado de Israel, tu pueblo, y hazlos volver al país que diste a sus padres."
+[34](#c8-v34){:#c8-v34} óyelo Tú en el cielo, y perdona el pecado de Israel, tu pueblo, y hazlos volver al país que diste a sus padres.»
 
 #### Tercera petición
 
-[35](#c8-v35){:#c8-v35} [[74]](#n-74){:#rn-74} "Cuando se cierre el cielo, de manera que no haya lluvia, por haber ellos pecado contra ti, y si oraren (dirigiendo sus miradas) hacia este lugar, y alabando tu Nombre, y si se convirtieren de su pecado por haberlos Tú afligido,
+[35](#c8-v35){:#c8-v35} [[74]](#n-74){:#rn-74} «Cuando se cierre el cielo, de manera que no haya lluvia, por haber ellos pecado contra ti, y si oraren (dirigiendo sus miradas) hacia este lugar, y alabando tu Nombre, y si se convirtieren de su pecado por haberlos Tú afligido,
 
-[36](#c8-v36){:#c8-v36} óyelos en el cielo, y perdona el pecado de tus siervos y de Israel, tu pueblo, enseñándoles el recto camino, por el cual deben andar; y envía lluvia sobre tu tierra que diste por herencia a tu pueblo."
+[36](#c8-v36){:#c8-v36} óyelos en el cielo, y perdona el pecado de tus siervos y de Israel, tu pueblo, enseñándoles el recto camino, por el cual deben andar; y envía lluvia sobre tu tierra que diste por herencia a tu pueblo.»
 
 #### Cuarta petición
 
-[37](#c8-v37){:#c8-v37} "Cuando haya hambre en la tierra, o peste, o roya, añublo, langosta, u otra clase de insectos, o cuando el enemigo asedie (a tu pueblo) en su país, en sus ciudades, o cuando haya plagas o enfermedades de cualquier clase,
+[37](#c8-v37){:#c8-v37} «Cuando haya hambre en la tierra, o peste, o roya, añublo, langosta, u otra clase de insectos, o cuando el enemigo asedie (a tu pueblo) en su país, en sus ciudades, o cuando haya plagas o enfermedades de cualquier clase,
 
 [38](#c8-v38){:#c8-v38} si entonces uno en particular, o todo Israel, tu pueblo, se dirija a Ti con oraciones y súplicas, y si cada cual, reconociendo la plaga de su corazón, extienda sus manos hacia esta Casa,
 
 [39](#c8-v39){:#c8-v39} óyelo Tú en el cielo, lugar de tu morada, y perdona; obra y retribuye a cada uno conforme a todos sus caminos, ya que conoces su corazón —pues Tú solo conoces el corazón de todos los hijos de los hombres—
 
-[40](#c8-v40){:#c8-v40} para que te teman todos los días que vivan en la tierra que diste a nuestros padres.
+[40](#c8-v40){:#c8-v40} para que te teman todos los días que vivan en la tierra que diste a nuestros padres.»
 
 #### Quinta petición
 
-[41](#c8-v41){:#c8-v41} [[75]](#n-75){:#rn-75} "También el extranjero, que no es de tu pueblo Israel, cuando viniere de tierras lejanas a causa de tu Nombre
+[41](#c8-v41){:#c8-v41} [[75]](#n-75){:#rn-75} «También el extranjero, que no es de tu pueblo Israel, cuando viniere de tierras lejanas a causa de tu Nombre
 
-[42](#c8-v42){:#c8-v42} —pues ellos oirán hablar de tu gran Nombre y de tu poderosa mano y de tu brazo extendido¾, cuando venga, pues, a orar en esta Casa,
+[42](#c8-v42){:#c8-v42} —pues ellos oirán hablar de tu gran Nombre y de tu poderosa mano y de tu brazo extendido—, cuando venga, pues, a orar en esta Casa,
 
-[43](#c8-v43){:#c8-v43} óyelo Tú en el cielo, lugar de tu morada, y otorga todo lo que te pidiere aquel extranjero, a fin de que todos los pueblos de la tierra conozcan tu Nombre, para temerte como (te teme) Israel, tu pueblo, y sepan que tu Nombre ha sido invocado sobre esta Casa que yo he edificado."
+[43](#c8-v43){:#c8-v43} óyelo Tú en el cielo, lugar de tu morada, y otorga todo lo que te pidiere aquel extranjero, a fin de que todos los pueblos de la tierra conozcan tu Nombre, para temerte como (te teme) Israel, tu pueblo, y sepan que tu Nombre ha sido invocado sobre esta Casa que yo he edificado.»
 
 #### Sexta petición
 
-[44](#c8-v44){:#c8-v44} [[76]](#n-76){:#rn-76} "Cuando tu pueblo salga a combatir a sus enemigos por el camino por el cual Tú los enviares, y oraren a Yahvé, mirando hacia la ciudad que Tú elegiste y la Casa que yo he edificado a tu Nombre,
+[44](#c8-v44){:#c8-v44} [[76]](#n-76){:#rn-76} «Cuando tu pueblo salga a combatir a sus enemigos por el camino por el cual Tú los enviares, y oraren a Yahvé, mirando hacia la ciudad que Tú elegiste y la Casa que yo he edificado a tu Nombre,
 
-[45](#c8-v45){:#c8-v45} escucha Tú en el cielo su oración y su plegaria, y hazles justicia."
+[45](#c8-v45){:#c8-v45} escucha Tú en el cielo su oración y su plegaria, y hazles justicia.»
 
 #### Séptima petición
 
-[46](#c8-v46){:#c8-v46} [[77]](#n-77){:#rn-77} "Cuando pecaren contra Ti —pues no hay hombre que no peque— y Tú, irritado contra ellos, los entregares en poder del enemigo, y el vencedor los llevare cautivos a la tierra enemiga, sea lejana o cercana;
+[46](#c8-v46){:#c8-v46} [[77]](#n-77){:#rn-77} «Cuando pecaren contra Ti —pues no hay hombre que no peque— y Tú, irritado contra ellos, los entregares en poder del enemigo, y el vencedor los llevare cautivos a la tierra enemiga, sea lejana o cercana;
 
-[47](#c8-v47){:#c8-v47} si ellos entonces se arrepintieren en la tierra de su cautividad y convertidos pidieren perdón en el país de sus apresadores, diciendo: *Hemos pecado, hemos cometido iniquidad, hemos obrado perversamente*;
+[47](#c8-v47){:#c8-v47} si ellos entonces se arrepintieren en la tierra de su cautividad y convertidos pidieren perdón en el país de sus apresadores, diciendo: "Hemos pecado, hemos cometido iniquidad, hemos obrado perversamente";
 
 [48](#c8-v48){:#c8-v48} y si se volvieren a ti de todo corazón y con toda su alma, en la tierra de sus enemigos que los cautivaron, y suplicaren a Ti, mirando hacia su tierra que Tú diste a sus padres, hacia la ciudad que has escogido, y hacia la Casa que yo he edificado a tu Nombre,
 
@@ -768,7 +746,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [52](#c8-v52){:#c8-v52} Estén abiertos tus ojos a la súplica de tu siervo, y a la súplica de Israel, tu pueblo, para escucharlos en todo cuanto te invoquen.
 
-[53](#c8-v53){:#c8-v53} Pues Tú los separaste para Ti mismo, como herencia, de entre todos los pueblos de la tierra; como lo prometiste por boca de Moisés, tu siervo, cuando sacaste a nuestros padres de Egipto, oh Señor, Yahvé."
+[53](#c8-v53){:#c8-v53} Pues Tú los separaste para Ti mismo, como herencia, de entre todos los pueblos de la tierra; como lo prometiste por boca de Moisés, tu siervo, cuando sacaste a nuestros padres de Egipto, oh Señor, Yahvé.»
 
 #### Salomón bendice al pueblo
 
@@ -776,7 +754,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [55](#c8-v55){:#c8-v55} y puesto en pie, bendijo a toda la asamblea de Israel, diciendo en alta voz:
 
-[56](#c8-v56){:#c8-v56} "¡Bendito sea Yahvé, que ha dado descanso a Israel, su pueblo, conforme a todo lo que había prometido! No ha fallado una sola palabra de todas aquellas buenas promesas que anunció por boca de su siervo Moisés.
+[56](#c8-v56){:#c8-v56} «¡Bendito sea Yahvé, que ha dado descanso a Israel, su pueblo, conforme a todo lo que había prometido! No ha fallado una sola palabra de todas aquellas buenas promesas que anunció por boca de su siervo Moisés.
 
 [57](#c8-v57){:#c8-v57} Yahvé, nuestro Dios, sea con nosotros así como estuvo con nuestros padres. ¡Que Él no nos abandone ni nos deseche,
 
@@ -786,7 +764,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [60](#c8-v60){:#c8-v60} y sepan todos los pueblos de la tierra que Yahvé es Dios y no hay otro!
 
-[61](#c8-v61){:#c8-v61} Sea, pues, vuestro corazón recto para con Yahvé, vuestro Dios, de suerte que cumplamos sus leyes y guardemos sus mandamientos, como al presente."
+[61](#c8-v61){:#c8-v61} Sea, pues, vuestro corazón recto para con Yahvé, vuestro Dios, de suerte que cumplamos sus leyes y guardemos sus mandamientos, como al presente.»
 
 #### Clausura de la fiesta
 
@@ -808,19 +786,19 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [2](#c9-v2){:#c9-v2} se apareció Yahvé a Salomón por segunda vez, como se le había aparecido en Gabaón;
 
-[3](#c9-v3){:#c9-v3} y le dijo Yahvé: "He oído tu oración y tu súplica que has proferido delante de Mí. He santificado esta Casa que has edificado, para poner allí mi Nombre para siempre, y mis ojos y mi corazón estarán allí en todo tiempo.
+[3](#c9-v3){:#c9-v3} y le dijo Yahvé: «He oído tu oración y tu súplica que has proferido delante de Mí. He santificado esta Casa que has edificado, para poner allí mi Nombre para siempre, y mis ojos y mi corazón estarán allí en todo tiempo.
 
 [4](#c9-v4){:#c9-v4} [[82]](#n-82){:#rn-82} Si tú andas en mi presencia como anduvo David, tu padre, con sinceridad de corazón y con rectitud, haciendo todo lo que te tengo mandado, y guardando mis mandamientos y mis preceptos,
 
-[5](#c9-v5){:#c9-v5} aseguraré el trono de tu reino sobre Israel para siempre, según prometí a tu padre David, diciendo: *Nunca te faltará varón sobre el trono de Israel.*
+[5](#c9-v5){:#c9-v5} aseguraré el trono de tu reino sobre Israel para siempre, según prometí a tu padre David, diciendo: "Nunca te faltará varón sobre el trono de Israel."
 
 [6](#c9-v6){:#c9-v6} Pero, si vosotros y vuestros hijos os apartáis de Mí, y no guardáis mis leyes y mis mandamientos, que he puesto delante de vosotros, y os vais a servir a otros dioses, postrándoos ante ellos,
 
 [7](#c9-v7){:#c9-v7} extirparé a Israel de la tierra que les he dado; y esta Casa que he santificado para mi Nombre, la echaré lejos de mi vista. Israel vendrá a ser objeto de proverbio y burla entre todos los pueblos;
 
-[8](#c9-v8){:#c9-v8} y esta Casa será reducida a ruinas, y cuantos pasaren junto a ella se pasmarán y silbarán, diciendo: *¿Por qué ha tratado así Yahvé a esta tierra y a esta Casa?*
+[8](#c9-v8){:#c9-v8} y esta Casa será reducida a ruinas, y cuantos pasaren junto a ella se pasmarán y silbarán, diciendo: "¿Por qué ha tratado así Yahvé a esta tierra y a esta Casa?"
 
-[9](#c9-v9){:#c9-v9} [[83]](#n-83){:#rn-83} Y se les contestará: *Porque abandonaron a Yahvé, su Dios, que sacó a sus padres del país de Egipto y se adhirieron a otros dioses, postrándose ante ellos y dándoles culto; por eso ha descargado Yahvé sobre ellos todos estos males*."
+[9](#c9-v9){:#c9-v9} [[83]](#n-83){:#rn-83} Y se les contestará: "Porque abandonaron a Yahvé, su Dios, que sacó a sus padres del país de Egipto y se adhirieron a otros dioses, postrándose ante ellos y dándoles culto; por eso ha descargado Yahvé sobre ellos todos estos males".»
 
 #### Salomón construye ciudades
 
@@ -830,7 +808,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [12](#c9-v12){:#c9-v12} Salió, pues, Hiram de Tiro para ver las ciudades que le había dado Salomón, y no le gustaron.
 
-[13](#c9-v13){:#c9-v13} [[84]](#n-84){:#rn-84} Por lo cual dijo: "¿Estas son las ciudades que me has dado, hermano mío?" Y las llamó Tierra de Cabul (nombre que llevan) hasta hoy día.
+[13](#c9-v13){:#c9-v13} [[84]](#n-84){:#rn-84} Por lo cual dijo: «¿Estas son las ciudades que me has dado, hermano mío?» Y las llamó Tierra de Cabul (nombre que llevan) hasta hoy día.
 
 [14](#c9-v14){:#c9-v14} Es de saber que Hiram había enviado al rey ciento veinte talentos de oro.
 
@@ -882,13 +860,13 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [5](#c10-v5){:#c10-v5} [[90]](#n-90){:#rn-90} los manjares de su mesa, las habitaciones de sus dignatarios, la manera de servir de sus criados y los trajes de ellos, sus coperos, y el holocausto que ofrecía en la Casa de Yahvé, quedó atónita,
 
-[6](#c10-v6){:#c10-v6} y dijo al rey Salomón: "Verdad es lo que oí decir en mi tierra respecto de ti y de tu sabiduría.
+[6](#c10-v6){:#c10-v6} y dijo al rey Salomón: «Verdad es lo que oí decir en mi tierra respecto de ti y de tu sabiduría.
 
 [7](#c10-v7){:#c10-v7} Yo no creía lo dicho antes de haber venido y antes de haberlo visto con mis propios ojos; y he aquí que no me habían contado ni siquiera la mitad. Tu sabiduría y tu prosperidad son más grandes de lo que yo había oído.
 
 [8](#c10-v8){:#c10-v8} [[91]](#n-91){:#rn-91} ¡Dichosa tus gentes, dichosos estos tus siervos, que de continuo están en tu presencia y oyen tu sabiduría!
 
-[9](#c10-v9){:#c10-v9} [[92]](#n-92){:#rn-92} ¡Bendito sea Yahvé, tu Dios, que se ha complacido en ti y te ha puesto sobre el trono de Israel! Porque Yahvé ama eternamente a Israel, y Él te ha constituido rey para que hagas juicio y justicia."
+[9](#c10-v9){:#c10-v9} [[92]](#n-92){:#rn-92} ¡Bendito sea Yahvé, tu Dios, que se ha complacido en ti y te ha puesto sobre el trono de Israel! Porque Yahvé ama eternamente a Israel, y Él te ha constituido rey para que hagas juicio y justicia.»
 
 [10](#c10-v10){:#c10-v10} [[93]](#n-93){:#rn-93} Luego regaló al rey ciento veinte talentos de oro, grandísima cantidad de especias aromáticas y piedras preciosas. Nunca más vino tanta cantidad de especias aromáticas como la que la reina de Sabá dio al rey Salomón.
 
@@ -938,7 +916,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c11-v1){:#c11-v1} [[101]](#n-101){:#rn-101} El rey Salomón amó, además de la hija del Faraón, a muchas mujeres extranjeras, moabitas, ammonitas, idumeas, sidonias y heteas;
 
-[2](#c11-v2){:#c11-v2} de las naciones de que había dicho Yahvé a los hijos de Israel: "No os lleguéis a ellas, ni ellas se lleguen a vosotros; pues seguramente desviarán vuestro corazón hacia los dioses de ellas." A tales se unió Salomón con amor.
+[2](#c11-v2){:#c11-v2} de las naciones de que había dicho Yahvé a los hijos de Israel: «No os lleguéis a ellas, ni ellas se lleguen a vosotros; pues seguramente desviarán vuestro corazón hacia los dioses de ellas.» A tales se unió Salomón con amor.
 
 [3](#c11-v3){:#c11-v3} Tuvo setecientas mujeres reinas y trescientas concubinas; y sus mujeres eran causa de los extravíos de su corazón.
 
@@ -951,18 +929,18 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 [7](#c11-v7){:#c11-v7} En aquel tiempo Salomón erigió en el monte que está frente a Jerusalén un santuario para Camos, abominación de Moab y para Moloc, abominación de los hijos de Ammón.
 
 [8](#c11-v8){:#c11-v8} Lo mismo hizo para todas sus mujeres de tierra extraña, que quemaban incienso y ofrecían sacrificios a sus dioses.
-#### El Señor anuncia el castigo
 
+#### El Señor anuncia el castigo
 
 [9](#c11-v9){:#c11-v9} [[103]](#n-103){:#rn-103} Entonces se irritó Yahvé contra Salomón, puesto que había apartado su corazón de Yahvé, el Dios de Israel, que se le había aparecido dos veces,
 
 [10](#c11-v10){:#c11-v10} y le había mandado particularmente que no se fuese tras otros dioses; mas él no guardó lo que Yahvé le había ordenado.
 
-[11](#c11-v11){:#c11-v11} Dijo, pues, Yahvé a Salomón: "Por cuanto te has portado así y no has guardado mi alianza y mis leyes que Yo te había prescrito, arrancaré el reino de tu mano y lo daré a un siervo tuyo;
+[11](#c11-v11){:#c11-v11} Dijo, pues, Yahvé a Salomón: «Por cuanto te has portado así y no has guardado mi alianza y mis leyes que Yo te había prescrito, arrancaré el reino de tu mano y lo daré a un siervo tuyo;
 
 [12](#c11-v12){:#c11-v12} pero no lo haré en tus días por amor de tu padre David; sino que lo arrancaré de mano de tu hijo.
 
-[13](#c11-v13){:#c11-v13} Ni tampoco le arrancaré el reino entero, sino que daré una tribu a tu hijo, por amor a David, mi siervo, y por amor de Jerusalén que Yo he escogido."
+[13](#c11-v13){:#c11-v13} Ni tampoco le arrancaré el reino entero, sino que daré una tribu a tu hijo, por amor a David, mi siervo, y por amor de Jerusalén que Yo he escogido.»
 
 #### Hadad de Edom
 
@@ -980,9 +958,9 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [20](#c11-v20){:#c11-v20} La hermana de Tafnes le dio un hijo, Genubat, al que destetó Tafnes en la casa del Faraón; y habitó Genubat en la casa del Faraón, en medio de los hijos del Faraón.
 
-[21](#c11-v21){:#c11-v21} Cuando supo Hadad en Egipto que David se había dormido con sus padres, y que Joab, jefe del ejército, era muerto, dijo al Faraón: "Déjame ir para que vaya a mi tierra."
+[21](#c11-v21){:#c11-v21} Cuando supo Hadad en Egipto que David se había dormido con sus padres, y que Joab, jefe del ejército, era muerto, dijo al Faraón: «Déjame ir para que vaya a mi tierra.»
 
-[22](#c11-v22){:#c11-v22} El Faraón le contestó: "Pues, ¿qué te falta conmigo para que quieras irte a tu tierra?" Replicó él: "Nada me falta, pero de todos modos déjame partir."
+[22](#c11-v22){:#c11-v22} El Faraón le contestó: «Pues, ¿qué te falta conmigo para que quieras irte a tu tierra?» Replicó él: «Nada me falta, pero de todos modos déjame partir.»
 
 #### Rezón de Siria
 
@@ -1004,7 +982,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [30](#c11-v30){:#c11-v30} Tomando entonces Ahías la capa nueva que tenía encima, la rasgó en doce pedazos,
 
-[31](#c11-v31){:#c11-v31} y dijo a Jeroboam: "Toma para ti diez pedazos, porque así dice Yahvé, el Dios de Israel: He aquí que voy a arrancar el reino de mano de Salomón, y te daré a ti diez tribus;
+[31](#c11-v31){:#c11-v31} y dijo a Jeroboam: «Toma para ti diez pedazos, porque así dice Yahvé, el Dios de Israel: He aquí que voy a arrancar el reino de mano de Salomón, y te daré a ti diez tribus;
 
 [32](#c11-v32){:#c11-v32} [[109]](#n-109){:#rn-109} una sola tribu quedará para él, a causa de mi siervo David, y a causa de Jerusalén, la ciudad que Yo he escogido entre todas las tribus de Israel;
 
@@ -1020,7 +998,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [38](#c11-v38){:#c11-v38} [[111]](#n-111){:#rn-111} Si obedecieres todo cuanto Yo te mandare, andando en mis caminos, e hicieres lo que es recto a mis ojos, guardando mis leyes y mis mandamientos, como lo hizo mi siervo David, seré contigo y te edificaré una casa estable, como la edifiqué a David, y te daré Israel.
 
-[39](#c11-v39){:#c11-v39} Humillaré a la descendencia de David por esta causa, pero no para siempre."
+[39](#c11-v39){:#c11-v39} Humillaré a la descendencia de David por esta causa, pero no para siempre.»
 
 [40](#c11-v40){:#c11-v40} [[112]](#n-112){:#rn-112} Procuraba Salomón dar muerte a Jeroboam, pero Jeroboam se escapó y fue a refugiarse en Egipto, cerca de Sesac, rey de Egipto, y permaneció en Egipto hasta la muerte de Salomón.
 
@@ -1044,17 +1022,17 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [3](#c12-v3){:#c12-v3} enviaron a llamarle. Vino, pues, Jeroboam y toda la asamblea de Israel, y hablaron con Roboam, diciendo:
 
-[4](#c12-v4){:#c12-v4} "Tu padre hizo muy pesado nuestro yugo; aligera tú la dura servidumbre de tu padre y el yugo pesado que nos puso encima, y te serviremos."
+[4](#c12-v4){:#c12-v4} «Tu padre hizo muy pesado nuestro yugo; aligera tú la dura servidumbre de tu padre y el yugo pesado que nos puso encima, y te serviremos.»
 
-[5](#c12-v5){:#c12-v5} Él les dijo: "Id, y volved a verme dentro de tres días." Y se fue el pueblo.
+[5](#c12-v5){:#c12-v5} Él les dijo: «Id, y volved a verme dentro de tres días.» Y se fue el pueblo.
 
-[6](#c12-v6){:#c12-v6} Consultó entonces el rey Roboam a los ancianos, los que habían servido a su padre Salomón durante su vida, y preguntó: "¿Qué me aconsejáis responder a este pueblo?"
+[6](#c12-v6){:#c12-v6} Consultó entonces el rey Roboam a los ancianos, los que habían servido a su padre Salomón durante su vida, y preguntó: «¿Qué me aconsejáis responder a este pueblo?»
 
-[7](#c12-v7){:#c12-v7} Le contestaron: "Si hoy te haces siervo de este pueblo y condescendiendo con ellos les respondes en tono amable, serán para siempre siervos tuyos."
+[7](#c12-v7){:#c12-v7} Le contestaron: «Si hoy te haces siervo de este pueblo y condescendiendo con ellos les respondes en tono amable, serán para siempre siervos tuyos.»
 
 [8](#c12-v8){:#c12-v8} Mas él desechó el consejo que los ancianos le dieron, y consultó a los jóvenes que se habían criado con él y le servían.
 
-[9](#c12-v9){:#c12-v9} A estos les dijo: "¿Qué aconsejáis que contestemos a este pueblo que me habla, diciendo: Aligera el yugo que nos ha impuesto tu padre?"
+[9](#c12-v9){:#c12-v9} A estos les dijo: «¿Qué aconsejáis que contestemos a este pueblo que me habla, diciendo: Aligera el yugo que nos ha impuesto tu padre?»
 
 [10](#c12-v10){:#c12-v10} [[115]](#n-115){:#rn-115} Le respondieron los jóvenes que se habían criado con él, diciendo: "Así dirás a este pueblo que te ha dicho: Tu padre hizo pesado nuestro yugo, alívianoslo tú; así les contestarás: Mi meñique es más grueso que los lomos de mi padre.
 
@@ -1062,15 +1040,15 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### Jeroboam rey de las diez tribus
 
-[12](#c12-v12){:#c12-v12} Comparecieron, pues, Jeroboam y todo el pueblo al día tercero ante Roboam, según lo que había dicho el rey: "Volved a verme al cabo de tres días."
+[12](#c12-v12){:#c12-v12} Comparecieron, pues, Jeroboam y todo el pueblo al día tercero ante Roboam, según lo que había dicho el rey: «Volved a verme al cabo de tres días.»
 
 [13](#c12-v13){:#c12-v13} Y el rey contestó al pueblo con dureza; porque desechando el consejo que le habían dado los ancianos,
 
-[14](#c12-v14){:#c12-v14} les respondió según el consejo de los jóvenes, diciendo: "Mi padre hizo pesado vuestro yugo, pero yo lo haré más pesado aún; mi padre os castigó con látigos, yo, empero, os castigaré con escorpiones."
+[14](#c12-v14){:#c12-v14} les respondió según el consejo de los jóvenes, diciendo: «Mi padre hizo pesado vuestro yugo, pero yo lo haré más pesado aún; mi padre os castigó con látigos, yo, empero, os castigaré con escorpiones.»
 
 [15](#c12-v15){:#c12-v15} De modo que el rey no escuchó al pueblo; porque así lo había dispuesto Yahvé, para cumplir su palabra que había dicho por boca de Ahías silonita a Jeroboam, hijo de Nabat.
 
-[16](#c12-v16){:#c12-v16} [[117]](#n-117){:#rn-117} Viendo, pues, todo Israel que el rey no les escuchaba le dieron todos a una esta respuesta: "¿Qué parte tenemos nosotros con David? ¿Y qué herencia con el hijo de Isaí? ¡A tus tiendas, oh Israel! ¡Mira ahora por tu casa, David!" E Israel se retiró a sus tiendas.
+[16](#c12-v16){:#c12-v16} [[117]](#n-117){:#rn-117} Viendo, pues, todo Israel que el rey no les escuchaba le dieron todos a una esta respuesta: «¿Qué parte tenemos nosotros con David? ¿Y qué herencia con el hijo de Isaí? ¡A tus tiendas, oh Israel! ¡Mira ahora por tu casa, David!» E Israel se retiró a sus tiendas.
 
 [17](#c12-v17){:#c12-v17} Así que Roboam solo reinó sobre los hijos de Israel que habitaban en las ciudades de Judá.
 
@@ -1084,19 +1062,19 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [22](#c12-v22){:#c12-v22} Entonces fue dirigida la palabra de Dios a Semeías, varón de Dios, en estos términos:
 
-[23](#c12-v23){:#c12-v23} "Habla a Roboam, hijo de Salomón, rey de Judá, y a toda la casa de Judá y de Benjamín, y al resto del pueblo, diciendo:
+[23](#c12-v23){:#c12-v23} «Habla a Roboam, hijo de Salomón, rey de Judá, y a toda la casa de Judá y de Benjamín, y al resto del pueblo, diciendo:
 
-[24](#c12-v24){:#c12-v24} Así dice Yahvé: No subáis ni hagáis la guerra contra vuestros hermanos, los hijos de Israel. Volveos cada cual a su casa; pues por voluntad mía ha sucedido esto." Y ellos, obedeciendo la palabra de Yahvé, se volvieron y fueron según la orden de Yahvé.
+[24](#c12-v24){:#c12-v24} Así dice Yahvé: No subáis ni hagáis la guerra contra vuestros hermanos, los hijos de Israel. Volveos cada cual a su casa; pues por voluntad mía ha sucedido esto.» Y ellos, obedeciendo la palabra de Yahvé, se volvieron y fueron según la orden de Yahvé.
 
 #### El culto idolátrico en Israel
 
 [25](#c12-v25){:#c12-v25} [[119]](#n-119){:#rn-119} Jeroboam fortificó a Siquem, en la montaña de Efraím, y residió allí. De allí salió y edificó a Fanuel.
 
-[26](#c12-v26){:#c12-v26} Jeroboam decía en su corazón: "Pronto va a volver el reino a la casa de David.
+[26](#c12-v26){:#c12-v26} Jeroboam decía en su corazón: «Pronto va a volver el reino a la casa de David.
 
-[27](#c12-v27){:#c12-v27} Si este pueblo sube a Jerusalén a ofrecer sacrificios en a Casa de Yahvé, el corazón de este pueblo se volverá hacia su señor Roboam, rey de Judá, a mí me matarán y se tornarán a Roboam, rey de Judá."
+[27](#c12-v27){:#c12-v27} Si este pueblo sube a Jerusalén a ofrecer sacrificios en a Casa de Yahvé, el corazón de este pueblo se volverá hacia su señor Roboam, rey de Judá, a mí me matarán y se tornarán a Roboam, rey de Judá.»
 
-[28](#c12-v28){:#c12-v28} Por lo cual el rey, después de haber reflexionado hizo dos becerros de oro, y dijo a la gente: "Bastante tiempo habéis subido a Jerusalén. ¡He aquí tu Dios, oh Israel, el que te sacó del país de Egipto!"
+[28](#c12-v28){:#c12-v28} Por lo cual el rey, después de haber reflexionado hizo dos becerros de oro, y dijo a la gente: «Bastante tiempo habéis subido a Jerusalén. ¡He aquí tu Dios, oh Israel, el que te sacó del país de Egipto!»
 
 [29](#c12-v29){:#c12-v29} [[120]](#n-120){:#rn-120} Y colocó al uno en Betel y al otro en Dan.
 
@@ -1114,21 +1092,21 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c13-v1){:#c13-v1} [[123]](#n-123){:#rn-123} He aquí que por orden de Yahvé vino un hombre de Dios de Judá a Betel, estando Jeroboam todavía en el altar para quemar incienso.
 
-[2](#c13-v2){:#c13-v2} Y gritó contra el altar por orden de Yahvé, y dijo: "¡Altar, altar! así dice Yahvé: He aquí que un hijo ha de nacer a la casa de David, que se llamará Josías, el cual sacrificará sobre ti a los sacerdotes de los lugares altos que queman incienso sobre ti; y se quemaran sobre ti huesos humanos."
+[2](#c13-v2){:#c13-v2} Y gritó contra el altar por orden de Yahvé, y dijo: «¡Altar, altar! así dice Yahvé: He aquí que un hijo ha de nacer a la casa de David, que se llamará Josías, el cual sacrificará sobre ti a los sacerdotes de los lugares altos que queman incienso sobre ti; y se quemaran sobre ti huesos humanos.»
 
-[3](#c13-v3){:#c13-v3} Y dio aquel mismo día una señal diciendo: "Esta es la señal que ha indicado Yahvé: He aquí que el altar se quebrará y se derramará la ceniza que hay sobre él."
+[3](#c13-v3){:#c13-v3} Y dio aquel mismo día una señal diciendo: «Esta es la señal que ha indicado Yahvé: He aquí que el altar se quebrará y se derramará la ceniza que hay sobre él.»
 
-[4](#c13-v4){:#c13-v4} Al oír el rey la palabra que el varón de Dios gritaba contra el altar de Betel, extendió su mano desde el altar y dijo: "¡Prendedlo!" Mas se le secó la mano que había extendido contra él; y no pudo retirarla hacia sí.
+[4](#c13-v4){:#c13-v4} Al oír el rey la palabra que el varón de Dios gritaba contra el altar de Betel, extendió su mano desde el altar y dijo: «¡Prendedlo!» Mas se le secó la mano que había extendido contra él; y no pudo retirarla hacia sí.
 
 [5](#c13-v5){:#c13-v5} Y al punto el altar se quebró, y se derramó la ceniza del altar, conforme a la señal que el varón de Dios había dado por orden de Yahvé.
 
-[6](#c13-v6){:#c13-v6} [[124]](#n-124){:#rn-124} Entonces tomando el rey la palabra dijo al varón de Dios: "Suplica, te ruego, a Yahvé tu Dios, y ora por mí, para que vuelva hacia mí la mano." Y suplicó el varón de Dios a Yahvé, después de lo cual la mano del rey volvió hacia él y quedó como antes.
+[6](#c13-v6){:#c13-v6} [[124]](#n-124){:#rn-124} Entonces tomando el rey la palabra dijo al varón de Dios: «Suplica, te ruego, a Yahvé tu Dios, y ora por mí, para que vuelva hacia mí la mano.» Y suplicó el varón de Dios a Yahvé, después de lo cual la mano del rey volvió hacia él y quedó como antes.
 
-[7](#c13-v7){:#c13-v7} Luego dijo el rey al varón de Dios: "Ven conmigo a casa, y toma un refresco y te daré un presente."
+[7](#c13-v7){:#c13-v7} Luego dijo el rey al varón de Dios: «Ven conmigo a casa, y toma un refresco y te daré un presente.»
 
-[8](#c13-v8){:#c13-v8} Pero el varón de Dios respondió al rey: "Aunque me dieras la mitad de tu casa, no iría contigo; y no comeré pan ni beberé agua en este lugar;
+[8](#c13-v8){:#c13-v8} Pero el varón de Dios respondió al rey: «Aunque me dieras la mitad de tu casa, no iría contigo; y no comeré pan ni beberé agua en este lugar;
 
-[9](#c13-v9){:#c13-v9} [[125]](#n-125){:#rn-125} porque así me fue mandado por palabra de Yahvé, que me dijo: *No comerás pan ni beberás agua, ni volverás por el camino por donde viniste.*"
+[9](#c13-v9){:#c13-v9} [[125]](#n-125){:#rn-125} porque así me fue mandado por palabra de Yahvé, que me dijo: "No comerás pan ni beberás agua, ni volverás por el camino por donde viniste."»
 
 [10](#c13-v10){:#c13-v10} Se fue, pues, por otro camino, y no volvió por el camino por el cual había venido a Betel.
 
@@ -1136,19 +1114,19 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [11](#c13-v11){:#c13-v11} Ahora bien, habitaba en Betel un profeta anciano, al cual llegaron sus hijos y le contaron todo lo que aquel día había hecho el varón de Dios en Betel. Contaron también a su padre las palabras que había dicho al rey.
 
-[12](#c13-v12){:#c13-v12} Su padre les dijo: "¿Por qué camino se fue?" Y le mostraron sus hijos el camino que había tomado el varón de Dios venido de Judá.
+[12](#c13-v12){:#c13-v12} Su padre les dijo: «¿Por qué camino se fue?» Y le mostraron sus hijos el camino que había tomado el varón de Dios venido de Judá.
 
-[13](#c13-v13){:#c13-v13} Dijo entonces a sus hijos: "Aparejadme el asno." Le aparejaron el asno, y montado en él
+[13](#c13-v13){:#c13-v13} Dijo entonces a sus hijos: «Aparejadme el asno.» Le aparejaron el asno, y montado en él
 
-[14](#c13-v14){:#c13-v14} siguió tras el varón de Dios, y después de hallarlo sentado bajo una encina le dijo: "¿Eres tú el varón de Dios que ha venido de Judá?" "Yo soy", respondió él.
+[14](#c13-v14){:#c13-v14} siguió tras el varón de Dios, y después de hallarlo sentado bajo una encina le dijo: «¿Eres tú el varón de Dios que ha venido de Judá?» «Yo soy», respondió él.
 
-[15](#c13-v15){:#c13-v15} El otro le dijo: "Vente conmigo a casa a comer pan."
+[15](#c13-v15){:#c13-v15} El otro le dijo: «Vente conmigo a casa a comer pan.»
 
-[16](#c13-v16){:#c13-v16} Mas él contestó: "No puedo volver contigo, ni entrar contigo (en tu casa); tampoco podré comer pan ni beber agua contigo en este lugar;
+[16](#c13-v16){:#c13-v16} Mas él contestó: «No puedo volver contigo, ni entrar contigo (en tu casa); tampoco podré comer pan ni beber agua contigo en este lugar;
 
-[17](#c13-v17){:#c13-v17} porque me fue mandado por palabra de Yahvé, que me dijo: *No comas pan ni bebas agua allí, ni vuelvas a tomar el camino por donde viniste.*"
+[17](#c13-v17){:#c13-v17} porque me fue mandado por palabra de Yahvé, que me dijo: "No comas pan ni bebas agua allí, ni vuelvas a tomar el camino por donde viniste."»
 
-[18](#c13-v18){:#c13-v18} El otro le dijo: "Yo también soy profeta como tú, y un ángel me ha hablado por orden de Yahvé, diciendo: *Hazle volver contigo a tu casa, para que coma pan y beba agua.*" Y así lo engañó.
+[18](#c13-v18){:#c13-v18} El otro le dijo: «Yo también soy profeta como tú, y un ángel me ha hablado por orden de Yahvé, diciendo: "Hazle volver contigo a tu casa, para que coma pan y beba agua".» Y así lo engañó.
 
 [19](#c13-v19){:#c13-v19} [[126]](#n-126){:#rn-126} Se volvió con él, y comió pan en su casa y bebió agua.
 
@@ -1156,29 +1134,29 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [20](#c13-v20){:#c13-v20} Estando ellos aún sentados a la mesa, fue dirigida la palabra de Yahvé al profeta que lo había hecho volver;
 
-[21](#c13-v21){:#c13-v21} y gritando al varón de Dios que había venido de Judá, le dijo: "Así dice Yahvé: Por cuanto has sido rebelde a la orden de Yahvé, y no has observado la orden que Yahvé, tu Dios, te había dado,
+[21](#c13-v21){:#c13-v21} y gritando al varón de Dios que había venido de Judá, le dijo: «Así dice Yahvé: Por cuanto has sido rebelde a la orden de Yahvé, y no has observado la orden que Yahvé, tu Dios, te había dado,
 
-[22](#c13-v22){:#c13-v22} sino que volviéndote has comido pan y bebido agua en este lugar, en que Él te prohibió comer pan y beber agua, no entrará tu cadáver al sepulcro de tus padres."
+[22](#c13-v22){:#c13-v22} sino que volviéndote has comido pan y bebido agua en este lugar, en que Él te prohibió comer pan y beber agua, no entrará tu cadáver al sepulcro de tus padres.»
 
-[23](#c13-v23){:#c13-v23} Y apenas hubo comido pan y tomado bebida, cuándo el otro aparejó para él el asno, (es decir), para el profeta a quien había hecho volver.
+[23](#c13-v23){:#c13-v23} Y apenas hubo comido pan y tomado bebida, cuándo el otro aparejó para él el asno, (es decir) para el profeta a quien había hecho volver.
 
 [24](#c13-v24){:#c13-v24} [[127]](#n-127){:#rn-127} Partió, pues, mas en el camino le encontró un león, que le mató, y quedó su cadáver tendido en el camino, mientras que el asno estaba parado junto a él; también el león se tenía de pie al lado del cadáver.
 
 [25](#c13-v25){:#c13-v25} Y he aquí que pasaron algunos hombres que vieron el cadáver tendido en el camino, y al león parado junto al cadáver y fueron a contarlo en la ciudad donde habitaba aquel anciano profeta.
 
-[26](#c13-v26){:#c13-v26} Cuando lo oyó el profeta que le había hecho volver del camino, dijo: "Es el varón de Dios que fue rebelde a la orden de Yahvé; por lo cual Este le entregó al león, que le ha despedazado y le ha dado muerte, conforme a la palabra que Yahvé le había dicho."
+[26](#c13-v26){:#c13-v26} Cuando lo oyó el profeta que le había hecho volver del camino, dijo: «Es el varón de Dios que fue rebelde a la orden de Yahvé; por lo cual Este le entregó al león, que le ha despedazado y le ha dado muerte, conforme a la palabra que Yahvé le había dicho.»
 
-[27](#c13-v27){:#c13-v27} Dijo entonces a sus hijos: "Aparejadme el asno." Ellos se lo aparejaron;
+[27](#c13-v27){:#c13-v27} Dijo entonces a sus hijos: «Aparejadme el asno.» Ellos se lo aparejaron;
 
 [28](#c13-v28){:#c13-v28} y él se fue, y halló el cadáver tendido en el camino, y el asno y el león parados junto al cadáver. El león no se había comido el cadáver ni había despedazado el asno.
 
 [29](#c13-v29){:#c13-v29} El profeta alzó el cadáver del varón de Dios, lo puso sobre el asno; y llevándolo de vuelta vino el anciano profeta a la ciudad para velarlo y darle sepultura.
 
-[30](#c13-v30){:#c13-v30} Depositó el cadáver en su propio sepulcro, y le hicieron el duelo, exclamando: "¡Ay, hermano mío!"
+[30](#c13-v30){:#c13-v30} Depositó el cadáver en su propio sepulcro, y le hicieron el duelo, exclamando: «¡Ay, hermano mío!»
 
-[31](#c13-v31){:#c13-v31} Después de sepultarlo dijo a sus hijos: "Cuando yo muera, sepultadme en el sepulcro en que está sepultado el varón de Dios. Depositad mis huesos junto a sus huesos.
+[31](#c13-v31){:#c13-v31} Después de sepultarlo dijo a sus hijos: «Cuando yo muera, sepultadme en el sepulcro en que está sepultado el varón de Dios. Depositad mis huesos junto a sus huesos.
 
-[32](#c13-v32){:#c13-v32} [[128]](#n-128){:#rn-128} Porque infaliblemente se cumplirá la palabra que él por orden de Yahvé gritó contra el altar que está en Betel y contra todos los santuarios de los lugares altos que están en las ciudades de Samaria."
+[32](#c13-v32){:#c13-v32} [[128]](#n-128){:#rn-128} Porque infaliblemente se cumplirá la palabra que él por orden de Yahvé gritó contra el altar que está en Betel y contra todos los santuarios de los lugares altos que están en las ciudades de Samaria.»
 
 [33](#c13-v33){:#c13-v33} [[129]](#n-129){:#rn-129} Aun después de este acontecimiento Jeroboam no se apartó de su mal camino, antes al contrario, volvió a constituir como sacerdotes de los lugares altos a gentes del vulgo. A cualquiera que quería, le consagraba y quedaba sacerdote de los lugares altos.
 
@@ -1190,17 +1168,17 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c14-v1){:#c14-v1} En aquel tiempo enfermó Abías, hijo de Jeroboam.
 
-[2](#c14-v2){:#c14-v2} [[130]](#n-130){:#rn-130} Y dijo Jeroboam a su mujer: "Levántate, por favor, y disfrázate, para que no se sepa que eres la mujer de Jeroboam, y vete a Silo. He aquí que allí está Ahías, el profeta, el mismo que me predijo que yo había de ser rey sobre este pueblo.
+[2](#c14-v2){:#c14-v2} [[130]](#n-130){:#rn-130} Y dijo Jeroboam a su mujer: «Levántate, por favor, y disfrázate, para que no se sepa que eres la mujer de Jeroboam, y vete a Silo. He aquí que allí está Ahías, el profeta, el mismo que me predijo que yo había de ser rey sobre este pueblo.
 
-[3](#c14-v3){:#c14-v3} Toma en tu mano diez panes, algunas tortas y un tarro de miel, y entra en su casa; él te dirá lo que ha de ser del niño."
+[3](#c14-v3){:#c14-v3} Toma en tu mano diez panes, algunas tortas y un tarro de miel, y entra en su casa; él te dirá lo que ha de ser del niño.»
 
 [4](#c14-v4){:#c14-v4} Lo hizo así la mujer de Jeroboam. Se levantó, fue a Silo y entró en la casa de Ahías. Ahías ya no podía ver, porque a causa de su vejez se le habían quedado fijos los ojos.
 
-[5](#c14-v5){:#c14-v5} Yahvé había dicho a Ahías: "He aquí que viene la mujer de Jeroboam para consultarte acerca de su hijo, que está enfermo. Esto y esto le dirás, pues ella cuando venga fingirá ser otra."
+[5](#c14-v5){:#c14-v5} Yahvé había dicho a Ahías: «He aquí que viene la mujer de Jeroboam para consultarte acerca de su hijo, que está enfermo. Esto y esto le dirás, pues ella cuando venga fingirá ser otra.»
 
-[6](#c14-v6){:#c14-v6} Por eso al oír el sonido de los pasos de ella, cuando entraba por la puerta, dijo Ahías: "¡Entra, mujer de Jeroboam! ¿Para qué finges ser otra? Soy enviado para darte un mensaje duro.
+[6](#c14-v6){:#c14-v6} Por eso al oír el sonido de los pasos de ella, cuando entraba por la puerta, dijo Ahías: «¡Entra, mujer de Jeroboam! ¿Para qué finges ser otra? Soy enviado para darte un mensaje duro.
 
-[7](#c14-v7){:#c14-v7} Ve y di a Jeroboam: Así dice Yahvé, el Dios de Israel: *Yo te ensalcé de en medio del pueblo y te puse por príncipe sobre Israel mi pueblo.
+[7](#c14-v7){:#c14-v7} Ve y di a Jeroboam: Así dice Yahvé, el Dios de Israel: "Yo te ensalcé de en medio del pueblo y te puse por príncipe sobre Israel mi pueblo.
 
 [8](#c14-v8){:#c14-v8} Arranqué el reino de la casa de David para entregártelo a ti, y sin embargo no has sido como mi siervo David, que guardó mis mandamientos y me siguió con todo su corazón, no haciendo otra cosa que cuanto era recto a mis ojos.
 
@@ -1208,7 +1186,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [10](#c14-v10){:#c14-v10} [[131]](#n-131){:#rn-131} Por tanto, he aquí que voy a hacer venir el mal sobre la casa de Jeroboam, y exterminaré (de la casa) de Jeroboam todos los varones, al esclavo y al libre en Israel; y barreré la posteridad de la casa de Jeroboam como se barre el estiércol, hasta que no quede nada.
 
-[11](#c14-v11){:#c14-v11} Al que de Jeroboam muriere en la ciudad, lo comerán los perros, y al que muriere en el campo, lo comerán las aves del cielo; porque Yahvé lo ha dicho*.
+[11](#c14-v11){:#c14-v11} Al que de Jeroboam muriere en la ciudad, lo comerán los perros, y al que muriere en el campo, lo comerán las aves del cielo; porque Yahvé lo ha dicho".
 
 [12](#c14-v12){:#c14-v12} Tú pues, levántate, vete a tu casa; y cuando tus pies entren en la ciudad, morirá el niño.
 
@@ -1218,7 +1196,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [15](#c14-v15){:#c14-v15} [[133]](#n-133){:#rn-133} Yahvé sacudirá a Israel para que se agite como se agita la caña en el agua, y desarraigará a Israel de esta buena tierra que dio a sus padres, y los dispersará más allá del río; por cuanto se han hecho ascheras, provocando la ira de Yahvé.
 
-[16](#c14-v16){:#c14-v16} Él entregará a Israel a causa de los pecados que Jeroboam ha cometido y ha hecho cometer a Israel."
+[16](#c14-v16){:#c14-v16} Él entregará a Israel a causa de los pecados que Jeroboam ha cometido y ha hecho cometer a Israel.»
 
 [17](#c14-v17){:#c14-v17} [[134]](#n-134){:#rn-134} Entonces se levantó la mujer de Jeroboam para irse y llegó a Tirsá, y al trasponer ella el umbral de la casa murió el niño.
 
@@ -1296,7 +1274,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [18](#c15-v18){:#c15-v18} Entonces Asá tomó toda la plata y el oro que había quedado en los tesoros de la Casa de Yahvé y en los tesoros de la casa del rey y lo entregó en manos de sus siervos, a los cuales envió a Benhadad, hijo de Tabrimón, hijo de Hesión, rey de Siria, que residía en Damasco, con este mensaje:
 
-[19](#c15-v19){:#c15-v19} [[146]](#n-146){:#rn-146} "Haya alianza entre mí y ti, como la hubo entre mi padre y tu padre. He aquí que te envío un regalo de plata y oro. Anda, pues, y rompe tu alianza con Baasá, rey de Israel, para que este se retire de mí."
+[19](#c15-v19){:#c15-v19} [[146]](#n-146){:#rn-146} «Haya alianza entre mí y ti, como la hubo entre mi padre y tu padre. He aquí que te envío un regalo de plata y oro. Anda, pues, y rompe tu alianza con Baasá, rey de Israel, para que este se retire de mí.»
 
 [20](#c15-v20){:#c15-v20} Benhadad escuchó al rey Asá, y envió los jefes de su ejército contra las ciudades de Israel, y batió a Iyón, a Dan, a Abel-Betmaacá y a todo Kinerot con todo el país de Neftalí.
 
@@ -1338,11 +1316,11 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c16-v1){:#c16-v1} Entonces la palabra de Yahvé fue dirigida a Jehú, hijo de Hananí, contra Baasá, en estos términos:
 
-[2](#c16-v2){:#c16-v2} "Yo te levanté del polvo, y te he hecho caudillo de Israel, mi pueblo, pero tú has andado en el camino de Jeroboam y has hecho pecar a mi pueblo Israel, provocándome a ira con sus pecados.
+[2](#c16-v2){:#c16-v2} «Yo te levanté del polvo, y te he hecho caudillo de Israel, mi pueblo, pero tú has andado en el camino de Jeroboam y has hecho pecar a mi pueblo Israel, provocándome a ira con sus pecados.
 
 [3](#c16-v3){:#c16-v3} Por eso he aquí que voy a barrer la posteridad de Baasá y la posteridad de su casa, y haré tu casa como la casa de Jeroboam, hijo de Nabat.
 
-[4](#c16-v4){:#c16-v4} El que de Baasá muriere en la ciudad, será devorado por los perros, y aquel de los suyos que muriere en el campo, será pasto de las aves del cielo."
+[4](#c16-v4){:#c16-v4} El que de Baasá muriere en la ciudad, será devorado por los perros, y aquel de los suyos que muriere en el campo, será pasto de las aves del cielo.»
 
 [5](#c16-v5){:#c16-v5} Los demás hechos de Baasá, y lo que hizo, y su poderío, ¿no está esto escrito en el libro de los anales de los reyes de Israel?
 
@@ -1416,13 +1394,13 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### El profeta Elías
 
-[1](#c17-v1){:#c17-v1} [[154]](#n-154){:#rn-154} Elías tesbita, uno de los habitantes de Galaad, dijo a Acab: "Vive Yahvé, el Dios de Israel, a quien yo sirvo, que no habrá en estos años ni rocío ni lluvia, sino por mi palabra."
+[1](#c17-v1){:#c17-v1} [[154]](#n-154){:#rn-154} Elías tesbita, uno de los habitantes de Galaad, dijo a Acab: «Vive Yahvé, el Dios de Israel, a quien yo sirvo, que no habrá en estos años ni rocío ni lluvia, sino por mi palabra.»
 
 [2](#c17-v2){:#c17-v2} Entonces llegó a él esta orden de Yahvé:
 
-[3](#c17-v3){:#c17-v3} "Vete de aquí, y dirígete hacia el oriente, y escóndete junto al arroyo Carit, que está al este del Jordán.
+[3](#c17-v3){:#c17-v3} «Vete de aquí, y dirígete hacia el oriente, y escóndete junto al arroyo Carit, que está al este del Jordán.
 
-[4](#c17-v4){:#c17-v4} Beberás del arroyo, y he mandado a los cuervos que te den allí el sustento."
+[4](#c17-v4){:#c17-v4} Beberás del arroyo, y he mandado a los cuervos que te den allí el sustento.»
 
 [5](#c17-v5){:#c17-v5} Partió e hizo según la orden del Señor; y fue a instalarse junto al arroyo Carit, que corre al este del Jordán.
 
@@ -1434,17 +1412,17 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [8](#c17-v8){:#c17-v8} Entonces le fue dada esta orden de Yahvé:
 
-[9](#c17-v9){:#c17-v9} [[155]](#n-155){:#rn-155} "Levántate y vete a Sarepta, que pertenece a Sidón, y habita allí. He aquí que he mandado allí a una mujer viuda que te sustente."
+[9](#c17-v9){:#c17-v9} [[155]](#n-155){:#rn-155} «Levántate y vete a Sarepta, que pertenece a Sidón, y habita allí. He aquí que he mandado allí a una mujer viuda que te sustente.»
 
-[10](#c17-v10){:#c17-v10} Se levantó y marchó a Sarepta; y al llegar a la entrada de la ciudad, he aquí que allí estaba una mujer viuda que recogía leña. La llamó y dijo: "Dame, por favor, en un vaso un poco de agua para beber."
+[10](#c17-v10){:#c17-v10} Se levantó y marchó a Sarepta; y al llegar a la entrada de la ciudad, he aquí que allí estaba una mujer viuda que recogía leña. La llamó y dijo: «Dame, por favor, en un vaso un poco de agua para beber.»
 
-[11](#c17-v11){:#c17-v11} Y ella fue a buscarla. La llamó de nuevo y dijo: "Tráeme también, por favor, un bocado de pan en tu mano."
+[11](#c17-v11){:#c17-v11} Y ella fue a buscarla. La llamó de nuevo y dijo: «Tráeme también, por favor, un bocado de pan en tu mano.»
 
-[12](#c17-v12){:#c17-v12} Ella respondió: "Vive Yahvé, tu Dios, que no tengo nada cocido, sino tan solo un puñado de harina en la tinaja, y un poco de aceite en la vasija; y he aquí que estoy recogiendo dos pedacitos de leña para ir a cocer (este resto) para mí y mi hijo, a fin de comerlo, y luego morir."
+[12](#c17-v12){:#c17-v12} Ella respondió: «Vive Yahvé, tu Dios, que no tengo nada cocido, sino tan solo un puñado de harina en la tinaja, y un poco de aceite en la vasija; y he aquí que estoy recogiendo dos pedacitos de leña para ir a cocer (este resto) para mí y mi hijo, a fin de comerlo, y luego morir.»
 
-[13](#c17-v13){:#c17-v13} Elías le dijo: "No temas, anda y haz como has dicho; pero haz de ello primero para mí una pequeña torta, que me traerás aquí fuera y después cocerás para ti y tu hijo.
+[13](#c17-v13){:#c17-v13} Elías le dijo: «No temas, anda y haz como has dicho; pero haz de ello primero para mí una pequeña torta, que me traerás aquí fuera y después cocerás para ti y tu hijo.
 
-[14](#c17-v14){:#c17-v14} Porque así dice Yahvé, el Dios de Israel: La harina en la tinaja no se agotará, ni faltará nada en la vasija de aceite, hasta el día en que Yahvé deje caer lluvia sobre la tierra."
+[14](#c17-v14){:#c17-v14} Porque así dice Yahvé, el Dios de Israel: La harina en la tinaja no se agotará, ni faltará nada en la vasija de aceite, hasta el día en que Yahvé deje caer lluvia sobre la tierra.»
 
 [15](#c17-v15){:#c17-v15} [[156]](#n-156){:#rn-156} Ella fue e hizo como había dicho Elías; y muchos días comieron ella y él y la casa de ella,
 
@@ -1454,25 +1432,25 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [17](#c17-v17){:#c17-v17} Después de estas cosas cayó enfermo el hijo de la mujer, dueña de la casa, y fue su enfermedad muy grave, de suerte que quedó sin respiración.
 
-[18](#c17-v18){:#c17-v18} [[157]](#n-157){:#rn-157} Dijo entonces ella a Elías: "¿Qué tengo yo que ver contigo, oh varón de Dios? ¿Has venido a mi casa para traer a la memoria mi pecado y matar a mi hijo?"
+[18](#c17-v18){:#c17-v18} [[157]](#n-157){:#rn-157} Dijo entonces ella a Elías: «¿Qué tengo yo que ver contigo, oh varón de Dios? ¿Has venido a mi casa para traer a la memoria mi pecado y matar a mi hijo?»
 
-[19](#c17-v19){:#c17-v19} Contestó él: "Dame tu hijo", y tomándolo del regazo de ella, lo llevó a la cámara alta donde él habitaba y lo acostó sobre su cama;
+[19](#c17-v19){:#c17-v19} Contestó él: «Dame tu hijo», y tomándolo del regazo de ella, lo llevó a la cámara alta donde él habitaba y lo acostó sobre su cama;
 
-[20](#c17-v20){:#c17-v20} [[158]](#n-158){:#rn-158} e invocando a Yahvé dijo: "¡Oh Yahvé, Dios mío! ¿Cómo es que has hecho mal a la viuda que me ha dado hospedaje, haciendo morir a su hijo?"
+[20](#c17-v20){:#c17-v20} [[158]](#n-158){:#rn-158} e invocando a Yahvé dijo: «¡Oh Yahvé, Dios mío! ¿Cómo es que has hecho mal a la viuda que me ha dado hospedaje, haciendo morir a su hijo?»
 
-[21](#c17-v21){:#c17-v21} [[159]](#n-159){:#rn-159} Y tendiéndose tres veces sobre el niño e invocando a Yahvé dijo: "¡Oh Yahvé, te ruego, haz que vuelva el alma de este niño a su cuerpo!"
+[21](#c17-v21){:#c17-v21} [[159]](#n-159){:#rn-159} Y tendiéndose tres veces sobre el niño e invocando a Yahvé dijo: «¡Oh Yahvé, te ruego, haz que vuelva el alma de este niño a su cuerpo!»
 
 [22](#c17-v22){:#c17-v22} Oyó Yahvé la voz de Elías, y volvió el alma del niño a entrar en su cuerpo y revivió.
 
-[23](#c17-v23){:#c17-v23} Luego Elías tomó al niño, y bajándolo de la cámara alta a la casa, lo entregó a su madre, y le dijo Elías: "¡Mira, tu hijo vive!"
+[23](#c17-v23){:#c17-v23} Luego Elías tomó al niño, y bajándolo de la cámara alta a la casa, lo entregó a su madre, y le dijo Elías: «¡Mira, tu hijo vive!»
 
-[24](#c17-v24){:#c17-v24} Entonces dijo la mujer a Elías: "Ahora conozco que eres varón de Dios, y que la palabra de Yahvé en tu boca es verdad."
+[24](#c17-v24){:#c17-v24} Entonces dijo la mujer a Elías: «Ahora conozco que eres varón de Dios, y que la palabra de Yahvé en tu boca es verdad.»
 
 ### 1 Reyes [18](#c18) {#c18}
 
 #### Acab en busca de Elías
 
-[1](#c18-v1){:#c18-v1} [[160]](#n-160){:#rn-160} Muchos días después, en el tercer año, fue dirigida esta palabra de Yahvé a Elías: "Ve, muéstrate a Acab, pues voy a dar lluvia a la tierra."
+[1](#c18-v1){:#c18-v1} [[160]](#n-160){:#rn-160} Muchos días después, en el tercer año, fue dirigida esta palabra de Yahvé a Elías: «Ve, muéstrate a Acab, pues voy a dar lluvia a la tierra.»
 
 [2](#c18-v2){:#c18-v2} Partió Elías para presentarse a Acab. El hambre era grande en Samaria;
 
@@ -1480,15 +1458,15 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [4](#c18-v4){:#c18-v4} pues cuando Jezabel exterminaba a los profetas de Yahvé, Abdías tomó a cien profetas y los escondió, cincuenta en una cueva y cincuenta en otra, sustentándolos con pan y agua.
 
-[5](#c18-v5){:#c18-v5} Y dijo Acab a Abdías: "Da una vuelta por todo el país hacia todas las fuentes de agua y hacia todos los arroyos; quizás hallaremos pastos para conservar con vida a los caballos y mulos y evitar la destrucción del ganado."
+[5](#c18-v5){:#c18-v5} Y dijo Acab a Abdías: «Da una vuelta por todo el país hacia todas las fuentes de agua y hacia todos los arroyos; quizás hallaremos pastos para conservar con vida a los caballos y mulos y evitar la destrucción del ganado.»
 
 [6](#c18-v6){:#c18-v6} Y se repartieron entre sí el país para recorrerlo. Acab iba por un camino, y Abdías separadamente por el otro.
 
-[7](#c18-v7){:#c18-v7} Estando Abdías de camino, he aquí que Elías le salió al encuentro. Le reconoció y cayó sobre su rostro diciendo: "¿Eres Tú, mi señor Elías?"
+[7](#c18-v7){:#c18-v7} Estando Abdías de camino, he aquí que Elías le salió al encuentro. Le reconoció y cayó sobre su rostro diciendo: «¿Eres Tú, mi señor Elías?»
 
-[8](#c18-v8){:#c18-v8} Él le respondió: "Yo soy. Vete y di a tu señor: Ahí está Elías."
+[8](#c18-v8){:#c18-v8} Él le respondió: «Yo soy. Vete y di a tu señor: Ahí está Elías.»
 
-[9](#c18-v9){:#c18-v9} Replicó (Abdías): "¿En qué he pecado yo para que tú entregues a tu siervo en manos de Acab, a fin de que me mate?
+[9](#c18-v9){:#c18-v9} Replicó (Abdías): «¿En qué he pecado yo para que tú entregues a tu siervo en manos de Acab, a fin de que me mate?
 
 [10](#c18-v10){:#c18-v10} Vive Yahvé, tu Dios, que no hay pueblo ni reino adonde no haya enviado mi señor a buscarte; y cuando decían: No está, hacía jurar a aquel reino y a aquel pueblo que no te habían hallado.
 
@@ -1498,35 +1476,35 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [13](#c18-v13){:#c18-v13} ¿Acaso nunca han contado a mi señor lo que hice yo cuando Jezabel mataba a los profetas de Yahvé; cómo yo escondía cien profetas de Yahvé, cincuenta en una cueva, y cincuenta en otra, sustentándolos con pan y agua?
 
-[14](#c18-v14){:#c18-v14} Y ahora tú me dices: Vete y di a tu señor: Ahí está Elías. De seguro me matará."
+[14](#c18-v14){:#c18-v14} Y ahora tú me dices: Vete y di a tu señor: Ahí está Elías. De seguro me matará.»
 
-[15](#c18-v15){:#c18-v15} Respondió Elías: "Vive Yahvé de los Ejércitos, a quien yo sirvo, que hoy mismo me presentaré (a Acab)."
+[15](#c18-v15){:#c18-v15} Respondió Elías: «Vive Yahvé de los Ejércitos, a quien yo sirvo, que hoy mismo me presentaré (a Acab).»
 
 [16](#c18-v16){:#c18-v16} Marchó, pues, Abdías para encontrar a Acab, y le dio la noticia. Y Acab salió al encuentro de Elías.
 
 #### Elías y los profetas de Baal
 
-[17](#c18-v17){:#c18-v17} Luego que Acab vio a Elías, le dijo: "¿Tú aquí, perturbador de Israel?"
+[17](#c18-v17){:#c18-v17} Luego que Acab vio a Elías, le dijo: «¿Tú aquí, perturbador de Israel?»
 
-[18](#c18-v18){:#c18-v18} Respondió él: "No he perturbado yo a Israel, sino tú y la casa de tu padre, porque habéis dejado los mandamientos de Yahvé y tú has ido tras los Baales.
+[18](#c18-v18){:#c18-v18} Respondió él: «No he perturbado yo a Israel, sino tú y la casa de tu padre, porque habéis dejado los mandamientos de Yahvé y tú has ido tras los Baales.
 
-[19](#c18-v19){:#c18-v19} [[163]](#n-163){:#rn-163} Ahora bien, manda congregar conmigo a todo Israel en el monte Carmelo; también a los profetas de Baal, cuatrocientos cincuenta, y a los profetas de Aschera, cuatrocientos, que comen a la mesa de Jezabel."
+[19](#c18-v19){:#c18-v19} [[163]](#n-163){:#rn-163} Ahora bien, manda congregar conmigo a todo Israel en el monte Carmelo; también a los profetas de Baal, cuatrocientos cincuenta, y a los profetas de Aschera, cuatrocientos, que comen a la mesa de Jezabel.»
 
 [20](#c18-v20){:#c18-v20} Convocó, pues, Acab a todos los hijos de Israel, y congregó a los profetas en el monte Carmelo.
 
-[21](#c18-v21){:#c18-v21} [[164]](#n-164){:#rn-164} Entonces Elías, acercándose a todo el pueblo, dijo: "¿Hasta cuándo estaréis claudicando hacia dos lados? Si Yahvé es Dios, seguidle; y si lo es Baal, id tras él." Mas el pueblo no le respondió palabra.
+[21](#c18-v21){:#c18-v21} [[164]](#n-164){:#rn-164} Entonces Elías, acercándose a todo el pueblo, dijo: «¿Hasta cuándo estaréis claudicando hacia dos lados? Si Yahvé es Dios, seguidle; y si lo es Baal, id tras él.» Mas el pueblo no le respondió palabra.
 
-[22](#c18-v22){:#c18-v22} Dijo, pues, Elías al pueblo: "He quedado yo solo de los profetas de Yahvé, cuando los profetas de Baal son cuatrocientos cincuenta hombres.
+[22](#c18-v22){:#c18-v22} Dijo, pues, Elías al pueblo: «He quedado yo solo de los profetas de Yahvé, cuando los profetas de Baal son cuatrocientos cincuenta hombres.
 
 [23](#c18-v23){:#c18-v23} Désenos dos toros; y escójanse ellos un toro, y cortándolo en pedazos pónganlo sobre la leña, sin aplicarle fuego, y yo prepararé el otro toro, y lo colocaré sobre la leña, sin poner fuego.
 
-[24](#c18-v24){:#c18-v24} E invocad el nombre de vuestro dios, y yo invocaré el nombre de Yahvé. Aquel dios que respondiere con el fuego, ese sea Dios." Respondió todo el pueblo: "¡Bien dicho!"
+[24](#c18-v24){:#c18-v24} E invocad el nombre de vuestro dios, y yo invocaré el nombre de Yahvé. Aquel dios que respondiere con el fuego, ese sea Dios.» Respondió todo el pueblo: «¡Bien dicho!»
 
-[25](#c18-v25){:#c18-v25} Dijo entonces Elías a los profetas de Baal: "Escogeos uno de los toros y preparadlo primero, porque sois más numerosos, e invocad el nombre de vuestro dios; mas sin poner fuego."
+[25](#c18-v25){:#c18-v25} Dijo entonces Elías a los profetas de Baal: «Escogeos uno de los toros y preparadlo primero, porque sois más numerosos, e invocad el nombre de vuestro dios; mas sin poner fuego.»
 
-[26](#c18-v26){:#c18-v26} Tomaron, pues, el toro que les había sido dado y lo prepararon, invocando el nombre de Baal desde la mañana hasta el mediodía, gritando: "¡Baal, respóndenos!" Pero no había voz, ni quien respondiese, a pesar de que estaban saltando alrededor del altar que habían hecho.
+[26](#c18-v26){:#c18-v26} Tomaron, pues, el toro que les había sido dado y lo prepararon, invocando el nombre de Baal desde la mañana hasta el mediodía, gritando: «¡Baal, respóndenos!» Pero no había voz, ni quien respondiese, a pesar de que estaban saltando alrededor del altar que habían hecho.
 
-[27](#c18-v27){:#c18-v27} Al mediodía se burlaba de ellos Elías, diciendo: "Gritad más fuerte, ya que es dios. Está tal vez meditando, o se ha retirado, o está de viaje; o tal vez duerma y hay que despertarlo."
+[27](#c18-v27){:#c18-v27} Al mediodía se burlaba de ellos Elías, diciendo: «Gritad más fuerte, ya que es dios. Está tal vez meditando, o se ha retirado, o está de viaje; o tal vez duerma y hay que despertarlo.»
 
 [28](#c18-v28){:#c18-v28} [[165]](#n-165){:#rn-165} Gritaban, pues, a toda fuerza, sajándose, según su costumbre, con cuchillos y lanzas hasta chorrear la sangre sobre ellos.
 
@@ -1534,37 +1512,37 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 #### El sacrificio de Elías
 
-[30](#c18-v30){:#c18-v30} Entonces dijo Elías a todo el pueblo: "Acercaos a mí." Se le acercó todo el pueblo, y él se puso a preparar el altar de Yahvé que estaba derribado.
+[30](#c18-v30){:#c18-v30} Entonces dijo Elías a todo el pueblo: «Acercaos a mí.» Se le acercó todo el pueblo, y él se puso a preparar el altar de Yahvé que estaba derribado.
 
-[31](#c18-v31){:#c18-v31} Tomó Elías doce piedras, conforme al número de las tribus de los hijos de Jacob, al cual había sido dirigida la palabra de Yahvé, que decía: "Israel será tu nombre."
+[31](#c18-v31){:#c18-v31} Tomó Elías doce piedras, conforme al número de las tribus de los hijos de Jacob, al cual había sido dirigida la palabra de Yahvé, que decía: «Israel será tu nombre.»
 
 [32](#c18-v32){:#c18-v32} [[166]](#n-166){:#rn-166} Con estas piedras edificó un altar al nombre de Yahvé, y alrededor del altar hizo una zanja, tan grande como para sembrar dos medidas de semilla.
 
-[33](#c18-v33){:#c18-v33} Luego dispuso la leña, y cortando en trozos al toro, lo puso encima de la leña, y dijo: "Llenad cuatro cántaros de agua y vertedla sobre el holocausto y sobre la leña."
+[33](#c18-v33){:#c18-v33} Luego dispuso la leña, y cortando en trozos al toro, lo puso encima de la leña, y dijo: «Llenad cuatro cántaros de agua y vertedla sobre el holocausto y sobre la leña.»
 
-[34](#c18-v34){:#c18-v34} Después dijo: "Hacedlo por segunda vez", y lo hicieron por segunda vez. Y repitió: "Hacedlo por tercera vez", y lo hicieron por tercera vez;
+[34](#c18-v34){:#c18-v34} Después dijo: «Hacedlo por segunda vez», y lo hicieron por segunda vez. Y repitió: «Hacedlo por tercera vez», y lo hicieron por tercera vez;
 
 [35](#c18-v35){:#c18-v35} de suerte que corría el agua alrededor del altar; y también la zanja la hizo llenar de agua.
 
-[36](#c18-v36){:#c18-v36} A la hora (en que suele) ofrecerse el sacrificio (de la tarde), se acercó el profeta Elías, y dijo: "¡Oh Yahvé, Dios de Abrahán, de Isaac y de Israel, hoy sea notorio que Tú eres Dios en Israel y que yo soy tu siervo, y que por orden tuya he hecho todas estas cosas!
+[36](#c18-v36){:#c18-v36} A la hora (en que suele) ofrecerse el sacrificio (de la tarde), se acercó el profeta Elías, y dijo: «¡Oh Yahvé, Dios de Abrahán, de Isaac y de Israel, hoy sea notorio que Tú eres Dios en Israel y que yo soy tu siervo, y que por orden tuya he hecho todas estas cosas!
 
-[37](#c18-v37){:#c18-v37} ¡Respóndeme, Yahvé, respóndeme, para que sepa este pueblo que Tú, Yahvé, eres Dios, que conviertes el corazón de ellos de nuevo (a Ti)!"
+[37](#c18-v37){:#c18-v37} ¡Respóndeme, Yahvé, respóndeme, para que sepa este pueblo que Tú, Yahvé, eres Dios, que conviertes el corazón de ellos de nuevo (a Ti)!»
 
 [38](#c18-v38){:#c18-v38} En ese momento bajó fuego de Yahvé y consumió el holocausto, la leña, las piedras y el polvo, lamiendo incluso el agua que había en la zanja.
 
-[39](#c18-v39){:#c18-v39} Viéndolo todo el pueblo cayeron sobre sus rostros y exclamaron: "¡Yahvé es Dios! ¡Yahvé es Dios!"
+[39](#c18-v39){:#c18-v39} Viéndolo todo el pueblo cayeron sobre sus rostros y exclamaron: «¡Yahvé es Dios! ¡Yahvé es Dios!»
 
-[40](#c18-v40){:#c18-v40} [[167]](#n-167){:#rn-167} Y Elías les dijo: "Prended a los profetas de Baal; que no se escape ni uno de ellos. Ellos los prendieron, y Elías los llevó al torrente Cisón, donde les quitó la vida.
+[40](#c18-v40){:#c18-v40} [[167]](#n-167){:#rn-167} Y Elías les dijo: «Prended a los profetas de Baal; que no se escape ni uno de ellos.» Ellos los prendieron, y Elías los llevó al torrente Cisón, donde les quitó la vida.
 
 #### Cesa la sequía
 
-[41](#c18-v41){:#c18-v41} Entonces dijo Elías a Acab: "¡Sube, come y bebe, porque oigo ya gran ruido de lluvia!"
+[41](#c18-v41){:#c18-v41} Entonces dijo Elías a Acab: «¡Sube, come y bebe, porque oigo ya gran ruido de lluvia!»
 
 [42](#c18-v42){:#c18-v42} Subió Acab, a comer y beber. Elías, empero, subió a la cumbre del Carmelo, e inclinándose hacia la tierra puso su rostro entre sus rodillas,
 
-[43](#c18-v43){:#c18-v43} [[168]](#n-168){:#rn-168} y dijo a su criado: "Sube y mira hacia el mar." Subió (el criado), miró y dijo: "No hay nada." Dijo Elías: "Hazlo siete veces."
+[43](#c18-v43){:#c18-v43} [[168]](#n-168){:#rn-168} y dijo a su criado: «Sube y mira hacia el mar.» Subió (el criado), miró y dijo: «No hay nada.» Dijo Elías: «Hazlo siete veces.»
 
-[44](#c18-v44){:#c18-v44} [[169]](#n-169){:#rn-169} Y a la séptima vez dijo: "He aquí una nube, tan pequeña como la palma de la mano de un hombre, que se levanta del mar." Entonces le dijo Elías: "Anda y di a Acab: *Unce y marcha, a fin de que no te ataje la lluvia*."
+[44](#c18-v44){:#c18-v44} [[169]](#n-169){:#rn-169} Y a la séptima vez dijo: «He aquí una nube, tan pequeña como la palma de la mano de un hombre, que se levanta del mar.» Entonces le dijo Elías: «Anda y di a Acab: "Unce y marcha, a fin de que no te ataje la lluvia".»
 
 [45](#c18-v45){:#c18-v45} Y pasado un poco de tiempo se oscureció el cielo con nubes y viento, y cayó una gran lluvia; y Acab subió y marchó a Jesreel.
 
@@ -1576,47 +1554,47 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c19-v1){:#c19-v1} Acab contó a Jezabel todo cuanto había hecho Elías y cómo había pasado a cuchillo a todos los profetas.
 
-[2](#c19-v2){:#c19-v2} Tras lo cual envió Jezabel un mensajero a Elías, diciendo: "Así hagan conmigo los dioses, y aún más, si mañana, a esta hora, no haya yo tratado tu vida como tú trataste la vida de cada uno de ellos."
+[2](#c19-v2){:#c19-v2} Tras lo cual envió Jezabel un mensajero a Elías, diciendo: «Así hagan conmigo los dioses, y aún más, si mañana, a esta hora, no haya yo tratado tu vida como tú trataste la vida de cada uno de ellos.»
 
 [3](#c19-v3){:#c19-v3} Viendo esto Elías, se levantó y se fue para salvar su vida. Llegado a Bersabee de Judá, dejó allí a su criado;
 
-[4](#c19-v4){:#c19-v4} [[171]](#n-171){:#rn-171} más él mismo prosiguió su camino una jornada por el desierto. Llegado que hubo allá se sentó debajo de una retama y pidió para sí la muerte, diciendo: "Basta, ya, oh Yahvé, quítame la vida; pues no soy mejor que mis padres."
+[4](#c19-v4){:#c19-v4} [[171]](#n-171){:#rn-171} más él mismo prosiguió su camino una jornada por el desierto. Llegado que hubo allá se sentó debajo de una retama y pidió para sí la muerte, diciendo: «Basta, ya, oh Yahvé, quítame la vida; pues no soy mejor que mis padres.»
 
-[5](#c19-v5){:#c19-v5} Y acostándose se quedó dormido debajo de la retama. Mas he aquí que un ángel le tocó y le dijo: "¡Levántate y come!"
+[5](#c19-v5){:#c19-v5} Y acostándose se quedó dormido debajo de la retama. Mas he aquí que un ángel le tocó y le dijo: «¡Levántate y come!»
 
 [6](#c19-v6){:#c19-v6} Miró y vio a su cabecera una torta cocida al rescoldo y un jarro de agua. Comió y bebió, y se acostó de nuevo.
 
-[7](#c19-v7){:#c19-v7} Mas el ángel de Yahvé vino por segunda vez y le tocó, diciendo: "Levántate y come, porque el camino es demasiado largo para ti."
+[7](#c19-v7){:#c19-v7} Mas el ángel de Yahvé vino por segunda vez y le tocó, diciendo: «Levántate y come, porque el camino es demasiado largo para ti.»
 
 [8](#c19-v8){:#c19-v8} [[172]](#n-172){:#rn-172} Se levantó y después de haber comido y bebido, y confortado con aquella comida, caminó cuarenta días y cuarenta noches, hasta el Horeb, el monte de Dios.
 
 #### El señor conforta a Elías
 
-[9](#c19-v9){:#c19-v9} [[173]](#n-173){:#rn-173} Entró allí en una cueva, donde pasó la noche. Y he aquí que fue dirigida a él la palabra de Yahvé, que le dijo: "¿Qué haces aquí, Elías?"
+[9](#c19-v9){:#c19-v9} [[173]](#n-173){:#rn-173} Entró allí en una cueva, donde pasó la noche. Y he aquí que fue dirigida a él la palabra de Yahvé, que le dijo: «¿Qué haces aquí, Elías?»
 
-[10](#c19-v10){:#c19-v10} El respondió: "Con gran celo he defendido la causa de Yahvé, el Dios de los Ejércitos; pues los hijos de Israel han abandonado tu alianza, han derribado tus altares y pasado a cuchillo a tus profetas; y he quedado yo solo; y me buscan para quitarme la vida."
+[10](#c19-v10){:#c19-v10} El respondió: «Con gran celo he defendido la causa de Yahvé, el Dios de los Ejércitos; pues los hijos de Israel han abandonado tu alianza, han derribado tus altares y pasado a cuchillo a tus profetas; y he quedado yo solo; y me buscan para quitarme la vida.»
 
-[11](#c19-v11){:#c19-v11} [[174]](#n-174){:#rn-174} Le dijo (Yahvé): "Sal fuera y ponte de pie en el monte ante Yahvé." Y he aquí que pasó Yahvé. Un viento grande e impetuoso rompía delante de Yahvé los montes y quebraba las peñas; pero Yahvé no estaba en el viento. Después del viento hubo un terremoto; mas Yahvé no estaba en el terremoto.
+[11](#c19-v11){:#c19-v11} [[174]](#n-174){:#rn-174} Le dijo (Yahvé): «Sal fuera y ponte de pie en el monte ante Yahvé.» Y he aquí que pasó Yahvé. Un viento grande e impetuoso rompía delante de Yahvé los montes y quebraba las peñas; pero Yahvé no estaba en el viento. Después del viento hubo un terremoto; mas Yahvé no estaba en el terremoto.
 
 [12](#c19-v12){:#c19-v12} Y después del terremoto, un fuego; pero Yahvé no estaba en el fuego; y tras el fuego, un soplo tranquilo y suave.
 
-[13](#c19-v13){:#c19-v13} Al oírlo Elías se cubrió el rostro con su manto y salió, y se puso de pie a la entrada de la cueva. Y he aquí una voz que le dijo: "¿Qué haces aquí, Elías?"
+[13](#c19-v13){:#c19-v13} Al oírlo Elías se cubrió el rostro con su manto y salió, y se puso de pie a la entrada de la cueva. Y he aquí una voz que le dijo: «¿Qué haces aquí, Elías?»
 
-[14](#c19-v14){:#c19-v14} Respondió él: "Con gran celo he defendido la causa de Yahvé, el Dios de los Ejércitos; pues los hijos de Israel han abandonado tu alianza, han derribado tus altares y pasado a cuchillo a tus profetas, y he quedado yo solo; y me buscan para quitarme la vida."
+[14](#c19-v14){:#c19-v14} Respondió él: «Con gran celo he defendido la causa de Yahvé, el Dios de los Ejércitos; pues los hijos de Israel han abandonado tu alianza, han derribado tus altares y pasado a cuchillo a tus profetas, y he quedado yo solo; y me buscan para quitarme la vida.»
 
-[15](#c19-v15){:#c19-v15} [[175]](#n-175){:#rn-175} Entonces le dijo Yahvé: "Anda, vuélvete por tu camino, por el desierto, a Damasco; y llegado allá, unge a Hazael por rey de Siria;
+[15](#c19-v15){:#c19-v15} [[175]](#n-175){:#rn-175} Entonces le dijo Yahvé: «Anda, vuélvete por tu camino, por el desierto, a Damasco; y llegado allá, unge a Hazael por rey de Siria;
 
 [16](#c19-v16){:#c19-v16} y a Jehú, hijo de Namsi, le ungirás por rey de Israel. Ungirás también a Eliseo, hijo de Safat, de Abelmehulá, por profeta en tu lugar.
 
 [17](#c19-v17){:#c19-v17} Y sucederá que al que escapare de la espada de Hazael, le matará Jehú; y al que escapare de la espada de Jehú, le matará Eliseo.
 
-[18](#c19-v18){:#c19-v18} [[176]](#n-176){:#rn-176} Mas dejaré en Israel siete mil hombres: todas las rodillas que no se han doblado ante Baal, todos aquellos cuyas bocas no le han besado."
+[18](#c19-v18){:#c19-v18} [[176]](#n-176){:#rn-176} Mas dejaré en Israel siete mil hombres: todas las rodillas que no se han doblado ante Baal, todos aquellos cuyas bocas no le han besado.»
 
 #### Vocación de Eliseo
 
 [19](#c19-v19){:#c19-v19} [[177]](#n-177){:#rn-177} Partió, pues, de allí, y halló a Eliseo, hijo de Safat, el cual estaba arando con doce yuntas que iban delante de él, y él mismo iba con la duodécima. Elías paso junto a él y le echó su manto encima.
 
-[20](#c19-v20){:#c19-v20} Y (Eliseo) dejó los bueyes, corrió tras de Elías y le dijo: "Déjame ir a besar a mi padre y a mi madre, y luego te seguiré." Él le respondió: "Anda y vuelve; pues ¿qué te he hecho yo?"
+[20](#c19-v20){:#c19-v20} Y (Eliseo) dejó los bueyes, corrió tras de Elías y le dijo: «Déjame ir a besar a mi padre y a mi madre, y luego te seguiré.» Él le respondió: «Anda y vuelve; pues ¿qué te he hecho yo?»
 
 [21](#c19-v21){:#c19-v21} Eliseo le dejó, tomó una yunta de bueyes, los degolló, y con las coyundas de los bueyes coció la carne de ellos, y la dio a la gente, que la comieron; luego levantándose siguió a Elías y se puso a su servicio.
 
@@ -1626,31 +1604,31 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c20-v1){:#c20-v1} [[178]](#n-178){:#rn-178} Benhadad, rey de Siria, reunió todo su ejército, y teniendo consigo treinta y dos reyes, y caballería y carros subió, y poniendo sitio a Samaria la atacó.
 
-[2](#c20-v2){:#c20-v2} Envió mensajeros a la ciudad, a Acab, rey de Israel, y le dijo: "Así dice Benhadad:
+[2](#c20-v2){:#c20-v2} Envió mensajeros a la ciudad, a Acab, rey de Israel, y le dijo: «Así dice Benhadad:
 
-[3](#c20-v3){:#c20-v3} Tu plata y tu oro son para mí; tus mujeres y tus gallardos hijos, míos son."
+[3](#c20-v3){:#c20-v3} Tu plata y tu oro son para mí; tus mujeres y tus gallardos hijos, míos son.»
 
-[4](#c20-v4){:#c20-v4} Contestó el rey de Israel y dijo: "Como tú dices, señor mío, oh rey, tuyo soy yo y cuanto tengo."
+[4](#c20-v4){:#c20-v4} Contestó el rey de Israel y dijo: «Como tú dices, señor mío, oh rey, tuyo soy yo y cuanto tengo.»
 
-[5](#c20-v5){:#c20-v5} Vinieron otra vez los mensajeros y dijeron: "Así dice Benhadad: Yo he enviado a decirte: Entrégame tu plata y tu oro, y también tus mujeres y tus hijos.
+[5](#c20-v5){:#c20-v5} Vinieron otra vez los mensajeros y dijeron: «Así dice Benhadad: Yo he enviado a decirte: Entrégame tu plata y tu oro, y también tus mujeres y tus hijos.
 
-[6](#c20-v6){:#c20-v6} Mañana, a esta hora, te enviaré mis siervos, que registrarán tu casa y la de tus siervos; y todo lo que es precioso a tus ojos lo tomarán con sus manos, y se lo llevarán".
+[6](#c20-v6){:#c20-v6} Mañana, a esta hora, te enviaré mis siervos, que registrarán tu casa y la de tus siervos; y todo lo que es precioso a tus ojos lo tomarán con sus manos, y se lo llevarán».
 
-[7](#c20-v7){:#c20-v7} Llamó entonces el rey a todos los ancianos del país y les dijo: "Entended y ved, cómo este hombre busca el mal; porque envió a pedirme mis mujeres, mis hijos, mi plata y mi oro, y yo no le he dicho que no."
+[7](#c20-v7){:#c20-v7} Llamó entonces el rey a todos los ancianos del país y les dijo: «Entended y ved, cómo este hombre busca el mal; porque envió a pedirme mis mujeres, mis hijos, mi plata y mi oro, y yo no le he dicho que no.»
 
-[8](#c20-v8){:#c20-v8} Le dijeron todos los ancianos y todo el pueblo: "No escuches ni consientas."
+[8](#c20-v8){:#c20-v8} Le dijeron todos los ancianos y todo el pueblo: «No escuches ni consientas.»
 
-[9](#c20-v9){:#c20-v9} Contestó, pues (Acab) a los mensajeros de Benhadad: "Decid a mi señor, el rey: Todo lo que hiciste, pedir a tu siervo al principio, lo haré; pero esto otro no lo puedo hacer." Y se fueron los mensajeros con esta respuesta.
+[9](#c20-v9){:#c20-v9} Contestó, pues (Acab) a los mensajeros de Benhadad: «Decid a mi señor, el rey: Todo lo que hiciste, pedir a tu siervo al principio, lo haré; pero esto otro no lo puedo hacer.» Y se fueron los mensajeros con esta respuesta.
 
-[10](#c20-v10){:#c20-v10} [[179]](#n-179){:#rn-179} Entonces Benhadad envió a decirle: "Así hagan conmigo los dioses, y más todavía, si el polvo de Samaria basta para llenar los puños de toda la gente que me sigue."
+[10](#c20-v10){:#c20-v10} [[179]](#n-179){:#rn-179} Entonces Benhadad envió a decirle: «Así hagan conmigo los dioses, y más todavía, si el polvo de Samaria basta para llenar los puños de toda la gente que me sigue.»
 
-[11](#c20-v11){:#c20-v11} Respondió el rey de Israel, diciendo: "Decidle: No se alabe quien se ciñe, sino el que se desciñe."
+[11](#c20-v11){:#c20-v11} Respondió el rey de Israel, diciendo: «Decidle: No se alabe quien se ciñe, sino el que se desciñe.»
 
-[12](#c20-v12){:#c20-v12} Benhadad recibió esta respuesta cuando estaba bebiendo, él y los reyes, en los pabellones. Dijo, pues, a sus siervos: "¡Listo!" Y se movilizaron contra la ciudad.
+[12](#c20-v12){:#c20-v12} Benhadad recibió esta respuesta cuando estaba bebiendo, él y los reyes, en los pabellones. Dijo, pues, a sus siervos: «¡Listo!» Y se movilizaron contra la ciudad.
 
-[13](#c20-v13){:#c20-v13} [[180]](#n-180){:#rn-180} En esto se acercó a Acab; rey de Israel, un profeta, que dijo: "Así dice Yahvé: ¿Ves tú esta gran multitud? He aquí que voy a entregarla hoy en tus manos, y sabrás que yo soy Yahvé."
+[13](#c20-v13){:#c20-v13} [[180]](#n-180){:#rn-180} En esto se acercó a Acab; rey de Israel, un profeta, que dijo: «Así dice Yahvé: ¿Ves tú esta gran multitud? He aquí que voy a entregarla hoy en tus manos, y sabrás que yo soy Yahvé.»
 
-[14](#c20-v14){:#c20-v14} Preguntó Acab: "¿Por medio de quién?" Y él respondió: "Así dice Yahvé: Por medio de las tropas de los jefes de las provincias." "¿Y quién, replicó (Acab), comenzará la batalla?" "Tú", respondió él.
+[14](#c20-v14){:#c20-v14} Preguntó Acab: «¿Por medio de quién?» Y él respondió: «Así dice Yahvé: Por medio de las tropas de los jefes de las provincias.» «¿Y quién, replicó (Acab), comenzará la batalla?» «Tú», respondió él.
 
 #### Derrota del rey de Siria
 
@@ -1658,9 +1636,9 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [16](#c20-v16){:#c20-v16} Hicieron una salida al mediodía cuando Benhadad estaba bebiendo y embriagándose en los pabellones, él y los treinta y dos reyes auxiliares.
 
-[17](#c20-v17){:#c20-v17} Salieron primero las tropas de los jefes de las provincias, y envió Benhadad (observadores), que le avisaron, diciendo: "Unos hombres han salido de Samaria."
+[17](#c20-v17){:#c20-v17} Salieron primero las tropas de los jefes de las provincias, y envió Benhadad (observadores), que le avisaron, diciendo: «Unos hombres han salido de Samaria.»
 
-[18](#c20-v18){:#c20-v18} Respondió él: "Si han salido con intenciones pacíficas, prendedlos vivos; y prendedlos también vivos, si han salido para pelear."
+[18](#c20-v18){:#c20-v18} Respondió él: «Si han salido con intenciones pacíficas, prendedlos vivos; y prendedlos también vivos, si han salido para pelear.»
 
 [19](#c20-v19){:#c20-v19} Mas las tropas de los jefes de las provincias —y tras ellos los del ejército— que acabaron de salir,
 
@@ -1668,49 +1646,49 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [21](#c20-v21){:#c20-v21} Salió también el rey de Israel y destrozó los caballos con los carros, haciendo en medio de los sirios grandes estragos.
 
-[22](#c20-v22){:#c20-v22} Se acercó entonces el profeta al rey de Israel y le dijo: "Ve y cobra fuerza, piensa bien y mira lo que has de hacer; porque el rey de Siria va a subir contra ti a la vuelta del año."
+[22](#c20-v22){:#c20-v22} Se acercó entonces el profeta al rey de Israel y le dijo: «Ve y cobra fuerza, piensa bien y mira lo que has de hacer; porque el rey de Siria va a subir contra ti a la vuelta del año.»
 
-[23](#c20-v23){:#c20-v23} [[182]](#n-182){:#rn-182} Dijeron los siervos del rey de Siria a este: "Los dioses de ellos son dioses de montañas; por eso han podido vencernos; si peleamos contra ellos en tierra llana los venceremos.
+[23](#c20-v23){:#c20-v23} [[182]](#n-182){:#rn-182} Dijeron los siervos del rey de Siria a este: «Los dioses de ellos son dioses de montañas; por eso han podido vencernos; si peleamos contra ellos en tierra llana los venceremos.
 
 [24](#c20-v24){:#c20-v24} Haz ahora esto: Quita a cada uno de los reyes de su puesto, y pon capitanes en su lugar;
 
-[25](#c20-v25){:#c20-v25} y fórmate un ejército semejante al ejército que has perdido, con otros tantos caballos y otros tantos carros, y pelearemos contra ellos en tierra llana, entonces los venceremos." Escuchó él su consejo e hizo así.
+[25](#c20-v25){:#c20-v25} y fórmate un ejército semejante al ejército que has perdido, con otros tantos caballos y otros tantos carros, y pelearemos contra ellos en tierra llana, entonces los venceremos.» Escuchó él su consejo e hizo así.
 
 [26](#c20-v26){:#c20-v26} [[183]](#n-183){:#rn-183} A la vuelta del año, Benhadad pasó revista a los sirios, y subió a Afec para pelear contra Israel.
 
 [27](#c20-v27){:#c20-v27} También los hijos de Israel fueron revistados; y provistos de víveres marcharon al encuentro de ellos. Acamparon los hijos de Israel frente a ellos, como dos rebaños de cabras, en tanto que los sirios llenaban el país.
 
-[28](#c20-v28){:#c20-v28} Entonces se acercó el varón de Dios y dijo al rey de Israel: "Así dice Yahvé: Por cuanto dicen los sirios: Yahvé es un dios de montañas y no un dios de valles, entregaré toda esta inmensa multitud en tu mano; y así conoceréis que Yo soy Yahvé."
+[28](#c20-v28){:#c20-v28} Entonces se acercó el varón de Dios y dijo al rey de Israel: «Así dice Yahvé: Por cuanto dicen los sirios: Yahvé es un dios de montañas y no un dios de valles, entregaré toda esta inmensa multitud en tu mano; y así conoceréis que Yo soy Yahvé.»
 
 [29](#c20-v29){:#c20-v29} Siete días estuvieron acampados unos frente a otros. Al séptimo día se libró la batalla, y los hijos de Israel mataron a los sirios en un día cien mil hombres de infantería.
 
 [30](#c20-v30){:#c20-v30} Los restos huyeron a la ciudad de Afec, donde cayó la muralla sobre los veintisiete mil hombres que habían quedado. También Benhadad había huido para refugiarse en la ciudad, y huía de un aposento a otro.
 
-[31](#c20-v31){:#c20-v31} [[184]](#n-184){:#rn-184} Sus siervos le dijeron: "Mira, nosotros hemos oído que los reyes de la casa de Israel son reyes benignos. Pongámonos, pues, sacos sobre los lomos, y sogas al cuello, y salgamos a ver al rey de Israel; tal vez te deje la vida."
+[31](#c20-v31){:#c20-v31} [[184]](#n-184){:#rn-184} Sus siervos le dijeron: «Mira, nosotros hemos oído que los reyes de la casa de Israel son reyes benignos. Pongámonos, pues, sacos sobre los lomos, y sogas al cuello, y salgamos a ver al rey de Israel; tal vez te deje la vida.»
 
-[32](#c20-v32){:#c20-v32} Se pusieron sacos sobre los lomos y sogas al cuello, y salieron hacia el rey de Israel diciendo: "Tu siervo Benhadad dice: *Déjame, te ruego, la vida*." (Acab) respondió: "¿Vive todavía? Él es mi hermano."
+[32](#c20-v32){:#c20-v32} Se pusieron sacos sobre los lomos y sogas al cuello, y salieron hacia el rey de Israel diciendo: «Tu siervo Benhadad dice: *Déjame, te ruego, la vida*.» (Acab) respondió: «¿Vive todavía? Él es mi hermano.»
 
-[33](#c20-v33){:#c20-v33} Los hombres tomaron esto por buen agüero, y se apresuraron a tomarle por la palabra, diciendo: "¿Benhadad es tu hermano?" Y él dijo: "Id, traedle." Salió Benhadad a verlo, y este le hizo subir a su carro.
+[33](#c20-v33){:#c20-v33} Los hombres tomaron esto por buen agüero, y se apresuraron a tomarle por la palabra, diciendo: «¿Benhadad es tu hermano?» Y él dijo: «Id, traedle.» Salió Benhadad a verlo, y este le hizo subir a su carro.
 
-[34](#c20-v34){:#c20-v34} [[185]](#n-185){:#rn-185} (Benhadad) le dijo: "Las ciudades que mi padre quitó a tu padre, te las restituiré; y tú establecerás para ti en Damasco bazares como los estableció mi padre en Samaria." "Y yo, (dijo Acab), te dejaré libre a base de esta alianza." Hizo, pues, alianza con él, y le dejó ir.
+[34](#c20-v34){:#c20-v34} [[185]](#n-185){:#rn-185} (Benhadad) le dijo: «Las ciudades que mi padre quitó a tu padre, te las restituiré; y tú establecerás para ti en Damasco bazares como los estableció mi padre en Samaria.» «Y yo, (dijo Acab), te dejaré libre a base de esta alianza.» Hizo, pues, alianza con él, y le dejó ir.
 
 #### Un profeta reprende a Acab
 
-[35](#c20-v35){:#c20-v35} [[186]](#n-186){:#rn-186} Entonces uno de los hijos de los profetas dijo a su compañero por orden de Yahvé: "Hiéreme, por favor." Mas aquel hombre se negó a herirlo,
+[35](#c20-v35){:#c20-v35} [[186]](#n-186){:#rn-186} Entonces uno de los hijos de los profetas dijo a su compañero por orden de Yahvé: «Hiéreme, por favor.» Mas aquel hombre se negó a herirlo,
 
-[36](#c20-v36){:#c20-v36} [[187]](#n-187){:#rn-187} por lo cual él le dijo: "Por cuanto no has obedecido la voz de Yahvé, he aquí que te matará un león tan pronto como te apartes de mí." Y apartándose de él, lo halló un león y lo mató.
+[36](#c20-v36){:#c20-v36} [[187]](#n-187){:#rn-187} por lo cual él le dijo: «Por cuanto no has obedecido la voz de Yahvé, he aquí que te matará un león tan pronto como te apartes de mí.» Y apartándose de él, lo halló un león y lo mató.
 
-[37](#c20-v37){:#c20-v37} Después encontró a otro hombre, y le dijo: "Hiéreme, por favor." Y este lo hirió y le hizo una llaga,
+[37](#c20-v37){:#c20-v37} Después encontró a otro hombre, y le dijo: «Hiéreme, por favor.» Y este lo hirió y le hizo una llaga,
 
 [38](#c20-v38){:#c20-v38} entonces se fue el profeta y se puso en el camino del rey, disfrazado con una venda sobre los ojos.
 
-[39](#c20-v39){:#c20-v39} Y cuando el rey pasaba, dio gritos hacia el rey y dijo: "Tu siervo había salido para participar en la batalla; y he aquí que apartándose un hombre me entregó un prisionero, diciendo: Guarda a este hombre. Si de cualquier manera llegare a faltar, tu vida responderá por la suya, o pagarás un talento de plata.
+[39](#c20-v39){:#c20-v39} Y cuando el rey pasaba, dio gritos hacia el rey y dijo: «Tu siervo había salido para participar en la batalla; y he aquí que apartándose un hombre me entregó un prisionero, diciendo: Guarda a este hombre. Si de cualquier manera llegare a faltar, tu vida responderá por la suya, o pagarás un talento de plata.
 
-[40](#c20-v40){:#c20-v40} [[188]](#n-188){:#rn-188} Mas andando tu siervo ocupado en esta y otra parte, he aquí que él escapó." "El rey de Israel le respondió: "Tú mismo has pronunciado tu sentencia."
+[40](#c20-v40){:#c20-v40} [[188]](#n-188){:#rn-188} Mas andando tu siervo ocupado en esta y otra parte, he aquí que él escapó.» El rey de Israel le respondió: «Tú mismo has pronunciado tu sentencia.»
 
 [41](#c20-v41){:#c20-v41} Entonces (el profeta) se quitó apresuradamente la venda de sus ojos, y el rey de Israel conoció que era uno de los profetas.
 
-[42](#c20-v42){:#c20-v42} Y este le dijo: "Así dice Yahvé: Por cuanto has dejado escapar de tu mano al hombre que Yo había entregado al anatema, responderá tu vida por su vida, y tu pueblo por su pueblo."
+[42](#c20-v42){:#c20-v42} Y este le dijo: «Así dice Yahvé: Por cuanto has dejado escapar de tu mano al hombre que Yo había entregado al anatema, responderá tu vida por su vida, y tu pueblo por su pueblo.»
 
 [43](#c20-v43){:#c20-v43} Tras esto el rey de Israel se fue a su casa enojado e irritado; y así llegó a Samaria.
 
@@ -1720,33 +1698,33 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [1](#c21-v1){:#c21-v1} Después de esto sucedió lo siguiente: Nabot de Jesreel tenía una viña que estaba en Jesreel, junto al palacio de Acab, rey de Samaria.
 
-[2](#c21-v2){:#c21-v2} [[189]](#n-189){:#rn-189} Habló Acab a Nabot, diciendo: "Dame tu viña, para que me sirva de huerto para legumbres; porque está tan cerca de mi casa; y yo te daré en su lugar otra viña mejor que ella; o si te parece bien, te pagaré su valor en dinero."
+[2](#c21-v2){:#c21-v2} [[189]](#n-189){:#rn-189} Habló Acab a Nabot, diciendo: «Dame tu viña, para que me sirva de huerto para legumbres; porque está tan cerca de mi casa; y yo te daré en su lugar otra viña mejor que ella; o si te parece bien, te pagaré su valor en dinero.»
 
-[3](#c21-v3){:#c21-v3} [[190]](#n-190){:#rn-190} Nabot respondió a Acab: "¡Líbreme Yahvé de darte la herencia de mis padres!"
+[3](#c21-v3){:#c21-v3} [[190]](#n-190){:#rn-190} Nabot respondió a Acab: «¡Líbreme Yahvé de darte la herencia de mis padres!»
 
-[4](#c21-v4){:#c21-v4} Acab volvió a su casa enojado e irritado, a causa de la respuesta que le había dado Nabot de Jesreel en estos términos: "No te daré la herencia de mis padres." Se echó sobre su cama, ocultó su rostro y no comió nada.
+[4](#c21-v4){:#c21-v4} Acab volvió a su casa enojado e irritado, a causa de la respuesta que le había dado Nabot de Jesreel en estos términos: «No te daré la herencia de mis padres.» Se echó sobre su cama, ocultó su rostro y no comió nada.
 
-[5](#c21-v5){:#c21-v5} Vino a verle Jezabel, su mujer, y le dijo: "¿Por qué está tu espíritu tan triste y no pruebas bocado?"
+[5](#c21-v5){:#c21-v5} Vino a verle Jezabel, su mujer, y le dijo: «¿Por qué está tu espíritu tan triste y no pruebas bocado?»
 
-[6](#c21-v6){:#c21-v6} Él le respondió: "He hablado con Nabot jesreelita, diciéndole: *Dame tu viña por dinero, o si quieres te daré otra viña en cambio de ella.* Pero él contestó: *No te daré mi viña.*"
+[6](#c21-v6){:#c21-v6} Él le respondió: «He hablado con Nabot jesreelita, diciéndole: "Dame tu viña por dinero, o si quieres te daré otra viña en cambio de ella.* Pero él contestó: *No te daré mi viña."»
 
-[7](#c21-v7){:#c21-v7} Jezabel, su mujer, le dijo: "¿Reinas tú efectivamente sobre Israel? ¡Levántate, come pan, y alégrese tu corazón! Yo te daré la viña de Nabot jesreelita."
+[7](#c21-v7){:#c21-v7} Jezabel, su mujer, le dijo: «¿Reinas tú efectivamente sobre Israel? ¡Levántate, come pan, y alégrese tu corazón! Yo te daré la viña de Nabot jesreelita.»
 
 [8](#c21-v8){:#c21-v8} Luego escribió ella cartas en nombre de Acab, sellándolas con el sello de este, y envió las cartas a los ancianos y nobles que habitaban con Nabot en su ciudad.
 
-[9](#c21-v9){:#c21-v9} [[191]](#n-191){:#rn-191} He aquí el contenido de las cartas: "Promulgad un ayuno y sentad a Nabot entre los primeros del pueblo;
+[9](#c21-v9){:#c21-v9} [[191]](#n-191){:#rn-191} He aquí el contenido de las cartas: «Promulgad un ayuno y sentad a Nabot entre los primeros del pueblo;
 
-[10](#c21-v10){:#c21-v10} [[192]](#n-192){:#rn-192} y frente a él poned a dos hombres, hijos de Belial, que depongan contra él, diciendo: *¡Tú has maldecido a Dios y al Rey!* Después sacadle y apedreadle para que muera."
+[10](#c21-v10){:#c21-v10} [[192]](#n-192){:#rn-192} y frente a él poned a dos hombres, hijos de Belial, que depongan contra él, diciendo: "¡Tú has maldecido a Dios y al Rey!" Después sacadle y apedreadle para que muera.»
 
 [11](#c21-v11){:#c21-v11} Sus conciudadanos, los ancianos y nobles que habitaban en su ciudad, hicieron conforme a la orden de Jezabel y según estaba escrito en las cartas que ella les había mandado.
 
 [12](#c21-v12){:#c21-v12} Proclamaron un ayuno y sentaron a Nabot entre los primeros del pueblo.
 
-[13](#c21-v13){:#c21-v13} [[193]](#n-193){:#rn-193} Y vinieron dos hombres, hijos de Belial, que se sentaron en frente de él; y depusieron los hombres de Belial contra Nabot, delante del pueblo, diciendo: "¡Nabot ha maldecido a Dios y al Rey!" Luego le sacaron fuera de la ciudad y le apedrearon, y así murió.
+[13](#c21-v13){:#c21-v13} [[193]](#n-193){:#rn-193} Y vinieron dos hombres, hijos de Belial, que se sentaron en frente de él; y depusieron los hombres de Belial contra Nabot, delante del pueblo, diciendo: «¡Nabot ha maldecido a Dios y al Rey!» Luego le sacaron fuera de la ciudad y le apedrearon, y así murió.
 
-[14](#c21-v14){:#c21-v14} Después enviaron a decir a Jezabel: "Nabot ha sido apedreado y murió."
+[14](#c21-v14){:#c21-v14} Después enviaron a decir a Jezabel: «Nabot ha sido apedreado y murió.»
 
-[15](#c21-v15){:#c21-v15} Cuando Jezabel supo que Nabot había sido apedreado y que había muerto, dijo a Acab: "¡Levántate, toma posesión de la viña de Nabot jesreelita, el cual se negó a dártela por dinero; que ya no vive Nabot, sino que ha muerto!"
+[15](#c21-v15){:#c21-v15} Cuando Jezabel supo que Nabot había sido apedreado y que había muerto, dijo a Acab: «¡Levántate, toma posesión de la viña de Nabot jesreelita, el cual se negó a dártela por dinero; que ya no vive Nabot, sino que ha muerto!»
 
 [16](#c21-v16){:#c21-v16} Al oír Acab la noticia de la muerte de Nabot, se levantó y bajó a la viña de Nabot jesreelita, para tomar posesión de ella.
 
@@ -1754,19 +1732,19 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [17](#c21-v17){:#c21-v17} Entonces fue dirigida la palabra de Yahvé a Elías tesbita en estos términos:
 
-[18](#c21-v18){:#c21-v18} "Levántate, desciende al encuentro de Acab, rey de Israel, que está en Samaria. He aquí que está en la viña de Nabot, adonde ha bajado para tomar posesión de ella.
+[18](#c21-v18){:#c21-v18} «Levántate, desciende al encuentro de Acab, rey de Israel, que está en Samaria. He aquí que está en la viña de Nabot, adonde ha bajado para tomar posesión de ella.
 
-[19](#c21-v19){:#c21-v19} [[194]](#n-194){:#rn-194} Y le hablarás, diciendo: *Así dice Yahvé: No solo has cometido un asesinato, sino que también has robado.* Y le dirás, además: *Así dice Yahvé: En el mismo sitio donde los perros lamieron la sangre de Nabot, lamerán los perros tu propia sangre.*"
+[19](#c21-v19){:#c21-v19} [[194]](#n-194){:#rn-194} Y le hablarás, diciendo: "Así dice Yahvé: No solo has cometido un asesinato, sino que también has robado." Y le dirás, además: "Así dice Yahvé: En el mismo sitio donde los perros lamieron la sangre de Nabot, lamerán los perros tu propia sangre".»
 
-[20](#c21-v20){:#c21-v20} [[195]](#n-195){:#rn-195} Respondió Acab a Elías: "¿Me has hallado enemigo mío?" Y dijo él: "Sí, te he hallado; por cuanto te has vendido para hacer lo que es malo a los ojos de Yahvé.
+[20](#c21-v20){:#c21-v20} [[195]](#n-195){:#rn-195} Respondió Acab a Elías: «¿Me has hallado enemigo mío?» Y dijo él: «Sí, te he hallado; por cuanto te has vendido para hacer lo que es malo a los ojos de Yahvé.
 
 [21](#c21-v21){:#c21-v21} [[196]](#n-196){:#rn-196} He aquí que haré venir el mal sobre ti; barreré tu posteridad, y exterminaré de la casa de Acab a todos los varones, a los esclavos y a los libres en Israel.
 
-[22](#c21-v22){:#c21-v22} Y haré tu casa como la casa de Jeroboam, hijo de Nabat, y como la casa de Baasá, hijo de Ahías, por cuanto me has provocado a ira, haciendo pecar a Israel."
+[22](#c21-v22){:#c21-v22} Y haré tu casa como la casa de Jeroboam, hijo de Nabat, y como la casa de Baasá, hijo de Ahías, por cuanto me has provocado a ira, haciendo pecar a Israel.»
 
-[23](#c21-v23){:#c21-v23} También respecto de Jezabel ha hablado Yahvé, diciendo: "Los perros comerán a Jezabel junto al muro de Jesreel.
+[23](#c21-v23){:#c21-v23} También respecto de Jezabel ha hablado Yahvé, diciendo: «Los perros comerán a Jezabel junto al muro de Jesreel.
 
-[24](#c21-v24){:#c21-v24} [[197]](#n-197){:#rn-197} Al que de Acab muriere en la ciudad, le comerán los perros, y al que muriere en el campo, le comerán las aves del cielo."
+[24](#c21-v24){:#c21-v24} [[197]](#n-197){:#rn-197} Al que de Acab muriere en la ciudad, le comerán los perros, y al que muriere en el campo, le comerán las aves del cielo.»
 
 [25](#c21-v25){:#c21-v25} Pues no hubo nadie como Acab, el cual instigado por su mujer Jezabel se vendió para hacer el mal a los ojos de Yahvé.
 
@@ -1776,7 +1754,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [28](#c21-v28){:#c21-v28} Entonces fue dirigida esta palabra de Yahvé a Elías tesbita:
 
-[29](#c21-v29){:#c21-v29} [[198]](#n-198){:#rn-198} "¿Has visto cómo se humilla Acab delante de Mí? Por cuanto se ha humillado delante de Mí, no descargaré este mal en sus días. En los días de sus hijos haré venir el mal sobre su casa."
+[29](#c21-v29){:#c21-v29} [[198]](#n-198){:#rn-198} «¿Has visto cómo se humilla Acab delante de Mí? Por cuanto se ha humillado delante de Mí, no descargaré este mal en sus días. En los días de sus hijos haré venir el mal sobre su casa.»
 
 ### 1 Reyes [22](#c22) {#c22}
 
@@ -1786,79 +1764,79 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [2](#c22-v2){:#c22-v2} [[199]](#n-199){:#rn-199} Mas al tercer año Josafat, rey de Judá, bajó a ver al rey de Israel.
 
-[3](#c22-v3){:#c22-v3} Dijo entonces el rey de Israel a sus siervos: "¿No sabéis que Ramot-Galaad es nuestra? ¡Y nosotros no hacemos nada para quitársela de las manos del rey de la Siria!"
+[3](#c22-v3){:#c22-v3} Dijo entonces el rey de Israel a sus siervos: «¿No sabéis que Ramot-Galaad es nuestra? ¡Y nosotros no hacemos nada para quitársela de las manos del rey de la Siria!»
 
-[4](#c22-v4){:#c22-v4} Dijo, pues, a Josafat: "¿Quieres ir conmigo para atacar a Ramot-Galaad?" Respondió Josafat al rey de Israel: "Yo hago lo mismo que tú; mi pueblo es tu pueblo, mis caballos son tus caballos."
+[4](#c22-v4){:#c22-v4} Dijo, pues, a Josafat: «¿Quieres ir conmigo para atacar a Ramot-Galaad?» Respondió Josafat al rey de Israel: «Yo hago lo mismo que tú; mi pueblo es tu pueblo, mis caballos son tus caballos.»
 
-[5](#c22-v5){:#c22-v5} Josafat dijo, además, al rey de Israel: "Consulta, te ruego, hoy la palabra de Yahvé."
+[5](#c22-v5){:#c22-v5} Josafat dijo, además, al rey de Israel: «Consulta, te ruego, hoy la palabra de Yahvé.»
 
 #### El profeta Miqueas
 
-[6](#c22-v6){:#c22-v6} [[200]](#n-200){:#rn-200} Juntó, pues, el rey de Israel a los profetas, unos cuatrocientos hombres, y les dijo: "¿Iré a atacar a Ramot-Galaad, o desistiré?" "Sube, dijeron ellos, y el Señor la entregará en manos del rey."
+[6](#c22-v6){:#c22-v6} [[200]](#n-200){:#rn-200} Juntó, pues, el rey de Israel a los profetas, unos cuatrocientos hombres, y les dijo: «¿Iré a atacar a Ramot-Galaad, o desistiré?» «Sube, dijeron ellos, y el Señor la entregará en manos del rey.»
 
-[7](#c22-v7){:#c22-v7} Preguntó entonces Josafat: "¿No hay aquí algún profeta de Yahvé, para que por medio de él hagamos una consulta?"
+[7](#c22-v7){:#c22-v7} Preguntó entonces Josafat: «¿No hay aquí algún profeta de Yahvé, para que por medio de él hagamos una consulta?»
 
-[8](#c22-v8){:#c22-v8} Respondió el rey de Israel a Josafat: "Queda todavía un hombre por cuyo medio podríamos consultar a Yahvé; pero yo le aborrezco, porque nunca me profetiza cosa buena, sino solamente mala. Es Miqueas, hijo de Imlá." Replicó Josafat: "No hable el rey así."
+[8](#c22-v8){:#c22-v8} Respondió el rey de Israel a Josafat: «Queda todavía un hombre por cuyo medio podríamos consultar a Yahvé; pero yo le aborrezco, porque nunca me profetiza cosa buena, sino solamente mala. Es Miqueas, hijo de Imlá.» Replicó Josafat: «No hable el rey así.»
 
-[9](#c22-v9){:#c22-v9} Llamó, pues, el rey de Israel a un eunuco y dijo: "Trae presto a Miqueas, hijo de Imlá."
+[9](#c22-v9){:#c22-v9} Llamó, pues, el rey de Israel a un eunuco y dijo: «Trae presto a Miqueas, hijo de Imlá.»
 
 [10](#c22-v10){:#c22-v10} El rey de Israel y Josafat, rey de Judá, estaban sentados cada uno en su trono, vestidos de gala, en una plaza contigua a la entrada de la puerta de Samaria, y todos los profetas profetizaban delante de ellos.
 
-[11](#c22-v11){:#c22-v11} Sedecías, hijo de Canaaná, se había hecho cuernos de hierro, y decía: "Así dice Yahvé: *Con estos acornearás a los sirios hasta acabar con ellos.*"
+[11](#c22-v11){:#c22-v11} Sedecías, hijo de Canaaná, se había hecho cuernos de hierro, y decía: «Así dice Yahvé: "Con estos acornearás a los sirios hasta acabar con ellos".»
 
 [12](#c22-v12){:#c22-v12} Y todos los profetas profetizaban de la misma manera, diciendo: Sube a Ramot-Galaad, y tendrás éxito, pues Yahvé la entregará en manos del rey."
 
-[13](#c22-v13){:#c22-v13} Entretanto, el mensajero que había ido a llamar a Miqueas, le habló de esta manera: "Mira cómo los oráculos de los profetas anuncian unánimemente prósperos sucesos al rey; sea, pues, tu oráculo como el oráculo de cada uno de ellos; habla favorablemente."
+[13](#c22-v13){:#c22-v13} Entretanto, el mensajero que había ido a llamar a Miqueas, le habló de esta manera: «Mira cómo los oráculos de los profetas anuncian unánimemente prósperos sucesos al rey; sea, pues, tu oráculo como el oráculo de cada uno de ellos; habla favorablemente.»
 
-[14](#c22-v14){:#c22-v14} Respondió Miqueas: "¡Vive Yahvé, que hablaré solamente lo que me dijere Yahvé!"
+[14](#c22-v14){:#c22-v14} Respondió Miqueas: «¡Vive Yahvé, que hablaré solamente lo que me dijere Yahvé!»
 
-[15](#c22-v15){:#c22-v15} [[201]](#n-201){:#rn-201} Llegado al rey, este le preguntó: "Miqueas, ¿debemos ir a atacar a Ramot-Galaad, o debemos desistir?" Contestó él: "Sube y saldrás bien, pues Yahvé la entregará en manos del rey."
+[15](#c22-v15){:#c22-v15} [[201]](#n-201){:#rn-201} Llegado al rey, este le preguntó: «Miqueas, ¿debemos ir a atacar a Ramot-Galaad, o debemos desistir?» Contestó él: «Sube y saldrás bien, pues Yahvé la entregará en manos del rey.»
 
-[16](#c22-v16){:#c22-v16} Dijole el rey: "¿Hasta cuántas veces he de conjurarte que no me digas sino la verdad en nombre de Yahvé?"
+[16](#c22-v16){:#c22-v16} Dijole el rey: «¿Hasta cuántas veces he de conjurarte que no me digas sino la verdad en nombre de Yahvé?»
 
-[17](#c22-v17){:#c22-v17} [[202]](#n-202){:#rn-202} Respondió (Miqueas): "Yo he visto a todo Israel disperso por las montañas, como ovejas sin pastor"; y dijo Yahvé: "Estos no tienen señor; vuélvase cada cual en paz a su casa."
+[17](#c22-v17){:#c22-v17} [[202]](#n-202){:#rn-202} Respondió (Miqueas): «Yo he visto a todo Israel disperso por las montañas, como ovejas sin pastor»; y dijo Yahvé: «Estos no tienen señor; vuélvase cada cual en paz a su casa.»
 
-[18](#c22-v18){:#c22-v18} Dijo entonces el rey de Israel a Josafat: "¿No te dije: Este nunca me profetiza cosa buena, sino solamente mala?"
+[18](#c22-v18){:#c22-v18} Dijo entonces el rey de Israel a Josafat: «¿No te dije: Este nunca me profetiza cosa buena, sino solamente mala?»
 
-[19](#c22-v19){:#c22-v19} [[203]](#n-203){:#rn-203} A lo cual contestó (Miqueas): "Oye, por tanto, el oráculo de Yahvé: He visto a Yahvé sentado sobre su trono, y todo el ejército celestial estaba alrededor de él, a su derecha y a su izquierda.
+[19](#c22-v19){:#c22-v19} [[203]](#n-203){:#rn-203} A lo cual contestó (Miqueas): «Oye, por tanto, el oráculo de Yahvé: He visto a Yahvé sentado sobre su trono, y todo el ejército celestial estaba alrededor de él, a su derecha y a su izquierda.
 
-[20](#c22-v20){:#c22-v20} Y preguntó Yahvé: *¿Quién engañara a Acab, para que suba y caiga en Ramot-Galaad?* Y habló uno de esta manera, y otro de otra.
+[20](#c22-v20){:#c22-v20} Y preguntó Yahvé: "¿Quién engañara a Acab, para que suba y caiga en Ramot-Galaad?" Y habló uno de esta manera, y otro de otra.
 
-[21](#c22-v21){:#c22-v21} En ese momento vino el (mal) espíritu, que presentándose delante de Yahvé, dijo: *Yo lo engañaré.* Yahvé le preguntó: *¿De qué manera?*
+[21](#c22-v21){:#c22-v21} En ese momento vino el (mal) espíritu, que presentándose delante de Yahvé, dijo: "Yo lo engañaré." Yahvé le preguntó: "¿De qué manera?"
 
-[22](#c22-v22){:#c22-v22} Respondió él: *Saldré y seré espíritu de mentira en boca de todos sus profetas.* Y dijo Yahvé: *Tú lo engañarás y tendrás éxito. Sal, y hazlo así.*
+[22](#c22-v22){:#c22-v22} Respondió él: "Saldré y seré espíritu de mentira en boca de todos sus profetas." Y dijo Yahvé: "Tú lo engañarás y tendrás éxito. Sal, y hazlo así."
 
-[23](#c22-v23){:#c22-v23} Ahora, pues, he aquí que Yahvé ha puesto un espíritu de mentira en boca de todos estos tus profetas; pues Yahvé tiene decretada contra ti la desventura."
+[23](#c22-v23){:#c22-v23} Ahora, pues, he aquí que Yahvé ha puesto un espíritu de mentira en boca de todos estos tus profetas; pues Yahvé tiene decretada contra ti la desventura.»
 
 #### Encarcelamiento de Miqueas
 
-[24](#c22-v24){:#c22-v24} Se acercó entonces Sedecías, hijo de Canaaná, y abofeteó a Miqueas, diciéndole: "¿Ha salido acaso de mí el espíritu de Yahvé, Miqueas, para hablarte a ti?"
+[24](#c22-v24){:#c22-v24} Se acercó entonces Sedecías, hijo de Canaaná, y abofeteó a Miqueas, diciéndole: «¿Ha salido acaso de mí el espíritu de Yahvé, Miqueas, para hablarte a ti?»
 
-[25](#c22-v25){:#c22-v25} Respondió Miqueas: "Ya lo verás en aquel día en que huyas de aposento en aposento para esconderte."
+[25](#c22-v25){:#c22-v25} Respondió Miqueas: «Ya lo verás en aquel día en que huyas de aposento en aposento para esconderte.»
 
-[26](#c22-v26){:#c22-v26} [[204]](#n-204){:#rn-204} Dijo entonces el rey de Israel (al eunuco): "Prende a Miqueas y llévalo a Amón, comandante de la ciudad, y a Joás, hijo del rey. Les dirás:
+[26](#c22-v26){:#c22-v26} [[204]](#n-204){:#rn-204} Dijo entonces el rey de Israel (al eunuco): «Prende a Miqueas y llévalo a Amón, comandante de la ciudad, y a Joás, hijo del rey. Les dirás:
 
-[27](#c22-v27){:#c22-v27} Así dice el Rey: *Meted a este en la cárcel, y alimentadle con pan de aflicción, y agua de aflicción, hasta que yo regrese en paz*."
+[27](#c22-v27){:#c22-v27} Así dice el Rey: "Meted a este en la cárcel, y alimentadle con pan de aflicción, y agua de aflicción, hasta que yo regrese en paz".»
 
-[28](#c22-v28){:#c22-v28} A lo que dijo Miqueas: "Si tú, de veras vuelves en paz, no ha hablado Yahvé por mi boca." Y agregó: "¡Oídlo, pueblos todos!"
+[28](#c22-v28){:#c22-v28} A lo que dijo Miqueas: «Si tú, de veras vuelves en paz, no ha hablado Yahvé por mi boca.» Y agregó: «¡Oídlo, pueblos todos!»
 
 #### Muerte de Acab
 
 [29](#c22-v29){:#c22-v29} Subieron, pues, el rey de Israel y Josafat, rey de Judá, a Ramot-Galaad.
 
-[30](#c22-v30){:#c22-v30} [[205]](#n-205){:#rn-205} Y dijo el rey de Israel a Josafat: "Voy a disfrazarme para la batalla, mas tú ponte tus vestiduras." El rey de Israel se disfrazó, y se metió en la batalla.
+[30](#c22-v30){:#c22-v30} [[205]](#n-205){:#rn-205} Y dijo el rey de Israel a Josafat: «Voy a disfrazarme para la batalla, mas tú ponte tus vestiduras.» El rey de Israel se disfrazó, y se metió en la batalla.
 
-[31](#c22-v31){:#c22-v31} Ahora bien, el rey de Siria había dado esta orden a los treinta y dos capitanes de sus carros: "No ataquéis a ninguno, ni chico ni grande, sino tan solo al rey de Israel."
+[31](#c22-v31){:#c22-v31} Ahora bien, el rey de Siria había dado esta orden a los treinta y dos capitanes de sus carros: «No ataquéis a ninguno, ni chico ni grande, sino tan solo al rey de Israel.»
 
-[32](#c22-v32){:#c22-v32} Viendo, pues, los capitanes de los carros a Josafat, dijeron: "Sin duda es este el rey de Israel; y se arrojaron sobre él para atacarlo", pero Josafat gritó;
+[32](#c22-v32){:#c22-v32} Viendo, pues, los capitanes de los carros a Josafat, dijeron: «Sin duda es este el rey de Israel; y se arrojaron sobre él para atacarlo», pero Josafat gritó;
 
 [33](#c22-v33){:#c22-v33} y viendo los capitanes de los carros que no era el rey de Israel, le dejaron.
 
-[34](#c22-v34){:#c22-v34} Mas un hombre tiró con un arco al azar, e hirió al rey de Israel por entre las junturas de la coraza. Dijo entonces (el rey) al conductor de su carro: "¡Vuélvete y sácame del combate, porque estoy herido!"
+[34](#c22-v34){:#c22-v34} Mas un hombre tiró con un arco al azar, e hirió al rey de Israel por entre las junturas de la coraza. Dijo entonces (el rey) al conductor de su carro: «¡Vuélvete y sácame del combate, porque estoy herido!»
 
 [35](#c22-v35){:#c22-v35} Arreció el combate en aquel día, mas el rey se sostenía de pie en su carro, frente a los sirios. Murió por la tarde, y la sangre de la herida corría por el fondo del carro.
 
-[36](#c22-v36){:#c22-v36} Al ponerse el sol, pasó por el campamento este grito: "¡Cada cual a su ciudad y cada cual a su tierra!"
+[36](#c22-v36){:#c22-v36} Al ponerse el sol, pasó por el campamento este grito: «¡Cada cual a su ciudad y cada cual a su tierra!»
 
 [37](#c22-v37){:#c22-v37} Así murió el rey, y fue llevado a Samaria. Allí sepultaron al rey.
 
@@ -1888,7 +1866,7 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [49](#c22-v49){:#c22-v49} [[209]](#n-209){:#rn-209} Josafat construyó naves de Tarsis, para que fuesen a Ofir en busca de oro; mas no fueron, porque las naves se destrozaron en Esionguéber.
 
-[50](#c22-v50){:#c22-v50} Dijo entonces Ococías, hijo de Acab, a Josafat: "Mis siervos podrían ir con tus siervos en las naves", pero Josafat no quiso.
+[50](#c22-v50){:#c22-v50} Dijo entonces Ococías, hijo de Acab, a Josafat: «Mis siervos podrían ir con tus siervos en las naves», pero Josafat no quiso.
 
 [51](#c22-v51){:#c22-v51} Se durmió Josafat con sus padres, y fue sepultado con sus padres en la ciudad de su padre David; y reinó en su lugar su hijo Joram.
 

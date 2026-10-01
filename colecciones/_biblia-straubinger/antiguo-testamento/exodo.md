@@ -4069,7 +4069,7 @@ Lo mismo expresa la Liturgia en el Oficio de la Virgen:
 [5, 2](#c5-v2) He aquí los primeros indicios del endurecimiento del Faraón (cf. [4, 21](#c4-v21) y nota); la incredulidad y soberbia.
 {:#nt-c5-v2}
 
-> «Todo soberbio, dice San Bernardo, se hace superior a Dios. Dios quiere que se haga su voluntad, y el soberbio quiere que se haga la suya propia» (Serm. IV in Vig. Nat.).
+> «Todo soberbio —dice San Bernardo— se hace superior a Dios. Dios quiere que se haga su voluntad, y el soberbio quiere que se haga la suya propia» (Serm. IV in Vig. Nat.).
 
 Ese endurecimiento causará al Faraón y a todo su pueblo una larga serie de castigos (cap. [7](#c7) ss.).
 

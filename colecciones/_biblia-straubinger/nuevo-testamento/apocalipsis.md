@@ -178,9 +178,9 @@ En los 404 versículos del Apocalipsis se encuentran 518 citas del Antiguo Testa
 
 ### A la iglesia de Laodicea
 
-[14](#c3-v14){:#c3-v14} Al ángel, de la Iglesia de Laodicea escríbele:
+[14](#c3-v14){:#c3-v14} Al ángel, de la Iglesia de Laodicea escríbele: Esto dice el Amén [[46]](#n-46){:#rn-46}, el testigo fiel y veraz, el principio de la creación de Dios:
 
-[15](#c3-v15){:#c3-v15} Esto dice el Amén [[46]](#n-46){:#rn-46}, el testigo fiel y veraz, el principio de la creación de Dios: "Conozco tus obras: no eres ni frío ni hirviente. ¡Ojalá fueras frío o hirviente! [[47]](#n-47){:#rn-47}
+[15](#c3-v15){:#c3-v15} "Conozco tus obras: no eres ni frío ni hirviente. ¡Ojalá fueras frío o hirviente! [[47]](#n-47){:#rn-47}
 
 [16](#c3-v16){:#c3-v16} Así, porque eres tibio, y ni hirviente ni frío, voy a vomitarte de mi boca.
 

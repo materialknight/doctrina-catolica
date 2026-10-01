@@ -100,7 +100,7 @@ title: Carta del apóstol san Pablo a los Romanos
 [1, 26](#c1-v26) Por esto los entregó Dios a pasiones vergonzosas, pues hasta sus mujeres cambiaron el uso natural por el que es contra naturaleza [[\*\*]](#nt-c1-v26).
 {:#c1-v26}
 
-[1, 27](#c1-v27) E igualmente los varones, dejando el uso natural de la mujer, se abrazaron en mutua concupiscencia, cometiendo cosas ignominiosas varones con varones, y recibiendo en sí mismos la paga merecida de sus extravíos.
+[1, 27](#c1-v27) E igualmente los varones, dejando el uso natural de la mujer, se abrasaron en mutua concupiscencia, cometiendo cosas ignominiosas varones con varones, y recibiendo en sí mismos la paga merecida de sus extravíos.
 {:#c1-v27}
 
 [1, 28](#c1-v28) Y como no estimaron el conocimiento de Dios, los entregó Dios a una mente depravada para hacer lo indebido,

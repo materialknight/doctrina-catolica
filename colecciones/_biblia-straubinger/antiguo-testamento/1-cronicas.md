@@ -4,22 +4,6 @@ title: 1 Crónicas (I Paralipómenos)
 
 {% include bible/toc-auto.html %}
 
-## Introducción
-
-Los dos Libros de los Paralipómenos formaron en su origen un solo libro. Fueron divididos en dos por los Setenta, probablemente por razones prácticas.
-
-Paralipómenos, es decir Suplementos, se llaman en griego estos libros porque traen cosas omitidas en los demás libros sagrados; pero además son un resumen de la historia del Antiguo Testamento. Los judíos los llamaban "las Palabras de los Días", y San Jerónimo, para señalar su importancia, les dio el nombre de "Crónica de las Crónicas". Pero no deben confundirse con el Libro de las Crónicas o Anales, tantas veces citados en los libros de los Reyes, y en estos mismos; aquel se perdió, pero es posible que estuviese resumido en estos.
-
-El primer libro refiere en su primera parte (caps. 1-9) las genealogías desde Adán hasta David, y en la segunda (caps. 10-29) la historia de David.
-
-El libro segundo trata primeramente de la historia de Salomón (1-9) y luego principalmente del reino de Judá hasta su caída (10-36), incluyendo el decreto de libertad dado por Ciro.
-
-Si bien los Paralipómenos son un resumen de la Historia Sagrada, constituyen, sin embargo, una obra personal e independiente. El fin que se propuso el autor fue demostrar que los tiempos en que el pueblo de Dios cumplía con la Ley, eran los mejores. Por eso pasa por alto los acontecimientos que no están relacionados con la religión y el culto; lo que, sin embargo, no quiere decir que su obra no tenga valor histórico. Muy al contrario, en la esfera religiosa, a que se limita el autor, pudo recurrir a otras fuentes, ante todo, las listas genealógicas guardadas en el Templo, las cuales no estaban al alcance de otros historiadores.
-
-Las llamadas contradicciones con otros libros del Antiguo Testamento se solucionan fácilmente para los que adoptan las reglas de una sana hermenéutica, y no se erigen orgullosamente en jueces de la Palabra divina. Pues, como observa San Jerónimo, todo el conocimiento de las Escrituras se encierra en este volumen, en cuanto a la inteligencia de la historia.
-
-El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Nehemías, y para demostrar su tesis aducen la semejanza de estilo, explicando, por otra parte, como adiciones posteriores todas las cosas que denuncian un origen más moderno, p. ej. la prolongación de la genealogía davídica hasta seis generaciones después de Zorobabel, etc. Seguramente los dos libros no han sido compuestos antes del cautiverio babilónico, sino probablemente en tiempos de la restauración del pueblo judío, con el fin de ilustrar sobre su historia sagrada a los judíos vueltos a su tierra, y facilitar el reparto de esta según las genealogías. Quiso inculcarles que eran un pueblo teocrático, separado de los demás pueblos de la tierra y elegido para dar culto a Yahvé. De ahí la preferencia que el autor diera a la organización del culto que es el sello de la unión de Dios con su pueblo.
-
 ## I. Tablas genealógicas
 
 ### 1 Crónicas [1](#c1) {#c1}
@@ -326,9 +310,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [8](#c4-v8){:#c4-v8} Cos engendró a Anob, a Zobebá y las familias de Aharhel, hijo de Harum.
 
-[9](#c4-v9){:#c4-v9} Jabés fue más ilustre que sus hermanos; su madre le dio el nombre de Jabés, diciendo: "Porque le di a luz con dolor."
+[9](#c4-v9){:#c4-v9} Jabés fue más ilustre que sus hermanos; su madre le dio el nombre de Jabés, diciendo: «Porque le di a luz con dolor.»
 
-[10](#c4-v10){:#c4-v10} Jabés invocó al Dios de Israel, diciendo: "Cólmame, te ruego, de bendiciones y ensancha mis términos; protégeme con tu mano y guárdame del mal, de modo que no padezca aflicción." Y Dios le otorgó su petición.
+[10](#c4-v10){:#c4-v10} Jabés invocó al Dios de Israel, diciendo: «Cólmame, te ruego, de bendiciones y ensancha mis términos; protégeme con tu mano y guárdame del mal, de modo que no padezca aflicción.» Y Dios le otorgó su petición.
 
 [11](#c4-v11){:#c4-v11} Kelub, hermano de Suhá, engendró a Mehir, que fue padre de Estón.
 
@@ -448,7 +432,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [22](#c5-v22){:#c5-v22} [[31]](#n-31){:#rn-31} Y hubo muchos muertos, porque la guerra venía de Dios. Habitaron en su lugar hasta el cautiverio.
 
-#### Descendientes de la media tribu de Manasés.
+#### Descendientes de la media tribu de Manasés
 
 [23](#c5-v23){:#c5-v23} Los hijos de la media tribu de Manasés habitaron en el país desde Basán hasta Baalhermón, hasta Senir y el monte Hermón.
 
@@ -920,7 +904,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [3](#c10-v3){:#c10-v3} Entonces se concentró el combate sobre Saúl, pues lo descubrieron los flecheros; y tembló ante los flecheros.
 
-[4](#c10-v4){:#c10-v4} Por lo cual dijo Saúl a su escudero: "Desenvaina tu espada y traspásame con ella; no sea que vengan estos incircuncisos y hagan escarnio de mí." Mas no quiso su escudero, porque tuvo gran temor. Entonces tomó Saúl su espada y se arrojó sobre ella.
+[4](#c10-v4){:#c10-v4} Por lo cual dijo Saúl a su escudero: «Desenvaina tu espada y traspásame con ella; no sea que vengan estos incircuncisos y hagan escarnio de mí.» Mas no quiso su escudero, porque tuvo gran temor. Entonces tomó Saúl su espada y se arrojó sobre ella.
 
 [5](#c10-v5){:#c10-v5} Cuando su escudero vio que Saúl era muerto, se echó también él sobre su espada y murió.
 
@@ -946,9 +930,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 #### David, rey en Hebrón
 
-[1](#c11-v1){:#c11-v1} [[65]](#n-65){:#rn-65} Todo Israel se congregó en torno a David, en Hebrón, diciendo: "He aquí que somos hueso tuyo y carne tuya.
+[1](#c11-v1){:#c11-v1} [[65]](#n-65){:#rn-65} Todo Israel se congregó en torno a David, en Hebrón, diciendo: «He aquí que somos hueso tuyo y carne tuya.
 
-[2](#c11-v2){:#c11-v2} Ya antes, cuando Saúl reinaba todavía, tú sacabas (a campaña) a Israel y lo conducías a casa; y a ti te ha dicho Yahvé tu Dios: Tú apacentarás a Israel, mi pueblo, y tú serás el caudillo de Israel, mi pueblo."
+[2](#c11-v2){:#c11-v2} Ya antes, cuando Saúl reinaba todavía, tú sacabas (a campaña) a Israel y lo conducías a casa; y a ti te ha dicho Yahvé tu Dios: Tú apacentarás a Israel, mi pueblo, y tú serás el caudillo de Israel, mi pueblo.»
 
 [3](#c11-v3){:#c11-v3} Vinieron todos los ancianos de Israel al rey, a Hebrón y el rey David hizo con ellos alianza en Hebrón en la presencia de Yahvé; y ellos ungieron a David por rey sobre Israel, según la palabra que Yahvé había pronunciado por boca de Samuel.
 
@@ -956,9 +940,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [4](#c11-v4){:#c11-v4} Después marchó David con todo Israel contra Jerusalén, que es Jebús, donde (aún residían) los jebuseos, habitantes del país.
 
-[5](#c11-v5){:#c11-v5} [[66]](#n-66){:#rn-66} Y decían los habitantes de Jebús a David: "No podrás entrar aquí." Pero David tomó la fortaleza de Sión, que es la ciudad de David;
+[5](#c11-v5){:#c11-v5} [[66]](#n-66){:#rn-66} Y decían los habitantes de Jebús a David: «No podrás entrar aquí.» Pero David tomó la fortaleza de Sión, que es la ciudad de David;
 
-[6](#c11-v6){:#c11-v6} pues dijo David: "El que primero hiera a los jebuseos, será jefe y capitán." Y Joab, hijo de Sarvia, subió el primero, y resultó jefe.
+[6](#c11-v6){:#c11-v6} pues dijo David: «El que primero hiera a los jebuseos, será jefe y capitán.» Y Joab, hijo de Sarvia, subió el primero, y resultó jefe.
 
 [7](#c11-v7){:#c11-v7} David se estableció en la fortaleza; por esto la llamaron ciudad de David.
 
@@ -982,11 +966,11 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [16](#c11-v16){:#c11-v16} David estaba a la sazón en la fortaleza, y una guarnición de filisteos ocupaba Betlehem.
 
-[17](#c11-v17){:#c11-v17} Entonces le vino a David un deseo, y dijo: "¡Quién me diera de beber de las aguas del pozo de Betlehem, que está junto a la puerta!"
+[17](#c11-v17){:#c11-v17} Entonces le vino a David un deseo, y dijo: «¡Quién me diera de beber de las aguas del pozo de Betlehem, que está junto a la puerta!»
 
 [18](#c11-v18){:#c11-v18} Al punto aquellos tres se abrieron paso a través del campamento de los filisteos, y sacaron agua del pozo de Betlehem, que está contigua a la puerta, y tomándola la llevaron a David. Mas no quiso David bebería, sino que hizo una libación a Yahvé,
 
-[19](#c11-v19){:#c11-v19} diciendp: "¡Líbrame Dios de hacer tal cosa! ¿Voy a beber yo la sangre de estos hombres junto con sus vidas? pues con riesgo de sus vidas la han traído." Por tanto no quiso beberla. Esto hicieron los tres héroes.
+[19](#c11-v19){:#c11-v19} diciendp: «¡Líbrame Dios de hacer tal cosa! ¿Voy a beber yo la sangre de estos hombres junto con sus vidas? pues con riesgo de sus vidas la han traído.» Por tanto no quiso beberla. Esto hicieron los tres héroes.
 
 [20](#c11-v20){:#c11-v20} Abisai, hermano de Joab, era jefe de los treinta. Blandió su lanza contra trescientos que mató, y tuvo nombre entre los treinta.
 
@@ -1048,7 +1032,6 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 #### Los primeros compañeros de David
 
-
 [1](#c12-v1){:#c12-v1} [[74]](#n-74){:#rn-74} Estos son los que se afiliaron a David en Siceleg, cuando estaba alejado de la presencia de Saúl, hijo de Cis. Estos son también del número de los valientes que le ayudaron en la guerra.
 
 [2](#c12-v2){:#c12-v2} Manejaban el arco, y eran diestros en (arrojar) piedras con la mano derecha y con la izquierda, y saetas con el arco. Eran parientes de Saúl, benjaminitas.
@@ -1081,11 +1064,11 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [16](#c12-v16){:#c12-v16} Asimismo algunos de los hijos de Benjamín y de Judá vinieron a la fortaleza, donde estaba David.
 
-[17](#c12-v17){:#c12-v17} David se presentó delante de ellos, y tomando la palabra, les dijo: "Si venís a mí con intenciones pacíficas para ayudarme, mi corazón se unirá con vosotros; pero si es para engañarme y entregarme a mis enemigos, siendo mis manos limpias de maldad, ¡véalo el Dios de nuestros padres, y sea juez!"
+[17](#c12-v17){:#c12-v17} David se presentó delante de ellos, y tomando la palabra, les dijo: «Si venís a mí con intenciones pacíficas para ayudarme, mi corazón se unirá con vosotros; pero si es para engañarme y entregarme a mis enemigos, siendo mis manos limpias de maldad, ¡véalo el Dios de nuestros padres, y sea juez!»
 
-[18](#c12-v18){:#c12-v18} [[77]](#n-77){:#rn-77} Entonces el Espíritu revistió a Amasai, jefe de los treinta (y dijo): "¡Tuyos somos, oh David; y contigo estamos, hijo de Isaí! ¡Paz, paz a ti, y paz a cuantos te ayuden! Pues a ti te ayuda tu Dios." Y David los recibió, y los puso entre los jefes del ejército.
+[18](#c12-v18){:#c12-v18} [[77]](#n-77){:#rn-77} Entonces el Espíritu revistió a Amasai, jefe de los treinta (y dijo): «¡Tuyos somos, oh David; y contigo estamos, hijo de Isaí! ¡Paz, paz a ti, y paz a cuantos te ayuden! Pues a ti te ayuda tu Dios.» Y David los recibió, y los puso entre los jefes del ejército.
 
-[19](#c12-v19){:#c12-v19} También de Manasés se unieron algunos con David, cuando este juntamente con los filisteos hizo guerra contra Saúl, bien que no ayudó a estos; pues los príncipes de los filisteos, habido consejo, lo despidieron, diciendo: "Se pasará a Saúl, su señor, y arriesgaremos nuestras cabezas."
+[19](#c12-v19){:#c12-v19} También de Manasés se unieron algunos con David, cuando este juntamente con los filisteos hizo guerra contra Saúl, bien que no ayudó a estos; pues los príncipes de los filisteos, habido consejo, lo despidieron, diciendo: «Se pasará a Saúl, su señor, y arriesgaremos nuestras cabezas.»
 
 [20](#c12-v20){:#c12-v20} Así cuando regresó a Siceleg, algunos de los hijos de Manasés se pasaron a él: Adná, Jozabad, Jediael, Micael, Jozabad, Eliú y Silletai, jefes militares de Manasés.
 
@@ -1133,13 +1116,13 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 ### 1 Crónicas [13](#c13) {#c13}
 
-#### Traslado del arca a la casa de Obededom
+#### Traslado del Arca a la casa de Obededom
 
 [1](#c13-v1){:#c13-v1} [[82]](#n-82){:#rn-82} Después de consultar con los tribunos y centuriones y con todos los príncipes,
 
-[2](#c13-v2){:#c13-v2} dijo David a toda la asamblea de Israel: "Si os parece bien y la cosa viene de Yahvé, nuestro Dios, vamos a mandar mensajeros por todas partes a (llamar a) nuestros hermanos que han quedado en todas las regiones de Israel y, además, a los sacerdotes y levitas en sus ciudades y ejidos, para que se reúnan con nosotros;
+[2](#c13-v2){:#c13-v2} dijo David a toda la asamblea de Israel: «Si os parece bien y la cosa viene de Yahvé, nuestro Dios, vamos a mandar mensajeros por todas partes a (llamar a) nuestros hermanos que han quedado en todas las regiones de Israel y, además, a los sacerdotes y levitas en sus ciudades y ejidos, para que se reúnan con nosotros;
 
-[3](#c13-v3){:#c13-v3} y volvamos a restituirnos el Arca de nuestro Dios, ya que no la hemos buscado en los días de Saúl."
+[3](#c13-v3){:#c13-v3} y volvamos a restituirnos el Arca de nuestro Dios, ya que no la hemos buscado en los días de Saúl.»
 
 [4](#c13-v4){:#c13-v4} Toda la asamblea resolvió hacer así, pues la propuesta pareció bien a todo el pueblo.
 
@@ -1157,7 +1140,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [11](#c13-v11){:#c13-v11} [[85]](#n-85){:#rn-85} Entonces David se contristó, porque Yahvé había infligido a Uzzá tal castigo; y aquel sitio se llama Peres-Uzzá hasta hoy día.
 
-[12](#c13-v12){:#c13-v12} Y David tuvo en aquel día miedo a Dios, y dijo: "¿Cómo voy a traer a mí el Arca de Dios?"
+[12](#c13-v12){:#c13-v12} Y David tuvo en aquel día miedo a Dios, y dijo: «¿Cómo voy a traer a mí el Arca de Dios?»
 
 [13](#c13-v13){:#c13-v13} Por lo cual David no trasladó el Arca de Dios hacia él, a la ciudad de David, sino que la hizo desviar a la casa de Obededom geteo.
 
@@ -1187,17 +1170,17 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [9](#c14-v9){:#c14-v9} Llegaron los filisteos y se extendieron en el valle de Refaím.
 
-[10](#c14-v10){:#c14-v10} Entonces David consultó a Dios, preguntando: "¿Subiré contra los filisteos? ¿Los entregarás en mi mano?" Y Yahvé le respondió: "Sube, pues Yo los entregaré en tu mano".
+[10](#c14-v10){:#c14-v10} Entonces David consultó a Dios, preguntando: «¿Subiré contra los filisteos? ¿Los entregarás en mi mano?» Y Yahvé le respondió: «Sube, pues Yo los entregaré en tu mano».
 
-[11](#c14-v11){:#c14-v11} [[88]](#n-88){:#rn-88} Y subieron a Baal-Ferasim, donde David los derrotó. Dijo entonces David: "Dios ha quebrantado a mis enemigos por mi mano, como las aguas rompen (los diques) y por eso aquel lugar se llamó Baal-Ferasim."
+[11](#c14-v11){:#c14-v11} [[88]](#n-88){:#rn-88} Y subieron a Baal-Ferasim, donde David los derrotó. Dijo entonces David: «Dios ha quebrantado a mis enemigos por mi mano, como las aguas rompen (los diques) y por eso aquel lugar se llamó *Baal-Ferasim*.»
 
 [12](#c14-v12){:#c14-v12} Dejaron allí sus dioses, que por orden de David fueron arrojados al fuego.
 
 [13](#c14-v13){:#c14-v13} Otra vez invadieron los filisteos el valle,
 
-[14](#c14-v14){:#c14-v14} y David volvió a consultar a Dios, el cual le contestó: "No subas tras de ellos; aléjate de ellos, para acometerlos desde el lado de las balsameras.
+[14](#c14-v14){:#c14-v14} y David volvió a consultar a Dios, el cual le contestó: «No subas tras de ellos; aléjate de ellos, para acometerlos desde el lado de las balsameras.
 
-[15](#c14-v15){:#c14-v15} [[89]](#n-89){:#rn-89} Y cuando oigas el ruido de pasos por las copas de las balsameras, saldrás a la batalla, porque Dios va marchando delante de ti para derrotar el campamento de los filisteos."
+[15](#c14-v15){:#c14-v15} [[89]](#n-89){:#rn-89} Y cuando oigas el ruido de pasos por las copas de las balsameras, saldrás a la batalla, porque Dios va marchando delante de ti para derrotar el campamento de los filisteos.»
 
 [16](#c14-v16){:#c14-v16} David hizo como le había mandado Dios; y derrotaron el campamento de los filisteos desde Gabaón hasta Géser.
 
@@ -1209,7 +1192,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [1](#c15-v1){:#c15-v1} [[90]](#n-90){:#rn-90} David se hizo casas en la ciudad de David, y preparó un lugar para el Arca de Dios, erigiendo para ella un Tabernáculo,
 
-[2](#c15-v2){:#c15-v2} [[91]](#n-91){:#rn-91} Entonces dijo David: "Solamente los levitas han de llevar el Arca de Dios, pues a ellos los escogió Yahvé para llevar el Arca de Dios, y para hacer el servicio ante Él para siempre."
+[2](#c15-v2){:#c15-v2} [[91]](#n-91){:#rn-91} Entonces dijo David: «Solamente los levitas han de llevar el Arca de Dios, pues a ellos los escogió Yahvé para llevar el Arca de Dios, y para hacer el servicio ante Él para siempre.»
 
 [3](#c15-v3){:#c15-v3} Congregó David a todo Israel en Jerusalén para subir el Arca de Yahvé al lugar que para ella había preparado.
 
@@ -1229,9 +1212,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [11](#c15-v11){:#c15-v11} David llamó también a los sacerdotes Sadoc y Abiatar, y a los levitas Uriel, Asaías, Joel, Semeías, Eliel y Aminadab,
 
-[12](#c15-v12){:#c15-v12} [[92]](#n-92){:#rn-92} y les dijo: "Vosotros sois los jefes de las casas paternas de los levitas. Santificaos, vosotros y vuestros hermanos, para subir el Arca de Yahvé, el Dios de Israel, al lugar que para ella tengo preparado;
+[12](#c15-v12){:#c15-v12} [[92]](#n-92){:#rn-92} y les dijo: «Vosotros sois los jefes de las casas paternas de los levitas. Santificaos, vosotros y vuestros hermanos, para subir el Arca de Yahvé, el Dios de Israel, al lugar que para ella tengo preparado;
 
-[13](#c15-v13){:#c15-v13} [[93]](#n-93){:#rn-93} pues por no (haberla llevado) vosotros la vez anterior, Yahvé, nuestro Dios, nos ha castigado, porque no le buscábamos conforme a la Ley."
+[13](#c15-v13){:#c15-v13} [[93]](#n-93){:#rn-93} pues por no (haberla llevado) vosotros la vez anterior, Yahvé, nuestro Dios, nos ha castigado, porque no le buscábamos conforme a la Ley.»
 
 [14](#c15-v14){:#c15-v14} Los sacerdotes se santificaron y los levitas, para subir el Arca de Yahvé, el Dios de Israel.
 
@@ -1287,7 +1270,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [7](#c16-v7){:#c16-v7} Entonces, en aquel día, David dio por primera vez (este himno) en manos de Asaf y de sus hermanos para que alabasen a Yahvé:
 
-[8](#c16-v8){:#c16-v8} [[101]](#n-101){:#rn-101} "¡Alabad a Yahvé, invocad su nombre; pregonad a las naciones sus proezas!
+[8](#c16-v8){:#c16-v8} [[101]](#n-101){:#rn-101} «¡Alabad a Yahvé, invocad su nombre; pregonad a las naciones sus proezas!
 
 [9](#c16-v9){:#c16-v9} ¡Cantadle, tañed salmos en su honor; narrad todas sus maravillas!
 
@@ -1341,9 +1324,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [34](#c16-v34){:#c16-v34} ¡Alabad a Yahvé, porque Él es bueno, porque es eterna su misericordia!
 
-[35](#c16-v35){:#c16-v35} [[105]](#n-105){:#rn-105} Y decid: "¡Sálvanos, oh Dios de nuestra salvación; reúnenos y líbranos de las naciones, para que celebremos tu santo Nombre, y nos gloriemos, cantando tus alabanzas!
+[35](#c16-v35){:#c16-v35} [[105]](#n-105){:#rn-105} Y decid: "¡Sálvanos, oh Dios de nuestra salvación; reúnenos y líbranos de las naciones, para que celebremos tu santo Nombre, y nos gloriemos, cantando tus alabanzas!"
 
-[36](#c16-v36){:#c16-v36} Bendito sea Yahvé, el Dios de Israel, por eternidad de eternidades." Y todo el pueblo dijo: "Amén", y alabó a Yahvé.
+[36](#c16-v36){:#c16-v36} Bendito sea Yahvé, el Dios de Israel, por eternidad de eternidades.» Y todo el pueblo dijo: «Amén», y alabó a Yahvé.
 
 #### Disposiciones acerca del culto
 
@@ -1355,7 +1338,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [40](#c16-v40){:#c16-v40} para que ofreciesen continuamente holocaustos a Yahvé en el altar del holocausto, por la mañana y por la tarde, según todo lo dispuesto en la Ley de Yahvé, que Él había prescrito a Israel.
 
-[41](#c16-v41){:#c16-v41} [[107]](#n-107){:#rn-107} Con ellos (estableció) a Hemán y a Iditún, y a los otros escogidos y nominalmente designados, para alabar a Yahvé: "Porque su misericordia es eterna."
+[41](#c16-v41){:#c16-v41} [[107]](#n-107){:#rn-107} Con ellos (estableció) a Hemán y a Iditún, y a los otros escogidos y nominalmente designados, para alabar a Yahvé: «Porque su misericordia es eterna».
 
 [42](#c16-v42){:#c16-v42} Con ellos estaban, pues, Hemán e Iditún, que tenían las trompetas y los címbalos para cuantos los tocaban, y los instrumentos para los cánticos de Dios. Los hijos de Iditún eran porteros.
 
@@ -1365,13 +1348,13 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 #### Promesa del reino eterno
 
-[1](#c17-v1){:#c17-v1} [[108]](#n-108){:#rn-108} Morando ya David en su casa, dijo a Natán profeta: "He aquí, yo estoy habitando en una casa de cedro, mientras el Arca de la Alianza de Yahvé está debajo de lonas."
+[1](#c17-v1){:#c17-v1} [[108]](#n-108){:#rn-108} Morando ya David en su casa, dijo a Natán profeta: «He aquí, yo estoy habitando en una casa de cedro, mientras el Arca de la Alianza de Yahvé está debajo de lonas.»
 
-[2](#c17-v2){:#c17-v2} [[109]](#n-109){:#rn-109} Respondió Natán a David: "Haz todo cuanto tienes en tu corazón, porque Dios está contigo."
+[2](#c17-v2){:#c17-v2} [[109]](#n-109){:#rn-109} Respondió Natán a David: «Haz todo cuanto tienes en tu corazón, porque Dios está contigo.»
 
 [3](#c17-v3){:#c17-v3} En aquella misma noche fue dirigida a Natán la palabra de Yahvé, que decía:
 
-[4](#c17-v4){:#c17-v4} [[110]](#n-110){:#rn-110} "Ve, y di a mi siervo David: Así dice Yahvé: No serás tú quien me edifique Casa para que habite en ella.
+[4](#c17-v4){:#c17-v4} [[110]](#n-110){:#rn-110} «Ve, y di a mi siervo David: Así dice Yahvé: No serás tú quien me edifique Casa para que habite en ella.
 
 [5](#c17-v5){:#c17-v5} Pues no he habitado en casa alguna desde el día en que hice subir a los hijos de Israel hasta el día de hoy; sino que anduve de una tienda a otra y (siempre mudando mi) morada.
 
@@ -1391,13 +1374,13 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [13](#c17-v13){:#c17-v13} [[112]](#n-112){:#rn-112} Yo seré padre para él, y él será hijo para Mí, y no apartaré de él mi gracia, como la aparté de aquel que te ha precedido.
 
-[14](#c17-v14){:#c17-v14} Yo lo estableceré en mi Casa y en mi reino eternamente, y su trono será establecido para siempre."
+[14](#c17-v14){:#c17-v14} Yo lo estableceré en mi Casa y en mi reino eternamente, y su trono será establecido para siempre.»
 
 [15](#c17-v15){:#c17-v15} Conforme a todas estas palabras, y conforme a toda esta visión, habló Natán con David.
 
 #### Oración de David
 
-[16](#c17-v16){:#c17-v16} [[113]](#n-113){:#rn-113} Fue entonces el rey David, y se sentó delante de Yahvé y dijo: "¿Quién soy yo, oh Yahvé Dios, y cuál es mi casa, para que me hayas elevado hasta aquí?
+[16](#c17-v16){:#c17-v16} [[113]](#n-113){:#rn-113} Fue entonces el rey David, y se sentó delante de Yahvé y dijo: «¿Quién soy yo, oh Yahvé Dios, y cuál es mi casa, para que me hayas elevado hasta aquí?
 
 [17](#c17-v17){:#c17-v17} Y esto es todavía poco a tus ojos, oh Dios; pues has hablado del lejano porvenir de la casa de tu siervo, y me miras como si fuese un hombre distinguido, oh Yahvé Dios.
 
@@ -1419,7 +1402,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [26](#c17-v26){:#c17-v26} Ahora, Yahvé, Tú eres Dios, y Tú has prometido este bien a tu siervo.
 
-[27](#c17-v27){:#c17-v27} Y ahora te has dignado bendecir la casa de tu siervo, para que permanezca siempre delante de Ti. Porque lo que Tú, oh Yahvé, bendices, es bendito para siempre."
+[27](#c17-v27){:#c17-v27} Y ahora te has dignado bendecir la casa de tu siervo, para que permanezca siempre delante de Ti. Porque lo que Tú, oh Yahvé, bendices, es bendito para siempre.»
 
 ### 1 Crónicas [18](#c18) {#c18}
 
@@ -1467,13 +1450,13 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [1](#c19-v1){:#c19-v1} [[121]](#n-121){:#rn-121} Después de esto murió Nahás, rey de los hijos de Ammón, y en su lugar reinó su hijo.
 
-[2](#c19-v2){:#c19-v2} Entonces dijo David: "Manifestaré mi benevolencia a Hanún, hijo de Nahás, porque su padre usó de benevolencia conmigo." Envió, pues, David embajadores para consolarle por la muerte de su padre. Pero cuando los servidores de David llegaron al país de los hijos de Ammón, a Hanún, para consolarlo,
+[2](#c19-v2){:#c19-v2} Entonces dijo David: «Manifestaré mi benevolencia a Hanún, hijo de Nahás, porque su padre usó de benevolencia conmigo.» Envió, pues, David embajadores para consolarle por la muerte de su padre. Pero cuando los servidores de David llegaron al país de los hijos de Ammón, a Hanún, para consolarlo,
 
-[3](#c19-v3){:#c19-v3} dijeron los príncipes de los hijos de Ammón a Hanún: "¿Crees tú acaso que para honrar a tu padre te ha enviado David consoladores? ¿No te han llegado más bien sus servidores para explorar y destruir, y para espiar el país?"
+[3](#c19-v3){:#c19-v3} dijeron los príncipes de los hijos de Ammón a Hanún: «¿Crees tú acaso que para honrar a tu padre te ha enviado David consoladores? ¿No te han llegado más bien sus servidores para explorar y destruir, y para espiar el país?»
 
 [4](#c19-v4){:#c19-v4} [[122]](#n-122){:#rn-122} Tomó, pues, Hanún a los servidores de David, los rapó y les cortó la mitad (inferior) de los vestidos, hasta las caderas. Después los despachó.
 
-[5](#c19-v5){:#c19-v5} Fueron algunos a informar a David sobre estos hombres; y él envió gente a su encuentro, pues los hombres estaban muy avergonzados; y les dijo el rey: "Quedaos en Jericó hasta que os crezca la barba; después podréis volver."
+[5](#c19-v5){:#c19-v5} Fueron algunos a informar a David sobre estos hombres; y él envió gente a su encuentro, pues los hombres estaban muy avergonzados; y les dijo el rey: «Quedaos en Jericó hasta que os crezca la barba; después podréis volver.»
 
 [6](#c19-v6){:#c19-v6} Cuando los hijos de Ammón vieron que se habían hecho odiosos a David, enviaron ellos, Hanún y los ammonitas, mil talentos de plata para tomar a sueldo carros y caballería de Mesopotamia, de la Siria de Maacá y de Sobá.
 
@@ -1487,9 +1470,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [11](#c19-v11){:#c19-v11} y dio el mando del resto del pueblo a su hermano Abisai; luego se formaron en orden de batalla contra los hijos de Ammón.
 
-[12](#c19-v12){:#c19-v12} Dijo (Joab): "Si los sirios son más fuertes que yo, tú me ayudarás; pero si los hijos de Ammón son más fuertes que tú, yo te ayudaré a ti.
+[12](#c19-v12){:#c19-v12} Dijo (Joab): «Si los sirios son más fuertes que yo, tú me ayudarás; pero si los hijos de Ammón son más fuertes que tú, yo te ayudaré a ti.
 
-[13](#c19-v13){:#c19-v13} ¡Sé fuerte y esforcémonos por nuestro pueblo y por las ciudades de nuestro Dios! ¡Y haga Yahvé lo que sea de su agrado!"
+[13](#c19-v13){:#c19-v13} ¡Sé fuerte y esforcémonos por nuestro pueblo y por las ciudades de nuestro Dios! ¡Y haga Yahvé lo que sea de su agrado!»
 
 [14](#c19-v14){:#c19-v14} Avanzó Joab y el pueblo que con él estaba, contra los sirios para trabar combate, y estos huyeron delante de él.
 
@@ -1531,9 +1514,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [1](#c21-v1){:#c21-v1} [[131]](#n-131){:#rn-131} Satanás se alzó contra Israel e instigó a David a hacer el censo de Israel.
 
-[2](#c21-v2){:#c21-v2} Dijo, pues, David a Joab y a los príncipes del pueblo: "Id, contad a los israelitas desde Bersabee hasta Dan, y dadme aviso para que yo sepa su número."
+[2](#c21-v2){:#c21-v2} Dijo, pues, David a Joab y a los príncipes del pueblo: «Id, contad a los israelitas desde Bersabee hasta Dan, y dadme aviso para que yo sepa su número.»
 
-[3](#c21-v3){:#c21-v3} Respondió Joab: "¡Multiplique Yahvé su pueblo cien veces más de lo que es! ¿Acaso no son, oh rey, señor mío, todos ellos siervos de mi señor? ¿Por qué, pues, pide esto mi señor? ¿Por qué traer culpa sobre Israel?"
+[3](#c21-v3){:#c21-v3} Respondió Joab: «¡Multiplique Yahvé su pueblo cien veces más de lo que es! ¿Acaso no son, oh rey, señor mío, todos ellos siervos de mi señor? ¿Por qué, pues, pide esto mi señor? ¿Por qué traer culpa sobre Israel?»
 
 [4](#c21-v4){:#c21-v4} Pero la palabra del rey prevaleció contra Joab, de modo que este salió y recorrió todo Israel, para volver después a Jerusalén.
 
@@ -1543,25 +1526,25 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [7](#c21-v7){:#c21-v7} [[133]](#n-133){:#rn-133} Desagradó esto a Dios, por lo cual castigó a Israel.
 
-[8](#c21-v8){:#c21-v8} Entonces dijo David a Dios: "He pecado gravemente en hacer esto. Perdona, ahora, te ruego, la iniquidad de tu siervo, pues he obrado muy insensatamente."
+[8](#c21-v8){:#c21-v8} Entonces dijo David a Dios: «He pecado gravemente en hacer esto. Perdona, ahora, te ruego, la iniquidad de tu siervo, pues he obrado muy insensatamente.»
 
 [9](#c21-v9){:#c21-v9} Luego habló Yahvé a Gad, vidente de David, diciendo:
 
-[10](#c21-v10){:#c21-v10} "Ve a decir a David lo siguiente: Así dice Yahvé: Tres cosas voy a proponerte; escógete una de ellas, y Yo te la haré."
+[10](#c21-v10){:#c21-v10} «Ve a decir a David lo siguiente: Así dice Yahvé: Tres cosas voy a proponerte; escógete una de ellas, y Yo te la haré.»
 
-[11](#c21-v11){:#c21-v11} Fue Gad a David y le dijo: "Así dice Yahvé: Elige para ti:
+[11](#c21-v11){:#c21-v11} Fue Gad a David y le dijo: «Así dice Yahvé: Elige para ti:
 
-[12](#c21-v12){:#c21-v12} o tres años de hambre, o tres meses durante los cuales seas presa de tus adversarios y alcanzado por la espada de tus enemigos, o tres días durante los cuales la espada de Yahvé y la peste ande por la tierra y el Ángel de Yahvé haga estragos en todo el territorio de Israel. Ahora bien, considera qué respuesta he de dar al que me ha enviado."
+[12](#c21-v12){:#c21-v12} o tres años de hambre, o tres meses durante los cuales seas presa de tus adversarios y alcanzado por la espada de tus enemigos, o tres días durante los cuales la espada de Yahvé y la peste ande por la tierra y el Ángel de Yahvé haga estragos en todo el territorio de Israel. Ahora bien, considera qué respuesta he de dar al que me ha enviado.»
 
-[13](#c21-v13){:#c21-v13} David respondió a Gad: "Me veo en grandes angustias. ¡Pero caiga yo en manos de Yahvé, porque sus misericordias son muy grandes, y no caiga en mano de los hombres!"
+[13](#c21-v13){:#c21-v13} David respondió a Gad: «Me veo en grandes angustias. ¡Pero caiga yo en manos de Yahvé, porque sus misericordias son muy grandes, y no caiga en mano de los hombres!»
 
 [14](#c21-v14){:#c21-v14} Entonces envió Yahvé la peste sobre Israel, y cayeron de Israel setenta mil hombres.
 
-[15](#c21-v15){:#c21-v15} [[134]](#n-134){:#rn-134} Dios envió también un Ángel contra Jerusalén para destruirla; pero cuando ya estaba destruyéndola, echó Yahvé una mirada y se arrepintió del estrago, y dijo al Ángel destructor: "¡Basta; detén ahora tu mano!" El Ángel de Yahvé se hallaba cerca de la era de Ornan jebuseo.
+[15](#c21-v15){:#c21-v15} [[134]](#n-134){:#rn-134} Dios envió también un Ángel contra Jerusalén para destruirla; pero cuando ya estaba destruyéndola, echó Yahvé una mirada y se arrepintió del estrago, y dijo al Ángel destructor: «¡Basta; detén ahora tu mano!» El Ángel de Yahvé se hallaba cerca de la era de Ornan jebuseo.
 
 [16](#c21-v16){:#c21-v16} [[135]](#n-135){:#rn-135} Alzando los ojos vio David al Ángel de Yahvé cómo estaba entre la tierra y el cielo, con una espada desenvainada en su mano, extendida contra Jerusalén. Entonces David, y los ancianos, cubiertos de saco, cayeron sobre sus rostros.
 
-[17](#c21-v17){:#c21-v17} [[136]](#n-136){:#rn-136} Y dijo David a Dios: "Yo soy quien mandé hacer el censo del pueblo. Yo soy quien he pecado y hecho el mal; pero estas ovejas ¿qué han hecho? ¡Oh Yahvé, Dios mío, te ruego que sea tu mano contra mí y contra la casa de mi padre, y no haya plaga entre tu pueblo!"
+[17](#c21-v17){:#c21-v17} [[136]](#n-136){:#rn-136} Y dijo David a Dios: «Yo soy quien mandé hacer el censo del pueblo. Yo soy quien he pecado y hecho el mal; pero estas ovejas ¿qué han hecho? ¡Oh Yahvé, Dios mío, te ruego que sea tu mano contra mí y contra la casa de mi padre, y no haya plaga entre tu pueblo!»
 
 #### David levanta un altar en Jerusalén
 
@@ -1573,11 +1556,11 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [21](#c21-v21){:#c21-v21} Cuando David llegó a Ornan, miró Ornan, y viendo a David salió de la era y se postró ante David, rostro en tierra.
 
-[22](#c21-v22){:#c21-v22} Dijo David a Ornan: "Dame el sitio de la era para que edifique en él un altar a Yahvé —dámelo por su pleno valor en plata—, a fin de que la plaga se retire del pueblo."
+[22](#c21-v22){:#c21-v22} Dijo David a Ornan: «Dame el sitio de la era para que edifique en él un altar a Yahvé —dámelo por su pleno valor en plata—, a fin de que la plaga se retire del pueblo.»
 
-[23](#c21-v23){:#c21-v23} Respondió Ornan a David: "Tómalo; y haga mi señor el rey lo que mejor le parezca. Mira que te doy dos bueyes para holocaustos, los trillos para leña, y el trigo para la ofrenda; todo te lo doy."
+[23](#c21-v23){:#c21-v23} Respondió Ornan a David: «Tómalo; y haga mi señor el rey lo que mejor le parezca. Mira que te doy dos bueyes para holocaustos, los trillos para leña, y el trigo para la ofrenda; todo te lo doy.»
 
-[24](#c21-v24){:#c21-v24} Replicó el rey David a Ornan: "No, sino que lo compraré por su pleno valor en plata, pues no tomaré para Yahvé lo que es tuyo ni ofreceré holocaustos que nada me cuesten."
+[24](#c21-v24){:#c21-v24} Replicó el rey David a Ornan: «No, sino que lo compraré por su pleno valor en plata, pues no tomaré para Yahvé lo que es tuyo ni ofreceré holocaustos que nada me cuesten.»
 
 [25](#c21-v25){:#c21-v25} Y dio David a Ornan por el sitio la suma de seiscientos siclos de oro.
 
@@ -1595,7 +1578,7 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 #### David prepara la construcción del templo
 
-[1](#c22-v1){:#c22-v1} Entonces dijo David: "¡Aquí (se levantará) la Casa de Yahvé Dios, y aquí el altar de los holocaustos para Israel!"
+[1](#c22-v1){:#c22-v1} Entonces dijo David: «¡Aquí (se levantará) la Casa de Yahvé Dios, y aquí el altar de los holocaustos para Israel!»
 
 [2](#c22-v2){:#c22-v2} [[139]](#n-139){:#rn-139} Mandó David, juntar a los extranjeros que había en la tierra de Israel, y señaló canteros que preparasen piedras talladas para la construcción de la Casa de Dios.
 
@@ -1603,17 +1586,17 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [4](#c22-v4){:#c22-v4} y madera de cedro innumerable, pues los sidonios y los tirios trajeron a David madera de cedro en abundancia.
 
-[5](#c22-v5){:#c22-v5} [[140]](#n-140){:#rn-140} Porque David se decía: "Mi hijo Salomón es todavía joven y de tierna edad, y la Casa que ha de edificarse para Yahvé debe ser grande sobre toda ponderación, para renombre y para gloria en todos los países. Haré para ella los preparativos." E hizo David abundantes provisiones antes de su muerte.
+[5](#c22-v5){:#c22-v5} [[140]](#n-140){:#rn-140} Porque David se decía: «Mi hijo Salomón es todavía joven y de tierna edad, y la Casa que ha de edificarse para Yahvé debe ser grande sobre toda ponderación, para renombre y para gloria en todos los países. Haré para ella los preparativos.» E hizo David abundantes provisiones antes de su muerte.
 
 [6](#c22-v6){:#c22-v6} Después llamó a su hijo Salomón, al que mandó que edificase una Casa para Yahvé, el Dios de Israel.
 
-[7](#c22-v7){:#c22-v7} [[141]](#n-141){:#rn-141} Dijo David a Salomón: "Hijo mío, yo tenía la intención de edificar una Casa al Nombre de Yahvé, mi Dios,
+[7](#c22-v7){:#c22-v7} [[141]](#n-141){:#rn-141} Dijo David a Salomón: «Hijo mío, yo tenía la intención de edificar una Casa al Nombre de Yahvé, mi Dios,
 
-[8](#c22-v8){:#c22-v8} Pero fue dirigida a mí esta palabra de Yahvé: *Tú has vertido mucha sangre y hecho grandes guerras; no podrás edificar tú la Casa a mi Nombre, porque has derramado delante de mí mucha sangre en la tierra.
+[8](#c22-v8){:#c22-v8} Pero fue dirigida a mí esta palabra de Yahvé: "Tú has vertido mucha sangre y hecho grandes guerras; no podrás edificar tú la Casa a mi Nombre, porque has derramado delante de mí mucha sangre en la tierra.
 
 [9](#c22-v9){:#c22-v9} [[142]](#n-142){:#rn-142} He aquí que te nacerá un hijo, el cual será hombre de paz, y le daré descanso de todos sus enemigos de en derredor; porque Salomón será su nombre, y en sus días daré paz y tranquilidad a Israel.
 
-[10](#c22-v10){:#c22-v10} [[143]](#n-143){:#rn-143} Él edificará una Casa a mi Nombre; él será para mí hijo, y Yo seré padre para él; y estableceré el trono de su reino sobre Israel para siempre.*
+[10](#c22-v10){:#c22-v10} [[143]](#n-143){:#rn-143} Él edificará una Casa a mi Nombre; él será para mí hijo, y Yo seré padre para él; y estableceré el trono de su reino sobre Israel para siempre."
 
 [11](#c22-v11){:#c22-v11} Ahora, pues, hijo mío, Yahvé sea contigo, para que logres edificar la Casa de Yahvé tu Dios, como Él de ti lo ha predicho.
 
@@ -1625,13 +1608,13 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [15](#c22-v15){:#c22-v15} Y tienes a mano muchos obreros, canteros, talladores de piedras y carpinteros, y toda clase de hombres hábiles para toda suerte de obra.
 
-[16](#c22-v16){:#c22-v16} El oro, la plata, el bronce y el hierro son sin número. ¡Levántate, pues! ¡Manos a la obra, y Yahvé sea contigo!
+[16](#c22-v16){:#c22-v16} El oro, la plata, el bronce y el hierro son sin número. ¡Levántate, pues! ¡Manos a la obra, y Yahvé sea contigo!»
 
 [17](#c22-v17){:#c22-v17} Mandó David a todos los príncipes de Israel que ayudasen, a su hijo Salomón (diciéndoles):
 
-[18](#c22-v18){:#c22-v18} [[146]](#n-146){:#rn-146} "¿No está con vosotros Yahvé, vuestro Dios? ¿Y no os ha dado paz por todos lados? Pues Él ha entregado en mis manos los habitantes del país, y el país está sujeto delante de Yahvé y delante de su pueblo.
+[18](#c22-v18){:#c22-v18} [[146]](#n-146){:#rn-146} «¿No está con vosotros Yahvé, vuestro Dios? ¿Y no os ha dado paz por todos lados? Pues Él ha entregado en mis manos los habitantes del país, y el país está sujeto delante de Yahvé y delante de su pueblo.
 
-[19](#c22-v19){:#c22-v19} Aplicad ahora vuestro corazón y vuestra alma para buscar a Yahvé, vuestro Dios. Levantaos y edificad el Santuario de Yahvé, Dios, para trasladar el Arca de la Alianza de Yahvé y los utensilios del Santuario de Dios, a la Casa que ha de edificarse al Nombre de Yahvé."
+[19](#c22-v19){:#c22-v19} Aplicad ahora vuestro corazón y vuestra alma para buscar a Yahvé, vuestro Dios. Levantaos y edificad el Santuario de Yahvé, Dios, para trasladar el Arca de la Alianza de Yahvé y los utensilios del Santuario de Dios, a la Casa que ha de edificarse al Nombre de Yahvé.»
 
 ### 1 Crónicas [23](#c23) {#c23}
 
@@ -1643,9 +1626,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [3](#c23-v3){:#c23-v3} y fueron contados los levitas de treinta años arriba; y su número, contado por cabezas, uno por uno, fue de treinta y ocho mil.
 
-[4](#c23-v4){:#c23-v4} [[147]](#n-147){:#rn-147} "De estos, (dijo David), serán veinte y cuatro mil para dirigir las obras de la Casa de Yahvé; seis mil serán magistrados y jueces,
+[4](#c23-v4){:#c23-v4} [[147]](#n-147){:#rn-147} «De estos, (dijo David), serán veinte y cuatro mil para dirigir las obras de la Casa de Yahvé; seis mil serán magistrados y jueces,
 
-[5](#c23-v5){:#c23-v5} cuatro mil porteros, y cuatro mil para cantar el loor de Yahvé con los instrumentos que yo he hecho para alabanzas."
+[5](#c23-v5){:#c23-v5} cuatro mil porteros, y cuatro mil para cantar el loor de Yahvé con los instrumentos que yo he hecho para alabanzas.»
 
 [6](#c23-v6){:#c23-v6} David los distribuyó en clases, según los hijos de Leví: Gersón, Caat y Merarí.
 
@@ -1685,9 +1668,9 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 
 [24](#c23-v24){:#c23-v24} [[151]](#n-151){:#rn-151} Estos son los hijos de Leví, según sus casas paternas, las cabezas de las casas paternas, según el censo de ellos, contados nominal e individualmente. Ellos hacían la obra del ministerio de la Casa de Yahvé, desde los veinte años arriba.
 
-[25](#c23-v25){:#c23-v25} Porque David había dicho: "Yahvé, el Dios de Israel, ha dado reposo a su pueblo, y habitará en Jerusalén para siempre.
+[25](#c23-v25){:#c23-v25} Porque David había dicho: «Yahvé, el Dios de Israel, ha dado reposo a su pueblo, y habitará en Jerusalén para siempre.
 
-[26](#c23-v26){:#c23-v26} Y en cuanto a los levitas, ya no habrán de llevar la Morada, con todos los utensilios de su ministerio."
+[26](#c23-v26){:#c23-v26} Y en cuanto a los levitas, ya no habrán de llevar la Morada, con todos los utensilios de su ministerio.»
 
 [27](#c23-v27){:#c23-v27} Conforme a estas últimas disposiciones de David, se hizo el cómputo de los hijos de Leví de veinte años arriba.
 
@@ -1770,7 +1753,6 @@ El autor de los Paralipómenos es desconocido. Algunos lo buscan en Esdras o Neh
 Estos son los hijos de los levitas, según sus casas paternas.
 
 [31](#c24-v31){:#c24-v31} [[158]](#n-158){:#rn-158} También estos echaron suertes de la misma manera que sus hermanos, los hijos de Aarón, en presencia del rey David, Sadoc y Ahimelec, y en presencia de las cabezas de las casas paternas de los sacerdotes y de los levitas; siendo tratados de la misma manera los jefes de familia como sus hermanos menores.
-
 
 ### 1 Crónicas [25](#c25) {#c25}
 
@@ -1994,25 +1976,25 @@ Estos son los hijos de los levitas, según sus casas paternas.
 
 [1](#c28-v1){:#c28-v1} David reunió en Jerusalén a todos los príncipes de Israel, los príncipes de las tribus, los jefes de las divisiones que servían al rey, los jefes de miles y los jefes de cientos, los administradores de la hacienda y del ganado del rey, y también a sus hijos, los eunucos, los oficiales y todos los hombres de valer.
 
-[2](#c28-v2){:#c28-v2} [[179]](#n-179){:#rn-179} Levantándose entonces en pie, dijo el rey David: "Oídme, hermanos míos, y pueblo mío: Yo tenía el propósito de edificar una casa de descanso para el Arca de la Alianza de Yahvé y para el escabel de los pies de nuestro Dios. Había ya preparado la construcción,
+[2](#c28-v2){:#c28-v2} [[179]](#n-179){:#rn-179} Levantándose entonces en pie, dijo el rey David: «Oídme, hermanos míos, y pueblo mío: Yo tenía el propósito de edificar una casa de descanso para el Arca de la Alianza de Yahvé y para el escabel de los pies de nuestro Dios. Había ya preparado la construcción,
 
-[3](#c28-v3){:#c28-v3} pero Dios me dijo: *Tú no edificarás la casa a mi Nombre, pues eres hombre de guerra y has derramado sangre.*
+[3](#c28-v3){:#c28-v3} pero Dios me dijo: "Tú no edificarás la casa a mi Nombre, pues eres hombre de guerra y has derramado sangre."
 
 [4](#c28-v4){:#c28-v4} [[180]](#n-180){:#rn-180} Sin embargo, Yahvé, el Dios de Israel, me ha elegido de entre toda la casa de mi padre, para que fuese rey de Israel para siempre. Porque ha elegido a Judá para ser caudillo, y de las familias de Judá la casa de mi padre; y de entre los hijos de mi padre tuvo complacencia en mí para hacerme rey sobre todo Israel.
 
 [5](#c28-v5){:#c28-v5} Y de en medio de todos mis hijos —pues muchos hijos me ha dado Yahvé— eligió Él a mi hijo Salomón para que se siente en el trono del reino de Yahvé sobre Israel.
 
-[6](#c28-v6){:#c28-v6} [[181]](#n-181){:#rn-181} Y me dijo: *Salomón, tu hijo, edificará mi Casa y mis atrios; porque a él le he escogido por hijo mío, y Yo seré padre suyo.
+[6](#c28-v6){:#c28-v6} [[181]](#n-181){:#rn-181} Y me dijo: "Salomón, tu hijo, edificará mi Casa y mis atrios; porque a él le he escogido por hijo mío, y Yo seré padre suyo.
 
-[7](#c28-v7){:#c28-v7} Haré estable su reino para siempre, si perseverare en el cumplimiento de mis mandamientos y de mis preceptos como lo hace actualmente.*
+[7](#c28-v7){:#c28-v7} Haré estable su reino para siempre, si perseverare en el cumplimiento de mis mandamientos y de mis preceptos como lo hace actualmente."
 
-[8](#c28-v8){:#c28-v8} [[182]](#n-182){:#rn-182} Ahora pues, en presencia de todo Israel, la congregación de Yahvé, y oyéndolo nuestro Dios (os digo): Guardad y estudiad todos los mandamientos de Yahvé, vuestro Dios, para que podáis poseer esta buena tierra, y la dejéis como heredad perpetua a vuestros hijos después de vosotros."
+[8](#c28-v8){:#c28-v8} [[182]](#n-182){:#rn-182} Ahora pues, en presencia de todo Israel, la congregación de Yahvé, y oyéndolo nuestro Dios (os digo): Guardad y estudiad todos los mandamientos de Yahvé, vuestro Dios, para que podáis poseer esta buena tierra, y la dejéis como heredad perpetua a vuestros hijos después de vosotros.»
 
 #### Exhortación a Salomón
 
-[9](#c28-v9){:#c28-v9} "Y tú, Salomón, hijo mío, conoce al Dios de tu padre, y sírvele con corazón recto y con buena voluntad, porque Yahvé escudriña todos los corazones y penetra todos los pensamientos del entendimiento. Si le buscares, le hallarás, pero si le dejares, Él te desechará para siempre.
+[9](#c28-v9){:#c28-v9} «Y tú, Salomón, hijo mío, conoce al Dios de tu padre, y sírvele con corazón recto y con buena voluntad, porque Yahvé escudriña todos los corazones y penetra todos los pensamientos del entendimiento. Si le buscares, le hallarás, pero si le dejares, Él te desechará para siempre.
 
-[10](#c28-v10){:#c28-v10} [[183]](#n-183){:#rn-183} Mira ahora que Yahvé te ha escogido para edificar una casa que sea su Santuario. ¡Sé fuerte, y manos a la obra!"
+[10](#c28-v10){:#c28-v10} [[183]](#n-183){:#rn-183} Mira ahora que Yahvé te ha escogido para edificar una casa que sea su Santuario. ¡Sé fuerte, y manos a la obra!»
 
 [11](#c28-v11){:#c28-v11} [[184]](#n-184){:#rn-184} Dio luego David a su hijo Salomón el diseño del pórtico y de los demás edificios, de las tesorerías, de las cámaras altas, de las cámaras interiores y del lugar del Propiciatorio;
 
@@ -2030,17 +2012,17 @@ Estos son los hijos de los levitas, según sus casas paternas.
 
 [18](#c28-v18){:#c28-v18} [[185]](#n-185){:#rn-185} y para el altar del incienso oro acrisolado según el peso, asimismo oro para la figura de la carroza (de Dios), los querubines, que extienden (las alas) y cubren el Arca de la Alianza de Yahvé.
 
-[19](#c28-v19){:#c28-v19} [[186]](#n-186){:#rn-186} "Todo esto (dijo David), me mostró Yahvé en un escrito (que me llegó) de su mano: el modelo de toda la obra."
+[19](#c28-v19){:#c28-v19} [[186]](#n-186){:#rn-186} «Todo esto (dijo David), me mostró Yahvé en un escrito (que me llegó) de su mano: el modelo de toda la obra.»
 
-[20](#c28-v20){:#c28-v20} Dijo David a Salomón su hijo: "¡Sé fuerte y ten buen ánimo; y manos a la obra! No temas, ni te amedrentes, porque Yahvé Dios, el Dios mío, está contigo; no te dejará, ni te desamparará, hasta la terminación de toda la obra para el servicio de la Casa de Yahvé.
+[20](#c28-v20){:#c28-v20} Dijo David a Salomón su hijo: «¡Sé fuerte y ten buen ánimo; y manos a la obra! No temas, ni te amedrentes, porque Yahvé Dios, el Dios mío, está contigo; no te dejará, ni te desamparará, hasta la terminación de toda la obra para el servicio de la Casa de Yahvé.
 
-[21](#c28-v21){:#c28-v21} Y he aquí que tienes las clases de los sacerdotes y de los levitas para todo el servicio de la Casa de Dios, y estarán a tu lado para toda clase de obras todos los hombres de buena voluntad y habilidad en cualquier clase de servicio, y los príncipes y el pueblo entero en todas tus empresas."
+[21](#c28-v21){:#c28-v21} Y he aquí que tienes las clases de los sacerdotes y de los levitas para todo el servicio de la Casa de Dios, y estarán a tu lado para toda clase de obras todos los hombres de buena voluntad y habilidad en cualquier clase de servicio, y los príncipes y el pueblo entero en todas tus empresas.»
 
 ### 1 Crónicas [29](#c29) {#c29}
 
 #### Ofrendas para el Templo
 
-[1](#c29-v1){:#c29-v1} Dijo el rey David a toda la asamblea: "Mi hijo Salomón a quien solo ha escogido Dios, es todavía joven y tierno, y la obra es grande; pues este alcázar no es para hombre, sino para Yahvé Dios.
+[1](#c29-v1){:#c29-v1} Dijo el rey David a toda la asamblea: «Mi hijo Salomón a quien solo ha escogido Dios, es todavía joven y tierno, y la obra es grande; pues este alcázar no es para hombre, sino para Yahvé Dios.
 
 [2](#c29-v2){:#c29-v2} [[187]](#n-187){:#rn-187} Con todas mis fuerzas he preparado para la Casa de mi Dios el oro para los objetos de oro, la plata para los de plata, el bronce para los de bronce, el hierro para los de hierro y la madera para los de madera; también piedras de ónice y (piedras) de engaste; piedras brillantes y de varios colores, toda suerte de piedras preciosas y piedras de mármol en abundancia.
 
@@ -2048,7 +2030,7 @@ Estos son los hijos de los levitas, según sus casas paternas.
 
 [4](#c29-v4){:#c29-v4} tres mil talentos de oro, del oro de Ofir, y siete mil talentos de plata acrisolada para revestir las paredes de los edificios;
 
-[5](#c29-v5){:#c29-v5} [[188]](#n-188){:#rn-188} el oro para los objetos de oro, la plata para los de plata, y para todas las obras hechas por mano de los artífices, ¿Quién, pues, quiere ahora hacer una ofrenda espontánea a Yahvé?"
+[5](#c29-v5){:#c29-v5} [[188]](#n-188){:#rn-188} el oro para los objetos de oro, la plata para los de plata, y para todas las obras hechas por mano de los artífices, ¿Quién, pues, quiere ahora hacer una ofrenda espontánea a Yahvé?»
 
 [6](#c29-v6){:#c29-v6} Entonces los jefes de las casas paternas, los príncipes de las tribus de Israel, los jefes de miles y de cientos, y los administradores de la hacienda del rey ofrecieron espontáneamente sus ofrendas,
 
@@ -2060,7 +2042,7 @@ Estos son los hijos de los levitas, según sus casas paternas.
 
 #### Oración de David
 
-[10](#c29-v10){:#c29-v10} [[190]](#n-190){:#rn-190} Después bendijo David a Yahvé en presencia de toda la asamblea; y dijo David: "¡Bendito Tú, oh Yahvé, Dios de nuestro padre Israel, desde la eternidad hasta la eternidad!
+[10](#c29-v10){:#c29-v10} [[190]](#n-190){:#rn-190} Después bendijo David a Yahvé en presencia de toda la asamblea; y dijo David: «¡Bendito Tú, oh Yahvé, Dios de nuestro padre Israel, desde la eternidad hasta la eternidad!
 
 [11](#c29-v11){:#c29-v11} Tuya, oh Yahvé, es la grandeza, el poder, la magnificencia, el esplendor y la majestad; pues tuyo es cuánto hay en el cielo y en la tierra. Tuyo, oh Yahvé, es el reino; Tú te eriges en cabeza de todo.
 
@@ -2078,9 +2060,9 @@ Estos son los hijos de los levitas, según sus casas paternas.
 
 [18](#c29-v18){:#c29-v18} Oh, Yahvé, Dios de nuestros padres, de Abrahán, de Isaac y de Israel, conserva esto perpetuamente para formar los pensamientos del corazón de tu pueblo, y dirige Tú su corazón hacia Ti.
 
-[19](#c29-v19){:#c29-v19} Da a mi hijo Salomón un corazón perfecto, para que guarde tus mandamientos, tus testimonios y tus preceptos, a fin de que todo lo ponga por obra y edifique el palacio, para el cual yo he hecho los preparativos." [[193]](#n-193){:#rn-193}
+[19](#c29-v19){:#c29-v19} Da a mi hijo Salomón un corazón perfecto, para que guarde tus mandamientos, tus testimonios y tus preceptos, a fin de que todo lo ponga por obra y edifique el palacio, para el cual yo he hecho los preparativos.» [[193]](#n-193){:#rn-193}
 
-[20](#c29-v20){:#c29-v20} [[194]](#n-194){:#rn-194} Después dijo David a toda la asamblea: "¡Bendecid a Yahvé vuestro Dios!" Y toda la asamblea bendijo a Yahvé, el Dios de sus padres, e inclinaron la cabeza y se postraron ante Yahvé y ante el rey.
+[20](#c29-v20){:#c29-v20} [[194]](#n-194){:#rn-194} Después dijo David a toda la asamblea: «¡Bendecid a Yahvé vuestro Dios!» Y toda la asamblea bendijo a Yahvé, el Dios de sus padres, e inclinaron la cabeza y se postraron ante Yahvé y ante el rey.
 
 #### Unción de Salomón
 

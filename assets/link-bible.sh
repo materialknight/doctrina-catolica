@@ -114,9 +114,9 @@ sed --in-place --regexp-extended \
    \
    -e 's/\b(Ro?m\.?|Ro\.?|Romanos) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/romanos#c\2-v\3" | relative_url }})/g' \
    \
-   -e 's/\b(1 ?Co\.?|1 Corintios|I Corintios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/1-corintios#c\2-v\3" | relative_url }})/g' \
+   -e 's/\b(1 ?Cor?\.?|1 Corintios|I Corintios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/1-corintios#c\2-v\3" | relative_url }})/g' \
    \
-   -e 's/\b(2 ?Co\.?|2 Corintios|II Corintios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/2-corintios#c\2-v\3" | relative_url }})/g' \
+   -e 's/\b(2 ?Cor?\.?|2 Corintios|II Corintios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/2-corintios#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(G[áa]l?\.?|Gálatas) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/galatas#c\2-v\3" | relative_url }})/g' \
    \

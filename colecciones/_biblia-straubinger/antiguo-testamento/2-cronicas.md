@@ -24,17 +24,17 @@ title: 2 Crónicas (II Paralipómenos)
 
 #### Petición de Salomón
 
-[7](#c1-v7){:#c1-v7} [[3]](#n-3){:#rn-3} En aquella noche se apareció Dios a Salomón y le dijo: "Pídeme lo que quieres que te conceda."
+[7](#c1-v7){:#c1-v7} [[3]](#n-3){:#rn-3} En aquella noche se apareció Dios a Salomón y le dijo: «Pídeme lo que quieres que te conceda.»
 
-[8](#c1-v8){:#c1-v8} Salomón respondió a Dios: "Tú has tenido gran misericordia con David mi padre, y a mí me has hecho rey en su lugar.
+[8](#c1-v8){:#c1-v8} Salomón respondió a Dios: «Tú has tenido gran misericordia con David mi padre, y a mí me has hecho rey en su lugar.
 
 [9](#c1-v9){:#c1-v9} Ahora, oh Yahvé Dios, cúmplase la promesa que hiciste a mi padre David, ya que Tú me has hecho rey sobre un pueblo numeroso como el polvo de la tierra.
 
-[10](#c1-v10){:#c1-v10} Dame ahora sabiduría e inteligencia, para que sepa cómo conducirme ante este pueblo; porque ¿quién podrá gobernar este tu pueblo tan grande?"
+[10](#c1-v10){:#c1-v10} Dame ahora sabiduría e inteligencia, para que sepa cómo conducirme ante este pueblo; porque ¿quién podrá gobernar este tu pueblo tan grande?»
 
-[11](#c1-v11){:#c1-v11} Respondió Dios a Salomón: "Ya que piensas esto en tu corazón, y no has pedido riquezas, ni bienes, ni gloria, ni la muerte de tus enemigos; ni tampoco has pedido larga vida, sino que has pedido para ti sabiduría e inteligencia para gobernar a mi pueblo, del cual te he hecho rey;
+[11](#c1-v11){:#c1-v11} Respondió Dios a Salomón: «Ya que piensas esto en tu corazón, y no has pedido riquezas, ni bienes, ni gloria, ni la muerte de tus enemigos; ni tampoco has pedido larga vida, sino que has pedido para ti sabiduría e inteligencia para gobernar a mi pueblo, del cual te he hecho rey;
 
-[12](#c1-v12){:#c1-v12} por eso te son dadas la sabiduría y la inteligencia; y además te daré riqueza y bienes y gloria como no las poseyó ningún rey antes de ti ni las tendrá ninguno de tus sucesores."
+[12](#c1-v12){:#c1-v12} por eso te son dadas la sabiduría y la inteligencia; y además te daré riqueza y bienes y gloria como no las poseyó ningún rey antes de ti ni las tendrá ninguno de tus sucesores.»
 
 [13](#c1-v13){:#c1-v13} Y Salomón regresó a Jerusalén desde el lugar alto de Gabaón, de delante del Tabernáculo de la Reunión, y reinó sobre Israel.
 
@@ -56,7 +56,7 @@ title: 2 Crónicas (II Paralipómenos)
 
 [2](#c2-v2){:#c2-v2} [[5]](#n-5){:#rn-5} Salomón señaló setenta mil hombres para transportar cargas y ochenta mil hombres para trabajar en las canteras de las montañas y tres mil seiscientos sobrestantes sobre ellos.
 
-[3](#c2-v3){:#c2-v3} Envió Salomón a decir a Huram, rey de Tiro: "Así como hiciste con David mi padre, enviándole maderas de cedro para edificar una casa en que habitase (así hazlo también conmigo).
+[3](#c2-v3){:#c2-v3} Envió Salomón a decir a Huram, rey de Tiro: «Así como hiciste con David mi padre, enviándole maderas de cedro para edificar una casa en que habitase (así hazlo también conmigo).
 
 [4](#c2-v4){:#c2-v4} He aquí que voy a edificar una Casa al Nombre de Yahvé, mi Dios, para consagrársela, para quemar ante Él incienso aromático, para (el pan de) la proposición perpetua, y para los holocaustos de la mañana y de la tarde de los sábados, novilunios y fiestas de Yahvé, nuestro Dios, para siempre, como es precepto para Israel.
 
@@ -70,11 +70,11 @@ title: 2 Crónicas (II Paralipómenos)
 
 [9](#c2-v9){:#c2-v9} para prepararme maderas en abundancia; pues la Casa que voy a edificar ha de ser grande y maravillosa.
 
-[10](#c2-v10){:#c2-v10} [[7]](#n-7){:#rn-7} He aquí que daré para el sustento de tus siervos, los obreros que han de cortar los árboles, veinte mil coros de trigo, veinte mil coros de cebada, veinte mil batos de vino y veinte mil batos de aceite."
+[10](#c2-v10){:#c2-v10} [[7]](#n-7){:#rn-7} He aquí que daré para el sustento de tus siervos, los obreros que han de cortar los árboles, veinte mil coros de trigo, veinte mil coros de cebada, veinte mil batos de vino y veinte mil batos de aceite.»
 
-[11](#c2-v11){:#c2-v11} Huram, rey de Tiro, respondió en una carta que envió a Salomón: "Por el amor que tiene Yahvé hacia su pueblo, te ha hecho rey sobre ellos."
+[11](#c2-v11){:#c2-v11} Huram, rey de Tiro, respondió en una carta que envió a Salomón: «Por el amor que tiene Yahvé hacia su pueblo, te ha hecho rey sobre ellos.»
 
-[12](#c2-v12){:#c2-v12} Y agregó Huram: "¡Bendito sea Yahvé, el Dios de Israel, creador del cielo y de la tierra, que ha dado al rey David un hijo sabio, prudente y juicioso a fin de que edifique una Casa a Yahvé, y un palacio real para sí.
+[12](#c2-v12){:#c2-v12} Y agregó Huram: «¡Bendito sea Yahvé, el Dios de Israel, creador del cielo y de la tierra, que ha dado al rey David un hijo sabio, prudente y juicioso a fin de que edifique una Casa a Yahvé, y un palacio real para sí.
 
 [13](#c2-v13){:#c2-v13} [[8]](#n-8){:#rn-8} Te envío ahora un hombre sabio, dotado de inteligencia, a saber, Huram, confidente mío;
 
@@ -82,7 +82,7 @@ title: 2 Crónicas (II Paralipómenos)
 
 [15](#c2-v15){:#c2-v15} Mande, mi señor a sus siervos el trigo, la cebada, el aceite y el vino, que ha prometido mi señor,
 
-[16](#c2-v16){:#c2-v16} y nosotros cortaremos del Líbano las maderas que necesites, y te las conduciremos en balsas, por mar, hasta Joppe, y tú las transportarás a Jerusalén."
+[16](#c2-v16){:#c2-v16} y nosotros cortaremos del Líbano las maderas que necesites, y te las conduciremos en balsas, por mar, hasta Joppe, y tú las transportarás a Jerusalén.»
 
 #### Censo de los obreros
 
@@ -210,7 +210,7 @@ title: 2 Crónicas (II Paralipómenos)
 
 [12](#c5-v12){:#c5-v12} y cuando todos los levitas cantores, Asaf, Hernán y Jedutún, con sus hijos y hermanos, vestidos de lino fino, estaban de pie al oriente del altar, tocando címbalos, salterios y cítaras, y con ellos ciento veinte sacerdotes, que tocaban las trompetas;
 
-[13](#c5-v13){:#c5-v13} [[24]](#n-24){:#rn-24} cuando al mismo tiempo y al unísono se hicieron oír los que tocaban las trompetas y los cantores, alabando y celebrando a Yahvé, y cuando alzaron la voz con las trompetas y con los címbalos y otros instrumentos de música, sucedió que mientras alababan a Yahvé, diciendo: "Porque es bueno, porque es eterna su misericordia", la Casa se llenó de una nube, la misma Casa de Yahvé;
+[13](#c5-v13){:#c5-v13} [[24]](#n-24){:#rn-24} cuando al mismo tiempo y al unísono se hicieron oír los que tocaban las trompetas y los cantores, alabando y celebrando a Yahvé, y cuando alzaron la voz con las trompetas y con los címbalos y otros instrumentos de música, sucedió que mientras alababan a Yahvé, diciendo: «Porque es bueno, porque es eterna su misericordia», la Casa se llenó de una nube, la misma Casa de Yahvé;
 
 [14](#c5-v14){:#c5-v14} [[25]](#n-25){:#rn-25} y no pudieron permanecer los sacerdotes para hacer el servicio, a causa de la nube; porque la gloria de Yahvé llenaba la Casa de Yahvé.
 
@@ -218,27 +218,27 @@ title: 2 Crónicas (II Paralipómenos)
 
 #### Alocución de Salomón al pueblo
 
-[1](#c6-v1){:#c6-v1} [[26]](#n-26){:#rn-26} Después dijo Salomón: "Yahvé ha dicho que moraría en la oscuridad.
+[1](#c6-v1){:#c6-v1} [[26]](#n-26){:#rn-26} Después dijo Salomón: «Yahvé ha dicho que moraría en la oscuridad.
 
-[2](#c6-v2){:#c6-v2} Por eso te he edificado una Casa para morada, y un lugar estable donde habites para siempre."
+[2](#c6-v2){:#c6-v2} Por eso te he edificado una Casa para morada, y un lugar estable donde habites para siempre.»
 
 [3](#c6-v3){:#c6-v3} Luego, volviendo el rey su rostro, bendijo a toda la asamblea de Israel, estando de pie toda la asamblea de Israel.
 
-[4](#c6-v4){:#c6-v4} Dijo: "Bendito sea Yahvé, Dios de Israel, que con su boca habló a David, mi padre, y con su mano ha cumplido (lo prometido) diciendo:
+[4](#c6-v4){:#c6-v4} Dijo: «Bendito sea Yahvé, Dios de Israel, que con su boca habló a David, mi padre, y con su mano ha cumplido (lo prometido) diciendo:
 
-[5](#c6-v5){:#c6-v5} *Desde el día que saqué a mi pueblo de la tierra de Egipto, no he elegido ninguna ciudad entre todas las tribus de Israel, para edificar una Casa donde estuviese mi Nombre; ni elegí varón que fuese príncipe de Israel, mi pueblo;
+[5](#c6-v5){:#c6-v5} "Desde el día que saqué a mi pueblo de la tierra de Egipto, no he elegido ninguna ciudad entre todas las tribus de Israel, para edificar una Casa donde estuviese mi Nombre; ni elegí varón que fuese príncipe de Israel, mi pueblo;
 
-[6](#c6-v6){:#c6-v6} [[27]](#n-27){:#rn-27} pero (ahora) he escogido a Jerusalén, para que esté allí mi Nombre, y he elegido a David para que reine sobre Israel, mi pueblo.*
+[6](#c6-v6){:#c6-v6} [[27]](#n-27){:#rn-27} pero (ahora) he escogido a Jerusalén, para que esté allí mi Nombre, y he elegido a David para que reine sobre Israel, mi pueblo."
 
 [7](#c6-v7){:#c6-v7} David, mi padre, tuvo la intención de edificar una Casa al Nombre de Yahvé, el Dios de Israel.
 
-[8](#c6-v8){:#c6-v8} Yahvé, empero, dijo a David, mi padre: *En cuanto a tu intención de edificar una Casa a mi Nombre, bien has hecho en concebir esta idea.
+[8](#c6-v8){:#c6-v8} Yahvé, empero, dijo a David, mi padre: "En cuanto a tu intención de edificar una Casa a mi Nombre, bien has hecho en concebir esta idea.
 
-[9](#c6-v9){:#c6-v9} Sin embargo, no edificarás tú la Casa, sino que un hijo tuyo que saldrá de tus entrañas, ese será quien edificará la Casa a mi Nombre.*
+[9](#c6-v9){:#c6-v9} Sin embargo, no edificarás tú la Casa, sino que un hijo tuyo que saldrá de tus entrañas, ese será quien edificará la Casa a mi Nombre."
 
 [10](#c6-v10){:#c6-v10} Ahora bien, Yahvé ha cumplido la palabra que había pronunciado; me he levantado yo en lugar de David, mi padre, y me he sentado sobre el trono de Israel, como Yahvé había dicho, y he edificado la Casa al Nombre de Yahvé, Dios de Israel;
 
-[11](#c6-v11){:#c6-v11} y he puesto allí el Arca, en la cual está la Alianza de Yahvé, que Él celebró con los hijos de Israel."
+[11](#c6-v11){:#c6-v11} y he puesto allí el Arca, en la cual está la Alianza de Yahvé, que Él celebró con los hijos de Israel.»
 
 #### Oración de Salomón
 

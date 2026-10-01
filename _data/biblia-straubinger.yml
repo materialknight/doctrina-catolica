@@ -25,18 +25,27 @@ contenido:
             enlace: biblia-straubinger/jueces#
           - encabezado: Rut
             enlace: biblia-straubinger/rut#
-          - encabezado: 1 Samuel (I Reyes)
-            enlace: biblia-straubinger/1-samuel#
-          - encabezado: 2 Samuel (II Reyes)
-            enlace: biblia-straubinger/2-samuel#
-          - encabezado: 1 Reyes (III Reyes)
-            enlace: biblia-straubinger/1-reyes#
-          - encabezado: 2 Reyes (IV Reyes)
-            enlace: biblia-straubinger/2-reyes#
-          - encabezado: 1 Crónicas (I Paralipómenos)
-            enlace: biblia-straubinger/1-cronicas#
-          - encabezado: 2 Crónicas (II Paralipómenos)
-            enlace: biblia-straubinger/2-cronicas#
+          - encabezado: Introducción a los libros de Samuel
+            enlace: biblia-straubinger/libros-de-samuel
+            sublista:
+              - encabezado: 1 Samuel (I Reyes)
+                enlace: biblia-straubinger/1-samuel#
+              - encabezado: 2 Samuel (II Reyes)
+                enlace: biblia-straubinger/2-samuel#
+          - encabezado: Introducción a los libros de Reyes
+            enlace: biblia-straubinger/libros-de-reyes
+            sublista:
+              - encabezado: 1 Reyes (III Reyes)
+                enlace: biblia-straubinger/1-reyes#
+              - encabezado: 2 Reyes (IV Reyes)
+                enlace: biblia-straubinger/2-reyes#
+          - encabezado: Introducción a los libros de Crónicas
+            enlace: biblia-straubinger/libros-de-cronicas
+            sublista:
+              - encabezado: 1 Crónicas (I Paralipómenos)
+                enlace: biblia-straubinger/1-cronicas#
+              - encabezado: 2 Crónicas (II Paralipómenos)
+                enlace: biblia-straubinger/2-cronicas#
           - encabezado: Esdras
             enlace: biblia-straubinger/esdras#
           - encabezado: Nehemías
@@ -48,7 +57,7 @@ contenido:
           - encabezado: Ester
             enlace: biblia-straubinger/ester#
           - encabezado: Introducción a los libros de Macabeos
-            enlace: biblia-straubinger/macabeos
+            enlace: biblia-straubinger/libros-de-macabeos
             sublista:
               - encabezado: 1 Macabeos
                 enlace: biblia-straubinger/1-macabeos#
