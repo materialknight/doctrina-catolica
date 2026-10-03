@@ -4,7 +4,7 @@ title: Éxodo
 
 {% include bible/toc-auto.html %}
 
-## I. Hasta la salida de egipto
+## I. Hasta la salida de Egipto
 
 ### Éxodo [1](#c1) {#c1}
 
@@ -800,7 +800,7 @@ title: Éxodo
 
 ### Éxodo [10](#c10) {#c10}
 
-#### Octava plaga: langosta
+#### Octava plaga: langostas
 
 [10, 1](#c10-v1) Después dijo Yahvé a Moisés: «Ve al Faraón, porque Yo he endurecido su corazón y el corazón de sus siervos, para obrar estos mis prodigios en medio de ellos;
 {:#c10-v1}
@@ -1041,7 +1041,7 @@ title: Éxodo
 [12, 36](#c12-v36) [[\*\*]](#nt-c12-v36) Pues Yahvé había hecho que el pueblo hallara gracia a los ojos de los egipcios, los cuales accedieron a sus pedidos. Así despojaron a los egipcios.
 {:#c12-v36}
 
-## II. Desde la salida de egipto hasta la llegada al Sinaí
+## II. Desde la salida de Egipto hasta la llegada al Sinaí
 
 #### La salida de los israelitas
 
@@ -1613,7 +1613,7 @@ title: Éxodo
 
 ### Éxodo [19](#c19) {#c19}
 
-#### Preparativos para la alianza
+#### Preparativos para la Alianza
 
 [19, 1](#c19-v1) [[\*\*]](#nt-c19-v1) Al tercer mes después de la salida de la tierra de Egipto, ese mismo día, llegaron los hijos de Israel al desierto de Sinaí.
 {:#c19-v1}

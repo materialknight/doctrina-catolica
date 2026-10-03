@@ -351,7 +351,7 @@ title: Carta del apóstol san Pablo a los Colosenses
 
 **Reconciliar consigo todas las cosas**:
 
-> «Con cuya expresión fácilmente se desliza un sentido restringido exclusivamente al dominio ético. En realidad no se trata solamente de que sean 'renovados' los actos morales del hombre por el cumplimiento de la Ley de Cristo sino más bien que el cosmos total, aun en su existencia y actividad, sea 'incluido' en Cristo. Así como al final de un libro todos los capítulos antecedentes toman una forma nueva, concentrada, que los abarca todos, en un capítulo final y son 'recapitulados' en él, así también el cosmos completo, el espiritual y el material, ha sido realmente construido de nuevo en el Hombre-Dios, Jesucristo» (P. Pinsk).
+> «Con cuya expresión fácilmente se desliza un sentido restringido exclusivamente al dominio ético. En realidad no se trata solamente de que sean "renovados" los actos morales del hombre por el cumplimiento de la Ley de Cristo sino más bien que el cosmos total, aun en su existencia y actividad, sea "incluido" en Cristo. Así como al final de un libro todos los capítulos antecedentes toman una forma nueva, concentrada, que los abarca todos, en un capítulo final y son 'recapitulados' en él, así también el cosmos completo, el espiritual y el material, ha sido realmente construido de nuevo en el Hombre-Dios, Jesucristo» (P. Pinsk).
 
 [1, 23](#c1-v23) s. Sobre la **esperanza del Evangelio**, véase v. [27](#c1-v27); Romanos [8, 25](romanos#c8-v25); Filipenses [3, 20](filipenses#c3-v20) y nota; Hebreos [3, 6](hebreos#c3-v6); [7, 19](hebreos#c7-v19); [11, 1](hebreos#c11-v1), etc.
 {:#nt-c1-v23}

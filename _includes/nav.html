@@ -11,8 +11,9 @@
       <span>{{ item.encabezado }}</span>
    {% endif %}
    {% if item.sublista %}
-      {%- include nav.html nav = item.sublista -%}
+      {% include nav.html nav = item.sublista %}
    {% endif %}
    </li>
+
 {% endfor %}
 </ul>

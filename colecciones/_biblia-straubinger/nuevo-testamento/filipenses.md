@@ -132,7 +132,7 @@ title: Carta del apóstol san Pablo a los Filipenses
 [2, 8](#c2-v8) se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de Cruz.
 {:#c2-v8}
 
-[2, 9](#c2-v9) Por eso Dios le sobreensalzó y le dio el nombre que es sobre todo nombre [[\*\*]](#nt-c2-v9),
+[2, 9](#c2-v9) Por eso Dios le sobreensalzó y le dio el Nombre que es sobre todo nombre [[\*\*]](#nt-c2-v9),
 {:#c2-v9}
 
 [2, 10](#c2-v10) para que toda rodilla en el cielo, en la tierra y debajo de la tierra se doble en el nombre de Jesús,
@@ -392,7 +392,7 @@ Ante estos datos que Dios nos muestra en la divina Escritura, quedamos debidamen
 
 > «Guardaos de los escribas que se complacen en andar con largos vestidos, en ser saludados en las plazas públicas, en ocupar los primeros sitiales en la sinagoga y los primeros puestos en los convites» (Marcos [12, 38](marcos#c12-v38)-39). Cf. 3 Juan [9](3-juan#v9).
 
-[2, 9](#c2-v9) S. Pablo emplea la expresión «**nombre**» en el sentido antiguo. Entre los judíos y también entre los paganos, el nombre de Dios participaba del carácter sagrado de la divinidad y era considerado como una representación de la misma.
+[2, 9](#c2-v9) S. Pablo emplea la expresión «**nombre**» en el sentido antiguo. Entre los judíos y también entre los paganos, el Nombre de Dios participaba del carácter sagrado de la divinidad y era considerado como una representación de la misma.
 {:#nt-c2-v9}
 
 [2, 11](#c2-v11) **Jesucristo es Señor para gloria de Dios Padre**: Este pasaje, que forma el Introito en la misa del Miércoles Santo, tal como se presenta en la *Vulgata* («N. S. J. C. está en la gloria de Dios Padre») «parecería afirmar, como una gran cosa, que Jesús salvó su Alma y participa de la gloria».

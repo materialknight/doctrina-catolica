@@ -121,8 +121,22 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p1-t1
                       - encabezado: II. Dios revela su Nombre
                         enlace: catecismo/p1-s2-c1#a1-p1-t2
+                        sublista:
+                          - encabezado: El Dios vivo
+                            enlace: catecismo/p1-s2-c1#a1-p1-t2-s1
+                          - encabezado: «Yo soy el que soy»
+                            enlace: catecismo/p1-s2-c1#a1-p1-t2-s2
+                          - encabezado: «Dios misericordioso y clemente»
+                            enlace: catecismo/p1-s2-c1#a1-p1-t2-s3
+                          - encabezado: Solo Dios ES
+                            enlace: catecismo/p1-s2-c1#a1-p1-t2-s4
                       - encabezado: III. Dios, «El que es», es verdad y amor
                         enlace: catecismo/p1-s2-c1#a1-p1-t3
+                        sublista:
+                          - encabezado: Dios es la Verdad
+                            enlace: catecismo/p1-s2-c1#a1-p1-t3-s1
+                          - encabezado: Dios es Amor
+                            enlace: catecismo/p1-s2-c1#a1-p1-t3-s2
                       - encabezado: IV. Consecuencias de la fe en el Dios único
                         enlace: catecismo/p1-s2-c1#a1-p1-t4
                       - encabezado: Resumen
@@ -134,8 +148,18 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p2-t1
                       - encabezado: II. La revelación de Dios como Trinidad
                         enlace: catecismo/p1-s2-c1#a1-p2-t2
+                        sublista:
+                          - encabezado: El Padre revelado por el Hijo
+                            enlace: catecismo/p1-s2-c1#a1-p2-t2-s1
+                          - encabezado: El Padre y el Hijo revelados por el Espíritu
+                            enlace: catecismo/p1-s2-c1#a1-p2-t2-s2
                       - encabezado: III. La Santísima Trinidad en la doctrina de la Fe
                         enlace: catecismo/p1-s2-c1#a1-p2-t3
+                        sublista:
+                          - encabezado: La formación del dogma trinitario
+                            enlace: catecismo/p1-s2-c1#a1-p2-t3-s1
+                          - encabezado: El dogma de la Santísima Trinidad
+                            enlace: catecismo/p1-s2-c1#a1-p2-t3-s2
                       - encabezado: IV. Las obras divinas y las misiones trinitarias
                         enlace: catecismo/p1-s2-c1#a1-p2-t4
                       - encabezado: Resumen
@@ -143,8 +167,14 @@ contenido:
                   - encabezado: "Párrafo 3: El Todopoderoso"
                     enlace: catecismo/p1-s2-c1#a1-p3
                     sublista:
-                      - encabezado: Resumen
+                      - encabezado: «Todo cuanto le place, lo realiza» (Sal 115, 3)
                         enlace: catecismo/p1-s2-c1#a1-p3-t1
+                      - encabezado: «Te compadeces de todos porque lo puedes todo» (Sb 11, 23)
+                        enlace: catecismo/p1-s2-c1#a1-p3-t2
+                      - encabezado: El misterio de la aparente impotencia de Dios
+                        enlace: catecismo/p1-s2-c1#a1-p3-t3
+                      - encabezado: Resumen
+                        enlace: catecismo/p1-s2-c1#a1-p3-t4
                   - encabezado: "Párrafo 4: El Creador"
                     enlace: catecismo/p1-s2-c1#a1-p4
                     sublista: # numerales romanos
@@ -152,12 +182,28 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p4-t1
                       - encabezado: "II. La Creación: obra de la Santísima Trinidad"
                         enlace: catecismo/p1-s2-c1#a1-p4-t2
-                      - encabezado: III. “El mundo ha sido creado para la gloria de Dios”
+                      - encabezado: III. «El mundo ha sido creado para la Gloria de Dios»
                         enlace: catecismo/p1-s2-c1#a1-p4-t3
                       - encabezado: IV. El misterio de la Creación
                         enlace: catecismo/p1-s2-c1#a1-p4-t4
+                        sublista:
+                          - encabezado: Dios crea por sabiduría y por amor
+                            enlace: catecismo/p1-s2-c1#a1-p4-t4-s1
+                          - encabezado: Dios crea «de la nada»
+                            enlace: catecismo/p1-s2-c1#a1-p4-t4-s2
+                          - encabezado: Dios crea un mundo ordenado y bueno
+                            enlace: catecismo/p1-s2-c1#a1-p4-t4-s3
+                          - encabezado: Dios transciende la creación y está presente en ella
+                            enlace: catecismo/p1-s2-c1#a1-p4-t4-s4
+                          - encabezado: Dios mantiene y conduce la creación
+                            enlace: catecismo/p1-s2-c1#a1-p4-t4-s5
                       - encabezado: "V. Dios realiza su designio: la divina providencia"
                         enlace: catecismo/p1-s2-c1#a1-p4-t5
+                        sublista:
+                          - encabezado: La providencia y las causas segundas
+                            enlace: catecismo/p1-s2-c1#a1-p4-t5-s1
+                          - encabezado: La providencia y el escándalo del mal
+                            enlace: catecismo/p1-s2-c1#a1-p4-t5-s2
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p4-t6
                   - encabezado: "Párrafo 5: El cielo y la tierra"
@@ -165,6 +211,15 @@ contenido:
                     sublista: # numerales romanos:
                       - encabezado: I. Los ángeles
                         enlace: catecismo/p1-s2-c1#a1-p5-t1
+                        sublista:
+                          - encabezado: La existencia de los ángeles, verdad de fe
+                            enlace: catecismo/p1-s2-c1#a1-p5-t1-s1
+                          - encabezado: Quiénes son los ángeles
+                            enlace: catecismo/p1-s2-c1#a1-p5-t1-s2
+                          - encabezado: Cristo «con todos sus ángeles»
+                            enlace: catecismo/p1-s2-c1#a1-p5-t1-s3
+                          - encabezado: Los ángeles en la vida de la Iglesia
+                            enlace: catecismo/p1-s2-c1#a1-p5-t1-s4
                       - encabezado: II. El mundo visible
                         enlace: catecismo/p1-s2-c1#a1-p5-t2
                       - encabezado: Resumen
@@ -174,10 +229,15 @@ contenido:
                     sublista: # numerales romanos:
                       - encabezado: I. «A imagen de Dios»
                         enlace: catecismo/p1-s2-c1#a1-p6-t1
-                      - encabezado: II. «Corpore et anima unus»
+                      - encabezado: II. «<i>Corpore et anima unus</i>»
                         enlace: catecismo/p1-s2-c1#a1-p6-t2
                       - encabezado: III. «Hombre y mujer los creó»
                         enlace: catecismo/p1-s2-c1#a1-p6-t3
+                        sublista:
+                          - encabezado: Igualdad y diferencia queridas por Dios
+                            enlace: catecismo/p1-s2-c1#a1-p6-t3-s1
+                          - encabezado: «El uno para el otro», «una unidad de dos»
+                            enlace: catecismo/p1-s2-c1#a1-p6-t3-s2
                       - encabezado: IV. El hombre en el Paraíso
                         enlace: catecismo/p1-s2-c1#a1-p6-t4
                       - encabezado: Resumen
@@ -187,10 +247,26 @@ contenido:
                     sublista: # numerales romanos:
                       - encabezado: I. Donde abundó el pecado, sobreabundó la gracia
                         enlace: catecismo/p1-s2-c1#a1-p7-t1
+                        sublista:
+                          - encabezado: La realidad del pecado
+                            enlace: catecismo/p1-s2-c1#a1-p7-t1-s1
+                          - encabezado: "El pecado original: una verdad esencial de la fe"
+                            enlace: catecismo/p1-s2-c1#a1-p7-t1-s2
+                          - encabezado: Para leer el relato de la caída
+                            enlace: catecismo/p1-s2-c1#a1-p7-t1-s3
                       - encabezado: II. La caída de los ángeles
                         enlace: catecismo/p1-s2-c1#a1-p7-t2
                       - encabezado: III. El pecado original
                         enlace: catecismo/p1-s2-c1#a1-p7-t3
+                        sublista:
+                          - encabezado:
+                            enlace: catecismo/p1-s2-c1#a1-p7-t3-s1
+                          - encabezado:
+                            enlace: catecismo/p1-s2-c1#a1-p7-t3-s2
+                          - encabezado:
+                            enlace: catecismo/p1-s2-c1#a1-p7-t3-s3
+                          - encabezado:
+                            enlace: catecismo/p1-s2-c1#a1-p7-t3-s4
                       - encabezado: IV. «No lo abandonaste al poder de la muerte»
                         enlace: catecismo/p1-s2-c1#a1-p7-t4
                       - encabezado: Resumen
@@ -229,8 +305,17 @@ contenido:
                         enlace: catecismo/p1-s2-c2#a3-p1-t2
                       - encabezado: III. Verdadero Dios y verdadero hombre
                         enlace: catecismo/p1-s2-c2#a3-p1-t3
-                      - encabezado: IV. Cómo es hombre el Hijo de Dios
+                      - encabezado: IV. ¿Cómo es hombre el Hijo de Dios?
                         enlace: catecismo/p1-s2-c2#a3-p1-t4
+                        sublista:
+                          - encabezado: El alma y el conocimiento humano de Cristo
+                            enlace: catecismo/p1-s2-c2#a3-p1-t4-s1
+                          - encabezado: La voluntad humana de Cristo
+                            enlace: catecismo/p1-s2-c2#a3-p1-t4-s2
+                          - encabezado: El verdadero cuerpo de Cristo
+                            enlace: catecismo/p1-s2-c2#a3-p1-t4-s3
+                          - encabezado: El Corazón del Verbo encarnado
+                            enlace: catecismo/p1-s2-c2#a3-p1-t4-s4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p1-t5
                   - encabezado: "Párrafo 2: «…Concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen»"
@@ -238,19 +323,67 @@ contenido:
                     sublista: # numerales romanos:
                       - encabezado: I. Concebido por obra y gracia del Espíritu Santo…
                         enlace: catecismo/p1-s2-c2#a3-p2-t1
-                      - encabezado: II. …nació de la Virgen María
+                      - encabezado: II. ... nació de la Virgen María
                         enlace: catecismo/p1-s2-c2#a3-p2-t2
+                        sublista:
+                          - encabezado: La predestinación de María
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s1
+                          - encabezado: La Inmaculada Concepción
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s2
+                          - encabezado: «Hágase en mí según tu palabra...»
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s3
+                          - encabezado: La maternidad divina de María
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s4
+                          - encabezado: La virginidad de María
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s5
+                          - encabezado: María, la «siempre Virgen»
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s6
+                          - encabezado: La maternidad virginal de María en el designio de Dios
+                            enlace: catecismo/p1-s2-c2#a3-p2-t2-s7
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p2-t3
                   - encabezado: "Párrafo 3: Los misterios de la vida de Cristo"
                     enlace: catecismo/p1-s2-c2#a3-p3
                     sublista: # numerales romanos:
-                      - encabezado: I. Toda la vida de Cristo es misterio
+                      - encabezado: I. Toda la vida de Cristo es Misterio
                         enlace: catecismo/p1-s2-c2#a3-p3-t1
+                        sublista:
+                          - encabezado: Los rasgos comunes en los Misterios de Jesús
+                            enlace: catecismo/p1-s2-c2#a3-p3-t1-s1
+                          - encabezado: Nuestra comunión en los Misterios de Jesús
+                            enlace: catecismo/p1-s2-c2#a3-p3-t1-s2
                       - encabezado: II. Los misterios de la infancia y de la vida oculta de Jesús
                         enlace: catecismo/p1-s2-c2#a3-p3-t2
+                        sublista:
+                          - encabezado: Los preparativos
+                            enlace: catecismo/p1-s2-c2#a3-p3-t2-s1
+                          - encabezado: El Misterio de Navidad
+                            enlace: catecismo/p1-s2-c2#a3-p3-t2-s2
+                          - encabezado: Los Misterios de la infancia de Jesús
+                            enlace: catecismo/p1-s2-c2#a3-p3-t2-s3
+                          - encabezado: Los Misterios de la vida oculta de Jesús
+                            enlace: catecismo/p1-s2-c2#a3-p3-t2-s4
                       - encabezado: III. Los misterios de la vida pública de Jesús
                         enlace: catecismo/p1-s2-c2#a3-p3-t3
+                        sublista:
+                          - encabezado: El Bautismo de Jesús
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s1
+                          - encabezado: Las tentaciones de Jesús
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s2
+                          - encabezado: «El Reino de Dios está cerca»
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s3
+                          - encabezado: El anuncio del Reino de Dios
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s4
+                          - encabezado: Los signos del Reino de Dios
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s5
+                          - encabezado: «Las llaves del Reino»
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s6
+                          - encabezado: "Una visión anticipada del Reino: La Transfiguración"
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s7
+                          - encabezado: La subida de Jesús a Jerusalén
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s8
+                          - encabezado: La entrada mesiánica de Jesús en Jerusalén
+                            enlace: catecismo/p1-s2-c2#a3-p3-t3-s9
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p3-t4
               - encabezado: "Artículo 4: «Jesucristo padeció bajo Poncio Pilato, fue crucificado, muerto y sepultado»"
@@ -272,17 +405,58 @@ contenido:
                     sublista: # numerales romanos:
                       - encabezado: I. El proceso de Jesús
                         enlace: catecismo/p1-s2-c2#a4-p2-t1
+                        sublista:
+                          - encabezado: Divisiones de las autoridades judías respecto a Jesús
+                            enlace: catecismo/p1-s2-c2#a4-p2-t1-s1
+                          - encabezado: Los judíos no son responsables colectivamente de la muerte de Jesús
+                            enlace: catecismo/p1-s2-c2#a4-p2-t1-s2
+                          - encabezado: Todos los pecadores fueron los autores de la Pasión de Cristo
+                            enlace: catecismo/p1-s2-c2#a4-p2-t1-s3
                       - encabezado: II. La muerte redentora de Cristo en el designio divino de salvación
                         enlace: catecismo/p1-s2-c2#a4-p2-t2
+                        sublista:
+                          - encabezado: «Jesús entregado según el preciso designio de Dios»
+                            enlace: catecismo/p1-s2-c2#a4-p2-t2-s1
+                          - encabezado: «Muerto por nuestros pecados según las Escrituras»
+                            enlace: catecismo/p1-s2-c2#a4-p2-t2-s2
+                          - encabezado: «Dios le hizo pecado por nosotros»
+                            enlace: catecismo/p1-s2-c2#a4-p2-t2-s3
+                          - encabezado: Dios tiene la iniciativa del amor redentor universal
+                            enlace: catecismo/p1-s2-c2#a4-p2-t2-s4
                       - encabezado: III. Cristo se ofreció a su Padre por nuestros pecados
                         enlace: catecismo/p1-s2-c2#a4-p2-t3
+                        sublista:
+                          - encabezado: Toda la vida de Cristo es oblación al Padre
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s1
+                          - encabezado: «El cordero que quita el pecado del mundo»
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s2
+                          - encabezado: Jesús acepta libremente el amor redentor del Padre
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s3
+                          - encabezado: Jesús anticipó en la cena la ofrenda libre de su vida
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s4
+                          - encabezado: La agonía de Getsemaní
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s5
+                          - encabezado: La muerte de Cristo es el sacrificio único y definitivo
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s6
+                          - encabezado: Jesús reemplaza nuestra desobediencia por su obediencia
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s7
+                          - encabezado: En la cruz, Jesús consuma su sacrificio
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s8
+                          - encabezado: Nuestra participación en el sacrificio de Cristo
+                            enlace: catecismo/p1-s2-c2#a4-p2-t3-s9
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a4-p2-t4
                   - encabezado: "Párrafo 3: Jesucristo fue sepultado"
                     enlace: catecismo/p1-s2-c2#a4-p3
                     sublista:
-                      - encabezado: Resumen
+                      - encabezado: El cuerpo de Cristo en el sepulcro
                         enlace: catecismo/p1-s2-c2#a4-p3-t1
+                      - encabezado: «No dejarás que tu santo vea la corrupción»
+                        enlace: catecismo/p1-s2-c2#a4-p3-t2
+                      - encabezado: «Sepultados con Cristo...»
+                        enlace: catecismo/p1-s2-c2#a4-p3-t3
+                      - encabezado: Resumen
+                        enlace: catecismo/p1-s2-c2#a4-p3-t4
               - encabezado: "Artículo 5: «Jesucristo descendió a los infiernos, al tercer día resucitó de entre los muertos»"
                 enlace: catecismo/p1-s2-c2#a5
                 sublista:
@@ -296,6 +470,15 @@ contenido:
                     sublista: # numerales romanos:
                       - encabezado: I. El acontecimiento histórico y transcendente
                         enlace: catecismo/p1-s2-c2#a5-p2-t1
+                        sublista:
+                          - encabezado: El sepulcro vacío
+                            enlace: catecismo/p1-s2-c2#a5-p2-t1-s1
+                          - encabezado: Las apariciones del Resucitado
+                            enlace: catecismo/p1-s2-c2#a5-p2-t1-s2
+                          - encabezado: El estado de la humanidad resucitada de Cristo
+                            enlace: catecismo/p1-s2-c2#a5-p2-t1-s3
+                          - encabezado: La Resurrección como acontecimiento transcendente
+                            enlace: catecismo/p1-s2-c2#a5-p2-t1-s4
                       - encabezado: II. La Resurrección, obra de la Santísima Trinidad
                         enlace: catecismo/p1-s2-c2#a5-p2-t2
                       - encabezado: III. Sentido y alcance salvífico de la Resurrección
@@ -312,6 +495,15 @@ contenido:
                 sublista: # numerales romanos:
                   - encabezado: I. Volverá en gloria
                     enlace: catecismo/p1-s2-c2#a7-t1
+                    sublista:
+                      - encabezado: Cristo reina ya mediante la Iglesia...
+                        enlace: catecismo/p1-s2-c2#a7-t1-s1
+                      - encabezado: ... esperando que todo le sea sometido
+                        enlace: catecismo/p1-s2-c2#a7-t1-s2
+                      - encabezado: El glorioso advenimiento de Cristo, esperanza de Israel
+                        enlace: catecismo/p1-s2-c2#a7-t1-s3
+                      - encabezado: La última prueba de la Iglesia
+                        enlace: catecismo/p1-s2-c2#a7-t1-s4
                   - encabezado: II. Para juzgar a vivos y muertos
                     enlace: catecismo/p1-s2-c2#a7-t2
                   - encabezado: Resumen
