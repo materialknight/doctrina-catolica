@@ -15,6 +15,15 @@ contenido:
         enlace: catecismo/prologo#p-r3
       - encabezado: IV. La estructura del Catecismo de la Iglesia Católica
         enlace: catecismo/prologo#p-r4
+        sublista:
+          - encabezado: "Primera parte: la profesión de la fe"
+            enlace: catecismo/prologo#p-r4-s1
+          - encabezado: "Segunda parte: Los sacramentos de la fe"
+            enlace: catecismo/prologo#p-r4-s2
+          - encabezado: "Tercera parte: La vida de fe"
+            enlace: catecismo/prologo#p-r4-s3
+          - encabezado: "Cuarta parte: La oración en la vida de la fe"
+            enlace: catecismo/prologo#p-r4-s4
       - encabezado: V. Indicaciones prácticas para el uso de este catecismo
         enlace: catecismo/prologo#p-r5
       - encabezado: VI. Las necesarias adaptaciones
@@ -48,8 +57,22 @@ contenido:
                     enlace: catecismo/p1-s1-c2#a1-t1
                   - encabezado: II. Las etapas de la Revelación
                     enlace: catecismo/p1-s1-c2#a1-t2
+                    sublista:
+                      - encabezado: Desde el origen, Dios se da a conocer
+                        enlace: catecismo/p1-s1-c2#a1-t2-s1
+                      - encabezado: La alianza con Noé
+                        enlace: catecismo/p1-s1-c2#a1-t2-s2
+                      - encabezado: Dios elige a Abraham
+                        enlace: catecismo/p1-s1-c2#a1-t2-s3
+                      - encabezado: Dios forma a su pueblo Israel
+                        enlace: catecismo/p1-s1-c2#a1-t2-s4
                   - encabezado: III. Cristo Jesús, «mediador y plenitud de toda la Revelación»
                     enlace: catecismo/p1-s1-c2#a1-t3
+                    sublista:
+                      - encabezado: Dios ha dicho todo en su Verbo
+                        enlace: catecismo/p1-s1-c2#a1-t3-s1
+                      - encabezado: No habrá otra revelación
+                        enlace: catecismo/p1-s1-c2#a1-t3-s2
                   - encabezado: Resumen
                     enlace: catecismo/p1-s1-c2#a1-t4
               - encabezado: "Artículo 2: La transmisión de la Revelación divina"
@@ -57,10 +80,33 @@ contenido:
                 sublista: # numerales romanos:
                   - encabezado: I. La Tradición apostólica
                     enlace: catecismo/p1-s1-c2#a2-t1
+                    sublista:
+                      - encabezado: La predicación apostólica...
+                        enlace: catecismo/p1-s1-c2#a2-t1-s1
+                      - encabezado: ... continuada en la sucesión apostólica
+                        enlace: catecismo/p1-s1-c2#a2-t1-s2
                   - encabezado: II. La relación entre la Tradición y la Sagrada Escritura
                     enlace: catecismo/p1-s1-c2#a2-t2
+                    sublista:
+                      - encabezado: Una fuente común...
+                        enlace: catecismo/p1-s1-c2#a2-t2-s1
+                      - encabezado: ... dos modos distintos de transmisión
+                        enlace: catecismo/p1-s1-c2#a2-t2-s2
+                      - encabezado: Tradición apostólica y tradiciones eclesiales
+                        enlace: catecismo/p1-s1-c2#a2-t2-s3
                   - encabezado: III. La interpretación del Depósito de la Fe
                     enlace: catecismo/p1-s1-c2#a2-t3
+                    sublista:
+                      - encabezado: El depósito de la fe confiado a la totalidad de la Iglesia
+                        enlace: catecismo/p1-s1-c2#a2-t3-s1
+                      - encabezado: El Magisterio de la Iglesia
+                        enlace: catecismo/p1-s1-c2#a2-t3-s2
+                      - encabezado: Los dogmas de la fe
+                        enlace: catecismo/p1-s1-c2#a2-t3-s3
+                      - encabezado: El sentido sobrenatural de la fe
+                        enlace: catecismo/p1-s1-c2#a2-t3-s4
+                      - encabezado: El crecimiento en la inteligencia de la fe
+                        enlace: catecismo/p1-s1-c2#a2-t3-s5
                   - encabezado: Resumen
                     enlace: catecismo/p1-s1-c2#a2-t4
               - encabezado: "Artículo 3: La Sagrada Escritura"
@@ -72,8 +118,18 @@ contenido:
                     enlace: catecismo/p1-s1-c2#a3-t2
                   - encabezado: III. El Espíritu Santo, intérprete de la Escritura
                     enlace: catecismo/p1-s1-c2#a3-t3
+                    sublista:
+                      - encabezado: El sentido de la Escritura
+                        enlace: catecismo/p1-s1-c2#a3-t3-s1
                   - encabezado: IV. El canon de las Escrituras
                     enlace: catecismo/p1-s1-c2#a3-t4
+                    sublista:
+                      - encabezado: El Antiguo Testamento
+                        enlace: catecismo/p1-s1-c2#a3-t4-s1
+                      - encabezado: El Nuevo Testamento
+                        enlace: catecismo/p1-s1-c2#a3-t4-s2
+                      - encabezado: La unidad del Antiguo y del Nuevo Testamento
+                        enlace: catecismo/p1-s1-c2#a3-t4-s3
                   - encabezado: V. La Sagrada Escritura en la vida de la Iglesia
                     enlace: catecismo/p1-s1-c2#a3-t5
                   - encabezado: Resumen
@@ -86,14 +142,41 @@ contenido:
                 sublista: # numerales romanos:
                   - encabezado: I. La obediencia de la Fe
                     enlace: catecismo/p1-s1-c3#a1-t1
-                  - encabezado: II. “Yo sé en quién tengo puesta mi fe” (2 Tm 1, 12)
+                    sublista:
+                      - encabezado: Abraham, «padre de todos los creyentes»
+                        enlace: catecismo/p1-s1-c3#a1-t1-s1
+                      - encabezado: "María: «Dichosa la que ha creído»"
+                        enlace: catecismo/p1-s1-c3#a1-t1-s2
+                  - encabezado: II. «Yo sé en quién tengo puesta mi fe» (2 Tm 1, 12)
                     enlace: catecismo/p1-s1-c3#a1-t2
-                  - encabezado: Las características de la fe
+                    sublista:
+                      - encabezado: Creer solo en Dios
+                        enlace: catecismo/p1-s1-c3#a1-t2-s1
+                      - encabezado: Creer en Jesucristo, el Hijo de Dios
+                        enlace: catecismo/p1-s1-c3#a1-t2-s2
+                      - encabezado: Creer en el Espíritu Santo
+                        enlace: catecismo/p1-s1-c3#a1-t2-s3
+                  - encabezado: III. Las características de la fe
                     enlace: catecismo/p1-s1-c3#a1-t3
+                    sublista:
+                      - encabezado: La fe es una gracia
+                        enlace: catecismo/p1-s1-c3#a1-t3-s1
+                      - encabezado: La fe es un acto humano
+                        enlace: catecismo/p1-s1-c3#a1-t3-s2
+                      - encabezado: La fe y la inteligencia
+                        enlace: catecismo/p1-s1-c3#a1-t3-s3
+                      - encabezado: La libertad de la fe
+                        enlace: catecismo/p1-s1-c3#a1-t3-s4
+                      - encabezado: La necesidad de la fe
+                        enlace: catecismo/p1-s1-c3#a1-t3-s5
+                      - encabezado: La perseverancia en la fe
+                        enlace: catecismo/p1-s1-c3#a1-t3-s6
+                      - encabezado: La fe, comienzo de la vida eterna
+                        enlace: catecismo/p1-s1-c3#a1-t3-s7
               - encabezado: "Artículo 2: Creemos"
                 enlace: catecismo/p1-s1-c3#a2
                 sublista: # numerales romanos:
-                  - encabezado: I. “Mira, Señor, la fe de tu Iglesia”
+                  - encabezado: I. «Mira, Señor, la fe de tu Iglesia»
                     enlace: catecismo/p1-s1-c3#a2-t1
                   - encabezado: II. El lenguaje de la fe
                     enlace: catecismo/p1-s1-c3#a2-t2
@@ -259,13 +342,13 @@ contenido:
                       - encabezado: III. El pecado original
                         enlace: catecismo/p1-s2-c1#a1-p7-t3
                         sublista:
-                          - encabezado:
+                          - encabezado: La prueba de la libertad
                             enlace: catecismo/p1-s2-c1#a1-p7-t3-s1
-                          - encabezado:
+                          - encabezado: El primer pecado del hombre
                             enlace: catecismo/p1-s2-c1#a1-p7-t3-s2
-                          - encabezado:
+                          - encabezado: Consecuencias del pecado de Adán para la humanidad
                             enlace: catecismo/p1-s2-c1#a1-p7-t3-s3
-                          - encabezado:
+                          - encabezado: Un duro combate...
                             enlace: catecismo/p1-s2-c1#a1-p7-t3-s4
                       - encabezado: IV. «No lo abandonaste al poder de la muerte»
                         enlace: catecismo/p1-s2-c1#a1-p7-t4

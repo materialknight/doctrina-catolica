@@ -61,21 +61,25 @@ title: Prólogo
 {:#n13}
 
 ### Primera parte: la profesión de la fe
+{:#p-r4-s1}
 
 [**14**](#n14) Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (cf. Mt [10, 32]({{ "biblia-straubinger/mateo#c10-v32" | relative_url }}); Rom [10, 9]({{ "biblia-straubinger/romanos#c10-v9" | relative_url }})). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (*primera sección*). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los «tres capítulos» de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (*segunda sección*).
 {:#n14}
 
 ### Segunda parte: Los sacramentos de la fe
+{:#p-r4-s2}
 
 [**15**](#n15) La segunda parte del catecismo expone cómo la salvación de Dios, realizada una vez por todas por Cristo Jesús y por el Espíritu Santo, se hace presente en las acciones sagradas de la liturgia de la Iglesia (*primera sección*), particularmente en los siete sacramentos (*segunda sección*).
 {:#n15}
 
 ### Tercera parte: La vida de fe
+{:#p-r4-s3}
 
 [**16**](#n16) La tercera parte del catecismo presenta el fin último del hombre, creado a imagen de Dios: la bienaventuranza, y los caminos para llegar a ella: mediante un obrar recto y libre, con la ayuda de la ley y de la gracia de Dios (*primera sección*); mediante un obrar que realiza el doble mandamiento de la caridad, desarrollado en los diez mandamientos de Dios (*segunda sección*).
 {:#n16}
 
 ### Cuarta parte: La oración en la vida de la fe
+{:#p-r4-s4}
 
 [**17**](#n17) La última parte del catecismo trata del sentido y la importancia de la oración en la vida de los creyentes (*primera sección*). Se cierra con un breve comentario de las siete peticiones de la oración del Señor (*segunda sección*). En ellas, en efecto, encontramos la suma de los bienes que debemos esperar y que nuestro Padre celestial quiere concedernos.
 {:#n17}
