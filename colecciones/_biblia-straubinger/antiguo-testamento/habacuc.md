@@ -222,7 +222,7 @@ En lugar de "en medio de los años", los Setenta trasladan: "Tú te darás a con
 
 **Farán** significa esa misma región situada al norte de la península del Sinaí. Aquí y en los vv. [9](#c3-v9) y [13](#c3-v13) el hebreo usa, por única vez fuera de los Salmos, la nota *Sélah*, que según algunos es signo musical de pausa o acentuación, y según otros es como un subrayado que acentúa la trascendencia del pasaje, como cuando Jesús añadía: "En verdad, en verdad os digo", o "Quien tiene oídos oiga".
 
-El profeta alude a la peregrinación del pueblo por el desierto y a la teofanía del Señor en el Sinaí. Véase Éxodo [19, 16](exodo#c19-v16) ss.; Deuteronomio [33, 2](deuteronomio#c33-v2); Jueces [5, 4](jueces#c5-v4); Salmo [17, 8](salmos#c17-v8)-16; 67, 8 ss.; Nahúm [1, 3](nahum#c1-v3) ss.
+El profeta alude a la peregrinación del pueblo por el desierto y a la teofanía del Señor en el Sinaí. Véase Éxodo [19, 16](exodo#c19-v16) ss.; Deuteronomio [33, 2](deuteronomio#c33-v2); Jueces [5, 4](jueces#c5-v4); Salmos [17, 8](salmos#c17-v8)-16; [67, 8](salmos#c67-v8) ss.; Nahúm [1, 3](nahum#c1-v3) ss.
 
 [[23]](#rn-23){:#n-23} [3, 4](#c3-v4) **Rayos**: literalmente: "cuernos". El cuerno es símbolo del poder y de la fortaleza de Dios. De ahí la expresión "*cornu salutis*" en Salmo [17, 3](salmos#c17-v3). Cf. 2 Samuel [22, 3](2-samuel#c22-v3).
 

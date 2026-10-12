@@ -467,8 +467,8 @@ title: Primera carta del apóstol san Pedro
 [2, 25](#c2-v25) El **Pastor y Obispo de vuestras almas** es Jesucristo. Cf. Isaías [53, 6](isaias#c53-v6); Ezequiel [34, 5](ezequiel#c34-v5); Mateo [18, 12](mateo#c18-v12) ss.; Juan [10, 11](juan#c10-v11) s. y [16](juan#c10-v16); Hebreos [8, 1](hebreos#c8-v1) ss.; [13, 20](hebreos#c13-v20); cf. Tito [2, 5](tito#c2-v5).
 {:#nt-c2-v25}
 
-[3, 1](#c3-v1) Como S. Pablo, así también S. Pedro ve la misión de la *mujer cristiana* más en una vida ejemplar que en palabras y discusiones, tan raras veces fructuosas y a las cuales no está llamada. Come aquí vemos, la misión de la esposa puede alcanzar un extraordinario valor apostólico. Cf. Efesios [5, 22](efesios#c5-v22) ss.; 1 Corintios cap. [7](1-corintios#c7).
-{:#nt-c3-v1}
+[3, 2](#c3-v2) Como S. Pablo, así también S. Pedro ve la misión de la *mujer cristiana* más en una vida ejemplar que en palabras y discusiones, tan raras veces fructuosas y a las cuales no está llamada. Come aquí vemos, la misión de la esposa puede alcanzar un extraordinario valor apostólico. Cf. Efesios [5, 22](efesios#c5-v22) ss.; 1 Corintios cap. [7](1-corintios#c7).
+{:#nt-c3-v2}
 
 [3, 6](#c3-v6) **Sara era obediente**: así quiere Dios que sea el orden del hogar. Dice al respecto la Encíclica «*Casti Connubii*»:
 {:#nt-c3-v6}

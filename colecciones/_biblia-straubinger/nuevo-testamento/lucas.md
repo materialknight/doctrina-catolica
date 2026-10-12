@@ -1672,7 +1672,7 @@ Este tercer Evangelio fue escrito en Roma a fines de la primera cautividad de Sa
 
 [29](#c15-v29){:#c15-v29} Pero él contestó a su padre: "He aquí tantos años que te estoy sirviendo y jamás he transgredido mandato alguno tuyo; a mí nunca me diste un cabrito para hacer fiesta con mis amigos.
 
-[30](#c15-v30){:#c15-v30} Pero cuando tu hijo, este que se ha comido toda, su hacienda con meretrices, ha vuelto, le has matado el novillo cebado".
+[30](#c15-v30){:#c15-v30} Pero cuando tu hijo, este que se ha comido toda su hacienda con meretrices, ha vuelto, le has matado el novillo cebado".
 
 [31](#c15-v31){:#c15-v31} El padre le dijo: "Hijo mío, tú siempre estás conmigo, y todo lo mío es tuyo.
 

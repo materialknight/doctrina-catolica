@@ -24,7 +24,7 @@ title: Prólogo
 ## II. Transmitir la fe: la catequesis
 {:#p-r2}
 
-[**4**](#n4)  Muy pronto se llamó *catequesis* al conjunto de los esfuerzos realizados en la Iglesia para hacer discípulos, para ayudar a los hombres a creer que Jesús es el Hijo de Dios a fin de que,creyendo ésto, tengan la vida en su nombre, y para educarlos e instruirlos en esta vida y construir así el Cuerpo de Cristo (cf. Juan Pablo II, Catechesi tradendae [CT] 1).
+[**4**](#n4)  Muy pronto se llamó *catequesis* al conjunto de los esfuerzos realizados en la Iglesia para hacer discípulos, para ayudar a los hombres a creer que Jesús es el Hijo de Dios a fin de que,creyendo ésto, tengan la vida en su nombre, y para educarlos e instruirlos en esta vida y construir así el Cuerpo de Cristo (cf. Juan Pablo II, *Catechesi tradendae* [CT] 1).
 {:#n4}
 
 [**5**](#n5)  «La catequesis es una *educación en la fe* de los niños, de los jóvenes y adultos, que comprende especialmente una enseñanza de la doctrina cristiana, dada generalmente de modo orgánico y sistemático con miras a iniciarlos en la plenitud de la vida cristiana» (CT 18).
@@ -63,25 +63,25 @@ title: Prólogo
 ### Primera parte: la profesión de la fe
 {:#p-r4-s1}
 
-[**14**](#n14) Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (cf. Mt [10, 32]({{ "biblia-straubinger/mateo#c10-v32" | relative_url }}); Rom [10, 9]({{ "biblia-straubinger/romanos#c10-v9" | relative_url }})). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (*primera sección*). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los «tres capítulos» de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (*segunda sección*).
+[**14**](#n14) Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (cf. Mt [10, 32]({{ "biblia-straubinger/mateo#c10-v32" | relative_url }}); Rom [10, 9]({{ "biblia-straubinger/romanos#c10-v9" | relative_url }})). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios ([*primera sección*](p1#s1)). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los «tres capítulos» de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia ([*segunda sección*](p1#s2)).
 {:#n14}
 
 ### Segunda parte: Los sacramentos de la fe
 {:#p-r4-s2}
 
-[**15**](#n15) La segunda parte del catecismo expone cómo la salvación de Dios, realizada una vez por todas por Cristo Jesús y por el Espíritu Santo, se hace presente en las acciones sagradas de la liturgia de la Iglesia (*primera sección*), particularmente en los siete sacramentos (*segunda sección*).
+[**15**](#n15) La segunda parte del catecismo expone cómo la salvación de Dios, realizada una vez por todas por Cristo Jesús y por el Espíritu Santo, se hace presente en las acciones sagradas de la liturgia de la Iglesia ([*primera sección*](p2#s1)), particularmente en los siete sacramentos ([*segunda sección*](p2#s2)).
 {:#n15}
 
 ### Tercera parte: La vida de fe
 {:#p-r4-s3}
 
-[**16**](#n16) La tercera parte del catecismo presenta el fin último del hombre, creado a imagen de Dios: la bienaventuranza, y los caminos para llegar a ella: mediante un obrar recto y libre, con la ayuda de la ley y de la gracia de Dios (*primera sección*); mediante un obrar que realiza el doble mandamiento de la caridad, desarrollado en los diez mandamientos de Dios (*segunda sección*).
+[**16**](#n16) La tercera parte del catecismo presenta el fin último del hombre, creado a imagen de Dios: la bienaventuranza, y los caminos para llegar a ella: mediante un obrar recto y libre, con la ayuda de la ley y de la gracia de Dios ([*primera sección*](p3#s1)); mediante un obrar que realiza el doble mandamiento de la caridad, desarrollado en los diez mandamientos de Dios ([*segunda sección*](p3#s2)).
 {:#n16}
 
 ### Cuarta parte: La oración en la vida de la fe
 {:#p-r4-s4}
 
-[**17**](#n17) La última parte del catecismo trata del sentido y la importancia de la oración en la vida de los creyentes (*primera sección*). Se cierra con un breve comentario de las siete peticiones de la oración del Señor (*segunda sección*). En ellas, en efecto, encontramos la suma de los bienes que debemos esperar y que nuestro Padre celestial quiere concedernos.
+[**17**](#n17) La última parte del catecismo trata del sentido y la importancia de la oración en la vida de los creyentes ([*primera sección*](p4#s1)). Se cierra con un breve comentario de las siete peticiones de la oración del Señor ([*segunda sección*](p4#s2)). En ellas, en efecto, encontramos la suma de los bienes que debemos esperar y que nuestro Padre celestial quiere concedernos.
 {:#n17}
 
 ## V. Indicaciones prácticas para el uso de este Catecismo
@@ -90,7 +90,7 @@ title: Prólogo
 [**18**](#n18) Este catecismo está concebido como una *exposición orgánica* de toda la fe católica. Es preciso, por tanto, leerlo como una unidad. Por ello, en los márgenes del texto se remite al lector frecuentemente a otros lugares (señalados por números más pequeños y que se refieren a su vez a otros párrafos que tratan del mismo tema) y, con ayuda del índice analítico al final del volumen, se permite ver cada tema en su vinculación con el conjunto de la fe.
 {:#n18}
 
-[**19**](#n19) Con frecuencia, los textos de la sagrada Escritura no son citados literalmente, sino indicando sólo la referencia (mediante cf.). Para una inteligencia más profunda de esos pasajes, es preciso recurrir a los textos mismos. Estas referencias bíblicas son un instrumento de trabajo para la catequesis.
+[**19**](#n19) Con frecuencia, los textos de la sagrada Escritura no son citados literalmente, sino indicando sólo la referencia (mediante «cf.»). Para una inteligencia más profunda de esos pasajes, es preciso recurrir a los textos mismos. Estas referencias bíblicas son un instrumento de trabajo para la catequesis.
 {:#n19}
 
 [**20**](#n20) Cuando, en ciertos pasajes, se emplea *letra pequeña*, con ello se indica que se trata de puntualizaciones de tipo histórico, apologético o de exposiciones doctrinales complementarias.

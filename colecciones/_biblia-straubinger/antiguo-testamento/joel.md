@@ -435,7 +435,7 @@ Tal es la interpretación de San Jerónimo, quien refiere este pasaje a los jud�
 [3, 15](#c3-v15) Cf. [2, 31](#c2-v31) y nota.
 {:#nt-c3-v15}
 
-[3, 16](#c3-v16) Cf. Oseas [5, 14](oseas#c5-v14); Amós [1, 2](amos#c1-v2); [3, 4](amos#c3-v4) y 8. Este rugido del león de la tribu de Judá, que es Jesús, el Cordero inmaculado, único capaz de abrir el libro sellado (Apocalipsis cap. [5](apocalipsis#c5)), ¿acaso no resonará hasta el fondo de nuestra alma para hacernos comprender la grandeza de aquel día?
+[3, 16](#c3-v16) Cf. Oseas [5, 14](oseas#c5-v14); Amós [1, 2](amos#c1-v2); [3, 4](amos#c3-v4) y [8](amos#c3-v8). Este rugido del león de la tribu de Judá, que es Jesús, el Cordero inmaculado, único capaz de abrir el libro sellado (Apocalipsis cap. [5](apocalipsis#c5)), ¿acaso no resonará hasta el fondo de nuestra alma para hacernos comprender la grandeza de aquel día?
 {:#nt-c3-v16}
 
 [3, 18](#c3-v18)

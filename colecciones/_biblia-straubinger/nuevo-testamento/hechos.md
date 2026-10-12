@@ -4170,7 +4170,7 @@ Vemos también que no hemos de inquietarnos si no todos creen a nuestra predicac
 [14, 23](#c14-v23) **Presbíteros**: Boudou traduce literalmente «ancianos», explicando que se conservó el nombre griego de presbítero (anciano) en vez de «*hierens*» (sacerdote), porque lo entendían a un tiempo los judíos, «en cuyo sanhedrín junto a sacerdotes y escribas había ancianos», y los griegos a los cuales recordaba los nombres de ciertos funcionarios (cf. [20, 17](#c20-v17) y nota). En cuanto a la institución, añade que, cualquiera fuese su forma, bien se ve que ella se efectuó en una ceremonia religiosa bajo la autoridad apostólica (cf. [13, 3](#c13-v3)) y que si bien no consta aquí la imposición de manos, como en el caso de Timoteo (cf. 2 Timoteo [1, 6](2-timoteo#c1-v6) s.), debe suponérselo por analogía. Cf. [11, 16](#c11-v16) y nota; 1 Timoteo [5, 22](1-timoteo#c5-v22); Tito [1, 5](tito#c1-v5) ss.
 {:#nt-c14-v23}
 
-[14, 25](#c14-v25) Este *primer viaje* lo hizo San Pablo en los años 46-49. El camino recorrido per él y Bernabé es de unos 2.500 kms. (distancia de Buenos Aires al Perú). El fruto respondió al celo, fundándose Iglesias en una vasta zona del Asia Menor.
+[14, 25](#c14-v25) Este *primer viaje* lo hizo San Pablo en los años 46-49. El camino recorrido per él y Bernabé es de unos 2,500 kms. (distancia de Buenos Aires al Perú). El fruto respondió al celo, fundándose Iglesias en una vasta zona del Asia Menor.
 {:#nt-c14-v25}
 
 [15, 1](#c15-v1) Como se deduce del v. [5](#c15-v5), algunos fariseos que habían abrazado a fe inquietaban a los paganos convertidos, diciendo que estos no podían ser bautizados si antes no se hacían judíos por medio de la circuncisión. Es de notar que los perturbadores no tenían ninguna autoridad por parte de los apóstoles (v. [24](#c15-v24)) y que negaban virtualmente la salvación por la fe en Jesucristo.
@@ -4497,7 +4497,7 @@ En cuanto a la **imposición de las manos** hecha aquí por el apóstol, con pos
 [19, 16](#c19-v16) Episodio de los más pintorescos, en que Dios confunde a los que invocan, sin verdadera fe, el sagrado Nombre de Jesús (cf. v. [17](#c19-v17)). El Señor alude en Mateo [12, 27](mateo#c12-v27) a esta clase de exorcistas que pretendían obrar en nombre de Dios y no eran sino supersticiosos. El fruto de este ejemplar castigo se ve en v. [18](#c19-v18) s.
 {:#nt-c19-v16}
 
-[19, 19](#c19-v19) Es decir, unos 50.000 pesos argentinos. Si los cristianos de hoy imitaran este «grande escrutinio» —que fue totalmente espontáneo— con los libros de mala doctrina que tienen «apariencias de piedad» (2 Timoteo [3, 5](2-timoteo#c3-v15)), habría combustible y calefacción para mucho tiempo.
+[19, 19](#c19-v19) Es decir, unos 50,000 pesos argentinos. Si los cristianos de hoy imitaran este «grande escrutinio» —que fue totalmente espontáneo— con los libros de mala doctrina que tienen «apariencias de piedad» (2 Timoteo [3, 5](2-timoteo#c3-v15)), habría combustible y calefacción para mucho tiempo.
 {:#nt-c19-v19}
 
 [19, 20](#c19-v20) Boudou vierte también así. Nos parece evidentemente más exacto que traducir: «la palabra del Señor crecía poderosamente». Otra variante dice «la fe», en vez de «la palabra»: son conceptos equivalentes, pues según la Escritura, la fe viene por la Palabra de Dios. Véase [5, 12](#c5-v12) y nota; Romanos [10, 17](romanos#c10-v17).

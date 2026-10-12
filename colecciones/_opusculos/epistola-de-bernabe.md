@@ -701,7 +701,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [2, 5](#c2-v5) Isaías [1, 11]({{ "biblia-straubinger/isaias#c1-v11" | relative_url }})-13.
 {:#nt-c2-v5}
 
-[2, 7](#c2-v7) Paráfrasis de Jeremías [7, 22]({{ "biblia-straubinger/jeremias#c7-v22" | relative_url }})-23 y Zacarías [7, 10]({{ "biblia-straubinger/zacarias#c7-v10" | relative_url }}), y 8, 17.
+[2, 7](#c2-v7) Paráfrasis de Jeremías [7, 22]({{ "biblia-straubinger/jeremias#c7-v22" | relative_url }})-23 y Zacarías [7, 10]({{ "biblia-straubinger/zacarias#c7-v10" | relative_url }}), y [8, 17]({{ "biblia-straubinger/zacarias#c8-v17" | relative_url }}).
 {:#nt-c2-v7}
 
 [2, 10](#c2-v10) Salmo [50, 19]({{ "biblia-straubinger/salmos#c50-v19" | relative_url }}).
@@ -719,7 +719,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [4, 5](#c4-v5) Daniel [7, 7]({{ "biblia-straubinger/daniel#c7-v7" | relative_url }})-8.
 {:#nt-c4-v5}
 
-[4, 7](#c4-v7) Éxodo [31, 18]({{ "biblia-straubinger/exodo#c31-v18" | relative_url }}), y 34, 28.
+[4, 7](#c4-v7) Éxodo [31, 18]({{ "biblia-straubinger/exodo#c31-v18" | relative_url }}), y [34, 28]({{ "biblia-straubinger/exodo#c34-v28" | relative_url }}).
 {:#nt-c4-v7}
 
 [4, 8](#c4-v8) Éxodo [32, 7]({{ "biblia-straubinger/exodo#c32-v7" | relative_url }}) y Deuteronomio [9, 12]({{ "biblia-straubinger/deuteronomio#c9-v12" | relative_url }}).
@@ -728,7 +728,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [4, 11](#c4-v11) «¡Ay de los prudentes para sí mismos y de los sabios ante sí mismos»: Isaías [5, 21]({{ "biblia-straubinger/isaias#c5-v21" | relative_url }}).
 {:#nt-c4-v11}
 
-«Meditemos el temor de Dios»: Deuteronomio [6, 2]({{ "biblia-straubinger/deuteronomio#c6-v2" | relative_url }}); 10, 12, Job [28, 28]({{ "biblia-straubinger/job#c28-v28" | relative_url }}), Proverbios [1, 7]({{ "biblia-straubinger/proverbios#c1-v7" | relative_url }}), Salmo [110, 10]({{ "biblia-straubinger/salmos#c110-v10" | relative_url }}), etc.
+«Meditemos el temor de Dios»: Deuteronomio [6, 2]({{ "biblia-straubinger/deuteronomio#c6-v2" | relative_url }}); [10, 12]({{ "biblia-straubinger/deuteronomio#c10-v12" | relative_url }}), Job [28, 28]({{ "biblia-straubinger/job#c28-v28" | relative_url }}), Proverbios [1, 7]({{ "biblia-straubinger/proverbios#c1-v7" | relative_url }}), Salmo [110, 10]({{ "biblia-straubinger/salmos#c110-v10" | relative_url }}), etc.
 
 [4, 12](#c4-v12) «Juzgará al mundo sin acepción de personas»: Deuteronomio [10, 17]({{ "biblia-straubinger/deuteronomio#c10-v17" | relative_url }}), Hechos [10, 34]({{ "biblia-straubinger/hechos#c10-v34" | relative_url }}) y Romanos [2, 11]({{ "biblia-straubinger/romanos#c2-v11" | relative_url }}).
 {:#nt-c4-v12}
@@ -740,7 +740,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [4, 14](#c4-v14) «Muchos llamados y pocos escogidos»: Mateo [22, 14]({{ "biblia-straubinger/mateo#c22-v14" | relative_url }}).
 {:#nt-c4-v14}
 
-[5, 2](#c5-v2) Isaías [53, 5]({{ "biblia-straubinger/isaias#c53-v5" | relative_url }}) y 7.
+[5, 2](#c5-v2) Isaías [53, 5]({{ "biblia-straubinger/isaias#c53-v5" | relative_url }}) y [7]({{ "biblia-straubinger/isaias#c53-v7" | relative_url }}).
 {:#nt-c5-v2}
 
 [5, 4](#c5-v4) Proverbios [1, 17]({{ "biblia-straubinger/proverbios#c1-v17" | relative_url }}).
@@ -760,10 +760,10 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Traspasa con un clavo mis carnes, porque las juntas de malvados se levantaron contra mi»: Salmo [21, 17]({{ "biblia-straubinger/salmos#c21-v17" | relative_url }}). Cp. Salmo [26, 12]({{ "biblia-straubinger/salmos#c26-v12" | relative_url }}).
 
-[5, 14](#c5-v14) Isaías [50, 6]({{ "biblia-straubinger/isaias#c50-v6" | relative_url }}) y 7.
+[5, 14](#c5-v14) Isaías [50, 6]({{ "biblia-straubinger/isaias#c50-v6" | relative_url }}) y [7]({{ "biblia-straubinger/isaias#c50-v7" | relative_url }}).
 {:#nt-c5-v14}
 
-[6, 1](#c6-v1) Este y el siguiente versículo son una paráfrasis de Isaías [50, 8]({{ "biblia-straubinger/isaias#c50-v8" | relative_url }}) y 9.
+[6, 1](#c6-v1) Este y el siguiente versículo son una paráfrasis de Isaías [50, 8]({{ "biblia-straubinger/isaias#c50-v8" | relative_url }}) y [9]({{ "biblia-straubinger/isaias#c50-v9" | relative_url }}).
 {:#nt-c6-v1}
 
 [6, 2](#c6-v2) «Mira que voy a echar en los cimientos de Sión una piedra de mucho valor, escogida, angular, preciosa»: La cita es de Isaías [28, 16]({{ "biblia-straubinger/isaias#c28-v16" | relative_url }}), y se repite en Romanos [9, 33]({{ "biblia-straubinger/romanos#c9-v33" | relative_url }}) y en 1 Pedro [2, 6]({{ "biblia-straubinger/1-pedro#c2-v6" | relative_url }}).
@@ -800,7 +800,7 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Entrad en la tierra que mana leche y miel y enseñorearos de ella»: Paráfrasis de Éxodo [3, 8]({{ "biblia-straubinger/exodo#c3-v8" | relative_url }}) y Deuteronomio [1, 8]({{ "biblia-straubinger/deuteronomio#c1-v8" | relative_url }}).
 
-[6, 14](#c6-v14) Ezequiel [11, 19]({{ "biblia-straubinger/ezequiel#c11-v19" | relative_url }}), y 36, 26.
+[6, 14](#c6-v14) Ezequiel [11, 19]({{ "biblia-straubinger/ezequiel#c11-v19" | relative_url }}), y [36, 26]({{ "biblia-straubinger/ezequiel#c36-v26" | relative_url }}).
 {:#nt-c6-v14}
 
 [6, 16](#c6-v16) «¿Y en qué seré visto por el Señor mi Dios y seré glorificado?»: Posíblemente una paráfrasis de Isaías [49, 5]({{ "biblia-straubinger/isaias#c49-v5" | relative_url }}).
@@ -822,16 +822,16 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 [7, 4](#c7-v4) Números [29, 11]({{ "biblia-straubinger/numeros#c29-v11" | relative_url }}) y Éxodo [29, 32]({{ "biblia-straubinger/exodo#c29-v32" | relative_url }})-33.
 {:#nt-c7-v4}
 
-[7, 6](#c7-v6) Levítico [16, 7]({{ "biblia-straubinger/levitico#c16-v7" | relative_url }}) y 9.
+[7, 6](#c7-v6) Levítico [16, 7]({{ "biblia-straubinger/levitico#c16-v7" | relative_url }}) y [9]({{ "biblia-straubinger/levitico#c16-v9" | relative_url }}).
 {:#nt-c7-v6}
 
-[7, 7](#c7-v7) Levítico [16, 8]({{ "biblia-straubinger/levitico#c16-v8" | relative_url }}) y 10.
+[7, 7](#c7-v7) Levítico [16, 8]({{ "biblia-straubinger/levitico#c16-v8" | relative_url }}) y [10]({{ "biblia-straubinger/levitico#c16-v10" | relative_url }}).
 {:#nt-c7-v7}
 
 [7, 8](#c7-v8) Levítico [16, 21]({{ "biblia-straubinger/levitico#c16-v21" | relative_url }})-22 narra el envío del carnero al desierto, pero no dice nada de la lana; eso se halla en el Mishná, Yoma 4, 2, y 6, 6. El Mishná es la primera colección escrita de la tradición oral judía; fue redactada a principios del siglo III, pero recoge tradiciones orales más antiguas, a las cuales se refiere Bernabé.
 {:#nt-c7-v8}
 
-[8, 1](#c8-v1) Números 19.
+[8, 1](#c8-v1) Números [19](numeros#c19).
 {:#nt-c8-v1}
 
 [9, 1](#c9-v1) «Con solo oír, me obedecieron»: Salmo [17, 45]({{ "biblia-straubinger/salmos#c17-v45" | relative_url }}).
@@ -841,10 +841,10 @@ En estas notas, las referencias a los salmos siguen la numeración de la Septuag
 
 «Circuncidad —dice el Señor— vuestros corazones»: Deuteronomio [10, 16]({{ "biblia-straubinger/deuteronomio#c10-v16" | relative_url }}).
 
-[9, 2](#c9-v2) . «Escucha, Israel, porque esto dice el Señor Dios tuyo»: Probablemente una paráfrasis de Deuteronomio [6, 4]({{ "biblia-straubinger/deuteronomio#c6-v4" | relative_url }}) y Jeremías [7, 2]({{ "biblia-straubinger/jeremias#c7-v2" | relative_url }}).
+[9, 2](#c9-v2) «Escucha, Israel, porque esto dice el Señor Dios tuyo»: Probablemente una paráfrasis de Deuteronomio [6, 4]({{ "biblia-straubinger/deuteronomio#c6-v4" | relative_url }}) y Jeremías [7, 2]({{ "biblia-straubinger/jeremias#c7-v2" | relative_url }}).
 {:#nt-c9-v2}
 
-«¿Quién es el que quiere vivir para siempre? Escuche atentamente la voz de mi siervo»: Paráfrasis del Salmo [33, 12]({{ "biblia-straubinger/salmos#c33-v12" | relative_url }})-13, y quizá de Isaías [42, 1]({{ "biblia-straubinger/isaias#c42-v1" | relative_url }}), o 50, 10.
+«¿Quién es el que quiere vivir para siempre? Escuche atentamente la voz de mi siervo»: Paráfrasis del Salmo [33, 12]({{ "biblia-straubinger/salmos#c33-v12" | relative_url }})-13, y quizá de Isaías [42, 1]({{ "biblia-straubinger/isaias#c42-v1" | relative_url }}), o [50, 10]({{ "biblia-straubinger/isaias#c50-v10" | relative_url }}).
 
 [9, 3](#c9-v3) «Escucha, cielo, y tú, tierra, presta oídos, porque el Señor ha hablado esto para testimonio»: Isaías [1, 2]({{ "biblia-straubinger/isaias#c1-v2" | relative_url }}).
 {:#nt-c9-v3}
@@ -864,7 +864,7 @@ Bernabé argumenta que el nombre de Jesús y el signo de la cruz están cifrados
 [10, 1](#c10-v1) Levítico [11, 1]({{ "biblia-straubinger/levitico#c11-v1" | relative_url }})-23 y Deuteronomio [14, 3]({{ "biblia-straubinger/deuteronomio#c14-v3" | relative_url }})-21.
 {:#nt-c10-v1}
 
-[10, 2](#c10-v2) Deuteronomio [4, 1]({{ "biblia-straubinger/deuteronomio#c4-v1" | relative_url }}) y 5.
+[10, 2](#c10-v2) Deuteronomio [4, 1]({{ "biblia-straubinger/deuteronomio#c4-v1" | relative_url }}) y [5]({{ "biblia-straubinger/deuteronomio#c4-v5" | relative_url }}).
 {:#nt-c10-v2}
 
 [10, 3](#c10-v3) Levítico [11, 7]({{ "biblia-straubinger/levitico#c11-v7" | relative_url }}), y Deuteronomio [14, 8]({{ "biblia-straubinger/deuteronomio#c14-v8" | relative_url }}).

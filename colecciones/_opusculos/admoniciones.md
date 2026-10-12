@@ -46,7 +46,7 @@ autor: Francisco de Asís
 [1, 13](#c1-v13) Todos los otros que no participan del mismo espíritu y se atreven a recibirlo, comen y beben su condenación (cf. 1 Cor [11, 29]({{ "biblia-straubinger/1-corintios#c11-v29" | relative_url }})).
 {:#c1-v13}
 
-[1, 14](#c1-v14) De donde: Hijos de los hombres, ¿hasta cuándo seréis de pesado corazón? (Sal 4,3).
+[1, 14](#c1-v14) De donde: Hijos de los hombres, ¿hasta cuándo seréis de pesado corazón? (Sal [4, 3]({{ "biblia-straubinger/salmos#c4-v3" | relative_url }})).
 {:#c1-v14}
 
 [1, 15](#c1-v15) ¿Por qué no reconocéis la verdad y creéis en el Hijo de Dios? (cf. Jn [9, 35]({{ "biblia-straubinger/juan#c9-v35" | relative_url }})).
@@ -116,7 +116,7 @@ autor: Francisco de Asís
 [3, 9](#c3-v9) Pues quien sufre la persecución antes que querer separarse de sus hermanos, verdaderamente permanece en la perfecta obediencia, porque da su vida (cf. Jn [15, 13]({{ "biblia-straubinger/juan#c15-v13" | relative_url }})) por sus hermanos.
 {:#c3-v9}
 
-[3, 10](#c3-v10) Pues hay muchos religiosos que, so pretexto de que ven cosas mejores que las que les ordenan sus prelados, miran atrás (cf. Lc [9, 62]({{ "biblia-straubinger/lucas#c9-v62" | relative_url }})) y vuelven al vómito de la propia voluntad (cf. Prov 26,11; 2 Pe [2, 22]({{ "biblia-straubinger/2-pedro#c2-v22" | relative_url }}));
+[3, 10](#c3-v10) Pues hay muchos religiosos que, so pretexto de que ven cosas mejores que las que les ordenan sus prelados, miran atrás (cf. Lc [9, 62]({{ "biblia-straubinger/lucas#c9-v62" | relative_url }})) y vuelven al vómito de la propia voluntad (cf. Prov [26, 11]({{ "biblia-straubinger/proverbios#c26-v11" | relative_url }}); 2 Pe [2, 22]({{ "biblia-straubinger/2-pedro#c2-v22" | relative_url }}));
 {:#c3-v10}
 
 [3, 11](#c3-v11) éstos son homicidas y, a causa de sus malos ejemplos, hacen que se pierdan muchas almas.
@@ -329,13 +329,13 @@ autor: Francisco de Asís
 
 ## 21. Del religioso frívolo y locuaz
 
-[21, 1](#c21-v1) Bienaventurado el siervo que, cuando habla, no manifiesta todas sus cosas con miras a la recompensa, y no es ligero para hablar (cf. Prov 29,20), sino que prevé sabiamente lo que debe hablar y responder.
+[21, 1](#c21-v1) Bienaventurado el siervo que, cuando habla, no manifiesta todas sus cosas con miras a la recompensa, y no es ligero para hablar (cf. Prov [29, 20]({{ "biblia-straubinger/proverbios#c29-v20" | relative_url }})), sino que prevé sabiamente lo que debe hablar y responder.
 {:#c21-v1}
 
-[21, 2](#c21-v2) ¡Ay de aquel religioso que no guarda en su corazón los bienes que el Señor le muestra (cf. Lc [2, 19]({{ "biblia-straubinger/lucas#c2-v19" | relative_url }}).51) y no los muestra a los otros con obras, sino que, con miras a la recompensa, ansía más bien mostrarlos a los hombres con palabras!
+[21, 2](#c21-v2) ¡Ay de aquel religioso que no guarda en su corazón los bienes que el Señor le muestra (cf. Lc [2, 19]({{ "biblia-straubinger/lucas#c2-v19" | relative_url }}). [51]({{ "biblia-straubinger/lucas#c2-v51" | relative_url }})) y no los muestra a los otros con obras, sino que, con miras a la recompensa, ansía más bien mostrarlos a los hombres con palabras!
 {:#c21-v2}
 
-[21, 3](#c21-v3) Él recibe su recompensa (cf. Mt [6, 2]({{ "biblia-straubinger/mateo#c6-v2" | relative_url }}).16), y los oyentes sacan poco fruto.
+[21, 3](#c21-v3) Él recibe su recompensa (cf. Mt [6, 2]({{ "biblia-straubinger/mateo#c6-v2" | relative_url }}). [16]({{ "biblia-straubinger/mateo#c6-v16" | relative_url }})), y los oyentes sacan poco fruto.
 {:#c21-v3}
 
 ## 22. De la corrección

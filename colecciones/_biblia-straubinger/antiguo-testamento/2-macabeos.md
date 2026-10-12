@@ -2284,7 +2284,7 @@ A la oración el sacerdote debe unir el espíritu de desinterés. El sacerdote d
 [10, 13](#c10-v13) **Filometor**: Se trata del rey Ptolomeo VI Filometor de Egipto (181-145). El texto griego explica este suicidio de Ptolomeo Macrón porque «no teniendo sino una dignidad sin honor perdió el ánimo» o «no estaba en un lugar honorable». De todos modos el caso es una elocuente lección sobre los frutos de ese falso criterio pagano que hace consistir el honor en la aprobación del mundo. Cristo nos enseña, al revés, que el honor está en ser perseguido y despreciado como Él lo fue.
 {:#nt-c10-v13}
 
-[10, 15](#c10-v15) **Los judíos**: No podían ser sino judíos apóstatas que seguían a Antíoco. Según el texto griego, eran idumeos, o sea, enemigos declarados de los judíos. «La lección de la Vulgata (indios), dice Bover-Cantera, es, a todas luces imperfecta. Ya en otros lugares hemos aludido a la confusión de estas dos palabras por su semejanza, principalmente en griego.»
+[10, 15](#c10-v15) **Los judíos**: No podían ser sino judíos apóstatas que seguían a Antíoco. Según el texto griego, eran idumeos, o sea, enemigos declarados de los judíos. «La lección de la Vulgata ("indios"), dice Bover-Cantera, es a todas luces imperfecta. Ya en otros lugares hemos aludido a la confusión de estas dos palabras por su semejanza, principalmente en griego.»
 {:#nt-c10-v15}
 
 [10, 20](#c10-v20) El texto griego pone «setenta mil dracmas», o sea la mitad de la suma. Una dracma valía un peso más o menos.

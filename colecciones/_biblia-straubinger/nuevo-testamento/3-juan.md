@@ -89,7 +89,7 @@ title: Tercera carta del apóstol san Juan
 
 **No ha visto a Dios**:
 
-> «Si el reproche de no haber visto a Dios como se debe es hecho a Diótrefes, hemos de pensar sin duda en las pretensiones de los anticristos a una gnosis superior. Cf. 1 Juan [2, 3](1-juan#c2-v3) y 29; 3, 6 y 9, etc.» (Pirot)
+> «Si el reproche de no haber visto a Dios como se debe es hecho a Diótrefes, hemos de pensar sin duda en las pretensiones de los anticristos a una gnosis superior. Cf. 1 Juan [2, 3](1-juan#c2-v3) y [29](1-juan#c2-v29); [3, 6](1-juan#c3-v6) y [9](1-juan#c3-v9), etc.» (Pirot)
 
 Es lo que dice el Apóstol en 2 Juan [9](2-juan#v9) sobre los que van «más allá» de las enseñanzas de Cristo.
 

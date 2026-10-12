@@ -224,7 +224,7 @@ De esta manera, la inicial bendición de Sem llegó hasta Abraham, y de Abraham 
 ## [25](#c25). El misterio de la Pascua
 {:#c25}
 
-Cuando el hambre afligió a toda la tierra, y solamente Egipto contaba con géneros alimenticios, Jacob emigró con toda la familia a aquel país. El número total de los emigrantes ascendía a 75 personas, y en 400 años llegaron a ser, según las predicciones, 660.000.
+Cuando el hambre afligió a toda la tierra, y solamente Egipto contaba con géneros alimenticios, Jacob emigró con toda la familia a aquel país. El número total de los emigrantes ascendía a 75 personas, y en 400 años llegaron a ser, según las predicciones, 660,000.
 
 Dado que los israelitas sufrieron muchas vejaciones y opresiones en una cruel esclavitud, y gemían y se lamentaban ante Dios (el «Dios de sus padres, Abraham, Isaac y Jacob»), Dios los sacó de Egipto valiéndose de Moisés y de Aarón, después de haber castigado a los egipcios con diez plagas, en la última de las cuales mandó un ángel exterminador para matar a los primogénitos tanto de los hombres como de los animales.
 
@@ -574,7 +574,7 @@ David anunció con estas palabras sus torturas: «Yo fui torturado» (Sal [38, 9
 ## [69](#c69). La pasión y su sentencia
 {:#c69}
 
-Isaías continúa así: «Merced a sus llagas hemos sido curados todos. Errábamos como un rebaño, cada uno iba por su camino y el Señor lo consignó por nuestros pecados» (Is [53, 5]({{ "biblia-straubinger/isaias#c53-v5" | relative_url }})-6.7). Está claro que por voluntad del Padre le han sucedido estas cosas en favor de nuestra salvación. Y luego prosigue: «A pesar de sus padecimientos no abrió la boca; como oveja fue llevado al matadero; como un cordero ante el esquilador está sin voz» (Is [53, 7]({{ "biblia-straubinger/isaias#c53-v7" | relative_url }})). De esta forma, anuncia que acepta libremente la muerte.
+Isaías continúa así: «Merced a sus llagas hemos sido curados todos. Errábamos como un rebaño, cada uno iba por su camino y el Señor lo consignó por nuestros pecados» (Is [53, 5]({{ "biblia-straubinger/isaias#c53-v5" | relative_url }})-6). Está claro que por voluntad del Padre le han sucedido estas cosas en favor de nuestra salvación. Y luego prosigue: «A pesar de sus padecimientos no abrió la boca; como oveja fue llevado al matadero; como un cordero ante el esquilador está sin voz» (Is [53, 7]({{ "biblia-straubinger/isaias#c53-v7" | relative_url }})). De esta forma, anuncia que acepta libremente la muerte.
 
 Mas al decir el profeta «en la humillación fue eliminado su juicio» (Is [53, 8]({{ "biblia-straubinger/isaias#c53-v8" | relative_url }})), se refiere a su humilde aspecto exterior. Según su aspecto sin honra fue pronunciada la sentencia; y proferida la sentencia conduce a algunos a la salvación, a otros a las penas de la perdición. Hay, efectivamente, lo tomado por uno a cuestas, y lo que quitan a otro.
 
@@ -750,7 +750,7 @@ Que debía manifestarse en medio de nosotros (porque el Hijo de Dios se haría h
 
 Que este pueblo estaba llamado a ser un pueblo santo, lo vaticinó Oseas, uno de los doce profetas: «Al no-pueblo mío lo llamaré pueblo mío, y la no-amada será amada. Donde se diga no-mi-pueblo, allí se llamarán hijos del Dios viviente» (Os [2, 25]({{ "biblia-straubinger/oseas#c2-v25" | relative_url }}); Rm [9, 25]({{ "biblia-straubinger/romanos#c9-v25" | relative_url }})-26). También Juan Bautista vuelve a decir lo mismo: «Dios puede hacer surgir de estas piedras hijos de Abraham» (Mt [3, 9]({{ "biblia-straubinger/mateo#c3-v9" | relative_url }})).
 
-En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm [3, 28]({{ "biblia-straubinger/romanos#c3-v28" | relative_url }}); [4, 3]({{ "biblia-straubinger/romanos#c4-v3" | relative_url }}); Ga [3, 6]({{ "biblia-straubinger/galatas#c3-v6" | relative_url }}); St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez [11, 19]({{ "biblia-straubinger/ezequiel#c11-v19" | relative_url }})-20; 36,26-27).
+En efecto, después de habernos arrancado por la fe del culto a las piedras, nuestros corazones ven a Dios y se hacen hijos de Abraham, el cual «fue justificado por la fe» (Rm [3, 28]({{ "biblia-straubinger/romanos#c3-v28" | relative_url }}); [4, 3]({{ "biblia-straubinger/romanos#c4-v3" | relative_url }}); Ga [3, 6]({{ "biblia-straubinger/galatas#c3-v6" | relative_url }}); St [2, 23]({{ "biblia-straubinger/santiago#c2-v23" | relative_url }})). Por esto dice Dios por boca del profeta Ezequiel: «Les daré otro corazón, y pondré en ellos un espíritu nuevo; quitaré de su cuerpo su corazón de piedra y les daré un corazón de carne, para que sigan mis mandamientos y observen y practiquen mis preceptos. Ellos serán mi pueblo y yo seré su Dios» (Ez [11, 19]({{ "biblia-straubinger/ezequiel#c11-v19" | relative_url }})-20; [36, 26]({{ "biblia-straubinger/ezequiel#c36-v26" | relative_url }})-27).
 
 ## [94](#c94). La Iglesia y la Sinagoga
 {:#c94}

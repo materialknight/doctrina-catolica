@@ -201,7 +201,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [2, 10](#c2-v10) ¡Pues bien! para que sepáis que el Hijo del hombre tiene el poder de remitir los pecados, sobre la tierra,
 {:#c2-v10}
 
-[2, 11](#c2-v11) —dijo al paralítico—: "te lo digo, levántate, toma tu camilla y vuélvete a tu casa"».
+[2, 11](#c2-v11) —dijo al paralítico—: te lo digo, levántate, toma tu camilla y vuélvete a tu casa.»
 {:#c2-v11}
 
 [2, 12](#c2-v12) Se levantó, tomó en seguida su camilla y se fue de allí, a la vista de todos, de modo que todos se quedaron asombrados y glorificaban a Dios diciendo «¡No hemos visto jamás nada semejante!» [[\*\*]](#nt-c2-v12).
@@ -335,7 +335,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [3, 22](#c3-v22) Pero los escribas, venidos de Jerusalén, decían: «Tiene a Beelzebul [[\*\*]](#nt-c3-v22) y por el jefe de los demonios expulsa a los demonios».
 {:#c3-v22}
 
-[3, 23](#c3-v23) Mas Él los llamó y les dijo en parábolas: "Cómo puede Satanás expulsar a Satanás?
+[3, 23](#c3-v23) Mas Él los llamó y les dijo en parábolas: «Cómo puede Satanás expulsar a Satanás?
 {:#c3-v23}
 
 [3, 24](#c3-v24) Y si dentro de un reino hay divisiones, ese reino no puede sostenerse.
@@ -353,7 +353,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [3, 28](#c3-v28) En verdad, os digo, todos los pecados serán perdonados a los hombres, y cuantas blasfemias dijeren;
 {:#c3-v28}
 
-[3, 29](#c3-v29) pero quien blasfemare contra el Espíritu Santo, no tendrá jamás perdón y es reo de eterno pecado" [[\*\*]](#nt-c3-v29).
+[3, 29](#c3-v29) pero quien blasfemare contra el Espíritu Santo, no tendrá jamás perdón y es reo de eterno pecado» [[\*\*]](#nt-c3-v29).
 {:#c3-v29}
 
 [3, 30](#c3-v30) Porque decían: «Tiene espíritu inmundo».
@@ -653,10 +653,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [6, 1](#c6-v1) Saliendo de allí, vino a su tierra, y sus discípulos lo acompañaron.
 {:#c6-v1}
 
-[6, 2](#c6-v2) Llegado el sábado, se puso a enseñar en la sinagoga, y la numerosa concurrencia que lo escuchaba estaba llena de admiración, y decía: "¿De dónde le viene esto? ¿Y qué es esta sabiduría que le ha sido dada? ¿Y estos grandes milagros obrados por sus manos?
+[6, 2](#c6-v2) Llegado el sábado, se puso a enseñar en la sinagoga, y la numerosa concurrencia que lo escuchaba estaba llena de admiración, y decía: «¿De dónde le viene esto? ¿Y qué es esta sabiduría que le ha sido dada? ¿Y estos grandes milagros obrados por sus manos?
 {:#c6-v2}
 
-[6, 3](#c6-v3) ¿No es Este el carpintero, el hijo de María, el hermano de Santiago, de José, de Judas y de Simón? ¿Y sus hermanas no están aquí entre nosotros?" Y se escandalizaban de Él [[\*\*]](#nt-c6-v3).
+[6, 3](#c6-v3) ¿No es Este el carpintero, el hijo de María, el hermano de Santiago, de José, de Judas y de Simón? ¿Y sus hermanas no están aquí entre nosotros?» Y se escandalizaban de Él [[\*\*]](#nt-c6-v3).
 {:#c6-v3}
 
 [6, 4](#c6-v4) Mas Jesús les dijo: «No hay profeta sin honor sino en su tierra, entre sus parientes y en su casa».
@@ -679,10 +679,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [6, 9](#c6-v9) sino que fuesen calzados de sandalias, y no se pusieran dos túnicas.
 {:#c6-v9}
 
-[6, 10](#c6-v10) Y les dijo: "Dondequiera que entréis en una casa, quedaos allí hasta el momento de salir del lugar.
+[6, 10](#c6-v10) Y les dijo: «Dondequiera que entréis en una casa, quedaos allí hasta el momento de salir del lugar.
 {:#c6-v10}
 
-[6, 11](#c6-v11) Y si en algún lugar no quieren recibiros y no se os escucha, salid de allí y sacudid el polvo de la planta de vuestros pies para testimonio a ellos".
+[6, 11](#c6-v11) Y si en algún lugar no quieren recibiros y no se os escucha, salid de allí y sacudid el polvo de la planta de vuestros pies para testimonio a ellos.»
 {:#c6-v11}
 
 [6, 12](#c6-v12) Partieron, pues, y predicaron el arrepentimiento.
@@ -764,7 +764,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [6, 36](#c6-v36) Despídelos, para que se vayan a las granjas y aldeas del contorno a comprarse qué comer».
 {:#c6-v36}
 
-[6, 37](#c6-v37) Mas Él les respondió y dijo: «Dadles de comer vosotros». Le replicaron: "¿Acaso habremos de comprar pan por doscientos denarios, a fin de darles de comer?
+[6, 37](#c6-v37) Mas Él les respondió y dijo: «Dadles de comer vosotros». Le replicaron: «¿Acaso habremos de comprar pan por doscientos denarios, a fin de darles de comer?»
 {:#c6-v37}
 
 [6, 38](#c6-v38) Les preguntó: «¿Cuántos panes tenéis? Id a ver». Habiéndose cerciorado, le dijeron: «Cinco panes y dos peces».
@@ -845,22 +845,22 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [7, 5](#c7-v5) Así, pues, los fariseos y los escribas le preguntaron: «¿Por qué no siguen tus discípulos la tradición de los antiguos, sino que comen con manos profanas?»
 {:#c7-v5}
 
-[7, 6](#c7-v6) Les dijo: "Con razón Isaías profetizó sobre vosotros, hipócritas, como está escrito: 'Este pueblo me honra con los labios,
+[7, 6](#c7-v6) Les dijo: «Con razón Isaías profetizó sobre vosotros, hipócritas, como está escrito: "Este pueblo me honra con los labios,
 {:#c7-v6}
 
-[7, 7](#c7-v7) pero su corazón está lejos de Mí. Me rinden un culto vano, enseñando doctrinas (que son) mandamientos de hombres' [[\*\*]](#nt-c7-v7).
+[7, 7](#c7-v7) pero su corazón está lejos de Mí. Me rinden un culto vano, enseñando doctrinas (que son) mandamientos de hombres" [[\*\*]](#nt-c7-v7).
 {:#c7-v7}
 
-[7, 8](#c7-v8) Vosotros quebrantáis los mandamientos de Dios, al paso que observáis la tradición de los hombres; lavados de jarros y copas y otras muchas cosas semejantes a estas hacéis".
+[7, 8](#c7-v8) Vosotros quebrantáis los mandamientos de Dios, al paso que observáis la tradición de los hombres; lavados de jarros y copas y otras muchas cosas semejantes a estas hacéis».
 {:#c7-v8}
 
-[7, 9](#c7-v9) Y les dijo: "Lindamente habéis anulado el mandamiento de Dios, para observar la tradición vuestra.
+[7, 9](#c7-v9) Y les dijo: «Lindamente habéis anulado el mandamiento de Dios, para observar la tradición vuestra.
 {:#c7-v9}
 
-[7, 10](#c7-v10) Porque Moisés dijo: «Honra a tu padre y a tu madre», y: «Quien maldice a su padre o a su madre, sea muerto». Y vosotros decís [[\*\*]](#nt-c7-v10):
+[7, 10](#c7-v10) Porque Moisés dijo: "Honra a tu padre y a tu madre", y: "Quien maldice a su padre o a su madre, sea muerto". Y vosotros decís [[\*\*]](#nt-c7-v10):
 {:#c7-v10}
 
-[7, 11](#c7-v11) «Si uno dice a su padre o a su madre: "Es *Korbán*, es decir, ofrenda, esto con lo cual yo te podría socorrer" [[\*\*]](#nt-c7-v11),
+[7, 11](#c7-v11) Si uno dice a su padre o a su madre: "Es *Korbán*, es decir, ofrenda, esto con lo cual yo te podría socorrer" [[\*\*]](#nt-c7-v11),
 {:#c7-v11}
 
 [7, 12](#c7-v12) ya no lo dejáis hacer nada por su padre o por su madre,
@@ -1317,10 +1317,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [10, 23](#c10-v23) Entonces, Jesús, dando una mirada a su rededor, dijo a sus discípulos: «¡Cuán difícil es para los ricos entrar en el reino de Dios!»
 {:#c10-v23}
 
-[10, 24](#c10-v24) Como los discípulos se mostrasen asombrados de sus palabras, volvió a decirles Jesús: "Hijitos, ¡cuán difícil es para los que confían en las riquezas, entrar en el reino de Dios!
+[10, 24](#c10-v24) Como los discípulos se mostrasen asombrados de sus palabras, volvió a decirles Jesús: «Hijitos, ¡cuán difícil es para los que confían en las riquezas, entrar en el reino de Dios!
 {:#c10-v24}
 
-[10, 25](#c10-v25) Es más fácil a un camello pasar por el ojo de una aguja que a un rico entrar en el reino de Dios" [[\*\*]](#nt-c10-v25).
+[10, 25](#c10-v25) Es más fácil a un camello pasar por el ojo de una aguja que a un rico entrar en el reino de Dios» [[\*\*]](#nt-c10-v25).
 {:#c10-v25}
 
 [10, 26](#c10-v26) Pero su estupor aumentó todavía; y se decían entre sí: «Entonces, ¿quién podrá salvarse?»
@@ -1332,13 +1332,13 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [10, 28](#c10-v28) Púsose, entonces, Pedro a decirle: «Tú lo ves, nosotros hemos dejado todo y te hemos seguido».
 {:#c10-v28}
 
-[10, 29](#c10-v29) Jesús le contestó y dijo: "En verdad, os digo, nadie habrá dejado casa, o hermanos, o hermanas, o madre, o padre, o hijos, o campos, a causa de Mí y a causa del Evangelio,
+[10, 29](#c10-v29) Jesús le contestó y dijo: «En verdad, os digo, nadie habrá dejado casa, o hermanos, o hermanas, o madre, o padre, o hijos, o campos, a causa de Mí y a causa del Evangelio,
 {:#c10-v29}
 
 [10, 30](#c10-v30) que no reciba centuplicado [[\*\*]](#nt-c10-v30) ahora, en este tiempo, casas, hermanos, hermanas, madre, hijos y campos —a una con persecuciones—, y, en el siglo venidero, la vida eterna.
 {:#c10-v30}
 
-[10, 31](#c10-v31) Mas muchos primeros serán últimos, y muchos últimos, primeros".
+[10, 31](#c10-v31) Mas muchos primeros serán últimos, y muchos últimos, primeros.»
 {:#c10-v31}
 
 #### Tercer anuncio de la Pasión
@@ -1346,10 +1346,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [10, 32](#c10-v32) Iban de camino, subiendo a Jerusalén, y Jesús se les adelantaba; y ellos se asombraban y lo seguían con miedo. Y tomando otra vez consigo a los Doce, se puso a decirles lo que le había de acontecer:
 {:#c10-v32}
 
-[10, 33](#c10-v33) "He aquí que subimos a Jerusalén, y el Hijo del hombre va a ser entregado a los sumos sacerdotes y a los escribas, y lo condenarán a muerte, y lo entregarán a los gentiles;
+[10, 33](#c10-v33) «He aquí que subimos a Jerusalén, y el Hijo del hombre va a ser entregado a los sumos sacerdotes y a los escribas, y lo condenarán a muerte, y lo entregarán a los gentiles;
 {:#c10-v33}
 
-[10, 34](#c10-v34) y lo escarnecerán, lo escupirán, lo azotarán y lo matarán, mas tres días después resucitará".
+[10, 34](#c10-v34) y lo escarnecerán, lo escupirán, lo azotarán y lo matarán, mas tres días después resucitará.»
 {:#c10-v34}
 
 #### La ambición de Santiago y Juan
@@ -1375,7 +1375,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [10, 41](#c10-v41) Cuando los otros diez oyeron esto, comenzaron a indignarse contra Santiago y Juan.
 {:#c10-v41}
 
-[10, 42](#c10-v42) Entonces, Jesús los llamó y les dijo: "Como vosotros sabéis, los que aparecen como jefes de los pueblos, les hacen sentir su dominación; y los grandes, su poder [[\*\*]](#nt-c10-v42).
+[10, 42](#c10-v42) Entonces, Jesús los llamó y les dijo: «Como vosotros sabéis, los que aparecen como jefes de los pueblos, les hacen sentir su dominación; y los grandes, su poder [[\*\*]](#nt-c10-v42).
 {:#c10-v42}
 
 [10, 43](#c10-v43) Entre vosotros no debe ser así; al contrario, quien, entre vosotros, desea hacerse grande, hágase sirviente de los demás;
@@ -1384,7 +1384,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [10, 44](#c10-v44) y quien desea ser el primero, ha de ser esclavo de todos.
 {:#c10-v44}
 
-[10, 45](#c10-v45) Porque también el Hijo del hombre no vino para ser servido, sino para servir y dar su vida en rescate por muchos" [[\*\*]](#nt-c10-v45).
+[10, 45](#c10-v45) Porque también el Hijo del hombre no vino para ser servido, sino para servir y dar su vida en rescate por muchos» [[\*\*]](#nt-c10-v45).
 {:#c10-v45}
 
 #### El ciego de Jericó
@@ -1485,10 +1485,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [11, 21](#c11-v21) Entonces, Pedro se acordó y dijo: «¡Rabí, mira! La higuera que maldijiste se ha secado».
 {:#c11-v21}
 
-[11, 22](#c11-v22) Y Jesús les respondió y dijo: "¡Tened fe en Dios! [[\*\*]](#nt-c11-v22)
+[11, 22](#c11-v22) Y Jesús les respondió y dijo: «¡Tened fe en Dios! [[\*\*]](#nt-c11-v22)
 {:#c11-v22}
 
-[11, 23](#c11-v23) En verdad, os digo, quien dijere a este monte: «Quítate de ahí y échate al mar», sin titubear interiormente, sino creyendo que lo que dice se hará, lo obtendrá.
+[11, 23](#c11-v23) En verdad, os digo, quien dijere a este monte: "Quítate de ahí y échate al mar", sin titubear interiormente, sino creyendo que lo que dice se hará, lo obtendrá.
 {:#c11-v23}
 
 [11, 24](#c11-v24) Por eso, os digo, todo lo que pidiereis orando, creed que lo obtuvisteis ya, y se os dará [[\*\*]](#nt-c11-v24).
@@ -1497,7 +1497,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [11, 25](#c11-v25) Y cuando os ponéis de pie para orar, perdonad lo que podáis tener contra alguien, a fin de que también vuestro Padre celestial os perdone vuestros pecados.
 {:#c11-v25}
 
-[11, 26](#c11-v26) [Si no perdonáis, vuestro Padre que está en los cielos no os perdonará tampoco vuestros pecados]" [[\*\*]](#nt-c11-v26).
+[11, 26](#c11-v26) [Si no perdonáis, vuestro Padre que está en los cielos no os perdonará tampoco vuestros pecados]» [[\*\*]](#nt-c11-v26).
 {:#c11-v26}
 
 #### Controversia sobre el poder de Jesús
@@ -1857,10 +1857,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [14, 19](#c14-v19) Pero ellos comenzaron a contristarse, y a preguntarle uno por uno: «¿Seré yo?»
 {:#c14-v19}
 
-[14, 20](#c14-v20) Respondioles: "Uno de los Doce, el que moja conmigo en el plato.
+[14, 20](#c14-v20) Respondioles: «Uno de los Doce, el que moja conmigo en el plato.
 {:#c14-v20}
 
-[14, 21](#c14-v21) El Hijo del hombre se va, como está escrito de Él, pero ¡ay del hombre, por quien el Hijo del hombre es entregado! Más le valdría a ese hombre no haber nacido" [[\*\*]](#nt-c14-v21).
+[14, 21](#c14-v21) El Hijo del hombre se va, como está escrito de Él, pero ¡ay del hombre, por quien el Hijo del hombre es entregado! Más le valdría a ese hombre no haber nacido» [[\*\*]](#nt-c14-v21).
 {:#c14-v21}
 
 [14, 22](#c14-v22) Y mientras ellos comían, tomó pan, y habiendo bendecido, partió y dio a ellos y dijo: «Tomad, este es el cuerpo mío».
@@ -1869,10 +1869,10 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 [14, 23](#c14-v23) Tomó luego un cáliz, y después de haber dado gracias dio a ellos; y bebieron de él todos.
 {:#c14-v23}
 
-[14, 24](#c14-v24) Y les dijo: "Esta es la sangre mía de la Alianza, que se derrama por muchos [[\*\*]](#nt-c14-v24).
+[14, 24](#c14-v24) Y les dijo: «Esta es la sangre mía de la Alianza, que se derrama por muchos [[\*\*]](#nt-c14-v24).
 {:#c14-v24}
 
-[14, 25](#c14-v25) En verdad, os digo, que no beberé ya del fruto de la vid hasta el día aquel en que lo beberé nuevo en el reino de Dios".
+[14, 25](#c14-v25) En verdad, os digo, que no beberé ya del fruto de la vid hasta el día aquel en que lo beberé nuevo en el reino de Dios.»
 {:#c14-v25}
 
 [14, 26](#c14-v26) Y después de cantar el himno, salieron para el monte de los olivos.

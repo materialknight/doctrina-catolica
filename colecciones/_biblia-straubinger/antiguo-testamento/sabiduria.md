@@ -1645,7 +1645,7 @@ Tratándose de un libro deuterocanónico, que no está en la Biblia hebrea, pres
 [3, 7](#c3-v7) En griego: «al tiempo de la recompensa Imitarán», etc. Véase el premio máximo según Daniel [12, 3](daniel#c12-v3) y Mateo [13, 43](mateo#c13-v43). Además, los justos participarán en juzgar a los hombres (véase Mateo [19, 28](mateo#c19-v28); 1 Corintios [6, 2](1-corintios#c6-v2); Daniel [7, 27](daniel#c7-v27); Apocalipsis [20, 4](apocalipsis#c20-v4)), y según San Pablo también a los ángeles (1 Corintios [1, 3](1-corintios#c1-v3)).
 {:#nt-c3-v7}
 
-[3, 8](#c3-v8) **Reinará sobre ellos**: Otros: «reinará con ellos». La plena revelación de que reinaremos con Cristo, estaba reservada al Nuevo Testamento. Véase Mateo [19, 28](mateo#c19-v28); Apocalipsis [2, 26](apocalipsis#c2-v26) s.; [3, 21](apocalipsis#c3-v21); [5, 10](apocalipsis#c5-v10); 20, 4, etc. La Liturgia de Todos los Santos recuerda este pasaje en la Misa de la Vigilia como para señalar una de las grandes promesas hechas por Dios a sus amigos. Cf. Salmo [149, 5](salmos#c149-v5).
+[3, 8](#c3-v8) **Reinará sobre ellos**: Otros: «reinará con ellos». La plena revelación de que reinaremos con Cristo, estaba reservada al Nuevo Testamento. Véase Mateo [19, 28](mateo#c19-v28); Apocalipsis [2, 26](apocalipsis#c2-v26) s.; [3, 21](apocalipsis#c3-v21); [5, 10](apocalipsis#c5-v10); [20, 4](apocalipsis#c20-v4), etc. La Liturgia de Todos los Santos recuerda este pasaje en la Misa de la Vigilia como para señalar una de las grandes promesas hechas por Dios a sus amigos. Cf. Salmo [149, 5](salmos#c149-v5).
 {:#nt-c3-v8}
 
 [3, 9](#c3-v9) Texto importantísimo en cuanto nos descubre la disposición necesaria para poder entender los misterios de la Revelación (véase [1, 2](#c1-v2) y nota). Es lo que San Anselmo expresaba diciendo: «Creo para entender».
@@ -2093,7 +2093,7 @@ La sabiduría personificada es Jesús, encarnación de la Sabiduría del Padre (
 [11, 15](#c11-v15) **Le miraban con admiración**: al verlo triunfante de su perversa oposición, a aquel Moisés a quien de niño habían expuesto en las aguas del Nilo (Éxodo [2, 3](exodo#c2-v3)).
 {:#nt-c11-v15}
 
-[11, 16](#c11-v16) ss. Véase Éxodo [8, 1](exodo#c8-v1) ss.; 10, 1 ss.. Los egipcios adoraban hasta ranas y reptiles inmundos.
+[11, 16](#c11-v16) ss. Véase Éxodo [8, 1](exodo#c8-v1) ss.; [10, 1](exodo#c10-v1) ss.. Los egipcios adoraban hasta ranas y reptiles inmundos.
 {:#nt-c11-v16}
 
 [11, 17](#c11-v17) Sobre este concepto véase Proverbios [5, 22](proverbios#c5-v22) y nota. Cada pecado trae consigo una pena que le es propia.
@@ -2349,7 +2349,7 @@ Esta admirable enseñanza tiene un alcance universal para que no atribuyamos vir
 [17, 4](#c17-v4) Aquí y en lo siguiente, el autor sagrado refiere algunos rasgos que no se hallan en el libro del Éxodo, pero que se transmitían en la tradición judía.
 {:#nt-c17-v4}
 
-[17, 7](#c17-v7) Los hechiceros egipcios, maestros en el arte mágico, habían intentado imitar los milagros que Moisés hizo por orden de Dios (Éxodo [7, 11](exodo#c7-v11) y [22](exodo#c7-v22); 8, 19).
+[17, 7](#c17-v7) Los hechiceros egipcios, maestros en el arte mágico, habían intentado imitar los milagros que Moisés hizo por orden de Dios (Éxodo [7, 11](exodo#c7-v11) y [22](exodo#c7-v22); [8, 19](exodo#c8-v19)).
 {:#nt-c17-v7}
 
 [17, 8](#c17-v8) Todos estos cuadros de estupenda elocuencia, son a un tiempo, como se ve, lecciones para mostrar la insensatez de toda soberbia humana.

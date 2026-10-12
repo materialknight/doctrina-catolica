@@ -3084,13 +3084,13 @@ title: Éxodo
 [33, 2](#c33-v2) Enviaré delante de ti un Ángel, y echaré al cananeo, al amorreo, al heteo, al fereceo, al heveo y al jebuseo,
 {:#c33-v2}
 
-[33, 3](#c33-v3) (para que entres) en la tierra que mana leche y miel; pues Yo no iré en medio de ti, porque eres un pueblo de dura cerviz; no sea que te destruya en el camino."
+[33, 3](#c33-v3) (para que entres) en la tierra que mana leche y miel; pues Yo no iré en medio de ti, porque eres un pueblo de dura cerviz; no sea que te destruya en el camino.»
 {:#c33-v3}
 
 [33, 4](#c33-v4) Al oír estas duras palabras el pueblo se puso de luto y nadie se atavió con sus galas.
 {:#c33-v4}
 
-[33, 5](#c33-v5) Dijo entonces Yahvé a Moisés: "Di a los hijos de Israel: Vosotros sois un pueblo de dura cerviz. Si Yo un solo momento subiera contigo, te consumiría. Ahora, pues, quítate tus atavíos, para que Yo sepa qué he de hacer contigo.»
+[33, 5](#c33-v5) Dijo entonces Yahvé a Moisés: «Di a los hijos de Israel: Vosotros sois un pueblo de dura cerviz. Si Yo un solo momento subiera contigo, te consumiría. Ahora, pues, quítate tus atavíos, para que Yo sepa qué he de hacer contigo.»
 {:#c33-v5}
 
 [33, 6](#c33-v6) Por lo cual los hijos de Israel se despojaron de sus atavíos desde el monte Horeb.

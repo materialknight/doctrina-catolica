@@ -4,7 +4,7 @@ title: Doctrina de los Doce Apóstoles
 
 {% include components/toc-auto.html %}
 
-## Introducción de los Editores
+## Introducción de los editores
 
 Esta obra es un manual eclesiástico, escrito originalmente en griego *koiné* (= popular) por un autor anónimo, entre los años 65-80 d.C., es decir: antes que algunos libros del Nuevo Testamento como el Evangelio de Juan y el Apocalipsis.
 
@@ -58,7 +58,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [2, 6](#c2-v6) No odiarás a nadie, sino que: reprenderás a algunos, con compasión rezarás por otros, y a otros los amarás más que a tu propia vida.
 {:#c2-v6}
 
-### [3](#c3). El Empeoramiento Progresivo del Pecado
+### [3](#c3). El empeoramiento progresivo del pecado
 {:#c3}
 
 [3, 1](#c3-v1) Hijo mío, aléjate del mal y de todo lo que se le asemeje.
@@ -91,7 +91,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [3, 10](#c3-v10) Acepta como buena toda prueba que tengas que sufrir, sabiendo que nada sucede sin Dios.
 {:#c3-v10}
 
-### [4](#c4). Amonestaciones Varias
+### [4](#c4). Amonestaciones varias
 {:#c4}
 
 [4, 1](#c4-v1) Hijo mío, acuérdate día y noche del que te enseña la Palabra de Dios, y hónralo como al Señor; porque donde habla la autoridad del Señor, allí está el Señor mismo.
@@ -136,7 +136,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [4, 14](#c4-v14) [[\*\*]](#nt-c4-v14) Confesarás tus pecados en las reuniones de la Iglesia, y no te acercarás a orar con mala conciencia. Tal es el Camino de la Vida.
 {:#c4-v14}
 
-### [5](#c5). El Camino de la Muerte
+### [5](#c5). El camino de la muerte
 {:#c5}
 
 [5, 1](#c5-v1) El camino de la muerte, lleno de maldad y maldición, es este: el homicidio, el adulterio, la lujuria, la fornicación, el robo, la idolatría, los rituales mágicos, las pociones de la brujería, el saqueo, el falso testimonio, la hipocresía, la doblez de corazón, el engaño, la soberbia, la malicia, la terquedad, la avaricia, el lenguaje obsceno, la envidia, la insolencia, la altanería, la ostentación.
@@ -145,7 +145,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [5, 2](#c5-v2) Esa es la senda en la que andan los que persiguen a los buenos, los enemigos de la verdad, los amadores de la mentira, los que desconocen la recompensa de la justicia, los que no se apegan al bien, ni al justo juicio, los que se desvelan por hacer el mal y no el bien, los vanidosos, los que están alejados de la mansedumbre y la paciencia, los que buscan su retribución sin tener compasión del pobre, los que son indiferentes ante los afligidos, los que desconocen a Aquel que los hizo, los asesinos de niños, los corruptores de la criatura de Dios, los que abandonan al necesitado, los que oprimen al afligido, los defensores del rico, los jueces inicuos de los pobres, los absolutos pecadores. Hijos míos, ¡escapad de toda esa gente!
 {:#c5-v2}
 
-### [6](#c6). Contra los Falsos Maestros y la Comida Ofrecida a los Ídolos
+### [6](#c6). Contra los falsos maestros y la comida ofrecida a los ídolos
 {:#c6}
 
 [6, 1](#c6-v1) Mira que nadie te desvíe del camino de esta Doctrina cuando te enseñen cosas sin miras a Dios.
@@ -157,9 +157,9 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [6, 3](#c6-v3) Y en cuanto a la comida, sé moderado, y no comas lo sacrificado a los ídolos, porque hacerlo es dar culto a dioses muertos.
 {:#c6-v3}
 
-## Segunda Parte: De la Liturgia y de la Disciplina
+## Segunda Parte: De la Liturgia y de la disciplina
 
-### [7](#c7). Sobre El Bautismo
+### [7](#c7). Sobre el Bautismo
 {:#c7}
 
 [7, 1](#c7-v1) [[\*\*]](#nt-c7-v1) En cuanto al bautismo, hay que bautizar así: Después de haber enseñado los anteriores preceptos, bautizad en agua viva, en el Nombre del Padre, y del Hijo y del Espíritu Santo.
@@ -174,7 +174,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [7, 4](#c7-v4) Antes del bautismo, el que bautiza y el que ha de ser bautizado deben ayunar, y también otros que puedan hacerlo. Manda a ayunar al bautizando uno o dos días antes.
 {:#c7-v4}
 
-### [8](#c8). Sobre el Ayuno y la Oración
+### [8](#c8). Sobre el ayuno y la oración
 {:#c8}
 
 [8, 1](#c8-v1) [[\*\*]](#nt-c8-v1) Que vuestro ayuno no sea con los hipócritas, que ayunan lunes y jueves. Vosotros, en cambio, ayunad miércoles y viernes.
@@ -246,7 +246,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [10, 7](#c10-v7) Permitid que los profetas hagan Acción de Gracias tantas veces como lo deseen.
 {:#c10-v7}
 
-### [11](#c11). Sobre los Apóstoles, Maestros y Profetas
+### [11](#c11). Sobre los apóstoles, maestros y profetas
 {:#c11}
 
 [11, 1](#c11-v1) Si alguien viniere a vosotros enseñándoos todo lo dicho anteriormente, a ese acogedle.
@@ -285,7 +285,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [11, 12](#c11-v12) Y si alguien, hablando por inspiración de espíritu, os pidiere dinero u otra cosa, no lo escuchéis; pero si os dice que deis para otros necesitados, que nadie lo juzgue.
 {:#c11-v12}
 
-### [12](#c12). Hospitalidad con los Cristianos
+### [12](#c12). Hospitalidad con los cristianos
 {:#c12}
 
 [12, 1](#c12-v1) A todo el que llegue en el Nombre del Señor, acogedle, y probadle después para conocerle, pues tenéis criterio para discernir entre la derecha y la izquierda.
@@ -303,7 +303,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [12, 5](#c12-v5) Y si no quisiere aceptar eso, es un traficante de Cristo. ¡Guardaos de tales personas!
 {:#c12-v5}
 
-### [13](#c13). Apoyo a los Profetas
+### [13](#c13). Apoyo a los profetas
 {:#c13}
 
 [13, 1](#c13-v1) El verdadero profeta que quisiere fijar su residencia entre vosotros, es digno de su sustento.
@@ -338,7 +338,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [14, 3](#c14-v3) [[\*\*]](#nt-c14-v3) Porque esto dijo El Señor: «En todo lugar y tiempo me ofreceréis un sacrificio puro, porque soy El Gran Rey, y Mi Nombre es alabado entre las naciones».
 {:#c14-v3}
 
-### [15](#c15). Obispos, Diáconos y Amonestación Cristiana
+### [15](#c15). Obispos, diáconos y amonestación cristiana
 {:#c15}
 
 [15, 1](#c15-v1) Elegíos, pues, obispos y diáconos dignos del Señor: varones mansos, que no amen el dinero, veraces y probados; porque ellos también desempeñan para vosotros el ministerio litúrgico de los profetas y maestros.
@@ -353,7 +353,7 @@ El manuscrito que preserva completa la *Didajé* (el *Codex Hierosolymitanus*) f
 [15, 4](#c15-v4) Haced vuestras oraciones, limosnas y todas vuestras obras según lo tenéis en el Evangelio de Nuestro Señor.
 {:#c15-v4}
 
-### [16](#c16). Estemos Vigilantes
+### [16](#c16). Estemos vigilantes
 {:#c16}
 
 [16, 1](#c16-v1) ¡Velad por vuestra vida! Que vuestras lámparas no se apaguen, que estén ceñidos vuestros lomos. Estad alerta, porque no sabéis la hora en que El Señor ha de venir.

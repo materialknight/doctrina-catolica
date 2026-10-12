@@ -1010,7 +1010,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [22](#c19-v22){:#c19-v22} ¿Por qué me perseguís como Dios, y ni os hartáis de mi carne?
 
-[23](#c19-v23){:#c19-v23} [[167]](#n-167){:#rn-167} ¡Oh! que se escribiesen mis palabras y se consignaran en un libro,
+[23](#c19-v23){:#c19-v23} [[167]](#n-167){:#rn-167} ¡Oh, que se escribiesen mis palabras y se consignaran en un libro,
 
 [24](#c19-v24){:#c19-v24} que con punzón de hierro y con plomo se grabasen en la peña para eterna memoria!
 

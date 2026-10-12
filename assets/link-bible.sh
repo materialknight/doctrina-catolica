@@ -54,7 +54,7 @@ sed --in-place --regexp-extended \
    \
    -e 's/\b(Jb\.?|Job) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/job#c\2-v\3" | relative_url }})/g' \
    \
-   -e 's/\b(Pro?\.?|Proverbios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/proverbios#c\2-v\3" | relative_url }})/g' \
+   -e 's/\b(Pro?v?\.?|Proverbios) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/proverbios#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Ec\.?|Qo\.?|Eclesiastés|[QC]oh[ée]let) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/eclesiastes#c\2-v\3" | relative_url }})/g' \
    \
@@ -110,7 +110,7 @@ sed --in-place --regexp-extended \
    \
    -e 's/\b(Jn\.?|Juan) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/juan#c\2-v\3" | relative_url }})/g' \
    \
-   -e 's/\b(Hch\.?|He\.?|Hechos) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/hechos#c\2-v\3" | relative_url }})/g' \
+   -e 's/\b(He?ch\.?|He\.?|Hechos) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/hechos#c\2-v\3" | relative_url }})/g' \
    \
    -e 's/\b(Ro?m\.?|Ro\.?|Romanos) ([0-9]+), ?([0-9]+)/\1 [\2, \3]({{ "biblia-straubinger\/romanos#c\2-v\3" | relative_url }})/g' \
    \
