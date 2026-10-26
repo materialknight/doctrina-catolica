@@ -96,10 +96,10 @@ title: Génesis
 [1, 28](#c1-v28) [[\*\*]](#nt-c1-v28) Los bendijo Dios; y les dijo Dios: «Sed fecundos y multiplicaos, y henchid la tierra y sometedla; y dominad sobre los peces del mar y las aves del cielo, y sobre todos los animales que se mueven sobre la tierra».
 {:#c1-v28}
 
-[1, 29](#c1-v29) Después dijo Dios: "He aquí que Yo os doy toda planta portadora de semilla sobre la superficie de toda la tierra, y todo árbol en que hay fruto de árbol con semilla, para que os sirvan de alimento.
+[1, 29](#c1-v29) Después dijo Dios: «He aquí que Yo os doy toda planta portadora de semilla sobre la superficie de toda la tierra, y todo árbol en que hay fruto de árbol con semilla, para que os sirvan de alimento.
 {:#c1-v29}
 
-[1, 30](#c1-v30) Y a todos los animales de la tierra, y a todas las aves del cielo, y a todo lo que se mueve sobre la tierra, que tiene en sí aliento de vida, les doy para alimento toda hierba verde". Y así fue.
+[1, 30](#c1-v30) Y a todos los animales de la tierra, y a todas las aves del cielo, y a todo lo que se mueve sobre la tierra, que tiene en sí aliento de vida, les doy para alimento toda hierba verde». Y así fue.
 {:#c1-v30}
 
 [1, 31](#c1-v31) [[\*\*]](#nt-c1-v31) Vio Dios todo cuanto había hecho; y he aquí que estaba muy bien. Y hubo tarde y hubo mañana: día sexto.
@@ -342,10 +342,10 @@ title: Génesis
 [4, 22](#c4-v22) También Sillá dio a luz; a Tubalcaín, forjador de toda herramienta de cobre y hierro. Hermana de Tubalcaín fue Naamá.
 {:#c4-v22}
 
-[4, 23](#c4-v23) [[\*\*]](#nt-c4-v23) Y dijo Lamec a sus mujeres: "Adá y Sillá, escuchad mi voz; Yo maté a un hombre que me hirió, Y a un joven por una contusión que recibí.
+[4, 23](#c4-v23) [[\*\*]](#nt-c4-v23) Y dijo Lamec a sus mujeres: «Adá y Sillá, escuchad mi voz; Yo maté a un hombre que me hirió, Y a un joven por una contusión que recibí.
 {:#c4-v23}
 
-[4, 24](#c4-v24) Caín será vengado siete veces, mas Lamec lo será setenta veces siete."
+[4, 24](#c4-v24) Caín será vengado siete veces, mas Lamec lo será setenta veces siete.»
 {:#c4-v24}
 
 #### Set y Enós
@@ -3358,7 +3358,7 @@ title: Génesis
 [35, 17](#c35-v17) y cuando peligraba en el parto, le dijo la partera: «No temas, porque también esta vez tienes un hijo.»
 {:#c35-v17}
 
-[35, 18](#c35-v18) [[\*\*]](#nt-c35-v18) Y al salir su alma -pues estaba ya moribunda- le llamó *Benoní*; mas su padre le llamó *Benjamín*.
+[35, 18](#c35-v18) [[\*\*]](#nt-c35-v18) Y al salir su alma —pues estaba ya moribunda— le llamó *Benoní*; mas su padre le llamó *Benjamín*.
 {:#c35-v18}
 
 [35, 19](#c35-v19) Murió, pues, Raquel y fue sepultada en el camino de Efrata, que es Betlehem.
@@ -3372,12 +3372,10 @@ title: Génesis
 [35, 21](#c35-v21) [[\*\*]](#nt-c35-v21) Partió Israel y asentó sus tiendas más allá de Migdal-Eder.
 {:#c35-v21}
 
-[35, 22](#c35-v22) [[\*\*]](#nt-c35-v22) Y mientras moraba Israel en aquella región, fue Rubén y cohabitó con Bilhá, concubina de su padre, lo que supo Israel.
+[35, 22](#c35-v22) [[\*\*]](#nt-c35-v22) Y mientras moraba Israel en aquella región, fue Rubén y cohabitó con Bilhá, concubina de su padre, lo que supo Israel. Los hijos de Israel eran doce:
 {:#c35-v22}
 
 #### Los doce hijos de Jacob
-
-Los hijos de Israel eran doce:
 
 [35, 23](#c35-v23) Hijos de Lía: Rubén, el primogénito de Jacob; Simeón, Leví, Judá, Isacar y Zabulón.
 {:#c35-v23}
@@ -6420,7 +6418,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [33, 17](#c33-v17) **Sucot**, más tarde ciudad, situada a 10 kilómetros de la desembocadura del Yaboc en el Jordán.
 {:#nt-c33-v17}
 
-[33, 18](#c33-v18) La ciudad de **Siquem**, esto es, el punto céntrico de Palestina. En el campo que Jacob allí compró, abrió un pozo, llamado más tarde pozo de Jacob, famoso por la conversación de Jesús con la samaritana (Juan 4). La *Vulgata* traduce: «llegó a Salem, ciudad de los siquemitas».
+[33, 18](#c33-v18) La ciudad de **Siquem**, esto es, el punto céntrico de Palestina. En el campo que Jacob allí compró, abrió un pozo, llamado más tarde pozo de Jacob, famoso por la conversación de Jesús con la samaritana (Juan [4](juan#c4)). La *Vulgata* traduce: «llegó a Salem, ciudad de los siquemitas».
 {:#nt-c33-v18}
 
 [33, 19](#c33-v19) **Cien kesitas**: cien monedas de plata. La *Vulgata* dice: «cien corderos».
@@ -6471,13 +6469,13 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [35, 16](#c35-v16) **Efrata**: ciudad y región de Belén, denominada así por su fertilidad; pues *Efrata* significa «fértil», y *Belén* (*Betlehem*), «casa del pan», cf. Rut [1, 2](rut#c1-v2); Miqueas [4, 2](miqueas#c4-v2).
 {:#nt-c35-v16}
 
-[35, 18](#c35-v18) **Benoní**: «hijo de mi dolor». **Benjamín**: «hijo de la diestra» o «hijo de buen augurio»; corresponde al nombre de *Buenaventura* (en griego *Eustaquio*).
+[35, 18](#c35-v18) **Benoní**: «hijo de mi dolor». **Benjamín**: «hijo de la diestra» o «hijo de buen augurio»; corresponde al nombre de *Buenaventura* (en griego: *Eustaquio*).
 {:#nt-c35-v18}
 
 [35, 20](#c35-v20) Los judíos y mahometanos veneran la tumba de Raquel, en un monumento sepulcral erigido en el camino de Jerusalén a Belén. Véase [48, 9](#c48-v9).
 {:#nt-c35-v20}
 
-[35, 21](#c35-v21) **Migdal-Eder**, que quiere decir Torre de ganado; según San Jerónimo, un kilómetro y medio al este de Belén. Es muy verosímil que sea éste el lugar donde los ángeles se aparecieron a los pastores para anunciarles el nacimiento de Jesús.
+[35, 21](#c35-v21) **Migdal-Eder**, que quiere decir «Torre de ganado»; según San Jerónimo, un kilómetro y medio al este de Belén. Es muy verosímil que sea éste el lugar donde los ángeles se aparecieron a los pastores para anunciarles el nacimiento de Jesús.
 {:#nt-c35-v21}
 
 [35, 22](#c35-v22) El castigo de este crimen véase en [49, 4](#c49-v4).
@@ -6622,7 +6620,7 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 
 > «El quinto en estas circunstancias no era una carga excesiva, y menos en Egipto, donde la fertilidad de la tierra depende del riego del Nilo, y éste de la distribución de las aguas, que han sido siempre el principal cuidado de los gobiernos en el país de los faraones.» (Nácar-Colunga)
 
-[41, 38](#c41-v38) **Lleno del espíritu de Dios**: Fue el Espíritu Santo quien inspiró no solamente a los profetas, que escribieron los libros sagrados, sino también a muchas otras personas. Cf. el cántico de María, hermana de Moisés (Éxodo [15, 20](exodo#c15-v20) s.), el de Débora la profetisa (Jueces 5) y el de Ana, madre de Samuel (I Reyes 2), que también hablaron inspiradas por el Espíritu Santo.
+[41, 38](#c41-v38) **Lleno del espíritu de Dios**: Fue el Espíritu Santo quien inspiró no solamente a los profetas, que escribieron los libros sagrados, sino también a muchas otras personas. Cf. el cántico de María, hermana de Moisés (Éxodo [15, 20](exodo#c15-v20) s.), el de Débora la profetisa (Jueces [5](jueces#c5)) y el de Ana, madre de Samuel (1 Samuel [2](1-samuel#c2)), que también hablaron inspiradas por el Espíritu Santo.
 {:#nt-c41-v38}
 
 [41, 40](#c41-v40) También en su encumbramiento es José figura de Cristo. Salió José de la cárcel; Jesucristo del sepulcro. José fue exaltado por rey de Egipto; Jesucristo por el Rey del Universo. Llamaron a José «salvador del mundo» (v. [45](#c41-v45)); Jesucristo lo es en persona. La exaltación de José es un milagro de la Providencia de Dios, quien eleva a los humildes y huilla a los soberbios.
@@ -6806,7 +6804,7 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 [49, 4](#c49-v4) **Rubén**, que por su pecado perdió los derechos de la primogenitura ([35, 22](#c35-v22)), desaparece muy pronto del escenario histórico, desparramándose entre los pueblos vecinos.
 {:#nt-c49-v4}
 
-[49, 7](#c49-v7) **Los dividiré**: por sus crueldades contra los siquemitas (cf. 34), Simeón y Leví no reciben bendición alguna. Las dos tribus serán esparcidas entre las otras. Efectivamente, la tribu de Simeón fue incorporándose a la de Judá, y Leví recibió solamente ciudades, pero no territorio como las otras tribus.
+[49, 7](#c49-v7) **Los dividiré**: Por sus crueldades contra los siquemitas (cf. cap. [34](#c34)), Simeón y Leví no reciben bendición alguna. Las dos tribus serán esparcidas entre las otras. Efectivamente, la tribu de Simeón fue incorporándose a la de Judá, y Leví recibió solamente ciudades, pero no territorio como las otras tribus.
 {:#nt-c49-v7}
 
 [49, 9](#c49-v9) Véase Apocalipsis [5, 5](apocalipsis#c5-v5), donde Jesús es llamado «el león de la tribu de Judá», porque en Él se cumplió esta profecía, en su verdadero sentido.

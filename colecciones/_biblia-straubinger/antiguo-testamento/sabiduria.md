@@ -2373,7 +2373,7 @@ No se trata, como se ve, del valor estoico, fundado en nuestra suficiencia harto
 
 **Insoportables a sí mismos**: Entre las tribulaciones del alma, ninguna mayor, ni más continua, ni más cruel, que la conciencia de los propios pecados (San Agustín).
 
-[18, 1](#c18-v1) Sigue el contraste de tantos horrores con las bendiciones prodigadas a los israelitas. Según el griego eran los egipcios quienes oían las voces de estos, y los llamaban felices no obstante la opresión que habían sufrido en Egipto (Éxodo 1).
+[18, 1](#c18-v1) Sigue el contraste de tantos horrores con las bendiciones prodigadas a los israelitas. Según el griego eran los egipcios quienes oían las voces de estos, y los llamaban felices no obstante la opresión que habían sufrido en Egipto (Éxodo [1](exodo#c1)).
 {:#nt-c18-v1}
 
 [18, 2](#c18-v2) En griego, son los egipcios quienes agradecen a los israelitas porque, maltratados por ellos, no se vengaron; y les piden perdón de haber sido sus enemigos.

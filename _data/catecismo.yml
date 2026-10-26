@@ -1,8 +1,8 @@
 titulo: Catecismo de la Iglesia Católica
 contenido:
-  - encabezado: Carta Apostólica Laetamur Magnopere
+  - encabezado: Carta Apostólica <i>Laetamur Magnopere</i>
     enlace: laetamur-magnopere
-  - encabezado: Constitución Apostólica Fidei Depositum
+  - encabezado: Constitución Apostólica <i>Fidei Depositum</i>
     enlace: fidei-depositum
   - encabezado: Prólogo (1-25)
     enlace: catecismo/prologo#
@@ -1295,7 +1295,7 @@ contenido:
                     enlace: catecismo/p2-s2-c4#a2-t1
                   - encabezado: II. La celebración de las exequias
                     enlace: catecismo/p2-s2-c4#a2-t2
-  - encabezado: "Tercera parte: La vida en cristo (1691-1698)"
+  - encabezado: "Tercera parte: La vida en Cristo (1691-1698)"
     enlace: catecismo/p3#
     sublista:
       - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu (1699)"
@@ -1911,7 +1911,7 @@ contenido:
                 enlace: catecismo/p4-s2#a2-t4
               - encabezado: Resumen
                 enlace: catecismo/p4-s2#a2-t5
-          - encabezado: "Artículo 3: Las siete peticiones (2803-2854)"
+          - encabezado: "Artículo 3: Las siete peticiones (2803-2865)"
             enlace: catecismo/p4-s2#a3
             sublista: # numerales romanos:
               - encabezado: I. «Santificado sea tu nombre»

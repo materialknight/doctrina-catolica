@@ -62,7 +62,7 @@ defaults:
     scope:
       path: "_catecismo"
     values:
-      layout: "magnum-opus"
+      layout: "catecismo"
   -
     scope:
       path: "_catecismo-romano"

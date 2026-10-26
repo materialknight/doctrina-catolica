@@ -4227,9 +4227,9 @@ Vemos también que no hemos de inquietarnos si no todos creen a nuestra predicac
 [15, 17](#c15-v17) Sobre este texto observa Boudou:
 {:#nt-c15-v17}
 
-> "Según la profecía de Amós. Dios realzará la tienda de David; reconstruirá el reino davídico en su integridad y le devolverá su antiguo esplendor. Entonces Judá e Israel conquistarán y poseerán el resto de *Edom*, tipo de los enemigos de Dios, y todo el resto de las naciones extranjeras sobre quienes el nombre de Dios ha sido pronunciado.
+> «Según la profecía de Amós ([9, 11](amos#c9-v11) s.), Dios realzará la tienda de David; reconstruirá el reino davídico en su integridad y le devolverá su antiguo esplendor. Entonces Judá e Israel conquistarán y poseerán el resto de *Edom*, tipo de los enemigos de Dios, y todo el resto de las naciones extranjeras sobre quienes el nombre de Dios ha sido pronunciado.
 >
-> La principal diferencia entre el texto hebreo de Amós y la cita de los Hechos, reside en que, allí donde el hebreo dice: 'Ellos *poseerán* el resto de *Edom* y todas las naciones...', el griego (y Santiago) ha leído: '*los hombres*' (*Adam*, en lugar de *Edom*), y sustituido el verbo '*buscar*' al verbo '*poseer*': 'El resto de *los hombres* y todas las naciones *buscarán al Señor*'. En el hebreo nada corresponde a este último término, el cual falta también en varios testigos de la versión griega. En el hebreo predomina la idea de conquista, de compulsión por la fuerza; en el griego y en Santiago, la de un deseo, de parte de los pueblos, de hallar al Señor y convertirse a Él".
+> La principal diferencia entre el texto hebreo de Amós y la cita de los Hechos, reside en que, allí donde el hebreo dice: "Ellos *poseerán* el resto de *Edom* y todas las naciones...", el griego (y Santiago) ha leído: "*los hombres*" ("*Adam*", en lugar de "*Edom*"), y sustituido el verbo "*buscar*" al verbo "*poseer*": "El resto de *los hombres* y todas las naciones *buscarán al Señor*". En el hebreo nada corresponde a este último término, el cual falta también en varios testigos de la versión griega. En el hebreo predomina la idea de conquista, de compulsión por la fuerza; en el griego y en Santiago, la de un deseo, de parte de los pueblos, de hallar al Señor y convertirse a Él».
 
 Sobre la confusión entre «*Edom*» y «*Adam*» cf. Salmo [75, 11](salmos#c75-v11) y nota.
 

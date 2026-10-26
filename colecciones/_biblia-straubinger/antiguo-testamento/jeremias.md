@@ -105,7 +105,7 @@ Cuanto menos comprendido fue Jeremías por sus contemporáneos, tanto más lo fu
 
 [18](#c2-v18){:#c2-v18} [[19]](#n-19){:#rn-19} Y ahora, ¿por qué vas a Egipto para beber el agua turbia? ¿Y por qué vas a Asiria para beber las aguas del Río?
 
-[19](#c2-v19){:#c2-v19} [[20]](#n-20){:#rn-20} Tu misma maldad te condenará, y tú misma apostasía te va a castigar, para que sepas y veas cuan malo y amargo te es el haber abandonado a Yahvé tu Dios, y haber perdido mi temor, dice el Señor Yahvé de los ejércitos.
+[19](#c2-v19){:#c2-v19} [[20]](#n-20){:#rn-20} Tu misma maldad te condenará, y tu misma apostasía te va a castigar, para que sepas y veas cuan malo y amargo te es el haber abandonado a Yahvé tu Dios, y haber perdido mi temor, dice el Señor Yahvé de los ejércitos.
 
 #### El culto de Baal
 

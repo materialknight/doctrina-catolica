@@ -46,7 +46,7 @@ La segunda característica de esta traducción consiste en haber sido realizada 
 
 Las versiones modernas españolas, francesas, italianas, alemanas, y también la norteameri­cana que se está preparando, son el resultado de un trabajo realizado en común por varios autores. A nuestro modesto parecer, es conveniente que se trabaje así. Verter roda la Biblia en un idioma moderno, y comentarla al mismo tiempo, significa un esfuerzo tan grande que nos permitimos, habiendo escarmentado en cabeza propia, aconsejar a los demás no seguir nuestro ejemplo.
 
-Los que están al tanto de la vida intelectual de este continente saben perfectamente cuán difícil sería reunir un núcleo de traductores de la Biblia. Con todo, quisiéramos evitar a otros lo que hemos sufrido en estos últimos años, cuando temíamos nos acaeciese lo que a Jünemann. La mano bondadosa de. Dios ha bendecido la obra, dándonos las fuerzas físicas e intelectuales necesarias para llevar a buen término la tarea comenzada.
+Los que están al tanto de la vida intelectual de este continente saben perfectamente cuán difícil sería reunir un núcleo de traductores de la Biblia. Con todo, quisiéramos evitar a otros lo que hemos sufrido en estos últimos años, cuando temíamos nos acaeciese lo que a Jünemann. La mano bondadosa de Dios ha bendecido la obra, dándonos las fuerzas físicas e intelectuales necesarias para llevar a buen término la tarea comenzada.
 
 ### 3
 
@@ -82,7 +82,7 @@ En un solo punto esta versión difiere esencialmente de las demás, y es en los 
 
 No poca dificultad ofrecen al traductor los nombres propios. Bover-Cantera los transcribe en exacta fonética hebrea y con el acento que tienen en el hebreo, en tanto que Nácar-Colunga y otros se toman la libertad de adaptarlos a la Vulgata o a una ortografía moderna.
 
-Nosotros no hemos seguido estrictamente ninguno de estos dos sistemas. Hemos hecho una distinción entre los nombres propios muy conocidos, usados ya como los modernos, y los otros que no han sido asimilados. Los de la primera categoría van con la forma que reci­bieran en la Vulgata: por ejemplo, Eva, Abel, Sara, Rebeca, Elias, Elíseo. Los de la segunda, en cambio, llevan el acento hebreo, aunque en parte han sido asimilados a la Vulgata.
+Nosotros no hemos seguido estrictamente ninguno de estos dos sistemas. Hemos hecho una distinción entre los nombres propios muy conocidos, usados ya como los modernos, y los otros que no han sido asimilados. Los de la primera categoría van con la forma que reci­bieran en la Vulgata, por ejemplo: Eva, Abel, Sara, Rebeca, Elias, Eliseo. Los de la segunda, en cambio, llevan el acento hebreo, aunque en parte han sido asimilados a la Vulgata.
 
 ## IV
 

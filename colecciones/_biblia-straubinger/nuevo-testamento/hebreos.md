@@ -10,7 +10,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 
 #### Jesucristo igual al Padre
 
-[1, 1](#c1-v1) [[\*\*]](#nt-c1-v1) Dios que en los tiempos antiguos habló a los padres en muchas ocasiones y de muchas maneras por los profetas,
+[1, 1](#c1-v1) [[\*\*]](#nt-c1-v1) Dios, que en los tiempos antiguos habló a los padres en muchas ocasiones y de muchas maneras por los profetas,
 {:#c1-v1}
 
 [1, 2](#c1-v2) en los últimos días nos ha hablado a nosotros en su Hijo, a quien ha constituido heredero de todo y por quien también hizo las edades [[\*\*]](#nt-c1-v2);
@@ -19,7 +19,7 @@ title: Carta del apóstol san Pablo a los Hebreos
 [1, 3](#c1-v3) el cual es el resplandor de su gloria y la impronta de su substancia, y sustentando todas las cosas con la palabra de su poder, después de hacer la purificación de los pecados se ha sentado a la diestra de la Majestad en las alturas,
 {:#c1-v3}
 
-[1, 4](#c1-v4) llegado a ser tanto superior a los ángeles cuanto el nombre que heredó es más eminente que el de ellos [[\*\*]](#nt-c1-v4).
+[1, 4](#c1-v4) llegado a ser tanto superior a los ángeles cuanto el Nombre que heredó es más eminente que el de ellos [[\*\*]](#nt-c1-v4).
 {:#c1-v4}
 
 #### Cristo superior a los ángeles
@@ -1377,7 +1377,7 @@ El mismo autor hace notar el importante papel que la esperanza ocupa en toda est
 [10, 37](#c10-v37) s. Cita de Habacuc [2, 3](habacuc#c2-v3) s. **Brevísimo tiempo**: esta idea, frecuentemente expresada (cf. v. [25](#c10-v25) y nota; Romanos [13, 11](romanos#c13-v11); 1 Corintios [1, 7](1-corintios#c1-v7); 1 Tesalonicenses [1, 10](1-tesalonicenses#c1-v10); 2 Tesalonicenses [1, 7](2-tesalonicenses#c1-v7) y [10](2-tesalonicenses#c1-v10); [2, 13](2-tesalonicenses#c2-v13); Santiago [5, 8](santiago#c5-v8); 1 Pedro [4, 7](1-pedro#c4-v7), etc.) ha hecho suponer a algunos que tal vez la defección de Israel (Lucas [13, 6](lucas#c13-v6); Hechos [28, 23](hechos#c28-v23) ss.; Romanos [11, 30](romanos#c11-v30)) retardó en el plan divino el cumplimiento de esa promesa. Cf. 2 Pedro [3, 4](2-pedro#c3-v4) y [9](2-pedro#c3-v9); Romanos [11, 25](romanos#c11-v25) s.
 {:#nt-c10-v37}
 
-**El que ha de venir**: Crampon hace notar que el griego «nombra al Mesías: *Ho erjómenos* (Daniel [7, 13](daniel#c7-v13); Zacarías [9, 9](zacarias#c9-v9); Malaquías [3, 1](malaquias#c3-v1); Mateo [11, 3](mateo#c11-v3); Lucas [7, 19](lucas#c7-v19)) y aplica el oráculo a los tiempos mesiánicos» (cf. Juan [11, 27](juan#c11-v27) y nota).
+**El que ha de venir**: Crampon hace notar que el griego «nombra al Mesías: "*Ho erjómenos*" (Daniel [7, 13](daniel#c7-v13); Zacarías [9, 9](zacarias#c9-v9); Malaquías [3, 1](malaquias#c3-v1); Mateo [11, 3](mateo#c11-v3); Lucas [7, 19](lucas#c7-v19)) y aplica el oráculo a los tiempos mesiánicos» (cf. Juan [11, 27](juan#c11-v27) y nota).
 
 **El justo mío vivirá por la fe** (v. [38](#c10-v38)): El justo vive de la fe por todos conceptos: en cuanto solo la fe puede hacerlo justo según Dios; en cuanto solo la confianza que da esa fe puede sostenerlo en medio de las persecuciones anunciadas a los creyentes; y en cuanto esa misma fe es la prenda de la promesa de vida eterna. Por tres veces S. Pablo cita este texto, y —cosa admirable— cada vez saca de él una nueva luz. En Romanos [1, 17](romanos#c1-v17) presenta la fe del Evangelio como don universal a judíos y griegos, y muestra en consecuencia la inexcusabilidad de los que no lo aceptan. En Gálatas [3, 11](galatas#c3-v11) presenta la fe en Cristo por oposición a las obras de la Ley, mostrando que ya nadie se justificará por estas sino por aquella. Aquí presenta a los hebreos la fe en el sentido de confiada esperanza, como la actitud que corresponde necesariamente a todo el que vive en un período de expectación y no de realidad actual, es decir, el que va persiguiendo un fin y no se detiene en los accidentes del camino sino que mira y goza anticipadamente aquel deseado objeto, que ya poseemos y disfrutamos «en esperanza» (Romanos [5, 2](romanos#c5-v2); [8, 24](romanos#c8-v24); [12, 12](romanos#c12-v12)).
 
