@@ -126,10 +126,10 @@ textarea {
    display: block;
 }
 
-.red-fl::first-letter {
-   color: red;
-   font-weight: bold;
-   font-style: italic;
+.stanza .hemistich::first-letter {
+   color: blue;
+   /* font-style: italic; */
+   /* font-weight: bold; */
 }
 
 .upper-roman {
@@ -301,6 +301,11 @@ li:has(ul) {
 }
 
 /* VARIOUS COMPONENTS */
+
+#subject-index {
+   box-sizing: border-box;
+   width: 100%;
+}
 
 #markdown-toc {
    margin: 0;

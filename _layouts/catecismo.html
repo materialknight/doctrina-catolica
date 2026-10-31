@@ -21,6 +21,7 @@ layout: default
 
    {% unless page.url contains "index" %}
       {% include components/toc-manual.html %}
+      {% comment %} {% include catechism/toc.html %} {% endcomment %}
    {% endunless %}
 
    {% include components/font-options.html %}

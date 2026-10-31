@@ -7,9 +7,11 @@ autor: "Ireneo de Lyón"
 
 ## Introducción de los Editores
 
-Esta obra es un compendio catequético y apologético de la fe cristiana, escrito originalmente en griego *koiné* (= popular), hacia finales del siglo II, por Ireneo, obispo de Lyón (discípulo de Policarpo, obispo de Esmirna, este a su vez discípulo del apóstol Juan), a un tal Marciano. El Catecismo la cita en latín como: «Demonstratio Apostolicae Praedicationis» («Demostración de la Predicación Apostólica»).
+Esta obra es un compendio catequético y apologético de la fe cristiana, escrito originalmente en griego *koiné* (= popular), hacia finales del siglo II, por Ireneo, obispo de Lyón (discípulo de Policarpo, obispo de Esmirna, este a su vez discípulo del apóstol Juan), a un tal Marciano. El Catecismo la cita en latín como: «*Demonstratio Apostolicae Praedicationis*» («Demostración de la Predicación Apostólica»).
 
 El texto griego original se perdió, pero la obra se conservó completa en una traducción al armenio, descubierta en 1904.
+
+La traducción en español a continuación es de Manuel Arnaldos (ed. Escuela de Jóvenes Cristianos, Molina de Segura 2024), con leves correcciones.
 
 ## [1](#c1). Ireneo envía a Marciano un compendio de la fe cristiana
 {:#c1}
@@ -292,9 +294,7 @@ Para dar cumplimiento a este hombre, pues, asumió el Señor la misma disposici�
 ## [33](#c33). Eva y María
 {:#c33}
 
-Así como por obra de una virgen desobediente fue el hombre herido y murió, así también, reanimado el hombre por obra de una Virgen, que obedeció a la palabra de Dios, recibió él en el hombre nuevamente reavivado, por medio de la vida, la vida. Pues el Señor vino a buscar la oveja perdida, es decir, el hombre que se había perdido. De donde no se hizo el Señor otra carne, sino de aquella misma que traía origen de Adán y de ella conservó la semejanza. Porque era conveniente y justo que Adán fuese recapitulado en Cristo, a fin de que fuera abismado y sumergido lo que es mortal en la inmortalidad.
-
-Y que Eva fuese recapitulada en María, a fin de que una Virgen, venida a ser abogada de una virgen (Eva), deshiciera y destruyera la desobediencia virginal mediante la virginal obediencia. El pecado cometido a causa del árbol fue anulado por la obediencia cumplida en el árbol, obediencia a Dios por la cual el Hijo del hombre fue elevado en el árbol, aboliendo la ciencia del mal y aportando y regalando la ciencia del bien. El mal es desobedecer a Dios; el bien, en cambio, es obedecer.
+Así como por obra de una virgen desobediente fue el hombre herido y murió, así también, reanimado el hombre por obra de una Virgen que obedeció a la palabra de Dios, recibió él en el hombre nuevamente reavivado, por medio de la vida, la vida. Pues el Señor vino a buscar la oveja perdida, es decir, el hombre que se había perdido. De donde no se hizo el Señor otra carne, sino de aquella misma que traía origen de Adán y de ella conservó la semejanza. Porque era conveniente y justo que Adán fuese recapitulado en Cristo, a fin de que fuera abismado y sumergido lo que es mortal en la inmortalidad; y que Eva fuese recapitulada en María, a fin de que una Virgen, venida a ser abogada de una virgen (Eva), deshiciera y destruyera la desobediencia virginal mediante la virginal obediencia. El pecado cometido a causa del árbol fue anulado por la obediencia cumplida en el árbol, obediencia a Dios por la cual el Hijo del hombre fue elevado en el árbol, aboliendo la ciencia del mal y aportando y regalando la ciencia del bien. El mal es desobedecer a Dios; el bien, en cambio, es obedecer.
 
 ## [34](#c34). La crucifixión cósmica
 {:#c34}

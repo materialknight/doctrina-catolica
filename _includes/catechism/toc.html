@@ -1,0 +1,44 @@
+{% comment %} THIS FILE IS UNUSED {% endcomment %}
+
+<div id="toc" popover>
+
+   <ul class="no-list-type center-aligned no-left-margin">
+      <li>
+         <a href="{{ '/' | relative_url }}">Catálogo</a>
+      </li>
+      <li>
+         <a href="{{ page.collection | relative_url }}">
+            {{ site.data[page.collection].titulo }}
+         </a>
+      </li>
+   </ul>
+
+   <details class="details-2">
+      <summary><a>PROLOGO</a></summary>
+      {% assign contenido_p1_s1 = site.data.catecismo.contenido[2].sublista %}
+      {% include nav.html nav = contenido_p1_s1 %}
+   </details>
+   <details class="details-2">
+      <summary><a href="{{ catecismo/p1 | relative_url }}">PARTE I</a></summary>
+      {% assign contenido_p1_s1 = site.data.catecismo.contenido[3].sublista %}
+      {% include nav.html nav = contenido_p1_s1 %}
+   </details>
+   <details class="details-2">
+      <summary><a href="{{ catecismo/p2 | relative_url }}">PARTE II</a></summary>
+      {% assign contenido_p1_s1 = site.data.catecismo.contenido[4].sublista %}
+      {% include nav.html nav = contenido_p1_s1 %}
+   </details>
+   <details class="details-2">
+      <summary><a href="{{ catecismo/p3 | relative_url }}">PARTE III</a></summary>
+      {% assign contenido_p1_s1 = site.data.catecismo.contenido[5].sublista %}
+      {% include nav.html nav = contenido_p1_s1 %}
+   </details>
+   <details class="details-2">
+      <summary><a href="{{ catecismo/p4 | relative_url }}">PARTE IV</a></summary>
+      {% assign contenido_p1_s1 = site.data.catecismo.contenido[6].sublista %}
+      {% include nav.html nav = contenido_p1_s1 %}
+   </details>
+
+</div>
+
+<script type="module" src="{{ '/assets/js/toc.js' | relative_url }}"></script>

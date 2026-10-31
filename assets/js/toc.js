@@ -8,13 +8,11 @@ const text_sections = Array.from(document.querySelectorAll("h1, h2, h3, h4, h5, 
 const zip = []
 let toc_heading = null
 
-// First, you need to know if the TOC was automatically made by kramdown, in order to do that, you check if any of its links start with "#", otherwise you know it's hand-made, because since hand-made TOCs link to several pages, their links must include the page path at the beginning, not only the id of the linked heading.
+// First, you need to know whether the TOC was made manually, or automatically by kramdown; the links of the latter ones start with "#" because they only link to different headings on the same page, whereas the point of hand-made TOCs is to link other pages, so all their links start with a page pathname.
 
 const TOC_is_auto = toc.querySelector("[href^='#']")
 
-// If the TOC was automatically made by kramdown, you don't need the current page's path in order to map text elements to their respective TOC <li>, because the TOC links only have the id of the linked headings, so you keep href = "".
-
-// If the TOC is hand-made, you remove any trailing "/" from the pathname, and assign the last part of it (the page's path) to href.
+// If the TOC was automatically made by kramdown, you don't need the current page's path in order to map text elements to their respective TOC <li>, because the TOC links only have the id of the linked headings, so you keep href = "". Otherwise, if the TOC is hand-made, you remove any trailing "/" from the pathname, and assign it to href.
 
 // const href = TOC_auto ? "" : window.location.pathname.replace(/\/$/, "").split("/").at(-1)
 const href = TOC_is_auto ? "" : window.location.pathname.replace(/\/$/, "")

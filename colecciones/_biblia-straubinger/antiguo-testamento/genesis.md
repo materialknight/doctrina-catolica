@@ -3037,7 +3037,7 @@ title: Génesis
 [32, 1](#c32-v1) Prosiguió Jacob su camino y le salieron al encuentro ángeles de Dios.
 {:#c32-v1}
 
-[32, 2](#c32-v2) [[\*\*]](#nt-c32-v2) Al verlos, dijo Jacob: «Este es el campamento de Dios»; y llamó a aquel lugar Mahanaim.
+[32, 2](#c32-v2) [[\*\*]](#nt-c32-v2) Al verlos, dijo Jacob: «Este es el campamento de Dios»; y llamó a aquel lugar *Mahanaim*.
 {:#c32-v2}
 
 [32, 3](#c32-v3) [[\*\*]](#nt-c32-v3) Luego envió Jacob mensajeros delante de sí a su hermano Esaú, al país de Seír, a las campiñas de Edom,
@@ -3110,22 +3110,22 @@ title: Génesis
 [32, 24](#c32-v24) [[\*\*]](#nt-c32-v24) Así se quedó Jacob solo, y luchó con él un hombre hasta rayar el alba.
 {:#c32-v24}
 
-[32, 25](#c32-v25) [[\*\*]](#nt-c32-v25) Pero viendo que no le podía, le tocó en la articulación del muslo de Jacob mientras luchaba con él.
+[32, 25](#c32-v25) [[\*\*]](#nt-c32-v25) Pero viendo (este) que no podía con aquel, le tocó en la articulación del muslo, y descoyuntose la articulación del muslo de Jacob mientras luchaba con él.
 {:#c32-v25}
 
-[32, 26](#c32-v26) Por lo cual dijo: «Déjame que ya raya el alba.» Mas (Jacob) contestó: «No te dejaré ir si no me bendices.»
+[32, 26](#c32-v26) Y le dijo: «Déjame, que ya raya el alba.» Mas (Jacob) contestó: «No te dejaré ir si no me bendices.»
 {:#c32-v26}
 
 [32, 27](#c32-v27) Le preguntó él: «¿Cuál es tu nombre?», y respondió: «Jacob.»
 {:#c32-v27}
 
-[32, 28](#c32-v28) [[\*\*]](#nt-c32-v28) Le dijo entonces: «En adelante no te llamarás más Jacob, sino Israel; porque has luchado con Dios y con hombres, y has prevalecido.»
+[32, 28](#c32-v28) [[\*\*]](#nt-c32-v28) Le dijo entonces: «En adelante no te llamarás más Jacob, sino *Israel*; porque has luchado con Dios y con hombres, y has prevalecido.»
 {:#c32-v28}
 
 [32, 29](#c32-v29) Preguntóle Jacob, diciendo: «Dime, por favor, tu nombre.» Mas él contestó: «¿Por qué preguntas mi nombre?» Y le bendijo allí.
 {:#c32-v29}
 
-[32, 30](#c32-v30) [[\*\*]](#nt-c32-v30) Jacob dio a aquel lugar el nombre de Fanuel, porque (dijo): «He visto a Dios cara a cara, y ha quedado a salvo mi vida.»
+[32, 30](#c32-v30) [[\*\*]](#nt-c32-v30) Jacob dio a aquel lugar el nombre de *Fanuel*, porque (dijo): «He visto a Dios cara a cara, y ha quedado a salvo mi vida.»
 {:#c32-v30}
 
 [32, 31](#c32-v31) Apenas había pasado de Fanuel cuando salió el sol; e iba cojeando del muslo.
@@ -5871,20 +5871,20 @@ No fue un **sueño** natural, sino un éxtasis o arrobamiento, durante el cual D
 
 **¿No he visto?** etc.: Texto oscuro, al cual se dan muy diversas traducciones y explicaciones. Agar parece admirarse de haber visto al Ángel de Dios sin perder la vida. Era opinión común que nadie podía ver a Dios o a su Ángel sin morir (cf. [32, 30](#c32-v30); Éxodo [33, 20](exodo#c33-v20); Jueces [13, 21](jueces#c13-v21) ss.).
 
-[16, 14](#c16-v14) El **Viviente** es, en la Sagrada Escritura, nombre de Dios. Cf. Josué [3, 10](josue#c3-v10); 2 Reyes [19, 4](2-reyes#c19-v4) y [16](2-reyes#c19-v16); Salmos [4, 3](salmos#c4-v3); [83, 3](salmos#c83-v3): Oseas [1, 10](oseas#c1-v10); Mateo [26, 63](mateo#c26-v63).
+[16, 14](#c16-v14) «**El Viviente**» es, en la Sagrada Escritura, nombre de Dios. Cf. Josué [3, 10](josue#c3-v10); 2 Reyes [19, 4](2-reyes#c19-v4) y [16](2-reyes#c19-v16); Salmos [4, 3](salmos#c4-v3); [83, 3](salmos#c83-v3): Oseas [1, 10](oseas#c1-v10); Mateo [26, 63](mateo#c26-v63).
 {:#nt-c16-v14}
 
 [16, 15](#c16-v15) Sobre el carácter espiritual de las relaciones entre Sara y Agar habla San Pablo en la Epístola a los Gálatas. Agar, la esclava, es figura y tipo del Antiguo Testamento, cuya característica es la servidumbre y sumisión a la Ley; Sara, en cambio, es el tipo del Nuevo Testamento y de la «Jerusalén de arriba». Por eso, aunque parece estéril, es más fecunda, por ser madre del hijo de la promesa (Isaac), en tanto que Agar, aunque fecunda según la carne, es estéril para el Reino de Dios, y su hijo Ismael no obtendrá bendiciones espirituales (Gálatas [4, 22](galatas#c4-v22) ss.). Cf. [17, 20](#c17-v20).
 {:#nt-c16-v15}
 
-[17, 1](#c17-v1) **El Dios Todopoderoso**, en hebreo *El Schaddai*. Los nombres que Dios se da a Sí mismo tienen el más profundo significado. En Éxodo [3, 14](exodo#c3-v14) se da el nombre de *Yahvé* (= el que es, el Eterno). Cf. [2, 4](#c2-v4) y nota. Aquí oímos de su boca el nombre de *Schaddai*, con el cual solía manifestarse a los patriarcas (cf. Éxodo [6, 3](exodo#c6-v3)). Es difícil darle una traducción adecuada; por eso algunos, por ejemplo Nácar-Colunga, conservan la forma hebrea. Etimológicamente *Schaddai* señala la invencible fuerza de Dios, por lo cual las versiones prefieren los términos «Omnipotente» y «Todopoderoso».
+[17, 1](#c17-v1) **El Dios Todopoderoso**: En hebreo, «*El Schaddai*». Los nombres que Dios se da a Sí mismo tienen el más profundo significado. En Éxodo [3, 14](exodo#c3-v14) se da el nombre de *Yahvé* (= el que es, el Eterno). Cf. [2, 4](#c2-v4) y nota. Aquí oímos de su boca el nombre de *Schaddai*, con el cual solía manifestarse a los patriarcas (cf. Éxodo [6, 3](exodo#c6-v3)). Es difícil darle una traducción adecuada; por eso algunos, por ejemplo Nácar-Colunga, conservan la forma hebrea. Etimológicamente «*Schaddai*» señala la invencible fuerza de Dios, por lo cual las versiones prefieren los términos «Omnipotente» y «Todopoderoso».
 {:#nt-c17-v1}
 
 **Sé perfecto**: La perfección de los patriarcas consistía en caminar en la presencia del Señor, oír en todo la voz de Dios y de sus ángeles y llevar la antorcha de la fe a través de los siglos más oscuros.
 
 > «Los patriarcas eran entonces, como los apóstoles han sido después, la sal de la tierra. En vano buscaréis por el mundo, en aquellos remotísimos tiempos, al hombre pobre de espíritu, rico de fe, manso y sencillo de corazón, modesto en las prosperidades, resignado en las tribulaciones, de vida inocente y de honestas y pacíficas costumbres. El tesoro de esas virtudes apacibles resplandeció sólo en las solitarias tiendas de los patriarcas bíblicos» (Donoso Cortés).
 
-[17, 5](#c17-v5) s. El nombre no es una simple etiqueta, como hoy día suelen ponerse los nombres, sino la expresión de una idea que ha de realizarse en el portador del nombre. Así se explica que la nueva misión de Abrahán le acarrea un nuevo nombre. **Abram**, significa: «Padre excelso»; el nuevo nombre, **Abrahán**: «Padre de la muchedumbre».
+[17, 5](#c17-v5) s. El nombre no es una simple etiqueta, como hoy día suelen ponerse los nombres, sino la expresión de una idea que ha de realizarse en el portador del nombre. Así se explica que la nueva misión de Abrahán le acarrea un nuevo nombre. «**Abram**» significa «Padre excelso»; el nuevo nombre, «**Abrahán**», «Padre de la muchedumbre».
 {:#nt-c17-v5}
 
 De Abrahán salieron no sólo los israelitas, sino también los árabes (descendientes de Ismael, hijo de Abrahán), los idumeos, madianitas y otros. Los **reyes** que salieron de Abrahán fueron, entre otros, David, Salomón y el rey de reyes, Jesucristo. Véase [12, 2](#c12-v2) y [3](#c12-v3) y nota.
@@ -6350,7 +6350,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [31, 21](#c31-v21) **El río**: el Éufrates.
 {:#nt-c31-v21}
 
-**Galaad**, región transjordánica que se extiende entre los ríos Yarmuc y Yaboc, tributarios del Jordán, distante de Harán (Mesopotamia) unos 600 kilómetros.
+**Galaad**: región transjordánica que se extiende entre los ríos Yarmuc y Yaboc, tributarios del Jordán, distante de Harán (Mesopotamia) unos 600 kilómetros.
 
 [31, 24](#c31-v24) **Guárdate de decir... sea mala**: Es un giro que quiere decir: Confórmate con lo sucedido.
 {:#nt-c31-v24}
@@ -6361,13 +6361,13 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [31, 40](#c31-v40) Estas palabras de Jacob suelen aplicarse también a los pastores de almas. El verdadero pastor imita a Jacob, vigila día y noche, sufre frío y calor y no se deja dominar por el sueño.
 {:#nt-c31-v40}
 
-[31, 42](#c31-v42) **El Temor de Isaac**, esto es, Dios. Otros: «el Temido». Véase versículo [53](#c31-v53), donde se encuentra la misma expresión. Jacob quiere documentar su fe en el Dios a quien adoraba su padre Isaac, el único y verdadero Dios, que hizo las promesas a sus padres. Labán, en cambio, invoca a las divinidades de su familia (v. [53](#c31-v53)), agregando al Dios de Abrahán el nombre del Dios de Nacor y de sus padres.
+[31, 42](#c31-v42) **El Temor de Isaac**: esto es, Dios. Otros: «el Temido». Véase versículo [53](#c31-v53), donde se encuentra la misma expresión. Jacob quiere documentar su fe en el Dios a quien adoraba su padre Isaac, el único y verdadero Dios, que hizo las promesas a sus padres. Labán, en cambio, invoca a las divinidades de su familia (v. [53](#c31-v53)), agregando al Dios de Abrahán el nombre del Dios de Nacor y de sus padres.
 {:#nt-c31-v42}
 
-[31, 47](#c31-v47) s. El montón de piedras que Jacob levantó tiene dos nombres: uno que le puso Labán en lengua aramea: *Jegar Sahaduta*, y otro hebreo: *Galaad*, con que lo denominó Jacob. Ambas denominaciones significan «majano del testimonio».
+[31, 47](#c31-v47) s. El montón de piedras que Jacob levantó tiene dos nombres: uno que le puso Labán en lengua aramea: «**Jegar Sahaduta**», y otro hebreo: «**Galaad**», con que lo denominó Jacob. Ambas denominaciones significan «majano del testimonio».
 {:#nt-c31-v47}
 
-**Masfá** o **Mizpá** (v. [49](#c31-v49)) tiene el significado de atalaya, y quiere expresar la idea de que Dios vela sobre la alianza que acaban de pactar.
+«**Masfá**» o «**Mizpá**» (v. [49](#c31-v49)) tiene el significado de «atalaya», y quiere expresar la idea de que Dios vela sobre la alianza que acaban de pactar.
 
 [32, 2](#c32-v2) El nombre de la ciudad de **Mahanaim** (campamentos) recuerda el dicho de Jacob: «Este es el campamento de Dios», lo que quiere decir: aquí se halla el ejército de los ángeles de Dios que van a luchar en mi favor y me procurarán la victoria sobre mis enemigos. La ciudad está situada en Transjordania, en los confines de Gad y Manasés, al norte del río Yaboc y a no grande distancia del río, y además no muy adentro den la montaña, y por consiguiente no muy lejos del Jordán (Fernández).
 {:#nt-c32-v2}
@@ -6378,22 +6378,22 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [32, 4](#c32-v4) Nótese la humildad de Jacob, que da a su hermano el título de señor, como si fuese súbdito del mismo. Obraba así por el miedo que lo tenía aplastado, pues sabía que sería difícil aplacarlo.
 {:#nt-c32-v4}
 
-[32, 11](#c32-v11) El miedo en un personaje de la importancia del patriarca Jacob, este miedo casi infantil, que él mismo confiesa con filial sencillez en su oración, nos muestra cuánto debemos apartarnos del estoicismo pagano, que confía en la propia suficiencia y presenta el orgullo con apariencia de virtud. El que es pequeño, ése venga a mí, dice Dios (Proverbios [9, 4](proverbios#c9-v4)), y Jesús enseña que el que no se vuelve sencillo como un niño no entra en el cielo (Mateo [18, 3](mateo#c18-v3)), en tanto que el más pequeño será el primero en el Reino (Mateo [18, 4](mateo#c18-v4)). Tal es la doctrina de la infancia espiritual, que Santa Teresa del Niño Jesús expuso con el nombre de caminito de confianza y de amor, y al que el Papa Benedicto XV llamó el secreto de la santidad.
+[32, 11](#c32-v11) El miedo en un personaje de la importancia del patriarca Jacob, este miedo casi infantil, que él mismo confiesa con filial sencillez en su oración, nos muestra cuánto debemos apartarnos del estoicismo pagano, que confía en la propia suficiencia y presenta el orgullo con apariencia de virtud. El que es pequeño, ése venga a mí, dice Dios (Proverbios [9, 4](proverbios#c9-v4)), y Jesús enseña que el que no se vuelve sencillo como un niño no entra en el cielo (Mateo [18, 3](mateo#c18-v3)), en tanto que el más pequeño será el primero en el Reino (Mateo [18, 4](mateo#c18-v4)). Tal es la doctrina de la infancia espiritual, que Santa Teresa del Niño Jesús expuso con el nombre de «caminito de confianza y de amor», y al que el Papa Benedicto XV llamó «el secreto de la santidad».
 {:#nt-c32-v11}
 
 [32, 12](#c32-v12) **Tú mismo dijiste**: Véase [28, 14](#c28-v14) s. y nota.
 {:#nt-c32-v12}
 
-[32, 22](#c32-v22) **El Yaboc**, río de Galaad (Transjordania) y tributario del Jordán.
+[32, 22](#c32-v22) El **Yaboc**: río de Galaad (Transjordania) y tributario del Jordán.
 {:#nt-c32-v22}
 
 [32, 24](#c32-v24) El que luchaba con el patriarca, pero sin emplear toda su fuerza, era el Ángel del Señor que representaba a Dios mismo, como se desprende de los versículos siguientes y de Oseas [12, 4](oseas#c12-v4) ss.
 {:#nt-c32-v24}
 
-[32, 25](#c32-v25) En esta lucha se ve el verdadero valor de Jacob, quien se declaraba miedoso, pero por la fuerza de la oración se convirtió en vencedor. Strack llama a este episodio «la lucha de oración de Jacob», «la oración dramatizada». Toda oración es una lucha del hombre con Dios, en la cual el que reza bien vence a Dios. Compárese las palabras de Jacob: «No te dejaré ir si no me bendices» (v. [26](#c32-v26)), con las de Dios a Moisés en Éxodo [32, 10](exodo#c32-v10): «Déjame, para que se encienda mi furor»; es decir, no te interpongas con tus súplicas, para que no me vea obligado a atenderlas.
+[32, 25](#c32-v25) En esta lucha se ve el verdadero valor de Jacob, quien se declaraba miedoso, pero por la fuerza de la oración se convirtió en vencedor. Strack llama a este episodio «la lucha de oración de Jacob», «la oración dramatizada». Toda oración es una lucha del hombre con Dios, en la cual el que reza bien vence a Dios. Compárese las palabras de Jacob: «No te dejaré ir si no me bendices» (v. [26](#c32-v26)), con las de Dios a Moisés en Éxodo [32, 10](exodo#c32-v10): «Déjame, para que se encienda mi furor»; es decir, «no te interpongas con tus súplicas, para que no me vea obligado a atenderlas».
 {:#nt-c32-v25}
 
-[32, 28](#c32-v28) Jacob se llamará en adelante **Israel** que significa «Combatiente de Dios», o «Combatiente con Dios»; nombre que le dio el Ángel del Señor con quien luchó en la noche antes de encontrarse con su hermano, siendo más tarde confirmado por el mismo Señor (Génesis [35, 10](genesis#c35-v10)). El cambio de nombre es señal de una nueva misión, porque los hombres de entonces no llevaban sus nombres como etiqueta sino como expresión de su ser. El nombre y su portador era, por decirlo así, una unidad ontológica, y no solamente una combinación casual, como hoy. Cf. al respecto el cambio de nombre de Abrahán en Génesis [17, 5](genesis#c17-v5). No se sabe exactamente cuál fue el sentido de la lucha de Jacob con el ángel. El patriarca se hallaba en grandes angustias, y lo que buscaba su alma era ayuda y consuelo en Dios. Así parece explicarlo el profeta Oseas: «Con su fortaleza Jacob luchó con el ángel y prevaleció sobre él y le venció; y con lágrimas se encomendó a él» (Oseas [12, 3](oseas#c12-v3) s.); por lo cual no necesitamos recurrir a las «pesadillas» de los racionalistas para explicar este pasaje.
+[32, 28](#c32-v28) Jacob se llamará en adelante **Israel**, que significa «Combatiente de Dios», o «Combatiente con Dios»; nombre que le dio el Ángel del Señor con quien luchó en la noche antes de encontrarse con su hermano, siendo más tarde confirmado por el mismo Señor (Génesis [35, 10](genesis#c35-v10)). El cambio de nombre es señal de una nueva misión, porque los hombres de entonces no llevaban sus nombres como etiqueta sino como expresión de su ser. El nombre y su portador era, por decirlo así, una unidad ontológica, y no solamente una combinación casual, como hoy. Cf. al respecto el cambio de nombre de Abrahán en Génesis [17, 5](genesis#c17-v5). No se sabe exactamente cuál fue el sentido de la lucha de Jacob con el Ángel. El patriarca se hallaba en grandes angustias, y lo que buscaba su alma era ayuda y consuelo en Dios. Así parece explicarlo el profeta Oseas: «Con su fortaleza Jacob luchó con el Ángel y prevaleció sobre él y le venció; y con lágrimas se encomendó a él» (Oseas [12, 3](oseas#c12-v3) s.); por lo cual no necesitamos recurrir a las «pesadillas» de los racionalistas para explicar este pasaje.
 {:#nt-c32-v28}
 
 > «El que considere con atención y una los datos con que la Biblia presenta a Jacob, antes y después de su lucha con Dios, encontrará un cambio sensible: antes era el realizador tortuoso y trabajado, después es el triunfador inconcuso y benigno.» (Ricciotti, Historia de Israel, número 147)
@@ -6401,7 +6401,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [32, 30](#c32-v30) Mirar a Dios y no morir por espanto parecía a Jacob un milagro. Era creencia común que el hombre mortal no pudiera ver a Dios sin morir en el mismo instante. Cf. [16, 13](#c16-v13) y nota.
 {:#nt-c32-v30}
 
-**Fanuel** significa: Dios se apareció. Hallábase al sur de Mahanaim, entre este lugar y Sucot (cf. [33, 17](#c33-v17)).
+«**Fanuel**» significa «Dios se apareció». Hallábase al sur de Mahanaim, entre este lugar y Sucot (cf. [33, 17](#c33-v17)).
 
 [32, 32](#c32-v32) **No comen el nervio ciático**: Se refiere a los animales.
 {:#nt-c32-v32}
@@ -6415,7 +6415,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [33, 11](#c33-v11) **Bendición**: Se refiere a los regalos, pues todos los dones son una bendición que de arriba viene (Santiago [1, 17](santiago#c1-v17)). San Pablo aplica esta misma palabra a las limosnas que los cristianos de Corinto mandaron a Jerusalén (2 Corintios [9, 5](2-corintios#c9-v5)).
 {:#nt-c33-v11}
 
-[33, 17](#c33-v17) **Sucot**, más tarde ciudad, situada a 10 kilómetros de la desembocadura del Yaboc en el Jordán.
+[33, 17](#c33-v17) **Sucot**: más tarde ciudad, situada a 10 kilómetros de la desembocadura del Yaboc en el Jordán.
 {:#nt-c33-v17}
 
 [33, 18](#c33-v18) La ciudad de **Siquem**, esto es, el punto céntrico de Palestina. En el campo que Jacob allí compró, abrió un pozo, llamado más tarde pozo de Jacob, famoso por la conversación de Jesús con la samaritana (Juan [4](juan#c4)). La *Vulgata* traduce: «llegó a Salem, ciudad de los siquemitas».
@@ -6424,7 +6424,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 [33, 19](#c33-v19) **Cien kesitas**: cien monedas de plata. La *Vulgata* dice: «cien corderos».
 {:#nt-c33-v19}
 
-[33, 20](#c33-v20) **El-Elohé-Israel**: El significado de este nombre es: Él (nombre de Dios) es el Dios de Israel, o: el fuerte Dios de Israel. *Vulgata*: «Dios fortísimo de Israel».
+[33, 20](#c33-v20) **El-Elohé-Israel**: El significado de este nombre es: «*El* (nombre de Dios) es el Dios de Israel», o: «el fuerte Dios de Israel». *Vulgata*: «Dios fortísimo de Israel».
 {:#nt-c33-v20}
 
 [34, 2](#c34-v2) Los **heveos**, un pueblo cananeo ([10, 17](#c10-v17); Éxodo [3, 8](exodo#c3-v8); Josué [9, 7](josue#c9-v7)).
@@ -6897,7 +6897,7 @@ Algunos protestantes ven aquí, sin suficiente motivo, una alusión a la ciudad 
 
 Cada desengaño que nos preparan los hombres nos acerca a Dios y nos invita a entregarnos a Él con plena confianza pues Él nunca nos desilusiona. ¡Cuántas veces nos enseña la experiencia que Dios convierte en bien lo que antes pareció un mal inaguantable!
 
-[50, 24](#c50-v24) **Os visitará**: Locución hebrea que significa: os afligirá. Alusión a la opresión que sufrieron más tarde en Egipto.
+[50, 24](#c50-v24) **Os visitará**: Locución hebrea que significa: «os afligirá». Alusión a la opresión que sufrieron más tarde en Egipto.
 {:#nt-c50-v24}
 
 [50, 25](#c50-v25) Cuando los israelitas salieron de Egipto, llevaron consigo los restos mortales de José y lo sepultaron en Siquem, en la tierra de promisión (Éxodo [13, 19](exodo#c13-v19); Josué [24, 32](josue#c24-v32)).

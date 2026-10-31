@@ -4,10 +4,10 @@ contenido:
     enlace: motu-proprio-compendio-catecismo
   - encabezado: Introducción
     enlace: compendio-catecismo/introduccion
-  - encabezado: "Primera parte: La profesión de la fe"
+  - encabezado: "PARTE I: La profesión de la fe"
     enlace: compendio-catecismo/p1-s1#
     sublista:
-      - encabezado: "Primera sección: «Creo» - «Creemos» (1-32)"
+      - encabezado: "PARTE I, SECCIÓN I: «Creo» - «Creemos» (1-32)"
         enlace: compendio-catecismo/p1-s1#s1
         sublista:
           - encabezado: "Capítulo primero: El hombre es «capaz» de Dios"
@@ -28,7 +28,7 @@ contenido:
                 enlace: compendio-catecismo/p1-s1#c3-t1
               - encabezado: Creemos
                 enlace: compendio-catecismo/p1-s1#c3-t2
-      - encabezado: "Segunda sección: La profesión de la fe cristiana (33-217)"
+      - encabezado: "PARTE I, SECCIÓN II: La profesión de la fe cristiana (33-217)"
         enlace: compendio-catecismo/p1-s2#s2
         sublista:
           - encabezado: El Credo
@@ -89,10 +89,10 @@ contenido:
                 enlace: compendio-catecismo/p1-s2#c3-t5
               - encabezado: «Amén»
                 enlace: compendio-catecismo/p1-s2#c3-t6
-  - encabezado: "Segunda parte: La celebración del Misterio Cristiano"
+  - encabezado: "PARTE II: La celebración del Misterio Cristiano"
     enlace: compendio-catecismo/p2-s1#
     sublista:
-      - encabezado: "Primera sección: La economía sacramental (218-249)"
+      - encabezado: "PARTE II, SECCIÓN I: La economía sacramental (218-249)"
         enlace: compendio-catecismo/p2-s1#s1
         sublista:
           - encabezado: "Capítulo primero: El Misterio pascua en el tiempo de la Iglesia"
@@ -118,7 +118,7 @@ contenido:
                     enlace: compendio-catecismo/p2-s1#c2-t1-p4
               - encabezado: Diversidad litúrgica y unidad del misterio
                 enlace: compendio-catecismo/p2-s1#c2-t2
-      - encabezado: "Segunda sección: Los Siete Sacramentos de la Iglesia (250-356)"
+      - encabezado: "PARTE II, SECCIÓN II: Los Siete Sacramentos de la Iglesia (250-356)"
         enlace: compendio-catecismo/p2-s2#
         sublista:
           - encabezado: "Capítulo primero: Los sacramentos de la iniciación cristiana"
@@ -151,10 +151,10 @@ contenido:
                 enlace: compendio-catecismo/p2-s2#c4-t1
               - encabezado: Las exequias cristianas
                 enlace: compendio-catecismo/p2-s2#c4-t2
-  - encabezado: "Tercera parte: La vida en Cristo"
+  - encabezado: "PARTE III: La vida en Cristo"
     enlace: compendio-catecismo/p3-s1#
     sublista:
-      - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu (357-433)"
+      - encabezado: "PARTE III, SECCIÓN I: La vocación del hombre: La vida en el Espíritu (357-433)"
         enlace: compendio-catecismo/p3-s1#s1
         sublista:
           - encabezado: "Capítulo primero: La dignidad de la persona humana"
@@ -192,7 +192,7 @@ contenido:
                 enlace: compendio-catecismo/p3-s1#c3-t2
               - encabezado: La Iglesia, Madre y Maestra
                 enlace: compendio-catecismo/p3-s1#c3-t3
-      - encabezado: "Segunda sección: Los diez Mandamientos (434-533)"
+      - encabezado: "PARTE III, SECCIÓN II: Los Diez Mandamientos (434-533)"
         enlace: compendio-catecismo/p3-s2#s2
         sublista:
           - encabezado: Los Diez Mandamientos
@@ -223,10 +223,10 @@ contenido:
                 enlace: compendio-catecismo/p3-s2#c2-t6
               - encabezado: "Décimo Mandamiento: No codiciarás los bienes ajenos"
                 enlace: compendio-catecismo/p3-s2#c2-t7
-  - encabezado: "Cuarta parte: La oración Cristiana"
+  - encabezado: "PARTE IV: La oración Cristiana"
     enlace: compendio-catecismo/p4-s1#
     sublista:
-      - encabezado: "Primera sección: La oración en la vida cristiana (534-577)"
+      - encabezado: "PARTE IV, SECCIÓN I: La oración en la vida cristiana (534-577)"
         enlace: compendio-catecismo/p4-s1#s1
         sublista:
           - encabezado: "Capítulo primero: La revelación de la oración"
@@ -254,7 +254,7 @@ contenido:
                 enlace: compendio-catecismo/p4-s1#c3-t1
               - encabezado: El combate de la oración
                 enlace: compendio-catecismo/p4-s1#c3-t2
-      - encabezado: "Segunda sección: La oración del Señor: «Padre nuestro» (578-598)"
+      - encabezado: "PARTE IV, SECCIÓN II: La oración del Señor: «Padre nuestro» (578-598)"
         enlace: compendio-catecismo/p4-s2#s2
         sublista:
           - encabezado: El Padre nuestro
@@ -265,10 +265,94 @@ contenido:
             enlace: compendio-catecismo/p4-s2#s2-t3
           - encabezado: Las siete Peticiones
             enlace: compendio-catecismo/p4-s2#s2-t4
-  - encabezado: Apéndice
+  - encabezado: APÉNDICE
     enlace: compendio-catecismo/apendice#
     sublista:
       - encabezado: Oraciones comunes
         enlace: compendio-catecismo/apendice#s1
+        sublista:
+          - encabezado: Señal de la Cruz
+            enlace: compendio-catecismo/apendice#or1
+          - encabezado: Gloria al Padre
+            enlace: compendio-catecismo/apendice#or2
+          - encabezado: Padre nuestro
+            enlace: compendio-catecismo/apendice#or3
+          - encabezado: Ave, María
+            enlace: compendio-catecismo/apendice#or4
+          - encabezado: Ángel de Dios
+            enlace: compendio-catecismo/apendice#or5
+          - encabezado: El eterno reposo
+            enlace: compendio-catecismo/apendice#or6
+          - encabezado: Ángelus
+            enlace: compendio-catecismo/apendice#or7
+          - encabezado: Regina Caeli
+            enlace: compendio-catecismo/apendice#or8
+          - encabezado: Salve, Regina
+            enlace: compendio-catecismo/apendice#or9
+          - encabezado: Magníficat
+            enlace: compendio-catecismo/apendice#or10
+          - encabezado: Bajo tu protección
+            enlace: compendio-catecismo/apendice#or11
+          - encabezado: Benedictus
+            enlace: compendio-catecismo/apendice#or12
+          - encabezado: Te Deum
+            enlace: compendio-catecismo/apendice#or13
+          - encabezado: Veni Creator
+            enlace: compendio-catecismo/apendice#or14
+          - encabezado: Ven, Santo Espíritu
+            enlace: compendio-catecismo/apendice#or15
+          - encabezado: Alma de Cristo
+            enlace: compendio-catecismo/apendice#or16
+          - encabezado: Acordaos
+            enlace: compendio-catecismo/apendice#or17
+          - encabezado: Rosario
+            enlace: compendio-catecismo/apendice#or18
+          - encabezado: Oración del incienso (Tradición copta)
+            enlace: compendio-catecismo/apendice#or19
+          - encabezado: Oración de «Adiós al Altar», antes de salir del templo después de la liturgia (Tradición siro-maronita)
+            enlace: compendio-catecismo/apendice#or20
+          - encabezado: Oración por los difuntos (Tradición bizantina)
+            enlace: compendio-catecismo/apendice#or21
+          - encabezado: Acto de Fe
+            enlace: compendio-catecismo/apendice#or22
+          - encabezado: Acto de Fe (tradición española)
+            enlace: compendio-catecismo/apendice#or23
+          - encabezado: Acto de Esperanza
+            enlace: compendio-catecismo/apendice#or24
+          - encabezado: Acto de Esperanza (tradición española)
+            enlace: compendio-catecismo/apendice#or25
+          - encabezado: Acto de Caridad
+            enlace: compendio-catecismo/apendice#or26
+          - encabezado: Acto de Caridad (tradición española)
+            enlace: compendio-catecismo/apendice#or27
+          - encabezado: Acto de Contrición
+            enlace: compendio-catecismo/apendice#or28
+          - encabezado: Acto de Contrición (tradición española)
+            enlace: compendio-catecismo/apendice#or29
       - encabezado: Fórmulas de Doctrina católica
         enlace: compendio-catecismo/apendice#s2
+        sublista:
+          - encabezado: El Doble Mandamiento del Amor
+            enlace: compendio-catecismo/apendice#f1
+          - encabezado: Regla de Oro
+            enlace: compendio-catecismo/apendice#f2
+          - encabezado: Bienaventuranzas
+            enlace: compendio-catecismo/apendice#f3
+          - encabezado: Las Tres Virtudes Teologales
+            enlace: compendio-catecismo/apendice#f4
+          - encabezado: Las Cuatro Virtudes Cardinales
+            enlace: compendio-catecismo/apendice#f5
+          - encabezado: Los Siete Dones del Espíritu Santo
+            enlace: compendio-catecismo/apendice#f6
+          - encabezado: Los Doce Frutos del Espíritu Santo
+            enlace: compendio-catecismo/apendice#f7
+          - encabezado: Los Cinco Mandamientos de la Iglesia
+            enlace: compendio-catecismo/apendice#f8
+          - encabezado: Las Siete Obras de Misericordia Corporales
+            enlace: compendio-catecismo/apendice#f9
+          - encabezado: Las Siete Obras de Misericordia Espirituales
+            enlace: compendio-catecismo/apendice#f10
+          - encabezado: Los Siete Pecados Capitales
+            enlace: compendio-catecismo/apendice#f11
+          - encabezado: Los Novísimos
+            enlace: compendio-catecismo/apendice#f12

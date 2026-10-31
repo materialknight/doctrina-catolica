@@ -63,3 +63,7 @@ O escaneado el siguiente código QR (o copiando el enlace de abajo) en un monede
 <div id="btn-container">
    {% include components/btn-font-options.html %}
 </div>
+
+## Agradecimientos a:
+
+- [Manuel Troncoso](https://www.youtube.com/@chillanense).

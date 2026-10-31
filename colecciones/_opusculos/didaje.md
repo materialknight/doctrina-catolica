@@ -8,7 +8,7 @@ title: Doctrina de los Doce Apóstoles
 
 Esta obra es un manual eclesiástico, escrito originalmente en griego *koiné* (= popular) por un autor anónimo, entre los años 65-80 d.C., es decir: antes que algunos libros del Nuevo Testamento como el Evangelio de Juan y el Apocalipsis.
 
-El Catecismo la cita en latín como: «Didache XII Apostolorum» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή» (*didajé* = doctrina, instrucción o enseñanza), cuyo significado recuerda al término hebreo «תורה» (*torá* = doctrina, instrucción, enseñanza o ley, especialmente la dada por Dios en el Pentateuco), pues efectivamente esta obra sintetiza la **doctrina** cristiana, que es la **ley** del amor (Romanos [13, 8]({{ "biblia-straubinger/romanos#c13-v8" | relative_url }})-10) dada por Dios hecho hombre (Isaías [54, 13]({{ "biblia-straubinger/isaias#c54-v13" | relative_url }})) en el Nuevo Pacto (Jeremías [31, 31]({{ "biblia-straubinger/jeremias#c31-v31" | relative_url }})-33).
+El Catecismo la cita en latín como: «*Didache XII Apostolorum*» (Doctrina de los 12 Apóstoles). En español también se conoce como «La Didajé». Tanto «Didache» como «Didajé» son transliteraciones del término griego «Διδαχή» (*didajé* = doctrina, instrucción o enseñanza), cuyo significado recuerda al término hebreo «תורה» (*torá* = doctrina, instrucción, enseñanza o ley, especialmente la dada por Dios en el Pentateuco), pues efectivamente esta obra sintetiza la **doctrina** cristiana, que es la **ley** del amor (Romanos [13, 8]({{ "biblia-straubinger/romanos#c13-v8" | relative_url }})-10) dada por Dios hecho hombre (Isaías [54, 13]({{ "biblia-straubinger/isaias#c54-v13" | relative_url }})) en el Nuevo Pacto (Jeremías [31, 31]({{ "biblia-straubinger/jeremias#c31-v31" | relative_url }})-33).
 
 También la *Didajé* es el testimonio más antiguo de la fidelidad con que la Iglesia Católica ha conservado el Depósito de la Fe (2 Timoteo [1, 12]({{ "biblia-straubinger/2-timoteo#c1-v12" | relative_url }})-14) hasta nuestros días.
 
@@ -406,7 +406,7 @@ Lo que aparece al final de este versículo es «La Regla de Plata»: «No hagas 
 [7, 2](#c7-v2) «Otra agua» sería, por ejemplo: agua salada (como la del mar) o estancada (como la de una pila).
 {:#nt-c7-v2}
 
-[8, 1](#c8-v1) En esta obra, como en Mateo 6, «los hipócritas» son el Israel según la carne que rechazó a Jesús.
+[8, 1](#c8-v1) En esta obra, como en Mateo [6]({{ "biblia-straubinger/mateo#c6" | relative_url }}), «los hipócritas» son el Israel según la carne que rechazó a Jesús.
 {:#nt-c8-v1}
 
 [8, 2](#c8-v2) Cp. Mateo [6, 5]({{ "biblia-straubinger/mateo#c6-v5" | relative_url }})-15.

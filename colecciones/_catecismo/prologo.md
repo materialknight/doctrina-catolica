@@ -60,7 +60,7 @@ title: Prólogo
 [**13**](#n13) El plan de este catecismo se inspira en la gran tradición de los catecismos, los cuales articulan la catequesis en torno a cuatro «pilares»: la profesión de la fe bautismal (el *Símbolo*), los sacramentos de la fe, la vida de fe (los *Mandamientos*), la oración del creyente (el *Padre Nuestro*).
 {:#n13}
 
-### Primera parte: la profesión de la fe
+### Primera parte: La profesión de la fe
 {:#p-r4-s1}
 
 [**14**](#n14) Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (cf. Mt [10, 32]({{ "biblia-straubinger/mateo#c10-v32" | relative_url }}); Rom [10, 9]({{ "biblia-straubinger/romanos#c10-v9" | relative_url }})). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios ([*primera sección*](p1#s1)). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los «tres capítulos» de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia ([*segunda sección*](p1#s2)).

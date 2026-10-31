@@ -8,22 +8,26 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Señal de la Cruz
+{:#or1}
 
 <span class="hemistich">En el nombre del Padre</span>
 <span class="hemistich">y del Hijo</span>
 <span class="hemistich">y del Espíritu Santo. Amén.</span>
+{:.stanza}
 
-### Signum Crucis
+### [Signum Crucis](https://www.youtube.com/shorts/PqKLYiuTDVk)
 
 <span class="hemistich">In nómine Patris,</span>
 <span class="hemistich">et Fílii,</span>
 <span class="hemistich">et Spíritus Sancti. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Gloria al Padre
+{:#or2}
 
 <span class="hemistich">Gloria al Padre</span>
 <span class="hemistich">y al Hijo</span>
@@ -31,8 +35,9 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">Como era en el principio,</span>
 <span class="hemistich">ahora y siempre,</span>
 <span class="hemistich">por los siglos de los siglos. Amén.</span>
+{:.stanza}
 
-### Gloria Patri
+### [Gloria Patri](https://www.youtube.com/shorts/XCzuYhDBAqM)
 
 <span class="hemistich">Glória Patri,</span>
 <span class="hemistich">et Fílio,</span>
@@ -40,12 +45,14 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">Sicut erat in princípio,</span>
 <span class="hemistich">et nunc et semper</span>
 <span class="hemistich">et in saecula saeculórum. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Padre nuestro
+{:#or3}
 
 <span class="hemistich">Padre nuestro, que estás en el cielo,</span>
 <span class="hemistich">santificado sea tu Nombre;</span>
@@ -59,8 +66,9 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">a nuestros deudores;</span>
 <span class="hemistich">no nos dejes caer en la tentación,</span>
 <span class="hemistich">y líbranos del maligno. Amén.</span>
+{:.stanza}
 
-### Pater noster
+### [Pater noster](https://www.youtube.com/shorts/lMdHwHGxano)
 
 <span class="hemistich">Pater noster qui es in caelis:</span>
 <span class="hemistich">sanctificetur Nomen Tuum;</span>
@@ -74,12 +82,14 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">dimittimus debitoribus nostris;</span>
 <span class="hemistich">et ne nos inducas in tentationem;</span>
 <span class="hemistich">sed libera nos a Malo. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
-### Ave María
+### Ave, María
+{:#or4}
 
 <span class="hemistich">Dios te salve, María,</span>
 <span class="hemistich">llena eres de gracia;</span>
@@ -90,8 +100,9 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">Santa María, Madre de Dios,</span>
 <span class="hemistich">ruega por nosotros, pecadores,</span>
 <span class="hemistich">ahora y en la hora de nuestra muerte. Amén.</span>
+{:.stanza}
 
-### Ave, Maríæ
+### [Ave, Maríæ](https://www.youtube.com/shorts/8p4xuNnMdBs)
 
 <span class="hemistich">Ave, María,</span>
 <span class="hemistich">grátia plena,</span>
@@ -102,12 +113,14 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">Sancta María, Mater Dei,</span>
 <span class="hemistich">ora pro nobis peccatóribus,</span>
 <span class="hemistich">nunc et in hora mortis nostræ. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Ángel de Dios
+{:#or5}
 
 <span class="hemistich">Ángel de Dios,</span>
 <span class="hemistich">que eres mi custodio,</span>
@@ -116,6 +129,7 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">ilumíname, guárdame, defiéndeme</span>
 <span class="hemistich">y gobiérname.</span>
 <span class="hemistich">Amén.</span>
+{:.stanza}
 
 ### Angele Dei
 
@@ -126,43 +140,51 @@ title: "Apéndice: Oraciones comunes y fórmulas de doctrina católica"
 <span class="hemistich">illúmina, custódi, rege</span>
 <span class="hemistich">et gubérna.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### El eterno reposo
+{:#or6}
 
 <span class="hemistich">Dale Señor el descanso eterno.</span>
 <span class="hemistich">Brille para él la luz perpetua.</span>
 <span class="hemistich">Descanse en paz. Amén.</span>
+{:.stanza}
 
-### Requiem Æternam
+### [Requiem Æternam](https://www.youtube.com/shorts/dbCSVxqsnt4)
 
 <span class="hemistich">Réquiem aetérnam dona eis, Dómine,</span>
 <span class="hemistich">et lux perpétua lúceat eis.</span>
 <span class="hemistich">Requiéscant in pace. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="eleven-stanzas-two-cols" markdown="1">
 
 ### Ángelus
+{:#or7}
 
 El ángel del Señor anunció a María.
 
 <span class="hemistich">Y concibió</span>
 <span class="hemistich">por obra y gracia del Espíritu Santo.</span>
+{:.stanza}
 
 [*Dios te salve, María...*]
 
 <span class="hemistich">He aquí la esclava del Señor.</span>
 <span class="hemistich">Hágase en mí según tu palabra.</span>
+{:.stanza}
 
 [*Dios te salve, María...*]
 
 <span class="hemistich">Y el Verbo de Dios se hizo carne.</span>
 <span class="hemistich">Y habitó entre nosotros.</span>
+{:.stanza}
 
 [*Dios te salve, María...*]
 
@@ -170,6 +192,7 @@ El ángel del Señor anunció a María.
 <span class="hemistich">Santa Madre de Dios,</span>
 <span class="hemistich">para que seamos dignos de alcanzar</span>
 <span class="hemistich">las promesas de Jesucristo.</span>
+{:.stanza}
 
 Oremos:
 
@@ -180,6 +203,7 @@ Oremos:
 <span class="hemistich">la Encarnación de tu Hijo Jesucristo,</span>
 <span class="hemistich">lleguemos por los Méritos de su Pasión y su Cruz, a la gloria de la Resurrección.</span>
 <span class="hemistich">Por Jesucristo Nuestro Señor. Amén.</span>
+{:.stanza}
 
 [*Gloria al Padre...*]
 
@@ -189,16 +213,19 @@ Oremos:
 
 <span class="hemistich">Et concépit</span>
 <span class="hemistich">de Spíritu Sancto.</span>
+{:.stanza}
 
 [*Ave, María...*]
 
 <span class="hemistich">Ecce ancílla Dómini.</span>
 <span class="hemistich">Fiat mihi secúndum verbum tuum.</span>
+{:.stanza}
 
 [*Ave, María...*]
 
 <span class="hemistich">Et Verbum caro factum est.</span>
 <span class="hemistich">Et habitávit in nobis.</span>
+{:.stanza}
 
 [*Ave, María...*]
 
@@ -206,6 +233,7 @@ Oremos:
 <span class="hemistich">sancta Dei génetrix.</span>
 <span class="hemistich">Ut digni efficiámur</span>
 <span class="hemistich">promissiónibus Christi.</span>
+{:.stanza}
 
 Orémus:
 
@@ -217,6 +245,7 @@ Orémus:
 <span class="hemistich">per passiónem eius et crucem,</span>
 <span class="hemistich">ad resurrectiónis glóriam perducámur.</span>
 <span class="hemistich">Per eúndem Christum Dóminum nostrum. Amen.</span>
+{:.stanza}
 
 [*Glória Patri...*]
 
@@ -225,6 +254,7 @@ Orémus:
 <div class="three-stanzas-two-cols" markdown="1">
 
 ### Regina Caeli (en tiempo pascual)
+{:#or8}
 
 <span class="hemistich">Reina del cielo alégrate; aleluya.</span>
 <span class="hemistich">Porque el Señor a quien has merecido llevar;</span>
@@ -237,6 +267,7 @@ Orémus:
 <span class="hemistich">aleluya.</span>
 <span class="hemistich">Porque verdaderamente ha resucitado el Señor;</span>
 <span class="hemistich">aleluya.</span>
+{:.stanza}
 
 Oremos:
 
@@ -248,6 +279,7 @@ Oremos:
 <span class="hemistich">llegar a alcanzar los gozos eterno.</span>
 <span class="hemistich">Por nuestro Señor Jesucristo.</span>
 <span class="hemistich">Amén.</span>
+{:.stanza}
 
 ### Regina Caeli
 
@@ -262,6 +294,7 @@ Oremos:
 <span class="hemistich">allelúia.</span>
 <span class="hemistich">Quia surréxit Dóminus vere,</span>
 <span class="hemistich">allelúia.</span>
+{:.stanza}
 
 Orémus:
 
@@ -272,12 +305,14 @@ Orémus:
 <span class="hemistich">capiámus gáudia vitae.</span>
 <span class="hemistich">Per Christum Dóminum nostrum.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="two-stanzas-two-cols" markdown="1">
 
-### Salve Regina
+### Salve, Regina
+{:#or9}
 
 <span class="hemistich">Dios te salve, Reina</span>
 <span class="hemistich">y Madre de misericordia,</span>
@@ -293,11 +328,13 @@ Orémus:
 <span class="hemistich">y después de este destierro,</span>
 <span class="hemistich">muéstranos a Jesús,</span>
 <span class="hemistich">fruto bendito de tu vientre.</span>
+{:.stanza}
 
 <span class="hemistich">¡Oh, clementísima, oh piadosa,</span>
 <span class="hemistich">oh dulce Virgen María!</span>
+{:.stanza}
 
-### Salve, Regina
+### [Salve, Regina](https://www.youtube.com/shorts/cm_66vddxNg)
 
 <span class="hemistich">Salve, Regina,</span>
 <span class="hemistich">Mater misericórdiae,</span>
@@ -313,15 +350,18 @@ Orémus:
 <span class="hemistich">Et Iesum benedíctum fructum</span>
 <span class="hemistich">ventris tui,</span>
 <span class="hemistich">nobis, post hoc exsílium, osténde.</span>
+{:.stanza}
 
 <span class="hemistich">O clemens, o pia,</span>
 <span class="hemistich">o dulcis Virgo Maríae!</span>
+{:.stanza}
 
 </div>
 
 <div class="five-stanzas-two-cols" markdown="1">
 
 ### Magníficat
+{:#or10}
 
 <span class="hemistich">Proclama mi alma</span>
 <span class="hemistich">la grandeza del Señor,</span>
@@ -329,6 +369,7 @@ Orémus:
 <span class="hemistich">mi salvador;</span>
 <span class="hemistich">porque ha mirado la humillación</span>
 <span class="hemistich">de su esclava.</span>
+{:.stanza}
 
 <span class="hemistich">Desde ahora me felicitarán</span>
 <span class="hemistich">todas las generaciones,</span>
@@ -337,6 +378,7 @@ Orémus:
 <span class="hemistich">su nombre es santo,</span>
 <span class="hemistich">y su misericordia llega a sus fieles</span>
 <span class="hemistich">de generación en generación.</span>
+{:.stanza}
 
 <span class="hemistich">Él hace proezas con su brazo:</span>
 <span class="hemistich">dispersa a los soberbios de corazón,</span>
@@ -344,12 +386,14 @@ Orémus:
 <span class="hemistich">y enaltece a los humildes,</span>
 <span class="hemistich">a los hambrientos los colma de bienes</span>
 <span class="hemistich">y a los ricos los despide vacíos.</span>
+{:.stanza}
 
 <span class="hemistich">Auxilia a Israel, su siervo,</span>
 <span class="hemistich">acordándose de la misericordia</span>
 <span class="hemistich">–como lo había prometido a nuestros padres–</span>
 <span class="hemistich">en favor de Abrahán</span>
 <span class="hemistich">y su descendencia por siempre.</span>
+{:.stanza}
 
 <span class="hemistich">Gloria al Padre, y al Hijo,</span>
 <span class="hemistich">y al Espíritu Santo.</span>
@@ -357,8 +401,9 @@ Orémus:
 <span class="hemistich">ahora y siempre,</span>
 <span class="hemistich">por los siglos de los siglos.</span>
 <span class="hemistich">Amén.</span>
+{:.stanza}
 
-### Magníficat
+### [Magníficat](https://www.youtube.com/shorts/P5ZGFBaF8MI)
 
 <span class="hemistich">Magníficat</span>
 <span class="hemistich">ánima mea Dóminum,</span>
@@ -366,6 +411,7 @@ Orémus:
 <span class="hemistich">in Deo salvatóre meo,</span>
 <span class="hemistich">quia respéxit humilitátem</span>
 <span class="hemistich">ancíllae suae.</span>
+{:.stanza}
 
 <span class="hemistich">Ecce enim ex hoc beátam me dicent</span>
 <span class="hemistich">omnes generatiónes,</span>
@@ -374,6 +420,7 @@ Orémus:
 <span class="hemistich">et sanctum nomen eius,</span>
 <span class="hemistich">et misericórdia eius in progénies</span>
 <span class="hemistich">et progénies timéntibus eum.</span>
+{:.stanza}
 
 <span class="hemistich">Fecit poténtiam in bráchio suo,</span>
 <span class="hemistich">dispérsit supérbos mente cordis sui;</span>
@@ -381,12 +428,14 @@ Orémus:
 <span class="hemistich">et exaltávit húmiles,</span>
 <span class="hemistich">esuriéntes implévit bonis</span>
 <span class="hemistich">et dívites dimísit inánes.</span>
+{:.stanza}
 
 <span class="hemistich">Suscépit Ísrael púerum suum,</span>
 <span class="hemistich">recordátus misericórdiae,</span>
 <span class="hemistich">sicut locútus est ad patres nostros,</span>
 <span class="hemistich">Abraham et sémini</span>
 <span class="hemistich">eius in sæcula</span>
+{:.stanza}
 
 <span class="hemistich">Glória Patri, et Filio,</span>
 <span class="hemistich">et Spirítui Sancto.</span>
@@ -394,12 +443,14 @@ Orémus:
 <span class="hemistich">et nunc et semper,</span>
 <span class="hemistich">et in sæcula sæculórum.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Bajo tu protección
+{:#or11}
 
 <span class="hemistich">Bajo tu amparo nos acogemos,</span>
 <span class="hemistich">Santa Madre de Dios;</span>
@@ -409,6 +460,7 @@ Orémus:
 <span class="hemistich">antes bien, líbranos siempre</span>
 <span class="hemistich">de todo peligro,</span>
 <span class="hemistich">¡Oh Virgen gloriosa y bendita!</span>
+{:.stanza}
 
 ### Sub tuum præsidium
 
@@ -420,12 +472,14 @@ Orémus:
 <span class="hemistich">sed a perículis cunctis</span>
 <span class="hemistich">libera nos semper,</span>
 <span class="hemistich">Virgo gloriósa et benedícta.</span>
+{:.stanza}
 
 </div>
 
 <div class="six-stanzas-two-cols" markdown="1">
 
 ### Benedictus
+{:#or12}
 
 <span class="hemistich">Bendito sea el Señor, Dios de Israel,</span>
 <span class="hemistich">porque ha visitado</span>
@@ -436,6 +490,7 @@ Orémus:
 <span class="hemistich">según lo había predicho</span>
 <span class="hemistich">desde antiguo</span>
 <span class="hemistich">por boca de sus santos Profetas.</span>
+{:.stanza}
 
 <span class="hemistich">Es la salvación que nos libra</span>
 <span class="hemistich">de nuestros enemigos</span>
@@ -446,6 +501,7 @@ Orémus:
 <span class="hemistich">recordando su santa alianza</span>
 <span class="hemistich">y el juramento que juró</span>
 <span class="hemistich">a nuestro padre Abrahán.</span>
+{:.stanza}
 
 <span class="hemistich">Para concedernos que,</span>
 <span class="hemistich">libres de temor,</span>
@@ -453,6 +509,7 @@ Orémus:
 <span class="hemistich">de los enemigos,</span>
 <span class="hemistich">le sirvamos con santidad y justicia,</span>
 <span class="hemistich">en su presencia, todos nuestros días.</span>
+{:.stanza}
 
 <span class="hemistich">Y a ti, niño,</span>
 <span class="hemistich">te llamarán profeta del Altísimo,</span>
@@ -460,6 +517,7 @@ Orémus:
 <span class="hemistich">a preparar sus caminos,</span>
 <span class="hemistich">anunciando a su pueblo la salvación,</span>
 <span class="hemistich">el perdón de sus pecados.</span>
+{:.stanza}
 
 <span class="hemistich">Por la entrañable misericordia</span>
 <span class="hemistich">de nuestro Dios,</span>
@@ -470,6 +528,7 @@ Orémus:
 <span class="hemistich">y en sombra de muerte,</span>
 <span class="hemistich">para guiar nuestros pasos</span>
 <span class="hemistich">por el camino de la paz.</span>
+{:.stanza}
 
 <span class="hemistich">Gloria al Padre, y al Hijo,</span>
 <span class="hemistich">y al Espíritu Santo.</span>
@@ -477,6 +536,7 @@ Orémus:
 <span class="hemistich">ahora y siempre,</span>
 <span class="hemistich">por los siglos de los siglos.</span>
 <span class="hemistich">Amén.</span>
+{:.stanza}
 
 ### Benedictus
 
@@ -489,6 +549,7 @@ Orémus:
 <span class="hemistich">sicut locútus</span>
 <span class="hemistich">est per os sanctórum,</span>
 <span class="hemistich">qui a sæcula sunt, prophetárum eius,</span>
+{:.stanza}
 
 <span class="hemistich">salútem ex inimícis nostris</span>
 <span class="hemistich">et de manu ónmium,</span>
@@ -499,6 +560,7 @@ Orémus:
 <span class="hemistich">sui sancti,</span>
 <span class="hemistich">iusiurándum, quod iurávit</span>
 <span class="hemistich">ad Abraham patrem nostrum,</span>
+{:.stanza}
 
 <span class="hemistich">datúrum se nobis,</span>
 <span class="hemistich">ut sine timóre,</span>
@@ -506,6 +568,7 @@ Orémus:
 <span class="hemistich">serviámus illi</span>
 <span class="hemistich">in sanctitáte et iustítia coram ipso</span>
 <span class="hemistich">ómnibus diébus nostris.</span>
+{:.stanza}
 
 <span class="hemistich">Et tu, puer,</span>
 <span class="hemistich">prophéta Altíssimi vocáberis:</span>
@@ -513,6 +576,7 @@ Orémus:
 <span class="hemistich">paráre vias eius,</span>
 <span class="hemistich">ad dandam sciéntiam salútis plebi eius</span>
 <span class="hemistich">in remissiónem peccatórum eórum,</span>
+{:.stanza}
 
 <span class="hemistich">Per víscera misericórdiae</span>
 <span class="hemistich">Dei nostri,</span>
@@ -523,6 +587,7 @@ Orémus:
 <span class="hemistich">et in umbra mortis sedent,</span>
 <span class="hemistich">ad dirigéndos pedes nostros</span>
 <span class="hemistich">in viam pacis.</span>
+{:.stanza}
 
 <span class="hemistich">Glória Patri, et Filio,</span>
 <span class="hemistich">et Spirítui Sancto.</span>
@@ -530,205 +595,261 @@ Orémus:
 <span class="hemistich">et nunc et semper,</span>
 <span class="hemistich">et in sæcula sæculórum.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="twenty-three-stanzas-two-cols" markdown="1">
 
 ### Te Deum
+{:#or13}
 
 <span class="hemistich">A ti, oh Dios, te alabamos,</span>
 <span class="hemistich">a ti, Señor, te reconocemos.</span>
+{:.stanza}
 
 <span class="hemistich">A ti, eterno Padre,</span>
 <span class="hemistich">te venera toda la creación.</span>
+{:.stanza}
 
 <span class="hemistich">Los ángeles todos,</span>
 <span class="hemistich">los cielos y todas las potestades te honran.</span>
+{:.stanza}
 
 <span class="hemistich">Los querubines y serafines</span>
 <span class="hemistich">te cantan sin cesar:</span>
+{:.stanza}
 
 <span class="hemistich">Santo, Santo, Santo es el Señor,</span>
 <span class="hemistich">Dios del universo.</span>
+{:.stanza}
 
 <span class="hemistich">Los cielos y la tierra</span>
 <span class="hemistich">están llenos de la majestad de tu gloria.</span>
+{:.stanza}
 
 <span class="hemistich">A ti te ensalza</span>
 <span class="hemistich">el glorioso coro de los Apóstoles,</span>
 <span class="hemistich">la multitud admirable de los Profetas,</span>
 <span class="hemistich">el blanco ejército de los mártires.</span>
+{:.stanza}
 
 <span class="hemistich">A ti la Iglesia santa,</span>
 <span class="hemistich">extendida por toda la tierra, te proclama:</span>
+{:.stanza}
 
 <span class="hemistich">Padre de inmensa majestad,</span>
 <span class="hemistich">Hijo único y verdadero, digno de adoración,</span>
 <span class="hemistich">Espíritu Santo, Defensor.</span>
+{:.stanza}
 
 <span class="hemistich">Tú eres el Rey de la gloria, Cristo.</span>
 <span class="hemistich">Tú eres el Hijo único del Padre.</span>
+{:.stanza}
 
 <span class="hemistich">Tú, para liberar al hombre,</span>
 <span class="hemistich">aceptaste la condición humana</span>
 <span class="hemistich">sin desdeñar el seno de la Virgen.</span>
+{:.stanza}
 
 <span class="hemistich">Tú, rotas las cadenas de la muerte,</span>
 <span class="hemistich">abriste a los creyentes el reino del cielo.</span>
+{:.stanza}
 
 <span class="hemistich">Tú te sientas a la derecha de Dios</span>
 <span class="hemistich">en la gloria del Padre.</span>
+{:.stanza}
 
 <span class="hemistich">Creemos que un día</span>
 <span class="hemistich">has de venir como juez.</span>
+{:.stanza}
 
 <span class="hemistich">Te rogamos, pues,</span>
 <span class="hemistich">que vengas en ayuda de tus siervos,</span>
 <span class="hemistich">a quienes redimiste con tu preciosa sangre.</span>
+{:.stanza}
 
 <span class="hemistich">Haz que en la gloria eterna</span>
 <span class="hemistich">nos asociemos a tus santos.</span>
+{:.stanza}
 
 <span class="hemistich">Salva a tu pueblo, Señor,</span>
 <span class="hemistich">y bendice tu heredad.</span>
+{:.stanza}
 
 <span class="hemistich">Sé su pastor</span>
 <span class="hemistich">y ensálzalo eternamente.</span>
+{:.stanza}
 
 <span class="hemistich">Día tras día te bendecimos</span>
 <span class="hemistich">y alabamos tu nombre para siempre,</span>
 <span class="hemistich">por eternidad de eternidades.</span>
+{:.stanza}
 
 <span class="hemistich">Dígnate, Señor, en este día</span>
 <span class="hemistich">guardarnos del pecado.</span>
+{:.stanza}
 
 <span class="hemistich">Ten piedad de nosotros, Señor,</span>
 <span class="hemistich">ten piedad de nosotros.</span>
+{:.stanza}
 
 <span class="hemistich">Que tu misericordia, Señor,</span>
 <span class="hemistich">venga sobre nosotros,<span class="hemistich">como lo esperamos de ti.</span>
+{:.stanza}
 
 <span class="hemistich">En ti, Señor, confié,</span>
 <span class="hemistich">no me veré defraudado para siempre.</span>
+{:.stanza}
 
 ### Te Deum
 
 <span class="hemistich">Te Deum laudámus:</span>
 <span class="hemistich">te Dóminum confitémur.</span>
+{:.stanza}
 
 <span class="hemistich">Te aetérnum Patrem,</span>
 <span class="hemistich">omnis terra venerátur.</span>
+{:.stanza}
 
 <span class="hemistich">tibi omnes ángeli, tibi caeli</span>
 <span class="hemistich">et univérse potestátes:</span>
+{:.stanza}
 
 <span class="hemistich">tibi chérubim et séraphim</span>
 <span class="hemistich">incessábili voce proclámant:</span>
+{:.stanza}
 
 <span class="hemistich">Sanctus, Sanctus, Sanctus,</span>
 <span class="hemistich">Dóminus Deus Sábaoth.</span>
+{:.stanza}
 
 <span class="hemistich">Pleni sunt caeli et tema</span>
 <span class="hemistich">maiestátis glóriae tuae.</span>
+{:.stanza}
 
 <span class="hemistich">Te gloriósus</span>
 <span class="hemistich">apostolórum chorus,</span>
 <span class="hemistich">te prophetárum laudábilis númerus,</span>
 <span class="hemistich">te mártyrum candidátus laudat exércitus.</span>
+{:.stanza}
 
 <span class="hemistich">Te per orbem terrárum</span>
 <span class="hemistich">sancta confitétur Ecclésia,</span>
+{:.stanza}
 
 <span class="hemistich">Patrem imménsae maiestátis;</span>
 <span class="hemistich">venerándum tuum verum et únicum Fílium; Sanctum quoque Paráclitum Spíritum.</span>
+{:.stanza}
 
 <span class="hemistich">Tu rex glóriae, Christe.</span>
 <span class="hemistich">Tu Patris sempitérnus es Fílius.</span>
+{:.stanza}
 
 <span class="hemistich">Tu, ad liberándum susceptúrus</span>
 <span class="hemistich">hóminem,</span>
 <span class="hemistich">non horruísti Vírginis úterum.</span>
+{:.stanza}
 
 <span class="hemistich">Tu, devícto mortis acúleo,</span>
 <span class="hemistich">aperuísti credéntibus regna caelórum.</span>
+{:.stanza}
 
 <span class="hemistich">Tu ad déxteram Dei sedes,</span>
 <span class="hemistich">in glória Patris.</span>
+{:.stanza}
 
 <span class="hemistich">Iudex créderis</span>
 <span class="hemistich">esse ventúrus.</span>
+{:.stanza}
 
 <span class="hemistich">Te ergo quaésumus,</span>
 <span class="hemistich">tuis fámulis súbveni, quos pretióso</span>
 <span class="hemistich">sánguine redemísti.</span>
+{:.stanza}
 
 <span class="hemistich">Ætérna fac cum sanctis tuis</span>
 <span class="hemistich">in glória numerári.</span>
+{:.stanza}
 
 <span class="hemistich">Salvum fac pópulum tuum, Dómine,</span>
 <span class="hemistich">et bénedic hereditáti tuae.</span>
+{:.stanza}
 
 <span class="hemistich">Et rege eos, et extólle illos</span>
 <span class="hemistich">usque in aetérnum.</span>
+{:.stanza}
 
 <span class="hemistich">Per síngulos dies benedícimus te;</span>
 <span class="hemistich">et laudámus nomen tuum</span>
 <span class="hemistich">in sæculum, et in sæculum sæculi.</span>
+{:.stanza}
 
 <span class="hemistich">Dignáre, Dómine,</span>
 <span class="hemistich">die isto sine peccáto nos custodíre.</span>
+{:.stanza}
 
 <span class="hemistich">Miserére nostri, Dómine,</span>
 <span class="hemistich">miserére nostri.</span>
+{:.stanza}
 
 <span class="hemistich">Fiat misericórdia tua,</span>
 <span class="hemistich">Dómine, super nos,</span>
 <span class="hemistich">quemádmodum sperávimus in te.</span>
+{:.stanza}
 
 <span class="hemistich">In te, Dómine, sperávi:</span>
 <span class="hemistich">non confúndar in aetérnum.</span>
+{:.stanza}
 
 </div>
 
 <div class="seven-stanzas-two-cols" markdown="1">
 
 ### Veni Creator
+{:#or14}
 
 <span class="hemistich">Ven, Espíritu Creador,</span>
 <span class="hemistich">visita las almas de tus fieles</span>
 <span class="hemistich">llena con tu divina gracia,</span>
 <span class="hemistich">los corazones que creaste.</span>
+{:.stanza}
 
 <span class="hemistich">Tú, a quien llamamos Paráclito,</span>
 <span class="hemistich">don de Dios Altísimo,</span>
 <span class="hemistich">fuente viva, fuego,</span>
 <span class="hemistich">caridad y espiritual unción.</span>
+{:.stanza}
 
 <span class="hemistich">Tú derramas sobre nosotros los siete dones;</span>
 <span class="hemistich">Tú, dedo de la diestra del Padre;</span>
 <span class="hemistich">Tú, fiel promesa del Padre;</span>
 <span class="hemistich">que inspiras nuestras palabras.</span>
+{:.stanza}
 
 <span class="hemistich">Ilumina nuestros sentidos;</span>
 <span class="hemistich">infunde tu amor en nuestros corazones;</span>
 <span class="hemistich">y, con tu perpetuo auxilio,</span>
 <span class="hemistich">fortalece la debilidad de nuestro cuerpo.</span>
+{:.stanza}
 
 <span class="hemistich">Aleja de nosotros al enemigo,</span>
 <span class="hemistich">danos pronto la paz,</span>
 <span class="hemistich">sé nuestro director y nuestro guía,</span>
 <span class="hemistich">para que evitemos todo mal.</span>
+{:.stanza}
 
 <span class="hemistich">Por ti conozcamos al Padre,</span>
 <span class="hemistich">al Hijo revélanos también;</span>
 <span class="hemistich">Creamos en ti, su Espíritu,</span>
 <span class="hemistich">por los siglos de los siglos</span>
+{:.stanza}
 
 <span class="hemistich">Gloria a Dios Padre,</span>
 <span class="hemistich">y al Hijo que resucitó,</span>
 <span class="hemistich">y al Espíritu Consolador,</span>
 <span class="hemistich">por los siglos de los siglos. Amén.</span>
+{:.stanza}
 
 ### Veni, Creator Spiritus
 
@@ -736,42 +857,50 @@ Orémus:
 <span class="hemistich">mentes tuórum vísita,</span>
 <span class="hemistich">imple supérna grátia,</span>
 <span class="hemistich">quæ tu creásti péctora.</span>
+{:.stanza}
 
 <span class="hemistich">Qui díceris Paráclitus,</span>
 <span class="hemistich">altíssimi donum Dei,</span>
 <span class="hemistich">fons vivus, ignis, cáritas,</span>
 <span class="hemistich">et spiritális únctio.</span>
+{:.stanza}
 
 <span class="hemistich">Tu septifórmis múnere,</span>
 <span class="hemistich">dígitus patérnae déxterae,</span>
 <span class="hemistich">tu rite promíssum Patris,</span>
 <span class="hemistich">sermóne ditans gúttura.</span>
+{:.stanza}
 
 <span class="hemistich">Accénde lumen sénsibus,</span>
 <span class="hemistich">infúnde amórem córdibus,</span>
 <span class="hemistich">infírma nostri córporis</span>
 <span class="hemistich">virtúte firmans pérpeti.</span>
+{:.stanza}
 
 <span class="hemistich">Hostem repéllas lóngius</span>
 <span class="hemistich">pacémque dones prótinus;</span>
 <span class="hemistich">ductóre sic te praévio</span>
 <span class="hemistich">vitémus omne nóxium.</span>
+{:.stanza}
 
 <span class="hemistich">Per Te sciámus da Patrem</span>
 <span class="hemistich">noscámus atque Fílium,</span>
 <span class="hemistich">teque utriúsque Spíritum</span>
 <span class="hemistich">Credámus omni témpore.</span>
+{:.stanza}
 
 <span class="hemistich">Deo Patri sit glória,</span>
 <span class="hemistich">et Fílio, qui a mórtuis surréxit,</span>
 <span class="hemistich">ac Paráclito,</span>
 <span class="hemistich">in sæculórum sæcula. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="five-stanzas-two-cols" markdown="1">
 
-### Ven Santo Espíritu
+### Ven, Santo Espíritu
+{:#or15}
 
 <span class="hemistich">Ven, Espíritu divino,</span>
 <span class="hemistich">manda tu luz desde el cielo.</span>
@@ -779,6 +908,7 @@ Orémus:
 <span class="hemistich">don, en tus dones espléndido;</span>
 <span class="hemistich">luz que penetra las almas;</span>
 <span class="hemistich">fuente del mayor consuelo.</span>
+{:.stanza}
 
 <span class="hemistich">Ven, dulce huésped del alma,</span>
 <span class="hemistich">descanso de nuestro esfuerzo,</span>
@@ -786,6 +916,7 @@ Orémus:
 <span class="hemistich">brisa en las horas de fuego,</span>
 <span class="hemistich">gozo que enjuga las lágrimas</span>
 <span class="hemistich">y reconforta en los duelos.</span>
+{:.stanza}
 
 <span class="hemistich">Entra hasta el fondo del alma,</span>
 <span class="hemistich">divina luz, y enriquécenos.</span>
@@ -793,6 +924,7 @@ Orémus:
 <span class="hemistich">si tú le faltas por dentro;</span>
 <span class="hemistich">mira el poder del pecado,</span>
 <span class="hemistich">cuando no envías tu aliento.</span>
+{:.stanza}
 
 <span class="hemistich">Riega la tierra en sequía,</span>
 <span class="hemistich">sana el corazón enfermo,</span>
@@ -800,6 +932,7 @@ Orémus:
 <span class="hemistich">infunde calor de vida en el hielo,</span>
 <span class="hemistich">doma el espíritu indómito,</span>
 <span class="hemistich">guía al que tuerce el sendero.</span>
+{:.stanza}
 
 <span class="hemistich">Reparte tus siete dones,</span>
 <span class="hemistich">según la fe de tus siervos;</span>
@@ -807,6 +940,7 @@ Orémus:
 <span class="hemistich">dale al esfuerzo su mérito;</span>
 <span class="hemistich">salva al que busca salvarse</span>
 <span class="hemistich">y danos tu gozo eterno. Amén.</span>
+{:.stanza}
 
 ### Veni, Sancte Spiritus
 
@@ -816,6 +950,7 @@ Orémus:
 <span class="hemistich">Veni, pater páuperum,</span>
 <span class="hemistich">veni, dator múnerum,</span>
 <span class="hemistich">veni, lumen córdium.</span>
+{:.stanza}
 
 <span class="hemistich">Consolátor óptime,</span>
 <span class="hemistich">dulcis hospes ánimæ,</span>
@@ -823,6 +958,7 @@ Orémus:
 <span class="hemistich">In labóre réquies,</span>
 <span class="hemistich">in æstu tempéries,</span>
 <span class="hemistich">in fletu solácium.</span>
+{:.stanza}
 
 <span class="hemistich">O lux beatíssima,</span>
 <span class="hemistich">reple cordis íntima</span>
@@ -830,6 +966,7 @@ Orémus:
 <span class="hemistich">Sine tuo númine,</span>
 <span class="hemistich">nihil est in hómine</span>
 <span class="hemistich">nihil est innóxium.</span>
+{:.stanza}
 
 <span class="hemistich">Lava quod est sórdidum,</span>
 <span class="hemistich">riga quod est áridum,</span>
@@ -837,6 +974,7 @@ Orémus:
 <span class="hemistich">Flecte quod est rígidum,</span>
 <span class="hemistich">fove quod est frígidum,</span>
 <span class="hemistich">rege quod est dévium.</span>
+{:.stanza}
 
 <span class="hemistich">Da tuis fidélibus,</span>
 <span class="hemistich">in te confidéntibus,</span>
@@ -844,12 +982,14 @@ Orémus:
 <span class="hemistich">Da virtútis méritum,</span>
 <span class="hemistich">da salútis éxitum,</span>
 <span class="hemistich">da perénne gáudium. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Alma de Cristo
+{:#or16}
 
 <span class="hemistich">Alma de Cristo, santifícame.</span>
 <span class="hemistich">Cuerpo de Cristo, sálvame.</span>
@@ -864,6 +1004,7 @@ Orémus:
 <span class="hemistich">Y mándame ir a Ti.</span>
 <span class="hemistich">Para que con tus santos te alabe.</span>
 <span class="hemistich">Por los siglos de los siglos. Amén</span>
+{:.stanza}
 
 ### Anima Christi
 
@@ -880,12 +1021,14 @@ Orémus:
 <span class="hemistich">Et iube me veníre ad te,</span>
 <span class="hemistich">ut cum Sanctis tuis laudem te</span>
 <span class="hemistich">in sæcula sæculórum. Amen</span>
+{:.stanza}
 
 </div>
 
 <div class="one-stanza-two-cols" markdown="1">
 
 ### Acordaos
+{:#or17}
 
 <span class="hemistich">Acordaos,</span>
 <span class="hemistich">oh piadosísima Virgen María,</span>
@@ -906,6 +1049,7 @@ Orémus:
 <span class="hemistich">oh Madre del Verbo divino,</span>
 <span class="hemistich">antes bien, escúchalas</span>
 <span class="hemistich">y acógelas benignamente. Amén.</span>
+{:.stanza}
 
 ### Memorare
 
@@ -926,12 +1070,14 @@ Orémus:
 <span class="hemistich">verba mea despícere;</span>
 <span class="hemistich">sed áudi propítia et exáudi.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="fourteen-stanzas-two-cols" markdown="1">
 
 ### Rosario
+{:#or18}
 
 #### *Misterios gozosos (lunes y sábado)*
 
@@ -970,6 +1116,7 @@ Orémus:
 <span class="hemistich">Ruega por nosotros,</span>
 <span class="hemistich">Santa Madre de Dios,</span>
 <span class="hemistich">para que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo.</span>
+{:.stanza}
 
 #### *Oremos:*
 
@@ -984,6 +1131,7 @@ Orémus:
 <span class="hemistich">imitemos lo que contienen</span>
 <span class="hemistich">y consigamos lo que nos prometen.</span>
 <span class="hemistich">Por Jesucristo, nuestro Señor. Amén.</span>
+{:.stanza}
 
 #### *Oremos (tradición española):*
 
@@ -994,6 +1142,7 @@ Orémus:
 <span class="hemistich">de la bienaventurada siempre Virgen María, seamos librados de las tristezas presentes</span>
 <span class="hemistich">y gocemos de la eterna alegría.</span>
 <span class="hemistich">Por Jesucristo, nuestro Señor. Amén.</span>
+{:.stanza}
 
 ### Rosarium
 
@@ -1036,8 +1185,9 @@ Orémus:
 <span class="hemistich">sancta Dei génetrix.</span>
 <span class="hemistich">Ut digni efficiámur</span>
 <span class="hemistich">promissiónibus Christi.</span>
+{:.stanza}
 
-#### *Orémus:*
+#### [*Orémus*](https://www.youtube.com/shorts/U4qsO49zN2g):
 
 <span class="hemistich">Deus,</span>
 <span class="hemistich">cuius Unigénitus per vitam,</span>
@@ -1051,32 +1201,39 @@ Orémus:
 <span class="hemistich">et imitémur quod cóntinent,</span>
 <span class="hemistich">et quod promíttunt assequámur.</span>
 <span class="hemistich">Per Christum Dóminum nostrum. Amen.</span>
+{:.stanza}
 
 </div>
 
 ### Oración del incienso (Tradición copta)
+{:#or19}
 
 <span class="hemistich">Oh Rey de la Paz, danos tu Paz</span>
 <span class="hemistich">y perdona nuestros pecados.</span>
 <span class="hemistich">Aleja a los enemigos de la Iglesia</span>
 <span class="hemistich">y guárdala, para que no desfallezca.</span>
+{:.stanza}
 
 <span class="hemistich">Emmanuel, Dios con nosotros,</span>
 <span class="hemistich">está entre nosotros</span>
 <span class="hemistich">en la gloria del Padre</span>
 <span class="hemistich">y del Espíritu Santo</span>
+{:.stanza}
 
 <span class="hemistich">Bendícenos</span>
 <span class="hemistich">y purifica nuestro corazón</span>
 <span class="hemistich">y sana las enfermedades</span>
 <span class="hemistich">del alma y del cuerpo.</span>
+{:.stanza}
 
 <span class="hemistich">Te adoramos, oh Cristo,</span>
 <span class="hemistich">con el Padre de bondad</span>
 <span class="hemistich">y con el Espíritu Santo,</span>
 <span class="hemistich">porque has venido, nos has salvado.</span>
+{:.stanza}
 
 ### Oración de «Adiós al Altar», antes de salir del templo después de la liturgia (Tradición siro-maronita)
+{:#or20}
 
 <span class="hemistich">Queda en paz, oh Altar de Dios.</span>
 <span class="hemistich">La oblación que hoy he ofrecido sobre ti,</span>
@@ -1085,6 +1242,7 @@ Orémus:
 <span class="hemistich">y me alcance estar</span>
 <span class="hemistich">ante el tribunal de Cristo</span>
 <span class="hemistich">sin condena y sin confusión.</span>
+{:.stanza}
 
 <span class="hemistich">No sé si se me concederá</span>
 <span class="hemistich">volver a ofrecer sobre ti</span>
@@ -1093,8 +1251,10 @@ Orémus:
 <span class="hemistich">y conserva a tu Santa Iglesia,</span>
 <span class="hemistich">que es camino de verdad</span>
 <span class="hemistich">y de salvación. Amén</span>
+{:.stanza}
 
 ### Oración por los difuntos (Tradición bizantina)
+{:#or21}
 
 <span class="hemistich">Dios de los espíritus y de toda carne,</span>
 <span class="hemistich">que sepultaste la muerte,</span>
@@ -1106,6 +1266,7 @@ Orémus:
 <span class="hemistich">en un oasis, en un lugar de frescura,</span>
 <span class="hemistich">lejos de todo sufrimiento,</span>
 <span class="hemistich">dolor o lamento.</span>
+{:.stanza}
 
 <span class="hemistich">Perdona las culpas por él cometidas</span>
 <span class="hemistich">de pensamiento, palabra y obra,</span>
@@ -1115,20 +1276,24 @@ Orémus:
 <span class="hemistich">ya que Tú sólo eres Perfecto</span>
 <span class="hemistich">y tu Justicia es justicia eterna</span>
 <span class="hemistich">y tu Palabra es la Verdad.</span>
+{:.stanza}
 
 <span class="hemistich">Tú eres la Resurrección,</span>
 <span class="hemistich">la Vida y el descanso del difunto,</span>
 <span class="hemistich">tu siervo [*NOMBRE*]</span>
+{:.stanza}
 
 <span class="hemistich">Oh Cristo Dios nuestro.</span>
 <span class="hemistich">Te glorificamos junto con el Padre</span>
 <span class="hemistich">no engendrado</span>
 <span class="hemistich">y con tu santísimo, bueno</span>
 <span class="hemistich">y vivificante Espíritu.</span>
+{:.stanza}
 
 <div class="three-stanzas-two-cols" markdown="1">
 
 ### Acto de Fe
+{:#or22}
 
 <span class="hemistich">Señor Dios, creo firmemente</span>
 <span class="hemistich">y confieso todas y cada una de las verdades</span>
@@ -1138,8 +1303,10 @@ Orémus:
 <span class="hemistich">ni nos puede engañar.</span>
 <span class="hemistich">Quiero vivir y morir en esta fe.</span>
 <span class="hemistich">Amén.</span>
+{:.stanza}
 
 ### Acto de Fe (tradición española)
+{:#or23}
 
 <span class="hemistich">Creo en Dios Padre;</span>
 <span class="hemistich">Creo en Dios Hijo;</span>
@@ -1147,6 +1314,7 @@ Orémus:
 <span class="hemistich">Creo en la Santísima Trinidad;</span>
 <span class="hemistich">Creo en mi Señor Jesucristo,</span>
 <span class="hemistich">Dios y hombre verdadero.</span>
+{:.stanza}
 
 ### Actus Fidei
 
@@ -1159,12 +1327,14 @@ Orémus:
 <span class="hemistich">nec fallí potest.</span>
 <span class="hemistich">In hac fide vívere et mori státuo.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="three-stanzas-two-cols" markdown="1">
 
 ### Acto de Esperanza
+{:#or24}
 
 <span class="hemistich">Señor Dios mío, espero por tu gracia</span>
 <span class="hemistich">la remisión de todos mis pecados;</span>
@@ -1174,8 +1344,10 @@ Orémus:
 <span class="hemistich">infinitamente poderoso,</span>
 <span class="hemistich">fiel, benigno y lleno de misericordia.</span>
 <span class="hemistich">Quiero vivir y morir en esta esperanza. Amén.</span>
+{:.stanza}
 
 ### Acto de Esperanza (tradición española)
+{:#or25}
 
 <span class="hemistich">Espero en Dios Padre;</span>
 <span class="hemistich">Espero en Dios Hijo;</span>
@@ -1183,6 +1355,7 @@ Orémus:
 <span class="hemistich">Espero en la Santísima Trinidad;</span>
 <span class="hemistich">Espero en mi Señor Jesucristo,</span>
 <span class="hemistich">Dios y hombre verdadero.</span>
+{:.stanza}
 
 ### Actus Spei
 
@@ -1194,12 +1367,14 @@ Orémus:
 <span class="hemistich">quia tu promisísti, qui es infiníte</span>
 <span class="hemistich">potens, fidélis, benígnus, et miséricors.</span>
 <span class="hemistich">In hac spe vívere et mori státuo. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="three-stanzas-two-cols" markdown="1">
 
-### Acto de caridad
+### Acto de Caridad
+{:#or26}
 
 <span class="hemistich">Dios mío, te amo sobre todas las cosas</span>
 <span class="hemistich">y al prójimo por ti,</span>
@@ -1207,8 +1382,10 @@ Orémus:
 <span class="hemistich">sumo y perfecto Bien,</span>
 <span class="hemistich">digno de todo amor.</span>
 <span class="hemistich">Quiero vivir y morir en este amor. Amén.</span>
+{:.stanza}
 
 ### Acto de Caridad (tradición española)
+{:#or27}
 
 <span class="hemistich">Amo a Dios Padre;</span>
 <span class="hemistich">Amo a Dios Hijo;</span>
@@ -1219,6 +1396,7 @@ Orémus:
 <span class="hemistich">Amo a María santísima, madre de Dios</span>
 <span class="hemistich">y madre nuestra y amo a mi prójimo</span>
 <span class="hemistich">como a mí mismo.</span>
+{:.stanza}
 
 ### Actus caritatis
 
@@ -1228,12 +1406,14 @@ Orémus:
 <span class="hemistich">et perfectíssimum bonum,</span>
 <span class="hemistich">omni dilectióne dignum.</span>
 <span class="hemistich">In hac caritáte vívere et mori státuo. Amen.</span>
+{:.stanza}
 
 </div>
 
 <div class="three-stanzas-two-cols" markdown="1">
 
 ### Acto de Contrición
+{:#or28}
 
 <span class="hemistich">Dios mío,</span>
 <span class="hemistich">me arrepiento de todo corazón</span>
@@ -1250,15 +1430,22 @@ Orémus:
 <span class="hemistich">no pecar más en adelante</span>
 <span class="hemistich">y huir de toda ocasión de pecado.</span>
 <span class="hemistich">Amén.</span>
+{:.stanza}
 
 ### Acto de Contrición (tradición española)
+{:#or29}
 
-<span class="hemistich">Señor mío Jesucristo, Dios y hombre verdadero, Creador, Padre y Redentor mío.</span>
+<span class="hemistich">Señor mío Jesucristo, Dios y hombre verdadero,</span>
+<span class="hemistich">Creador, Padre y Redentor mío.</span>
 <span class="hemistich">Por ser tú quien eres, Bondad infinita,</span>
 <span class="hemistich">y porque te amo sobre todas las cosas,</span>
-<span class="hemistich">me pesa de todo corazón haberte ofendido. También me pesa que puedas castigarme</span>
+<span class="hemistich">me pesa de todo corazón haberte ofendido.</span>
+<span class="hemistich">También me pesa que puedas castigarme</span>
 <span class="hemistich">con las penas del infierno.</span>
-<span class="hemistich">Ayudado de tu divina gracia propongo firmemente nunca más pecar, confesarme y cumplir la penitencia que me fuera impuesta. Amén.</span>
+<span class="hemistich">Ayudado de tu divina gracia</span>
+<span class="hemistich">propongo firmemente nunca más pecar, confesarme</span>
+<span class="hemistich">y cumplir la penitencia que me fuera impuesta. Amén.</span>
+{:.stanza}
 
 ### Actus Contritionis
 
@@ -1277,6 +1464,7 @@ Orémus:
 <span class="hemistich">de cétero me non peccatúrum</span>
 <span class="hemistich">peccandíque occasiónes próximas fugitúrum.</span>
 <span class="hemistich">Amen.</span>
+{:.stanza}
 
 </div>
 
@@ -1284,15 +1472,18 @@ Orémus:
 {:#s2}
 
 ### El Doble Mandamiento del Amor (Mt [22, 37]({{ "biblia-straubinger/mateo#c22-v37" | relative_url }})-40; Mc [12, 29]({{ "biblia-straubinger/marcos#c12-v29" | relative_url }})-31)
+{:#f1}
 
 Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente.
 Amarás al prójimo como a ti mismo.
 
 ### Regla de Oro (Mt [7, 12]({{ "biblia-straubinger/mateo#c7-v12" | relative_url }}))
+{:#f2}
 
 Tratad a los demás como queráis que ellos os traten a vosotros.
 
 ### Bienaventuranzas (Mt [5, 3]({{ "biblia-straubinger/mateo#c5-v3" | relative_url }})-11)
+{:#f3}
 
 1. Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los cielos.
 2. Bienaventurados los mansos, porque ellos poseerán la tierra.
@@ -1305,12 +1496,14 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 9. Bienaventurados seréis cuando os injurien, os persigan y digan contra vosotros toda clase de calumnias por mi causa. Alegraos y regocijaos porque vuestra recompensa será grande en el cielo.
 
 ### Las Tres Virtudes Teologales (1 Co [13, 13]({{ "biblia-straubinger/1-corintios#c13-v13" | relative_url }}))
+{:#f4}
 
 1. Fe
 2. Esperanza
 3. Caridad
 
 ### Las Cuatro Virtudes Cardinales (Sab [8, 7]({{ "biblia-straubinger/sabiduria#c8-v7" | relative_url }})))
+{:#f5}
 
 1. Prudencia
 2. Justicia
@@ -1318,6 +1511,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 4. Templanza
 
 ### Los Siete Dones del Espíritu Santo (Is [11, 2]({{ "biblia-straubinger/isaias#c11-v2" | relative_url }}), según la Vulgata)
+{:#f6}
 
 1. Sabiduría
 2. Entendimiento
@@ -1328,6 +1522,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 7. Temor de Dios
 
 ### Los Doce Frutos del Espíritu Santo (Ga [5, 22]({{ "biblia-straubinger/galatas#c5-v22" | relative_url }})-23, según la Vulgata)
+{:#f7}
 
 1. Amor
 2. Alegría
@@ -1343,6 +1538,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 12. Castidad
 
 ### Los Cinco Mandamientos de la Iglesia
+{:#f8}
 
 1. Oír misa entera todos los domingos y fiestas de guardar.
 2. Confesar los pecados mortales al menos una vez al año, y en peligro de muerte, y si se ha de comulgar.
@@ -1351,6 +1547,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 5. Ayudar a la Iglesia en sus necesidades.
 
 ### Las Siete Obras de Misericordia Corporales
+{:#f9}
 
 1. Visitar y cuidar a los enfermos.
 2. Dar de comer al hambriento.
@@ -1361,6 +1558,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 7. Enterrar a los muertos.
 
 ### Las Siete Obras de Misericordia Espirituales
+{:#f10}
 
 1. Enseñar al que no sabe.
 2. Dar buen consejo al que lo necesita.
@@ -1371,6 +1569,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 7. Rogar a Dios por vivos y difuntos.
 
 ### Los Siete Pecados Capitales
+{:#f11}
 
 1. Soberbia
 2. Avaricia
@@ -1381,6 +1580,7 @@ Tratad a los demás como queráis que ellos os traten a vosotros.
 7. Pereza
 
 ### Los Novísimos
+{:#f12}
 
 1. Muerte
 2. Juicio

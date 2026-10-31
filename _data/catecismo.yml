@@ -4,7 +4,7 @@ contenido:
     enlace: laetamur-magnopere
   - encabezado: Constitución Apostólica <i>Fidei Depositum</i>
     enlace: fidei-depositum
-  - encabezado: Prólogo (1-25)
+  - encabezado: PRÓLOGO (1-25)
     enlace: catecismo/prologo#
     sublista: # numerales romanos:
       - encabezado: "I. La vida del hombre: conocer y amar a Dios"
@@ -16,7 +16,7 @@ contenido:
       - encabezado: IV. La estructura del Catecismo de la Iglesia Católica
         enlace: catecismo/prologo#p-r4
         sublista:
-          - encabezado: "Primera parte: la profesión de la fe"
+          - encabezado: "Primera parte: La profesión de la fe"
             enlace: catecismo/prologo#p-r4-s1
           - encabezado: "Segunda parte: Los sacramentos de la fe"
             enlace: catecismo/prologo#p-r4-s2
@@ -28,13 +28,13 @@ contenido:
         enlace: catecismo/prologo#p-r5
       - encabezado: VI. Las necesarias adaptaciones
         enlace: catecismo/prologo#p-r6
-  - encabezado: "Primera parte: La profesión de la Fe"
+  - encabezado: "PARTE I: LA PROFESIÓN DE LA FE"
     enlace: catecismo/p1#
     sublista:
-      - encabezado: "Primera sección: «Creo» - «Creemos» (26)"
+      - encabezado: "PARTE I, SECCIÓN I: «CREO» - «CREEMOS» (26)"
         enlace: catecismo/p1#s1
         sublista:
-          - encabezado: "Capítulo primero: El hombre es «capaz» de Dios (27-49)"
+          - encabezado: "PARTE I, SECCIÓN I, CAPÍTULO 1: EL HOMBRE ES «CAPAZ» DE DIOS (27-49)"
             enlace: catecismo/p1-s1-c1#
             sublista: # numerales romanos:
               - encabezado: I. El deseo de Dios
@@ -47,7 +47,7 @@ contenido:
                 enlace: catecismo/p1-s1-c1#t4
               - encabezado: Resumen
                 enlace: catecismo/p1-s1-c1#t5
-          - encabezado: "Capítulo segundo: Dios al encuentro del hombre (50-141)"
+          - encabezado: "PARTE I, SECCIÓN I, CAPÍTULO 2: DIOS AL ENCUENTRO DEL HOMBRE (50-141)"
             enlace: catecismo/p1-s1-c2#
             sublista:
               - encabezado: "Artículo 1: La Revelación de Dios"
@@ -134,7 +134,7 @@ contenido:
                     enlace: catecismo/p1-s1-c2#a3-t5
                   - encabezado: Resumen
                     enlace: catecismo/p1-s1-c2#a3-t6
-          - encabezado: "Capítulo tercero: La respuesta del hombre a Dios (142-184)"
+          - encabezado: "PARTE I, SECCIÓN I, CAPÍTULO 3: LA RESPUESTA DEL HOMBRE A DIOS (142-184)"
             enlace: catecismo/p1-s1-c3#
             sublista:
               - encabezado: "Artículo 1: Creo"
@@ -186,12 +186,12 @@ contenido:
                     enlace: catecismo/p1-s1-c3#a2-t4
                   - encabezado: El Credo
                     enlace: catecismo/p1-s1-c3#a2-t5
-      - encabezado: "Segunda sección: La profesión de la Fe Cristiana"
+      - encabezado: "PARTE I, SECCIÓN II: LA PROFESIÓN DE LA FE CRISTIANA"
         enlace: catecismo/p1#s2
         sublista:
           - encabezado: "Los Símbolos de la Fe (185-197)"
             enlace: catecismo/p1#s2-t1
-          - encabezado: "Capítulo primero: Creo en Dios Padre (198-421)"
+          - encabezado: "PARTE I, SECCIÓN II, CAPÍTULO 1: CREO EN DIOS PADRE (198-421)"
             enlace: catecismo/p1-s2-c1#
             sublista:
               - encabezado: "Artículo 1: «Creo en Dios, Padre todopoderoso, creador del cielo y de la tierra»"
@@ -354,7 +354,7 @@ contenido:
                         enlace: catecismo/p1-s2-c1#a1-p7-t4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c1#a1-p7-t5
-          - encabezado: "Capítulo segundo: Creo en Jesucristo, Hijo único de Dios (422-682)"
+          - encabezado: "PARTE I, SECCIÓN II, CAPÍTULO 2: CREO EN JESUCRISTO, HIJO ÚNICO DE DIOS (422-682)"
             enlace: catecismo/p1-s2-c2#
             sublista:
               - encabezado: "La Buena Nueva: Dios ha enviado a su Hijo"
@@ -401,7 +401,7 @@ contenido:
                             enlace: catecismo/p1-s2-c2#a3-p1-t4-s4
                       - encabezado: Resumen
                         enlace: catecismo/p1-s2-c2#a3-p1-t5
-                  - encabezado: "Párrafo 2: «…Concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen»"
+                  - encabezado: "Párrafo 2: «... Concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen»"
                     enlace: catecismo/p1-s2-c2#a3-p2
                     sublista: # numerales romanos:
                       - encabezado: I. Concebido por obra y gracia del Espíritu Santo…
@@ -591,7 +591,7 @@ contenido:
                     enlace: catecismo/p1-s2-c2#a7-t2
                   - encabezado: Resumen
                     enlace: catecismo/p1-s2-c2#a7-t3
-          - encabezado: "Capítulo tercero: Creo en el Espíritu Santo (683-1065)"
+          - encabezado: "PARTE I, SECCIÓN II, CAPÍTULO 3: CREO EN EL ESPÍRITU SANTO (683-1065)"
             enlace: catecismo/p1-s2-c3#
             sublista:
               - encabezado: "Artículo 8: «Creo en el Espíritu Santo»"
@@ -870,7 +870,7 @@ contenido:
                     enlace: catecismo/p1-s2-c3#a12-t7
                   - encabezado: «Amén»
                     enlace: catecismo/p1-s2-c3#a12-t8
-  - encabezado: "Segunda parte: La celebración del Misterio Cristiano (1066-1075)"
+  - encabezado: "PARTE II: LA CELEBRACIÓN DEL MISTERIO CRISTIANO (1066-1075)"
     enlace: catecismo/p2#
     sublista:
       - encabezado: Razón de ser de la Liturgia (1066-1068)
@@ -883,10 +883,10 @@ contenido:
         enlace: catecismo/p2#t4
       - encabezado: Catequesis y Liturgia (1074-1075)
         enlace: catecismo/p2#t5
-      - encabezado: "Primera sección: La Economía Sacramental (1076)"
+      - encabezado: "PARTE II, SECCIÓN I: LA ECONOMÍA SACRAMENTAL (1076)"
         enlace: catecismo/p2#s1
         sublista:
-          - encabezado: "Capítulo primero: El Misterio Pascual en el tiempo de la Iglesia (1077-1134)"
+          - encabezado: "PARTE II, SECCIÓN I, CAPÍTULO 1: EL MISTERIO PASCUAL EN EL TIEMPO DE LA IGLESIA (1077-1134)"
             enlace: catecismo/p2-s1-c1#
             sublista:
               - encabezado: "Artículo 1: La Liturgia, obra de la Santísima Trinidad"
@@ -933,7 +933,7 @@ contenido:
                     enlace: catecismo/p2-s1-c1#a2-t5
                   - encabezado: Resumen
                     enlace: catecismo/p2-s1-c1#a2-t6
-          - encabezado: "Capítulo segundo: La celebración sacramental del Misterio Pascual (1135-1209)"
+          - encabezado: "PARTE II, SECCIÓN I, CAPÍTULO 2: LA CELEBRACIÓN SACRAMENTAL DEL MISTERIO PASCUAL (1135-1209)"
             enlace: catecismo/p2-s1-c2#
             sublista:
               - encabezado: "Artículo 1: Celebrar la Liturgia de la Iglesia"
@@ -983,10 +983,10 @@ contenido:
                     enlace: catecismo/p2-s1-c2#a2-t2
                   - encabezado: Resumen
                     enlace: catecismo/p2-s1-c2#a2-t3
-      - encabezado: "Segunda sección: «Los siete sacramentos de la Iglesia» (1210-1211)"
+      - encabezado: "PARTE II, SECCIÓN II: «LOS SIETE SACRAMENTOS DE LA IGLESIA» (1210-1211)"
         enlace: catecismo/p2#s2
         sublista:
-          - encabezado: "Capítulo primero: Los sacramentos del la iniciación cristiana (1212-1419)"
+          - encabezado: "PARTE II, SECCIÓN II, CAPÍTULO 1: LOS SACRAMENTOS DEL LA INICIACIÓN CRISTIANA (1212-1419)"
             enlace: catecismo/p2-s2-c1#
             sublista:
               - encabezado: "Artículo 1: El sacramento del Bautismo"
@@ -1102,7 +1102,7 @@ contenido:
                     enlace: catecismo/p2-s2-c1#a3-t7
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c1#a3-t8
-          - encabezado: "Capítulo segundo: Los sacramentos de curación (1420-1532)"
+          - encabezado: "PARTE II, SECCIÓN II, CAPÍTULO 2: LOS SACRAMENTOS DE CURACIÓN (1420-1532)"
             enlace: catecismo/p2-s2-c2#
             sublista:
               - encabezado: "Artículo 4: El sacramento de la Penitencia y de la Reconciliación"
@@ -1186,7 +1186,7 @@ contenido:
                     enlace: catecismo/p2-s2-c2#a5-t5
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c2#a5-t6
-          - encabezado: "Capítulo tercero: Los sacramentos al servicio de la comunidad (1533-1666)"
+          - encabezado: "PARTE II, SECCIÓN II, CAPÍTULO 3: LOS SACRAMENTOS AL SERVICIO DE LA COMUNIDAD (1533-1666)"
             enlace: catecismo/p2-s2-c3#
             sublista:
               - encabezado: "Artículo 6: El sacramento del Orden"
@@ -1274,7 +1274,7 @@ contenido:
                     enlace: catecismo/p2-s2-c3#a7-t6
                   - encabezado: Resumen
                     enlace: catecismo/p2-s2-c3#a7-t7
-          - encabezado: "Capítulo cuarto: Otras celebraciones litúrgicas (1667-1690)"
+          - encabezado: "PARTE II, SECCIÓN II, CAPÍTULO 4: OTRAS CELEBRACIONES LITÚRGICAS (1667-1690)"
             enlace: catecismo/p2-s2-c4#
             sublista:
               - encabezado: "Artículo 1: Los sacramentales"
@@ -1295,13 +1295,13 @@ contenido:
                     enlace: catecismo/p2-s2-c4#a2-t1
                   - encabezado: II. La celebración de las exequias
                     enlace: catecismo/p2-s2-c4#a2-t2
-  - encabezado: "Tercera parte: La vida en Cristo (1691-1698)"
+  - encabezado: "PARTE III: LA VIDA EN CRISTO (1691-1698)"
     enlace: catecismo/p3#
     sublista:
-      - encabezado: "Primera sección: La vocación del hombre: La vida en el Espíritu (1699)"
+      - encabezado: "PARTE III, SECCIÓN I: LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU (1699)"
         enlace: catecismo/p3#s1
         sublista:
-          - encabezado: "Capítulo primero: La dignidad de la persona humana (1700-1876)"
+          - encabezado: "PARTE III, SECCIÓN I, CAPÍTULO 1: LA DIGNIDAD DE LA PERSONA HUMANA (1700-1876)"
             enlace: catecismo/p3-s1-c1#
             sublista:
               - encabezado: "Artículo 1: El hombre, imagen de Dios"
@@ -1398,7 +1398,7 @@ contenido:
                     enlace: catecismo/p3-s1-c1#a8-t5
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c1#a8-t6
-          - encabezado: "Capítulo segundo: La comunidad humana (1877-1948)"
+          - encabezado: "PARTE III, SECCIÓN I, CAPÍTULO 2: LA COMUNIDAD HUMANA (1877-1948)"
             enlace: catecismo/p3-s1-c2#
             sublista:
               - encabezado: "Artículo 1: La persona y la sociedad"
@@ -1432,7 +1432,7 @@ contenido:
                     enlace: catecismo/p3-s1-c2#a3-t3
                   - encabezado: Resumen
                     enlace: catecismo/p3-s1-c2#a3-t4
-          - encabezado: "Capítulo tercero: La salvación de Dios: La ley y la gracia (1949-2051)"
+          - encabezado: "PARTE III, SECCIÓN I, CAPÍTULO 3: LA SALVACIÓN DE DIOS: LA LEY Y LA GRACIA (1949-2051)"
             enlace: catecismo/p3-s1-c3#
             sublista:
                   - encabezado: "Artículo 1: La ley moral"
@@ -1472,7 +1472,7 @@ contenido:
                         enlace: catecismo/p3-s1-c3#a3-t4
                       - encabezado: Los Diez Mandamientos
                         enlace: catecismo/p3-s1-c3#a3-t5
-      - encabezado: "Segunda sección: Los diez mandamientos"
+      - encabezado: "PARTE III, SECCIÓN II: LOS DIEZ MANDAMIENTOS"
         enlace: catecismo/p3#s2
         sublista:
           - encabezado: «Maestro, ¿qué he de hacer...?» (2052-2055)
@@ -1491,7 +1491,7 @@ contenido:
             enlace: catecismo/p3#s2-t7
           - encabezado: Resumen (2075-2082)
             enlace: catecismo/p3#s2-t8
-          - encabezado: "Capítulo primero: «Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas» (2083-2195)"
+          - encabezado: "PARTE III, SECCIÓN II, CAPÍTULO 1: «AMARÁS AL SEÑOR TU DIOS CON TODO TU CORAZÓN, CON TODA TU ALMA Y CON TODAS TUS FUERZAS» (2083-2195)"
             enlace: catecismo/p3-s2-c1#
             sublista:
               - encabezado: "Artículo 1: El primer mandamiento"
@@ -1569,7 +1569,7 @@ contenido:
                         enlace: catecismo/p3-s2-c1#a3-t2-s5
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c1#a3-t3
-          - encabezado: "Capítulo segundo: «Amarás a tu prójimo como a ti mismo» (2196-2557)"
+          - encabezado: "PARTE III, SECCIÓN II, CAPÍTULO 2: «AMARÁS A TU PRÓJIMO COMO A TI MISMO» (2196-2557)"
             enlace: catecismo/p3-s2-c2#
             sublista:
               - encabezado: "Artículo 4: El cuarto mandamiento"
@@ -1739,10 +1739,10 @@ contenido:
                     enlace: catecismo/p3-s2-c2#a10-t4
                   - encabezado: Resumen
                     enlace: catecismo/p3-s2-c2#a10-t5
-  - encabezado: "Cuarta parte: La oración cristiana"
+  - encabezado: "PARTE IV: LA ORACIÓN CRISTIANA"
     enlace: catecismo/p4#
     sublista:
-      - encabezado: "Primera sección: La oración en la vida cristiana (2558)"
+      - encabezado: "PARTE IV, SECCIÓN I: LA ORACIÓN EN LA VIDA CRISTIANA (2558)"
         enlace: catecismo/p4#s1
         sublista:
           - encabezado: ¿Qué es la oración? (2559-2565)
@@ -1754,7 +1754,7 @@ contenido:
                 enlace: catecismo/p4#s1-t1-s2
               - encabezado: La oración como comunión
                 enlace: catecismo/p4#s1-t1-s3
-          - encabezado: "Capítulo primero: La revelación de la oración (2566-2649)"
+          - encabezado: "PARTE IV, SECCIÓN I, CAPÍTULO 1: LA REVELACIÓN DE LA ORACIÓN (2566-2649)"
             enlace: catecismo/p4-s1-c1#
             sublista:
               - encabezado: Vocación universal a la oración
@@ -1804,7 +1804,7 @@ contenido:
                     enlace: catecismo/p4-s1-c1#a3-t5
                   - encabezado: Resumen
                     enlace: catecismo/p4-s1-c1#a3-t6
-          - encabezado: "Capítulo segundo: La tradición de la oración (2650-2696)"
+          - encabezado: "PARTE IV, SECCIÓN I, CAPÍTULO 2: LA TRADICIÓN DE LA ORACIÓN (2650-2696)"
             enlace: catecismo/p4-s1-c2#
             sublista:
               - encabezado: "Artículo 1: Fuentes de la oración"
@@ -1844,7 +1844,7 @@ contenido:
                     enlace: catecismo/p4-s1-c2#a3-t3
                   - encabezado: Resumen
                     enlace: catecismo/p4-s1-c2#a3-t4
-          - encabezado: "Capítulo tercero: La vida de oración (2697-2758)"
+          - encabezado: "PARTE IV, SECCIÓN I, CAPÍTULO 3: LA VIDA DE ORACIÓN (2697-2758)"
             enlace: catecismo/p4-s1-c3#
             sublista:
               - encabezado: "Artículo 1: Expresiones de la oración"
@@ -1884,7 +1884,7 @@ contenido:
                         enlace: catecismo/p4-s1-c3#a2-t4-s1
                   - encabezado: Resumen
                     enlace: catecismo/p4-s1-c3#a2-t6
-      - encabezado: "Segunda sección: La oración del Señor: «Padre Nuestro» (2759-2760)"
+      - encabezado: "PARTE IV, SECCIÓN II: LA ORACIÓN DEL SEÑOR: «PADRE NUESTRO» (2759-2760)"
         enlace: catecismo/p4#s2
         sublista:
           - encabezado: "Artículo 1: «Resumen de todo el Evangelio» (2761-2776)"
