@@ -311,7 +311,7 @@ title: Éxodo
 [4, 24](#c4-v24) [[\*\*]](#nt-c4-v24) Y sucedió que en el camino, en la posada, Yahvé le salió al encuentro y quiso darle muerte.
 {:#c4-v24}
 
-[4, 25](#c4-v25) Tomó entonces Seforá un pedernal y cortando el prepucio de su hijo, tocó las piernas de (Moisés), diciendo: «Tú eres para mí un esposo de sangre.»
+[4, 25](#c4-v25) Tomó entonces Seforá un pedernal y cortando el prepucio de su hijo, tocó las piernas (de Moisés), diciendo: «Tú eres para mí un esposo de sangre.»
 {:#c4-v25}
 
 [4, 26](#c4-v26) Y (Yahvé) le soltó por haber dicho ella: «esposo de sangre», con motivo de la circuncisión.

@@ -1575,7 +1575,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [24](#c20-v24){:#c20-v24} Cuando los diez oyeron esto, se enfadaron contra los dos hermanos.
 
-[25](#c20-v25){:#c20-v25} Mas Jesús los llamó y dijo: "Los jefes de los pueblos, como sabéis, les hacen sentir su dominación, y los grandes sus poder [[220]](#n-220){:#rn-220}.
+[25](#c20-v25){:#c20-v25} Mas Jesús los llamó y dijo: "Los jefes de los pueblos, como sabéis, les hacen sentir su dominación, y los grandes, su poder [[220]](#n-220){:#rn-220}.
 
 [26](#c20-v26){:#c20-v26} No será así entre vosotros [[221]](#n-221){:#rn-221}, sino al contrario: entre vosotros el que quiera ser grande se hará el servidor vuestro,
 

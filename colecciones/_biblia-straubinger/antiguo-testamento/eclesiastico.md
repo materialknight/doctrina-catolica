@@ -116,7 +116,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [22](#c1-v22){:#c1-v22} Corona de la sabiduría es el temor del Señor, que da paz cumplida y frutos de salud.
 
-[23](#c1-v23){:#c1-v23} El conoce la sabiduría y la calcula; lo uno y lo otro son dones de Dios.
+[23](#c1-v23){:#c1-v23} Él conoce la sabiduría y la calcula; lo uno y lo otro son dones de Dios.
 
 [24](#c1-v24){:#c1-v24} La sabiduría reparte la ciencia y la prudente inteligencia, y acrecienta la gloria de aquellos que la poseen.
 
@@ -130,7 +130,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [29](#c1-v29){:#c1-v29} Por algún tiempo sufrirá el que padece, mas después será consolado.
 
-[30](#c1-v30){:#c1-v30} [[10]](#n-10){:#rn-10} El hombre sensato retendrá sus palabras hasta, cierto tiempo, y los labios de muchos celebrarán su prudencia.
+[30](#c1-v30){:#c1-v30} [[10]](#n-10){:#rn-10} El hombre sensato retendrá sus palabras hasta cierto tiempo, y los labios de muchos celebrarán su prudencia.
 
 [31](#c1-v31){:#c1-v31} [[11]](#n-11){:#rn-11} En los tesoros de la sabiduría están las máximas de la buena conducta de vida;
 
@@ -1074,7 +1074,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 ### El libre albedrío del hombre
 
-[14](#c15-v14){:#c15-v14} [[191]](#n-191){:#rn-191} Creó desde el principio al hombre, y le dejó en manos de su consejo.
+[14](#c15-v14){:#c15-v14} [[191]](#n-191){:#rn-191} Creó desde el principio al hombre, y le dejó en manos de su (propio) consejo.
 
 [15](#c15-v15){:#c15-v15} [[192]](#n-192){:#rn-192} Le dio, además, sus mandamientos y preceptos.
 
@@ -1180,7 +1180,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [7](#c17-v7){:#c17-v7} [[213]](#n-213){:#rn-213} Puso su ojo sobre sus corazones, para mostrarles la magnificencia de sus obras;
 
-[8](#c17-v8){:#c17-v8} a fin de que alaben su santo nombre, y ensalcen sus maravillas, y publiquen la grandeza de sus obras.
+[8](#c17-v8){:#c17-v8} a fin de que alaben su santo Nombre, y ensalcen sus maravillas, y publiquen la grandeza de sus obras.
 
 [9](#c17-v9){:#c17-v9} [[214]](#n-214){:#rn-214} Les añadió instrucción, y les dio por herencia la ley de vida.
 
@@ -2212,7 +2212,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [26](#c30-v26){:#c30-v26} [[407]](#n-407){:#rn-407} La envidia y la ira abrevian los días, y las zozobras aceleran la vejez antes de tiempo.
 
-[27](#c30-v27){:#c30-v27} [[408]](#n-408){:#rn-408} El corazón magnánimo y bueno esta como en banquetes, cuyos platos se guisan con esmero.
+[27](#c30-v27){:#c30-v27} [[408]](#n-408){:#rn-408} El corazón magnánimo y bueno está como en banquetes, cuyos platos se guisan con esmero.
 
 ## Eclesiástico [31](#c31) {#c31}
 
@@ -3589,7 +3589,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [21](#c50-v21){:#c50-v21} [[675]](#n-675){:#rn-675} Y presentaba el pueblo sus preces al Señor altísimo, hasta que quedaba terminado el culto de Dios, y se acababan las sagradas funciones.
 
-[22](#c50-v22){:#c50-v22} [[676]](#n-676){:#rn-676} Entonces bajaba el Sumo Sacerdote, y extendía sus manos hacia toda la congregación de los hijos de Israel, para dar gloria a Dios con sus labios, y celebrar su santo nombre.
+[22](#c50-v22){:#c50-v22} [[676]](#n-676){:#rn-676} Entonces bajaba el Sumo Sacerdote, y extendía sus manos hacia toda la congregación de los hijos de Israel, para dar gloria a Dios con sus labios, y celebrar su santo Nombre.
 
 [23](#c50-v23){:#c50-v23} Y segunda vez repetía su oración, deseoso de hacer conocer el poder de Dios.
 

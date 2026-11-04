@@ -821,9 +821,9 @@ Su lenguaje es de lo más alto que nos ha legado la Escritura Sagrada, como ya l
 
 [27](#c8-v27){:#c8-v27} Ellos no comprendieron que les estaba hablando del Padre.
 
-[28](#c8-v28){:#c8-v28} Jesús les dijo pues: "Cuando hayáis alzado al Hijo del hombre, entonces conoceréis que soy Yo (el Cristo), y que de Mí mismo no hago nada, sino que hablo como mi Padre me enseñó [[144]](#n-144){:#rn-144}.
+[28](#c8-v28){:#c8-v28} Jesús les dijo pues: «Cuando hayáis alzado al Hijo del hombre, entonces conoceréis que soy Yo (el Cristo), y que de Mí mismo no hago nada, sino que hablo como mi Padre me enseñó [[144]](#n-144){:#rn-144}.
 
-[29](#c8-v29){:#c8-v29} El que me envió, está conmigo. El no me ha dejado solo, porque Yo hago siempre lo que le agrada".
+[29](#c8-v29){:#c8-v29} El que me envió, está conmigo. Él no me ha dejado solo, porque Yo hago siempre lo que le agrada».
 
 [30](#c8-v30){:#c8-v30} Al decir estas cosas, muchos creyeron en Él [[145]](#n-145){:#rn-145}.
 

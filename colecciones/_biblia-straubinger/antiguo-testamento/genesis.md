@@ -3110,10 +3110,10 @@ title: Génesis
 [32, 24](#c32-v24) [[\*\*]](#nt-c32-v24) Así se quedó Jacob solo, y luchó con él un hombre hasta rayar el alba.
 {:#c32-v24}
 
-[32, 25](#c32-v25) [[\*\*]](#nt-c32-v25) Pero viendo (este) que no podía con aquel, le tocó en la articulación del muslo, y descoyuntose la articulación del muslo de Jacob mientras luchaba con él.
+[32, 25](#c32-v25) [[\*\*]](#nt-c32-v25) Pero viendo que no le podía, le tocó en la articulación del muslo, y descoyuntose la articulación del muslo de Jacob mientras luchaba con él.
 {:#c32-v25}
 
-[32, 26](#c32-v26) Y le dijo: «Déjame, que ya raya el alba.» Mas (Jacob) contestó: «No te dejaré ir si no me bendices.»
+[32, 26](#c32-v26) Por lo cual dijo: «Déjame, que ya raya el alba.» Mas (Jacob) contestó: «No te dejaré ir si no me bendices.»
 {:#c32-v26}
 
 [32, 27](#c32-v27) Le preguntó él: «¿Cuál es tu nombre?», y respondió: «Jacob.»
