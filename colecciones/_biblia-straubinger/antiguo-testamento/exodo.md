@@ -2298,7 +2298,7 @@ title: Éxodo
 
 ### Éxodo [26](#c26) {#c26}
 
-#### El tabernáculo
+#### El Tabernáculo
 
 [26, 1](#c26-v1) [[\*\*]](#nt-c26-v1) «Al hacer la Morada emplearás diez cortinas de tienda, de lino fino torcido, de color de jacinto, púrpura escarlata y carmesí, con querubines; harás de ella una obra maestra.
 {:#c26-v1}
@@ -2809,7 +2809,7 @@ title: Éxodo
 [30, 10](#c30-v10) Una vez al año hará Aarón expiación sobre los cuernos de este altar con la sangre del sacrificio por el pecado. Una vez cada año hará sobre él expiación para vuestros descendientes. Cosa santísima es esta para Yahvé.»
 {:#c30-v10}
 
-#### El tributo para el tabernáculo
+#### El tributo para el Tabernáculo
 
 [30, 11](#c30-v11) Habló Yahvé a Moisés, diciendo:
 {:#c30-v11}
@@ -3623,7 +3623,7 @@ title: Éxodo
 
 #### La pila de bronce
 
-[38, 8](#c38-v8) [[\*\*]](#nt-c38-v8) Hizo la fuente de bronce, y también su base de bronce, de los espejos de las mujeres que servían a la entrada del tabernáculo de la Reunión.
+[38, 8](#c38-v8) [[\*\*]](#nt-c38-v8) Hizo la fuente de bronce, y también su base de bronce, de los espejos de las mujeres que servían a la entrada del Tabernáculo de la Reunión.
 {:#c38-v8}
 
 #### El atrio
@@ -3941,7 +3941,7 @@ title: Éxodo
 [40, 33](#c40-v33) Por fin erigió el atrio alrededor de la Morada y del altar, y puso la cortina a la puerta del atrio. Así acabó Moisés la obra.
 {:#c40-v33}
 
-#### La gloria de dios llena el Tabernáculo
+#### La gloria de Dios llena el Tabernáculo
 
 [40, 34](#c40-v34) [[\*\*]](#nt-c40-v34) Entonces la nube cubrió el Tabernáculo de la Reunión y la gloria de Yahvé llenó la Morada,
 {:#c40-v34}
@@ -4974,7 +4974,7 @@ Vislumbramos aquí un gran misterio, que cuesta creer: Dios no concede la gracia
 [38, 1](#c38-v1) Sobre el **altar de los holocaustos** véase [27, 1](#c27-v1)-8 y notas.
 {:#nt-c38-v1}
 
-[38, 8](#c38-v8) Véase [30, 17](#c30-v17)-21. Había en la antigüedad espejos de bronce, de estaño y de plata. Aquí se trata de espejos de bronce. No se sabe cuáles eran los trabajos de las mujeres que servían a la entrada del tabernáculo. Eran tal vez porteras. Según los intérpretes antiguos servían a Dios con oraciones y ayunos, como la profetisa Ana. Cf. 1 Samuel [2, 22](1-samuel#c2-v22) y nota; Lucas [2, 37](lucas#c2-v37). Cierto está que las mujeres nunca podían entrar en el Templo. Por eso se hizo más tarde para ellas el atrio de las mujeres, que estaba más lejos del Santuario que el de los hombres.
+[38, 8](#c38-v8) Véase [30, 17](#c30-v17)-21. Había en la antigüedad espejos de bronce, de estaño y de plata. Aquí se trata de espejos de bronce. No se sabe cuáles eran los trabajos de las mujeres que servían a la entrada del Tabernáculo. Eran tal vez porteras. Según los intérpretes antiguos servían a Dios con oraciones y ayunos, como la profetisa Ana. Cf. 1 Samuel [2, 22](1-samuel#c2-v22) y nota; Lucas [2, 37](lucas#c2-v37). Cierto está que las mujeres nunca podían entrar en el Templo. Por eso se hizo más tarde para ellas el atrio de las mujeres, que estaba más lejos del Santuario que el de los hombres.
 {:#nt-c38-v8}
 
 [38, 9](#c38-v9) Sobre el **atrio** véase [27, 9](#c27-v9)-19 y notas.

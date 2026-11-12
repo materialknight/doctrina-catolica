@@ -15,3 +15,29 @@ if ("serviceWorker" in navigator)
 {
    console.error("This app's service worker couldn't be installed because you're in Private Mode or your browser doesn't support service workers!")
 }
+
+document.addEventListener("keydown", function (ev) {
+
+   if (!ev.altKey) return
+
+   if (ev.key === "b" || ev.key === "B")
+   {
+      document.querySelector("[popovertarget=bible-toc]")?.click()
+   }
+
+   if (ev.key === "c" || ev.key === "C")
+   {
+      document.querySelector("[popovertarget=toc]")?.click()
+   }
+
+   if (ev.key === "i" || ev.key === "I")
+   {
+      document.querySelector("[popovertarget=subject-index]")?.click()
+   }
+
+   if (ev.key === "l" || ev.key === "L")
+   {
+      document.querySelector("[popovertarget=font-options]")?.click()
+
+   }
+})

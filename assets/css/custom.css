@@ -528,3 +528,9 @@ li:has(ul) {
 label:has(input:checked) {
    outline: 2px solid darkviolet;
 }
+
+@media print {
+   button[popovertarget] {
+      display: none;
+   }
+}

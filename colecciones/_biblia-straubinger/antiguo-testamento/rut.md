@@ -79,10 +79,10 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [1, 19](#c1-v19) y caminaron las dos hasta que llegaron a Betlehem. A su entrada en Betlehem, toda la ciudad se conmovió a causa de ellas, y decían las mujeres: «¿Esta es Noemí?»
 {:#c1-v19}
 
-[1, 20](#c1-v20) [[\*\*]](#nt-c1-v20) Pero ella les contestó: "No me llaméis más Noemí; llamadme Mará, porque el Todopoderoso me ha llenado de amargura.
+[1, 20](#c1-v20) [[\*\*]](#nt-c1-v20) Pero ella les contestó: «No me llaméis más Noemí; llamadme Mará, porque el Todopoderoso me ha llenado de amargura.
 {:#c1-v20}
 
-[1, 21](#c1-v21) [[\*\*]](#nt-c1-v21) Colmada salí, y con manos vacías me ha hecho volver Yahvé. ¿Por qué pues me llamáis Noemí, ya que Yahvé ha dado testimonio contra mí, y me ha afligido el Todopoderoso?"
+[1, 21](#c1-v21) [[\*\*]](#nt-c1-v21) Colmada salí, y con manos vacías me ha hecho volver Yahvé. ¿Por qué pues me llamáis Noemí, ya que Yahvé ha dado testimonio contra mí, y me ha afligido el Todopoderoso?»
 {:#c1-v21}
 
 [1, 22](#c1-v22) [[\*\*]](#nt-c1-v22) Volvió por lo tanto Noemí, y con ella Rut, la moabita, su nuera, que había dejado el país de Moab. Llegaron a Betlehem a principios de la siega de las cebadas.
@@ -107,18 +107,18 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 5](#c2-v5) Preguntó Booz al criado suyo que era sobrestante de los segadores: «¿De quién es esa joven?»
 {:#c2-v5}
 
-[2, 6](#c2-v6) El criado, sobrestante de los segadores, contestó diciendo: «Es una joven moabita que ha vuelto con Noemí de los campos de Moab.»
+[2, 6](#c2-v6) El criado, sobrestante de los segadores, contestó diciendo: «Es una joven moabita que ha vuelto con Noemí de los campos de Moab.
 {:#c2-v6}
 
-[2, 7](#c2-v7) [[\*\*]](#nt-c2-v7) Ella me dijo: «Déjame espigar e ir detrás de los segadores para recoger entre las gavillas.» Así vino y se ha quedado desde la mañana, hasta ahora; este descanso que (ahora) se toma en la cabaña es muy corto."
+[2, 7](#c2-v7) [[\*\*]](#nt-c2-v7) Ella me dijo: "Déjame espigar e ir detrás de los segadores para recoger entre las gavillas." Así vino y se ha quedado desde la mañana, hasta ahora; este descanso que (ahora) se toma en la cabaña es muy corto.»
 {:#c2-v7}
 
 ### Generosidad de Booz
 
-[2, 8](#c2-v8) Dijo luego Booz a Rut: "Oye, hija mía, no vayas a espigar a otro campo, ni te apartes de aquí, sino sigue de cerca a mis criadas.
+[2, 8](#c2-v8) Dijo luego Booz a Rut: «Oye, hija mía, no vayas a espigar a otro campo, ni te apartes de aquí, sino sigue de cerca a mis criadas.
 {:#c2-v8}
 
-[2, 9](#c2-v9) Fija tus ojos en el campo donde se siega y anda detrás de ellas: Pues he dado orden a los criados que no te toquen. Y si tienes sed, irás donde están las vasijas y beberás del agua que han sacado los criados."
+[2, 9](#c2-v9) Fija tus ojos en el campo donde se siega y anda detrás de ellas: Pues he dado orden a los criados que no te toquen. Y si tienes sed, irás donde están las vasijas y beberás del agua que han sacado los criados.»
 {:#c2-v9}
 
 [2, 10](#c2-v10) [[\*\*]](#nt-c2-v10) Entonces ella cayó sobre su rostro, y postrada en tierra le dijo: «¿De dónde me viene el haber hallado gracia a tus ojos para que me mires, siendo como soy extranjera?»
@@ -136,10 +136,10 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [2, 14](#c2-v14) [[\*\*]](#nt-c2-v14) Llegada la hora de comer le dijo Booz: «Ven aquí y come del pan, y moja tu bocado en el vinagre.» Ella se sentó al lado de los segadores; y él le dio del grano tostado, del cual ella comió hasta saciarse, y guardó el resto.
 {:#c2-v14}
 
-[2, 15](#c2-v15) Y cuando se levantó para seguir espigando, mandó Booz a sus criados, diciendo: "Hasta entre las gavillas podrá ella recoger espigas, no la increpéis;
+[2, 15](#c2-v15) Y cuando se levantó para seguir espigando, mandó Booz a sus criados, diciendo: «Hasta entre las gavillas podrá ella recoger espigas, no la increpéis;
 {:#c2-v15}
 
-[2, 16](#c2-v16) [[\*\*]](#nt-c2-v16) antes bien, dejad caer para ella algo de las gavillas, abandonándolo atrás para que ella lo recoja; y no la reprendáis."
+[2, 16](#c2-v16) [[\*\*]](#nt-c2-v16) antes bien, dejad caer para ella algo de las gavillas, abandonándolo atrás para que ella lo recoja; y no la reprendáis.»
 {:#c2-v16}
 
 ### Cosecha de Rut
@@ -169,7 +169,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 
 ### Rut a los pies de Booz
 
-[3, 1](#c3-v1) Le dijo Noemí, su suegra: "Hija mía, ¿no he de buscar para ti un lugar de reposo donde te vaya bien?
+[3, 1](#c3-v1) Le dijo Noemí, su suegra: «Hija mía, ¿no he de buscar para ti un lugar de reposo donde te vaya bien?
 {:#c3-v1}
 
 [3, 2](#c3-v2) [[\*\*]](#nt-c3-v2) Ahora ese Booz, con cuyas criadas tú has estado, es pariente nuestro. Mira, esta noche avienta él la cebada en la era.
@@ -178,7 +178,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [3, 3](#c3-v3) Lávate, por tanto y úngete, y ponte tus vestidos y baja a la era; mas no te des a conocer al hombre hasta que haya acabado de comer y beber.
 {:#c3-v3}
 
-[3, 4](#c3-v4) [[\*\*]](#nt-c3-v4) Y al acostarse él, nota bien el lugar donde se acuesta; luego irás, y le destaparás la parte de los pies, y te acostarás. Él te dirá entonces lo que has de hacer."
+[3, 4](#c3-v4) [[\*\*]](#nt-c3-v4) Y al acostarse él, nota bien el lugar donde se acuesta; luego irás, y le destaparás la parte de los pies, y te acostarás. Él te dirá entonces lo que has de hacer.»
 {:#c3-v4}
 
 [3, 5](#c3-v5) Ella le respondió: «Haré todo lo que dices.»
@@ -196,7 +196,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [3, 9](#c3-v9) [[\*\*]](#nt-c3-v9) Preguntó: «¿Quién eres?» Y ella contestó: «Soy Rut, tu sierva; extiende tu manto sobre tu sierva, porque tú tienes respecto de mí la obligación del levirato.»
 {:#c3-v9}
 
-[3, 10](#c3-v10) A lo que dijo él: "¡Bendita seas de Yahvé hija mía! Tu último acto de piedad es mejor que el primero, porque no andas tras los jóvenes, ni pobres, ni ricos.
+[3, 10](#c3-v10) A lo que dijo él: «¡Bendita seas de Yahvé hija mía! Tu último acto de piedad es mejor que el primero, porque no andas tras los jóvenes, ni pobres, ni ricos.
 {:#c3-v10}
 
 [3, 11](#c3-v11) Ahora, hija mía, no temas. Yo haré por ti cuanto me digas; pues todos mis conciudadanos saben que eres una mujer virtuosa.
@@ -205,7 +205,7 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [3, 12](#c3-v12) [[\*\*]](#nt-c3-v12) Mas ahora, aunque es cierto que tengo la obligación del levirato, sin embargo hay un pariente más cercano que yo.
 {:#c3-v12}
 
-[3, 13](#c3-v13) Pasa la noche, y si él mañana quiere cumplir con su deber de levirato, que lo haga; pero si él no lo hace, lo haré yo. ¡Vive Yahvé! Acuéstate hasta la mañana."
+[3, 13](#c3-v13) Pasa la noche, y si él mañana quiere cumplir con su deber de levirato, que lo haga; pero si él no lo hace, lo haré yo. ¡Vive Yahvé! Acuéstate hasta la mañana.»
 {:#c3-v13}
 
 [3, 14](#c3-v14) [[\*\*]](#nt-c3-v14) Quedó ella acostada a sus pies hasta la mañana; y se levantó antes de poder distinguir un hombre a otro; porque él dijo: «Nadie sepa que esta mujer vino a la era.»
@@ -253,25 +253,25 @@ Puede verse en este librito también una recomendación del matrimonio leviráti
 [4, 8](#c4-v8) Por eso, el hombre obligado al levirato dijo a Booz: «Adquiérelo tú por tú cuenta.» Y se quitó el zapato.
 {:#c4-v8}
 
-[4, 9](#c4-v9) Dijo entonces Booz a los ancianos y a todo el pueblo: "Vosotros sois hoy testigos de que yo he adquirido de mano de Noemí todo lo que era de Elimelec, y todo lo que era de Quelión y Mahalón,
+[4, 9](#c4-v9) Dijo entonces Booz a los ancianos y a todo el pueblo: «Vosotros sois hoy testigos de que yo he adquirido de mano de Noemí todo lo que era de Elimelec, y todo lo que era de Quelión y Mahalón,
 {:#c4-v9}
 
-[4, 10](#c4-v10) y que he adquirido también a Rut la moabita, mujer de Mahalón, para que sea mi mujer, a fin de resucitar el nombre del difunto sobre su herencia, y para que el nombre del difunto no se borre de entre sus hermanos, ni de la puerta de su lugar. De eso sois vosotros hoy testigos."
+[4, 10](#c4-v10) y que he adquirido también a Rut la moabita, mujer de Mahalón, para que sea mi mujer, a fin de resucitar el nombre del difunto sobre su herencia, y para que el nombre del difunto no se borre de entre sus hermanos, ni de la puerta de su lugar. De eso sois vosotros hoy testigos.»
 {:#c4-v10}
 
-[4, 11](#c4-v11) [[\*\*]](#nt-c4-v11) Y todo el pueblo que estaba en la puerta, respondió juntamente con los ancianos: "Somos testigos. ¡Haga Yahvé que la mujer que va a entrar en tu casa, sea como Raquel y como Lía, que ambas edificaron la casa de Israel, para que seas poderoso en Efrata y tengas renombre en Betlehem!
+[4, 11](#c4-v11) [[\*\*]](#nt-c4-v11) Y todo el pueblo que estaba en la puerta, respondió juntamente con los ancianos: «Somos testigos. ¡Haga Yahvé que la mujer que va a entrar en tu casa, sea como Raquel y como Lía, que ambas edificaron la casa de Israel, para que seas poderoso en Efrata y tengas renombre en Betlehem!
 {:#c4-v11}
 
-[4, 12](#c4-v12) ¡Venga a ser tu casa como la casa de Fares, que Tamar le dio a Judá, por la descendencia que Yahvé te diere de esta joven!"
+[4, 12](#c4-v12) ¡Venga a ser tu casa como la casa de Fares, que Tamar le dio a Judá, por la descendencia que Yahvé te diere de esta joven!»
 {:#c4-v12}
 
 [4, 13](#c4-v13) [[\*\*]](#nt-c4-v13) Tomó Booz a Rut, y ella fue su mujer. Entró a ella, y Yahvé le concedió que concibiera y diera a luz un hijo.
 {:#c4-v13}
 
-[4, 14](#c4-v14) Entonces decían las mujeres a Noemí: "¡Bendito sea Yahvé, que no te ha negado un redentor el día de hoy! ¡Su nombre sea celebrado en Israel!
+[4, 14](#c4-v14) Entonces decían las mujeres a Noemí: «¡Bendito sea Yahvé, que no te ha negado un redentor el día de hoy! ¡Su nombre sea celebrado en Israel!
 {:#c4-v14}
 
-[4, 15](#c4-v15) ¡Que el consuele tu alma y sea el sostén de tu vejez! Pues tu nuera, que te ama y que para ti vale más que siete hijos, ha dado a luz."
+[4, 15](#c4-v15) ¡Que el consuele tu alma y sea el sostén de tu vejez! Pues tu nuera, que te ama y que para ti vale más que siete hijos, ha dado a luz.»
 {:#c4-v15}
 
 [4, 16](#c4-v16) [[\*\*]](#nt-c4-v16) Y Noemí tomó al niño, lo puso en su regazo, y le sirvió de aya.
